@@ -16,8 +16,8 @@
 ### **1.4 Linear Algebra (Matrix)**
     [] 1.4.1 Matrix Multiplication
     [] 1.4.2 Inverse
-### **1.5 Diffrentiation**
-    [] 1.5.1 Gradient Descent
+### [**1.5 Diffrentiation**](#1.5)
+    [X] 1.5.1 Gradient Descent
 ### **1.6 Useful Functions**
     [] 1.6.1 Activation Functions
 ### **1.7 Stationarity**
@@ -33,19 +33,19 @@
 
 
 ## [Chapter 3](#chapter_3) : Regression
-### **3.1 Why?**
-### **3.2 Linear Regression**
+### [**3.1 Why?**](#3.1)
+### [**3.2 Linear Regression**](#3.2)
     [X] 3.2.1 Assumptions
-    [/] 3.2.2 Working
+    [X] 3.2.2 Working
     [] 3.2.3 Pros and Cons
-### **3.3 Polynomial Regression**
+### [**3.3 Polynomial Regression**](#3.3)
     [] 3.3.1 Working
-### **3.4 Regularization**
-    [] 3.4.1 Lasso
-    [] 3.4.1 Ridge
-    [] 3.4.1 Elastic
-### **3.5 Validation**
-### **3.6 Metirics**
+### [**3.4 Regularization**](#3.4)
+    [X] 3.4.1 Lasso
+    [X] 3.4.2 Ridge
+    [X] 3.4.3 Elastic
+### [**3.5 Validation**](#3.5)
+### [**3.6 Metirics**](#3.6)
     [] 3.6.1 R2
     [] 3.6.2 Adjusted R2
 
