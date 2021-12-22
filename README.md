@@ -18,8 +18,8 @@
     [] 1.4.2 Inverse
 ### [**1.5 Diffrentiation**](#1.5)
     [X] 1.5.1 Gradient Descent
-### **1.6 Useful Functions**
-    [] 1.6.1 Activation Functions
+### [**1.6 Useful Functions**](#1.6)
+    [X] 1.6.1 Activation Functions
 ### **1.7 Stationarity**
 
 ## [Chapter 2](#chapter_2) : Exploring data
