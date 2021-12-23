@@ -20,6 +20,7 @@
     [X] 1.5.1 Gradient Descent
 ### [**1.6 Useful Functions**](#1.6)
     [X] 1.6.1 Activation Functions
+    [\] 1.6.2 Normal Functions
 ### **1.7 Stationarity**
 
 ## [Chapter 2](#chapter_2) : Exploring data
@@ -46,13 +47,13 @@
     [X] 3.4.3 Elastic
 ### [**3.5 Validation**](#3.5)
 ### [**3.6 Metirics**](#3.6)
-    [] 3.6.1 R2
-    [] 3.6.2 Adjusted R2
+    [X]] 3.6.1 R2
+    [X] 3.6.2 Adjusted R2
 
 ## [Chapter 4](#chapter_4) : Classification
-### **4.1 Why?**
-### **4.2 Logistic Regression**
-    [] 4.2.1 Working
+### [**4.1 Why?**](#4.1)
+### [**4.2 Logistic Regression**](#4.2)
+    [\] 4.2.1 Working
     [] 4.2.2 Pros and cons
 ### **4.3 Decision Tree**
     [] 4.3.1 Classification
