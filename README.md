@@ -98,8 +98,8 @@
     [] 5.6.1 Working
     [] 5.6.2 Pros and cons
 ### **5.7 PCA**
-    [] 5.7.1 Working
-    [] 5.7.2 Pros and cons
+    [X] 5.7.1 Working
+    [X] 5.7.2 Pros and cons
 
 ## [Chapter 6](#chapter_6) : Time Series
 ### **6.1 ARIMA**
@@ -206,6 +206,9 @@
     [] 10.12.2 D-tale
     [] 10.12.3 DataPrep
     [] 10.12.4 Mito
+### **10.13 Numba**
+### **10.14 Skippa**
+
 
 ## [Chapter 11](#chapter_11) : Maintaining Models
 ### **11.1 MLFlow**
