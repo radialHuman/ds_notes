@@ -55,23 +55,28 @@
 ### [**4.2 Logistic Regression**](#4.2)
     [\] 4.2.1 Working
     [] 4.2.2 Pros and cons
-### **4.3 Decision Tree**
-    [] 4.3.1 Classification
-    [] 4.3.2 Regression
-    [] 4.3.3 Pros and Cons
+### [**4.3 Decision Tree**](#4.3)
+    [] 4.3.1 What?
+    [] 4.3.2 Classification
+    [] 4.3.3 Regression
+    [] 4.3.4 Pros and Cons
 ### **4.4 Random Forest**
-    [] 4.4.1 Working
-    [] 4.4.2 Types
-    [] 4.4.3 Pros and Cons
+    [] 4.4.1 What?
+    [] 4.4.2 Working
+    [] 4.4.3 Types
+    [] 4.4.4 Pros and Cons
 ### **4.5 Support Vector Machine**
-    [] 4.5.1 Working
-    [] 4.5.2 Pros and cons
+    [] 4.5.1 What?
+    [] 4.5.2 Working
+    [] 4.5.3 Pros and cons
 ### **4.6 K-nearest Neighbour**
-    [] 4.6.1 Working
-    [] 4.6.2 Pros and cons
+    [] 4.6.1 What?
+    [] 4.6.2 Working
+    [] 4.6.3 Pros and cons
 ### **4.7 Naive Bayes**
-    [] 4.7.1 Working
-    [] 4.7.2 Pros and cons
+    [] 4.7.1 What?
+    [] 4.7.4 Working
+    [] 4.7.5 Pros and cons
 ### **4.8 Validation**
     [] 4.8.1 K-Fold
 ### **4.9 Imbalanced Data**
@@ -102,13 +107,13 @@
     [X] 5.7.2 Pros and cons
 
 ## [Chapter 6](#chapter_6) : Time Series
-### **6.1 ARIMA**
-    [] 6.1.1 AR
-    [] 6.1.2 MA
-    [] 6.1.3 ARIMAX
-    [] 6.1.4 SARIMA
-### **6.2 VAR**
-### **6.3 **
+### **6.1 Filters**
+### **6.2 ARIMA**
+    [] 6.2.1 AR
+    [] 6.2.2 MA
+    [] 6.2.3 ARIMAX
+    [] 6.2.4 SARIMA
+### **6.3 VAR**
 ### **6.4 Validation**
 ### **6.5 Metrics**
 
@@ -231,7 +236,7 @@
     [] 11.5.1 Working
     [] 11.5.2 Parts
     [] 11.5.3 Pros and cons
-### **11.6 MLCOmet**
+### **11.6 MLComet**
     [] 11.6.1 Working
     [] 11.6.2 Parts
     [] 11.6.3 Pros and cons
