@@ -18,6 +18,8 @@
     [] 1.4.2 Inverse
 ### [**1.5 Diffrentiation**](#1.5)
     [X] 1.5.1 Gradient Descent
+    [] 1.5.2 Optimizers based on Gradient Descent
+    [] 1.5.3 Chain Rule
 ### [**1.6 Useful Functions**](#1.6)
     [X] 1.6.1 Activation Functions
     [\] 1.6.2 Normal Functions
@@ -41,6 +43,7 @@
     [] 3.2.3 Pros and Cons
 ### [**3.3 Polynomial Regression**](#3.3)
     [] 3.3.1 Working
+    [] 3.3.2 GAM
 ### [**3.4 Regularization**](#3.4)
     [X] 3.4.1 Lasso
     [X] 3.4.2 Ridge
@@ -200,7 +203,9 @@
     [] 10.5.7 
     [] 10.5.8 
     [] 10.5.9 
-### **10.6 Pytorch**
+### [**10.6 Pytorch**](#10.6)
+    [\] 10.6.1 About
+    [\] 10.6.2 Functions
 ### **10.7 NLTK**
 ### **10.8 Scpacy**
 ### **10.9 Gensim**
@@ -213,6 +218,7 @@
     [] 10.12.4 Mito
 ### **10.13 Numba**
 ### **10.14 Skippa**
+### **10.15 CUDA**
 
 
 ## [Chapter 11](#chapter_11) : Maintaining Models
