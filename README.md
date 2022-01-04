@@ -33,6 +33,7 @@
 ### **2.5 Preprocessing**
     [] 2.5.1 Language data
     [] 2.5.2 One-Hot Encoding
+    [] 2.5.3 Outlier treatment : Isolation tree
 
 
 ## [Chapter 3](#chapter_3) : Regression
@@ -59,14 +60,14 @@
     [\] 4.2.1 Working
     [] 4.2.2 Pros and cons
 ### [**4.3 Decision Tree**](#4.3)
-    [] 4.3.1 What?
+    [\] 4.3.1 What?
     [] 4.3.2 Classification
     [] 4.3.3 Regression
     [] 4.3.4 Pros and Cons
-### **4.4 Random Forest**
+### [**4.4 Random Forest**](#4.4)
     [] 4.4.1 What?
     [] 4.4.2 Working
-    [] 4.4.3 Types
+    [\] 4.4.3 Types
     [] 4.4.4 Pros and Cons
 ### **4.5 Support Vector Machine**
     [] 4.5.1 What?
@@ -83,6 +84,8 @@
 ### **4.8 Validation**
     [] 4.8.1 K-Fold
 ### **4.9 Imbalanced Data**
+    [] 4.9.1 SMOTE
+    [] 4.9.2 Scikit learn's imbalanced " https://imbalanced-learn.org/stable/
 ### **4.10 Metrics**
     [] 4.10.1 Confusion Matrix
 
@@ -216,7 +219,7 @@
     [] 10.12.2 D-tale
     [] 10.12.3 DataPrep
     [] 10.12.4 Mito
-### **10.13 Numba**
+### **10.13 Numba, numexpr**
 ### **10.14 Skippa**
 ### **10.15 CUDA**
 
