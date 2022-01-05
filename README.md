@@ -133,7 +133,8 @@
     [] 7.3.2 Pros and cons
 ### **7.4 LSTM**
     [] 7.4.1 Working
-    [] 7.4.2 Pros and cons
+    [] 7.4.2 Types
+    [] 7.4.3 Pros and cons
 ### **7.5 Auto Encoder**
     [] 7.5.1 Working
     [] 7.5.2 Pros and cons
