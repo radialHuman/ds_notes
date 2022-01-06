@@ -213,8 +213,13 @@
 ### **10.7 NLTK**
 ### **10.8 Scpacy**
 ### **10.9 Gensim**
-### **10.10 Pycaret**
-### **10.11 AutoML**
+### [**10.10 PyCaret**](#10.10)
+    [\] 10.10.1 About
+    [\] 10.10.2 Example
+### [**10.11 AutoML**](#10.11)
+    [\] 10.11.1 About
+    [\] 10.11.2 Types
+    [\] 10.11.3 Auto-sklearn
 ### **10.12 EDA**
     [] 10.12.1 Sweetviz
     [] 10.12.2 D-tale
