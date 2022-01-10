@@ -238,8 +238,8 @@
 ### **11.2 KubeFlow**
     [] 11.2.1 Working
     [] 11.2.2 Parts
-    [] 11.2.3 Pros and cons
-### **11.3 SageMaker**
+    [] 11.2.3 Pros and cons 
+### [**11.3 SageMaker**](#11.3)
     [] 11.3.1 Working
     [] 11.3.2 Parts
     [] 11.3.3 Pros and cons
