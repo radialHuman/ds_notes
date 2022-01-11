@@ -144,6 +144,13 @@
 ### **7.7 Transformers**
     [] 7.7.1 Working
     [] 7.7.2 Pros and cons
+### **7.8 Transfer learning**
+    [] 7.8.1 Working
+    [] 7.8.2 Pros and cons
+### [**7.9 Knowledge Distillation**](#7.9)
+    [] 7.9.1 Working
+    [] 7.9.2 Pros and cons
+
 
 ## [Chapter 8](#chapter_8) : Language Processing
 ### **8.1 TF-IDF**
@@ -228,6 +235,12 @@
 ### **10.13 Numba, numexpr**
 ### **10.14 Skippa**
 ### **10.15 CUDA**
+### **10.16 hvplot** - https://youtu.be/-GcA0SEJaJM
+### **10.16 Ray** - https://youtu.be/-uZN_m_pgqw
+### **10.17 Dask**
+### **10.18 Rapids**
+### **10.19 SHAP**
+
 
 
 ## [Chapter 11](#chapter_11) : Maintaining Models
