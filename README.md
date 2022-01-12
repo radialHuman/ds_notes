@@ -282,12 +282,12 @@
     [] 11.9.3 Pros and cons
 
 ## [Chapter 12](#chapter_12) : Git stuff
-### **12.1 Commands**
+### [**12.1 Commands**](#12.1)
 ### **12.2**
-### **12.5 DVC**
+### **12.3 DVC**
 
 ## [Chapter 13](#chapter_13) : Cloud Stuff
-### **13.1 AWS**
+### [**13.1 AWS**](#13.1)
 ### **13.2 GCP**
 ### **13.3 Azure**
 ### **13.4**
