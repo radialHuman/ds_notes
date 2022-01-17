@@ -30,10 +30,8 @@
 ### **2.2 Missing Value**
 ### **2.3 Plots**
 ### **2.4 Relations**
-### **2.5 Preprocessing**
-    [] 2.5.1 Language data
-    [] 2.5.2 One-Hot Encoding
-    [] 2.5.3 Outlier treatment : Isolation tree
+### [**2.5 Preprocessing**](#2.5)
+    [] 2.5.1 Feature enginerring
 
 
 ## [Chapter 3](#chapter_3) : Regression
@@ -240,6 +238,7 @@
 ### **10.17 Dask**
 ### **10.18 Rapids**
 ### **10.19 SHAP**
+### **10.20 Polars**
 
 
 
