@@ -163,9 +163,13 @@
 ### **8.4 Sentiment Analysis**
     [] 8.4.1 Working
     [] 8.4.2 Pros and cons
-### **8.5 BERT**
+### [**8.5 BERT**](#8.5)
     [] 8.5.1 Working
     [] 8.5.2 Pros and cons
+### [**8.6 ChatBot**](#8.6)
+    [] 8.6.1 Working
+    [] 8.6.2 Types
+    [] 8.6.3 Pros and cons
 
 ## [Chapter 9](#chapter_9) : Recommender System
 ### **9.1 **
