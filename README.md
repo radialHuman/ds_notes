@@ -319,7 +319,8 @@
 ### **16.1 API**
 ### **16.2 Flask**
 ### **16.3 Django**
-### **16.4 Streamlit**
+### [**16.4 Streamlit**](#16.4)
+    [] 16.4.1 Basic elements
 
  ---
 ### Resources
