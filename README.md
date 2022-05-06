@@ -321,6 +321,8 @@
 ### **16.3 Django**
 ### [**16.4 Streamlit**](#16.4)
     [] 16.4.1 Basic elements
+### [**16.5 PyScript**](#16.5)
+    [] 16.5.1 Basic elements
 
  ---
 ### Resources
