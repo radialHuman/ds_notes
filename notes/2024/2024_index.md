@@ -1,7 +1,7 @@
 ## Process
 - [X] 1. Build the index with youtube links from WL list - 31-12-23
-- [] 2. Start with interview questions by Complete-Data-Science-material
-- [] 3. Copy over from previous note book where applicable
+- [/] 2. Start with interview questions by Complete-Data-Science-material
+- [/] 3. Copy over from previous note book where applicable
 - [] 4. Watch youtube links from WL list, create topics and fill details
 - [] 5. Fill what was left
 - [] 6. Update as per real interview requirements
@@ -28,7 +28,7 @@
     - .
     - Tests
 - Anomaly detection
-    - 
+    - .
 ### Maths
 - Linear ALgebra
     - Inverse
@@ -39,7 +39,6 @@
 - Differentiation
     - Gradient Descent
     - Optimizations
-    - Chain rule
     - .
 - Functions
     - Activation functions
@@ -54,12 +53,12 @@
 
 ## ML
 ### Regression
-- Why
-    - .
-- Linear
-    - Assumptions
-    - Working
-    - Code
+- *Why
+- *Linear
+    - *Assumptions
+    - *Working
+    - *Code
+    - Output analysis
     - Pros and cons
 - Polynomial
     - Working
@@ -73,6 +72,9 @@
 - Metrics
     - R2
     - Adjusted R2
+    - MSE
+    - MEA
+    - RMSE
 
 ### Classification
 - Basics
