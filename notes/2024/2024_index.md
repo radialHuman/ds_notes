@@ -54,7 +54,7 @@
 ## ML
 ### Regression
 - *Why
-- *Linear
+- Linear
     - *Assumptions
     - *Working
     - *Code
@@ -69,7 +69,7 @@
     - Elastic
 - Validation
     - .
-- Metrics
+- *Metrics
     - R2
     - Adjusted R2
     - MSE
