@@ -4,7 +4,8 @@
 - [/] 3. Copy over from previous note book where applicable
 - [] 4. Watch youtube links from WL list, create topics and fill details
 - [] 5. Fill what was left
-- [] 6. Update as per real interview requirements
+- [] 6. Update as per mock interview
+- [] 7. Update as per real interview requirements
 
 ## Priority
 1. Basics - Maths
@@ -59,14 +60,9 @@
     - *Working
     - *Code
     - Output analysis
-    - Pros and cons
 - Polynomial
     - Working
     - Code
-- Regularization
-    - Lasso
-    - Rigde
-    - Elastic
 - Validation
     - .
 - *Metrics
@@ -75,6 +71,10 @@
     - MSE
     - MEA
     - RMSE
+- *Regularization
+    - Lasso
+    - Rigde
+    - Elastic
 
 ### Classification
 - Basics
@@ -82,15 +82,14 @@
     - Boosting
     - Optimizers
     - .
-- Logistic
+- *Logistic
     - Working
     - Code
     - Pros and cons
-- Decision Tree
+- *Decision Tree
+    - Assumptions
     - Working
     - Code
-    - Classification
-    - Regression
     - Pros and cons
 - Random Forest
     - Working
