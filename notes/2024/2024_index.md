@@ -78,8 +78,14 @@
 
 ### Classification
 - Basics
-    - Bagging
+    - Parametric vs non
+    - grid vs random search cv
+    - *class_weight
+    - *bootstrapping
+    - *Bagging
     - Boosting
+    - Stacking
+    - Blending
     - Optimizers
     - .
 - *Logistic
@@ -91,9 +97,13 @@
     - Working
     - Code
     - Pros and cons
-- Random Forest
+- *Random Forest
     - Working
     - Code
+    - Pros and cons
+- Ada Boost
+    - Working
+    - Code   
     - Pros and cons
 - Gradient Boost
     - Working
@@ -115,6 +125,10 @@
     - Working
     - Code   
     - Pros and cons
+- SVM
+    - Working
+    - Code   
+    - Pros and cons
 - K-nearest Neighbour
     - Working
     - Code   
@@ -122,7 +136,7 @@
 - Validations
     - K fold
     - OOO
-    - .
+    - Startified 
 - Imbalanced 
     - SMOTE
     - Imbalanced-learn
@@ -131,7 +145,14 @@
     - Accuracy
     - F1, Threshold
     - Precision, Recall
-    - .
+    - Sensitivity
+    - Specificity
+    - AUC_ROC
+    - Cohen Kappa
+    - MCC
+    - PR Curve
+    - Log loss
+    - KS plot
 
 ### Unsupervised
 - K-Means
