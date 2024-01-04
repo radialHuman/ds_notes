@@ -1,11 +1,12 @@
 ## Process
 - [X] 1. Build the index with youtube links from WL list - 31-12-23
-- [/] 2. Start with interview questions by Complete-Data-Science-material
-- [/] 3. Copy over from previous note book where applicable
-- [] 4. Watch youtube links from WL list, create topics and fill details
-- [] 5. Fill what was left
-- [] 6. Update as per mock interview
-- [] 7. Update as per real interview requirements
+- [X] 2. Start with interview questions by Complete-Data-Science-material
+- [X] 3. Copy over from previous note book where applicable
+- [/] 4. Fill the priority ones
+- [] 5. Watch youtube links from WL list, create topics and fill details
+- [] 6. Fill what was left
+- [] 7. Update as per mock interview
+- [] 8. Update as per real interview requirements
 
 ## Priority
 1. Basics - Maths
@@ -83,7 +84,7 @@
     - *class_weight
     - *bootstrapping
     - *Bagging
-    - Boosting
+    - *Boosting
     - Stacking
     - Blending
     - Optimizers
@@ -101,11 +102,11 @@
     - Working
     - Code
     - Pros and cons
-- Ada Boost
+- *Ada Boost
     - Working
     - Code   
     - Pros and cons
-- Gradient Boost
+- *Gradient Boost
     - Working
     - Code   
     - Pros and cons
@@ -125,7 +126,7 @@
     - Working
     - Code   
     - Pros and cons
-- SVM
+- *SVM
     - Working
     - Code   
     - Pros and cons
@@ -140,10 +141,11 @@
 - Imbalanced 
     - SMOTE
     - Imbalanced-learn
-- Metrics
+- *Metrics
     - Confusion Matrix
     - Accuracy
     - F1, Threshold
+    - False Discovery rate
     - Precision, Recall
     - Sensitivity
     - Specificity
