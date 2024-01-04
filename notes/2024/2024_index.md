@@ -188,12 +188,27 @@
 
 
 ## NLP
-### TF-IDF
 ### Word embeddings
-- Working
-- Code
-- Types (word2vec, glove)
-- Pros and cons
+- *TF-IDF
+    - Working
+    - Code
+    - Pros and cons
+- *word2vec
+    - Working
+    - Code
+    - Pros and cons
+- *glove
+    - Working
+    - Code
+    - Pros and cons
+- Fastext
+    - Working
+    - Code
+    - Pros and cons
+- BERT
+    - Working
+    - Code
+    - Pros and cons
 
 ## Time Series
 ### ARIMA
