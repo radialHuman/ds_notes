@@ -1,7 +1,7 @@
 ## Process
 - [X] 1. Build the index with youtube links from WL list - 31-12-23
-- [X] 2. Start with interview questions by Complete-Data-Science-material
-- [X] 3. Copy over from previous note book where applicable
+- [X] 2. Start with interview questions by Complete-Data-Science-material - 04-01-23
+- [X] 3. Copy over from previous note book where applicable - 04-01-23
 - [/] 4. Fill the priority ones
 - [] 5. Watch youtube links from WL list, create topics and fill details
 - [] 6. Fill what was left
@@ -10,9 +10,9 @@
 
 ## Priority
 1. Basics - Maths
-2. ML - Regression and Classification
-3. NLP - Word embeddings
-4. MLOps - Production strategy
+2. ML - Regression and Classification - Round 1 over
+3. NLP - Word embeddings - Round 1 over
+4. MLOps - Production strategy - 
 5. Cloud - Cloud Formation and Sagemaker pipelines
 6. DL - Transformers
 
