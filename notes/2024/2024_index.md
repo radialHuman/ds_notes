@@ -3,8 +3,8 @@
 - [X] 2. Start with interview questions by Complete-Data-Science-material - 04-01-23
 - [X] 3. Copy over from previous note book where applicable - 04-01-23
 - [/] 4. Fill the priority ones
-- [] 5. Watch youtube links from WL list, create topics and fill details
-- [] 6. Fill what was left
+- [/] 5. Watch youtube links from WL list, create topics and fill details
+- [] 6. Fill what was left and leave unwanted
 - [] 7. Update as per mock interview
 - [] 8. Update as per real interview requirements
 
@@ -12,8 +12,8 @@
 1. Basics - Maths
 2. ML - Regression and Classification - Round 1 over
 3. NLP - Word embeddings - Round 1 over
-4. MLOps - Production strategy - 
-5. Cloud - Cloud Formation and Sagemaker pipelines
+4. MLOps - Production level code , Production strategy - Round 1 over
+5. Cloud - Cloud Formation and Sagemaker pipelines, MLFlow - Round 1 over
 6. DL - Transformers
 
 ## Basics
@@ -54,6 +54,7 @@
     - .
 
 ## ML
+- joblib vs pickle vs others
 ### Regression
 - *Why
 - Linear
@@ -326,16 +327,18 @@
 - Code
 - Code
 #### Event bridge
--  Working
+- Working
 - Code
 #### Cloud Formation
 - Parts (designer, CDK)
+    - Designer : https://youtu.be/AkihqHHWHvs
 - Working
 - Code
 - Code anatomy
 - Videos
     - https://www.youtube.com/watch?v=BpF05ncMh60&pp=ygUVY2xvdWQgZm9ybWF0aW9uIG1sb3Bz
     - playlist : https://www.youtube.com/watch?v=fc6tfw2tcGE&list=PL5KTLzN85O4LNGYy-dm1wJ-sKE5l4b5P5
+    - CF : https://www.youtube.com/playlist?list=PL_OdF9Z6GmVb1r0U0AvbfuqdQu_mGhXfp
     - CDK : https://www.youtube.com/watch?v=QibPrs1LOYY&pp=ygUVY2xvdWQgZm9ybWF0aW9uIG1sb3Bz
     - CDK : https://www.youtube.com/watch?v=QibPrs1LOYY&pp=ygUVY2xvdWQgZm9ybWF0aW9uIG1sb3Bz
     - CFT : https://www.youtube.com/watch?v=ov4WmWgQgsA&pp=ygUVY2xvdWQgZm9ybWF0aW9uIG1sb3Bz
@@ -345,7 +348,15 @@
 - Parts (model registry, Code commit)
 - Working
 - Code
-- Code
+- Youtube :
+https://youtu.be/Le-A72NjaWs - end to end KN CLI, enpoint deployment, no monitoring and replacing, no takign care fo drifts
+https://youtu.be/T9llSCYJXxc
+https://youtu.be/stD47vPDadI
+https://youtu.be/J9T0X9Jxl_w : model monitoring using Sagemaker studio, [notebook](../../../../Codes/monitor_endpoint_example.ipynb) [github](https://github.com/sirimuppala/amazon-sagemaker-multi-model-endpoints-model-monitoring/tree/master)
+https://youtu.be/mRNcVKJ6UNo : pipeline, batch transform, model monitoring, baseline
+https://youtu.be/stB-F6jswno : new sagemaker studio
+https://youtu.be/T9llSCYJXxc
+https://github.com/aws-samples
 ### .
 #### Jobs
 #### Batch
@@ -362,6 +373,9 @@
 ### MLFlow
 ### ZenML
 ### Kubeflow
+https://youtu.be/6wWdNg0GMV4
+https://www.youtube.com/watch?v=6wWdNg0GMV4&pp=ygUOa3ViZWZsb3cgbWxvcHM%3D
+https://www.youtube.com/watch?v=tpNElk59Hfg&pp=ygUOa3ViZWZsb3cgbWxvcHM%3D
 ### Weights and Biases
 - Modal mgmt. : https://www.youtube.com/watch?v=U_uZnRIpt8g
 ### Kedro
@@ -430,33 +444,42 @@
     - D-tale
     - Dataprep
     - Mito
-### AutoML
-### Pytorch
+
+#### AutoML
+#### Pytorch
     - .
-### Tensorflow
+#### Tensorflow
     - .
-### Pycaret
-### Pydantic
+#### Pycaret
+#### Pydantic
     - Intro : https://www.youtube.com/watch?v=yj-wSRJwrrc
-### Cookiecutter
-### Streamlit
-### PyScript
+#### Cookiecutter
+#### Streamlit
+#### PyScript
     - Intro : https://www.youtube.com/watch?v=5nseG-iU62g
-### Chainlit
-### Langchain
+#### Chainlit
+#### Langchain
     - Working
     - Code
     - Code
-### Pixi
+#### Pixi
     - Intro : https://www.youtube.com/watch?v=P7CO25cx4CI
-### Environment management
+#### Environment management
     - Taming toxic : https://www.youtube.com/watch?v=zQFOZ89RB1k
-### Cloud import
+#### Cloud import
     - Intro : https://www.youtube.com/watch?v=2f7YKoOU6_g
+#### Production ready code
+    - https://www.youtube.com/watch?v=pxk1Fr33-L4&pp=ygULbWxmb3cgbWxvcHM%3D
+    - code for production level, must learn
+    - deploying on ec2
 
 ## Containers
 ### ECR
 ### Docker
+https://www.youtube.com/watch?v=8vmKtS8W7IQ&pp=ygUaY29udGFpbmVyIGRvY2tlciBmb3IgbWxvcHM%3D
+https://www.youtube.com/watch?v=Pn73iKmD3Cw&pp=ygUaY29udGFpbmVyIGRvY2tlciBmb3IgbWxvcHM%3D
+https://www.youtube.com/watch?v=XZAVT4cUNTQ&pp=ygUaY29udGFpbmVyIGRvY2tlciBmb3IgbWxvcHM%3D
+https://youtu.be/lAAeJDcoHKY
 ### Kubernetes
 - Videos
     - https://youtu.be/dfxrdoEQe00?list=PLdpzxOOAlwvJdsW6A0jCz_3VaANuFMLpc
