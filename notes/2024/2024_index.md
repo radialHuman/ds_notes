@@ -57,7 +57,7 @@
 - joblib vs pickle vs others
 ### Regression
 - *Why
-- Linear
+- Linear https://www.youtube.com/playlist?list=PLTl9hO2Oobd_z7gUI53_Gwe-FLmyGg0uC
     - *Assumptions
     - *Working
     - *Code
@@ -90,7 +90,7 @@
     - Blending
     - Optimizers
     - .
-- *Logistic
+- *Logistic https://www.youtube.com/playlist?list=PLTl9hO2Oobd92YEIM4gVRSVwtIs1EXOqm
     - Working
     - Code
     - Pros and cons
