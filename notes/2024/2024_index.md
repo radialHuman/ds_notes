@@ -5,16 +5,66 @@
 - [/] 4. Fill the priority ones
 - [/] 5. Watch youtube links from WL list, create topics and fill details
 - [] 6. Fill what was left and leave unwanted
-- [] 7. Update as per mock interview
+- [] 7. Update as per mock interview : https://www.mygreatlearning.com/blog/machine-learning-interview-questions/
 - [] 8. Update as per real interview requirements
 
 ## Priority
-1. Basics - Maths
-2. ML - Regression and Classification - Round 1 over
-3. NLP - Word embeddings - Round 1 over
-4. MLOps - Production level code , Production strategy - Round 1 over
-5. Cloud - Cloud Formation and Sagemaker pipelines, MLFlow - Round 1 over
-6. DL - Transformers
+1. Basics
+- [] Round 1
+    - Functions
+- [] Round 2
+    - .
+2. ML
+- [X] Round 1
+    - Regression and Classification 
+- [] Round 2
+    - Answer the learning questions and fill in blanks in classification
+- [] Round 3
+    - .
+3. NLP
+- [X] Round 1
+    - Word embeddings
+- [] Round 2
+    - Bert 
+- [] Round 3
+    - .
+4. MLOps
+- [X] Round 1
+    - Production level code , Production strategy
+- [] Round 2
+    - .
+- [] Round 3
+    - .
+5. Cloud
+- [X] Round 1
+    - Cloud Formation and Sagemaker pipelines, MLFlow 
+- [] Round 2
+    - Sagemaker pipeline in detail with code
+- [] Round 3
+    - .
+6. GAI
+- [X] Round 1
+    - Transformers
+- [] Round 2
+    - GPT
+- [] Round 3
+    - LLMs
+7. Libraries
+- [] Round 1
+    - mlfow
+    - .
+- [] Round 2
+    - .
+8. DL
+- [] Round 1
+    - .
+
+## Learning Questions
+1. How is it learning?
+2. Where are weight and biases getting updated?
+3. Whats the loss function?
+4. What are the hyper parameters?
+5. 
 
 ## Basics
 ### Stats
@@ -260,9 +310,8 @@
 - Emerging : https://www.youtube.com/watch?v=Pft04KLw5Lk
 - Overview workshop : https://youtu.be/C0ZUdFg-iTo
 ### Transformers
-- Intro : https://www.youtube.com/watch?v=rPFkX5fJdRY
-- Working
-    - Intro : https://www.youtube.com/watch?v=gM2k_GFrKrU
+- *Intro 
+- *Working
 - Code
 - Types (bert)
 - Pros and cons
@@ -322,13 +371,6 @@
 
 ## Cloud
 ### AWS
-#### Lambda
-- Working
-- Code
-- Code
-#### Event bridge
-- Working
-- Code
 #### Cloud Formation
 - Parts (designer, CDK)
     - Designer : https://youtu.be/AkihqHHWHvs
@@ -345,7 +387,8 @@
     - architecture : https://youtu.be/UnAN35gu3Rw
     - demo : https://youtu.be/QibPrs1LOYY
 ### SageMaker pipelines
-- Parts (model registry, Code commit)
+- Parts
+- Setup
 - Working
 - Code
 - Youtube :
