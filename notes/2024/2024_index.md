@@ -38,15 +38,15 @@
 5. Cloud
 - [X] Round 1
     - Cloud Formation and Sagemaker pipelines, MLFlow 
-- [/] Round 2
+- [X] Round 2
     - Sagemaker pipeline in detail with code
 - [] Round 3
-    - .
+    - Drift, End 2 end and faster
 6. GAI
 - [X] Round 1
     - Transformers
 - [] Round 2
-    - GPT
+    - GPT Andrej
 - [] Round 3
     - LLMs
 7. Libraries
