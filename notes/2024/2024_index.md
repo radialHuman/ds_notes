@@ -10,10 +10,10 @@
 
 ## Priority
 1. Basics
-- [] Round 1
-    - Functions
+- [X] Round 1
+    - Activation Functions 
 - [] Round 2
-    - .
+    - Matrix formulas, Gradient Descent
 2. ML
 - [X] Round 1
     - Regression and Classification 
@@ -38,7 +38,7 @@
 5. Cloud
 - [X] Round 1
     - Cloud Formation and Sagemaker pipelines, MLFlow 
-- [] Round 2
+- [/] Round 2
     - Sagemaker pipeline in detail with code
 - [] Round 3
     - .
@@ -65,6 +65,14 @@
 3. Whats the loss function?
 4. What are the hyper parameters?
 5. 
+
+## Ignore this part, its for the interview
+1. The whole pipeline?
+2. Types of products so far?
+3. My role exactly?
+4. Issues so far?
+
+. Anything I should prepare before joining?
 
 ## Basics
 ### Stats
@@ -374,6 +382,7 @@
 #### Cloud Formation
 - Parts (designer, CDK)
     - Designer : https://youtu.be/AkihqHHWHvs
+    - CDK  :https://youtu.be/T-H4nJQyMig
 - Working
 - Code
 - Code anatomy
@@ -393,8 +402,7 @@
 - Code
 - Youtube :
 https://youtu.be/Le-A72NjaWs - end to end KN CLI, enpoint deployment, no monitoring and replacing, no takign care fo drifts
-https://youtu.be/T9llSCYJXxc
-https://youtu.be/stD47vPDadI
+https://youtu.be/stD47vPDadI : lambda api gateway
 https://youtu.be/J9T0X9Jxl_w : model monitoring using Sagemaker studio, [notebook](../../../../Codes/monitor_endpoint_example.ipynb) [github](https://github.com/sirimuppala/amazon-sagemaker-multi-model-endpoints-model-monitoring/tree/master)
 https://youtu.be/mRNcVKJ6UNo : pipeline, batch transform, model monitoring, baseline
 https://youtu.be/stB-F6jswno : new sagemaker studio
@@ -531,6 +539,8 @@ https://youtu.be/lAAeJDcoHKY
 ### Github
 #### Github Action
 ### DVC
+### Airflow
+> https://youtu.be/5peQThvQmQk
 
 ## Resources
 ### Videos
