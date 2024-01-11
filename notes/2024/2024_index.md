@@ -44,11 +44,11 @@
     - Drift, End 2 end and faster
 6. GAI
 - [X] Round 1
-    - Transformers
-- [] Round 2
-    - GPT Andrej
+    - Transformers zero to hero
+- [X] Round 2
+    - GPT Andrej 
 - [] Round 3
-    - LLMs
+    - LLMs and applications
 7. Libraries
 - [] Round 1
     - mlfow
@@ -313,10 +313,7 @@
 
 
 ## GAI
-### Architectures   
-- Andre Karpathy : https://www.youtube.com/watch?v=zjkBMFhNj_g
-- Emerging : https://www.youtube.com/watch?v=Pft04KLw5Lk
-- Overview workshop : https://youtu.be/C0ZUdFg-iTo
+### *Architectures   
 ### Transformers
 - *Intro 
 - *Working
@@ -325,7 +322,7 @@
 - Pros and cons
 ### LLMs
 - Intro : https://www.youtube.com/watch?v=JhCl-GeT4jw
-- Intor : https://www.youtube.com/watch?v=jkrNMKz9pWU
+- Intro : https://www.youtube.com/watch?v=jkrNMKz9pWU
 - Working
 - Code
 - Types (llama, mistral, Gemini)
@@ -402,13 +399,8 @@
 - Code
 - Youtube :
 https://youtu.be/Le-A72NjaWs - end to end KN CLI, enpoint deployment, no monitoring and replacing, no takign care fo drifts
-https://youtu.be/stD47vPDadI : lambda api gateway
 https://youtu.be/J9T0X9Jxl_w : model monitoring using Sagemaker studio, [notebook](../../../../Codes/monitor_endpoint_example.ipynb) [github](https://github.com/sirimuppala/amazon-sagemaker-multi-model-endpoints-model-monitoring/tree/master)
-https://youtu.be/mRNcVKJ6UNo : pipeline, batch transform, model monitoring, baseline
-https://youtu.be/stB-F6jswno : new sagemaker studio
 https://youtu.be/T9llSCYJXxc
-https://github.com/aws-samples
-### .
 #### Jobs
 #### Batch
 #### Beanstalk
