@@ -12,8 +12,10 @@
 1. Basics
 - [X] Round 1
     - Activation Functions 
-- [] Round 2
-    - Matrix formulas, Gradient Descent
+- [X] Round 2
+    - Gradient Descent and optimizers
+- [] Round 3
+    - Matrix formulas
 2. ML
 - [X] Round 1
     - Regression and Classification 
@@ -96,12 +98,12 @@
     - Decomposition
     - LA for NN : https://www.youtube.com/watch?v=ZTt9gsGcdDo
     - .
-- Differentiation
+- *Differentiation
     - Gradient Descent
     - Optimizations
     - .
 - Functions
-    - Activation functions
+    - *Activation functions
     - Normal functions
 
 ## EDA
@@ -394,8 +396,8 @@
     - demo : https://youtu.be/QibPrs1LOYY
 ### SageMaker pipelines
 - Parts
-- Setup
-- Working
+- *Setup
+- *Working
 - Code
 - Youtube :
 https://youtu.be/Le-A72NjaWs - end to end KN CLI, enpoint deployment, no monitoring and replacing, no takign care fo drifts
