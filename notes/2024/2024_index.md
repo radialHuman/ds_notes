@@ -489,7 +489,8 @@ https://www.youtube.com/watch?v=tpNElk59Hfg&pp=ygUOa3ViZWZsb3cgbWxvcHM%3D
     - D-tale
     - Dataprep
     - Mito
-
+#### Boruta 
+    - https://youtu.be/_5t8ZtRybT8?list=PLZsOBAyNTZwaQB9nUTYUYNhz7b22bAJYY
 #### AutoML
 #### Pytorch
     - .
