@@ -11,7 +11,7 @@
 ## Priority
 1. Basics
 - [X] Round 1
-    - Activation Functions 
+    - Activation Functions
 - [X] Round 2
     - Gradient Descent and optimizers
 - [] Round 3
@@ -27,7 +27,7 @@
 - [X] Round 1
     - Word embeddings
 - [] Round 2
-    - Bert 
+    - Bert
 - [] Round 3
     - .
 4. MLOps
@@ -48,7 +48,7 @@
 - [X] Round 1
     - Transformers zero to hero
 - [X] Round 2
-    - GPT Andrej 
+    - GPT Andrej
 - [] Round 3
     - LLMs and applications
 7. Libraries
@@ -381,7 +381,7 @@
 #### Cloud Formation
 - Parts (designer, CDK)
     - Designer : https://youtu.be/AkihqHHWHvs
-    - CDK  :https://youtu.be/T-H4nJQyMig
+    - CDK  : https://youtu.be/T-H4nJQyMig
 - Working
 - Code
 - Code anatomy
@@ -439,28 +439,32 @@ https://www.youtube.com/watch?v=tpNElk59Hfg&pp=ygUOa3ViZWZsb3cgbWxvcHM%3D
 - KM roadmap GenAI : https://youtu.be/nCglvjJkU8A
 
 ## Python
-### Generators
-### Decorators
+### General Terms
+- args
+- kwargs
+- 
+### *Generators
+### *Decorators
 ### Dataclasses
 ### Classes
 ### dunder methods
 ### 
 ### Libraries
 #### Numpy
-    - .
+- .
 #### Pandas 2
-    - Changes : https://www.youtube.com/watch?v=z47QwqDUKTo
-    - new : 
+- Changes : https://www.youtube.com/watch?v=z47QwqDUKTo
+- new : 
 #### Scikit learn
-    - .
+- .
 #### Skorch 
-    - intro : https://www.youtube.com/watch?v=y_n7BjDCS-M
+- intro : https://www.youtube.com/watch?v=y_n7BjDCS-M
 #### Hugging Face
-    - Masterclass : https://www.youtube.com/watch?v=IlIhykPDesE
-    - 
+- Masterclass : https://www.youtube.com/watch?v=IlIhykPDesE
+- 
 #### Polars
-    - Intro : https://www.youtube.com/watch?v=tqcudsykOGc
-    - Expression engine : https://www.youtube.com/watch?v=NJbBWDzZuWs
+- Intro : https://www.youtube.com/watch?v=tqcudsykOGc
+- Expression engine : https://www.youtube.com/watch?v=NJbBWDzZuWs
 #### Dask 
     - Intro : https://www.youtube.com/watch?v=wQpdX2KxSbQ
 #### Ray
@@ -476,48 +480,48 @@ https://www.youtube.com/watch?v=tpNElk59Hfg&pp=ygUOa3ViZWZsb3cgbWxvcHM%3D
 #### Skippa
     - .
 #### Cuda
-    - beauty and beast GPU : https://www.youtube.com/watch?v=_URmd_ff8HU
-    - CuDF : https://www.youtube.com/watch?v=OnYGtKQT-rU
+- beauty and beast GPU : https://www.youtube.com/watch?v=_URmd_ff8HU
+- CuDF : https://www.youtube.com/watch?v=OnYGtKQT-rU
 #### Rapids
-    - .
+- .
 #### SHAP
-    - Intro : https://www.youtube.com/watch?v=uswpei2GpLE
+- Intro : https://www.youtube.com/watch?v=uswpei2GpLE
 #### Pycaret
-    - .
+- .
 #### EDA
-    - Sweetviz
-    - D-tale
-    - Dataprep
-    - Mito
+- Sweetviz
+- D-tale
+- Dataprep
+- Mito
 #### Boruta 
-    - https://youtu.be/_5t8ZtRybT8?list=PLZsOBAyNTZwaQB9nUTYUYNhz7b22bAJYY
+- https://youtu.be/_5t8ZtRybT8?list=PLZsOBAyNTZwaQB9nUTYUYNhz7b22bAJYY
 #### AutoML
 #### Pytorch
-    - .
+- .
 #### Tensorflow
-    - .
+- .
 #### Pycaret
 #### Pydantic
-    - Intro : https://www.youtube.com/watch?v=yj-wSRJwrrc
+- Intro : https://www.youtube.com/watch?v=yj-wSRJwrrc
 #### Cookiecutter
 #### Streamlit
 #### PyScript
-    - Intro : https://www.youtube.com/watch?v=5nseG-iU62g
+- Intro : https://www.youtube.com/watch?v=5nseG-iU62g
 #### Chainlit
 #### Langchain
-    - Working
-    - Code
-    - Code
+- Working
+- Code
+- Code
 #### Pixi
-    - Intro : https://www.youtube.com/watch?v=P7CO25cx4CI
+- Intro : https://www.youtube.com/watch?v=P7CO25cx4CI
 #### Environment management
-    - Taming toxic : https://www.youtube.com/watch?v=zQFOZ89RB1k
+- Taming toxic : https://www.youtube.com/watch?v=zQFOZ89RB1k
 #### Cloud import
-    - Intro : https://www.youtube.com/watch?v=2f7YKoOU6_g
+- Intro : https://www.youtube.com/watch?v=2f7YKoOU6_g
 #### Production ready code
-    - https://www.youtube.com/watch?v=pxk1Fr33-L4&pp=ygULbWxmb3cgbWxvcHM%3D
-    - code for production level, must learn
-    - deploying on ec2
+- https://www.youtube.com/watch?v=pxk1Fr33-L4&pp=ygULbWxmb3cgbWxvcHM%3D
+- code for production level, must learn
+- deploying on ec2
 
 ## Containers
 ### ECR
@@ -528,7 +532,7 @@ https://www.youtube.com/watch?v=XZAVT4cUNTQ&pp=ygUaY29udGFpbmVyIGRvY2tlciBmb3Igb
 https://youtu.be/lAAeJDcoHKY
 ### Kubernetes
 - Videos
-    - https://youtu.be/dfxrdoEQe00?list=PLdpzxOOAlwvJdsW6A0jCz_3VaANuFMLpc
+- https://youtu.be/dfxrdoEQe00?list=PLdpzxOOAlwvJdsW6A0jCz_3VaANuFMLpc
 
 ## Git
 ### Github
