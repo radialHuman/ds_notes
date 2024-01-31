@@ -5,7 +5,7 @@
 - [/] 4. Fill the priority ones
 - [/] 5. Watch youtube links from WL list, create topics and fill details
 - [] 6. Fill what was left and leave unwanted
-- [] 7. Update as per mock interview : https://www.mygreatlearning.com/blog/machine-learning-interview-questions/
+- [/] 7. Update as per mock interview : https://www.mygreatlearning.com/blog/machine-learning-interview-questions/
 - [] 8. Update as per real interview requirements
 
 ## Priority
@@ -58,8 +58,8 @@
 - [] Round 2
     - .
 8. DL
-- [] Round 1
-    - .
+- [X] Round 1
+    - Basics based on a interview video
 
 ## Learning Questions
 1. How is it learning?
@@ -280,6 +280,7 @@
 ## DL
 ### Basics
 - Applied DL '23 : https://www.youtube.com/playlist?list=PLNsFwZQ_pkE87JO3T_mvedVTlw0sjUzKh
+- https://youtu.be/BAregq0sdyY
 ### CNN
 - Working
 - Code
@@ -394,6 +395,10 @@
     - CFT : https://www.youtube.com/watch?v=ov4WmWgQgsA&pp=ygUVY2xvdWQgZm9ybWF0aW9uIG1sb3Bz
     - architecture : https://youtu.be/UnAN35gu3Rw
     - demo : https://youtu.be/QibPrs1LOYY
+### SageMaker new stuff
+- https://youtu.be/i2-M7x9dJXQ
+- Hyperpod : https://youtu.be/1vlcD07bMlA
+- 
 ### SageMaker pipelines
 - Parts
 - *Setup
@@ -403,6 +408,8 @@
 https://youtu.be/Le-A72NjaWs - end to end KN CLI, enpoint deployment, no monitoring and replacing, no takign care fo drifts
 https://youtu.be/J9T0X9Jxl_w : model monitoring using Sagemaker studio, [notebook](../../../../Codes/monitor_endpoint_example.ipynb) [github](https://github.com/sirimuppala/amazon-sagemaker-multi-model-endpoints-model-monitoring/tree/master)
 https://youtu.be/T9llSCYJXxc
+#### Bedrock
+
 #### Jobs
 #### Batch
 #### Beanstalk
