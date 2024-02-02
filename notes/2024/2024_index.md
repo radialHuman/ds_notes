@@ -107,11 +107,11 @@
     - Normal functions
 
 ## EDA
-- Preprocessing
-    - Scaling, normalizing, standardizing
-    - Encoding
+### Preprocessing
+- Scaling, normalizing, standardizing
+- Encoding
         - https://www.youtube.com/watch?v=4Opsiqj6gcY
-    - .
+- Video 1 : https://youtu.be/di-cXkg-hJU
 
 ## ML
 - joblib vs pickle vs others
@@ -272,6 +272,8 @@
     - Pros and cons
 
 ## Time Series
+
+### SKtime
 ### ARIMA
 ### VAR
 ### Validation
@@ -445,6 +447,8 @@ https://www.youtube.com/watch?v=tpNElk59Hfg&pp=ygUOa3ViZWZsb3cgbWxvcHM%3D
     - github : https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024
 - KM roadmap GenAI : https://youtu.be/nCglvjJkU8A
 
+## LLMOps
+
 ## Python
 ### General Terms
 - args
@@ -463,7 +467,8 @@ https://www.youtube.com/watch?v=tpNElk59Hfg&pp=ygUOa3ViZWZsb3cgbWxvcHM%3D
 - Changes : https://www.youtube.com/watch?v=z47QwqDUKTo
 - new : 
 #### Scikit learn
-- .
+- 
+- Video 1 : https://www.youtube.com/watch?v=Gjrz4YCp6l8
 #### Skorch 
 - intro : https://www.youtube.com/watch?v=y_n7BjDCS-M
 #### Hugging Face
@@ -569,4 +574,4 @@ https://youtu.be/lAAeJDcoHKY
 - NoSQL
 - superduperdb : https://www.youtube.com/watch?v=EMWJn_7uutY
 - pyiceberg : https://www.youtube.com/watch?v=1A7fFB8QTPY
-- 
+- flyte
