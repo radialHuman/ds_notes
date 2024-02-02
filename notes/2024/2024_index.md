@@ -60,6 +60,9 @@
 8. DL
 - [X] Round 1
     - Basics based on a interview video
+9. TS
+- [] Round 1
+    - Basics
 
 ## Learning Questions
 1. How is it learning?
@@ -575,3 +578,8 @@ https://youtu.be/lAAeJDcoHKY
 - superduperdb : https://www.youtube.com/watch?v=EMWJn_7uutY
 - pyiceberg : https://www.youtube.com/watch?v=1A7fFB8QTPY
 - flyte
+
+
+https://youtu.be/9ZtpsRibgY8 KN CNN
+https://www.youtube.com/watch?v=KlJe9h438_w 
+
