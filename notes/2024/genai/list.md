@@ -5,7 +5,7 @@ sno. | link | title | descp | status | md
 3| [playlist](https://www.youtube.com/playlist?list=PLmsFUfdnGr3zAgBMu4l1W713a0W__zAMl) | Generative AI for Beginners | just and intro | DONE | [notes](gen_beginners.md)
 4| [aws bedrock](https://www.youtube.com/watch?v=2maPaQutcWs) | Generative AI In AWS-AWS Bedrock Crash Course  | just a glance | DONE | [notes](bedrock.md)
 5 | [langchain](https://www.youtube.com/watch?v=aWKrL4z5H6w)| Complete Langchain GEN AI Crash Course With 6 End To End LLM Projects With OPENAI,LLAMA2,Gemini Pro | long one | useless | [notes](langchain.md)
-6 | [from scratch playlist](https://www.youtube.com/playlist?list=PLhr1KZpdzukf-xb0lmiU3G89GJXaDbAIF) | Generative AI Foundations on AWS Technical Deep Dive Series |  | TODO | [notes]()
+6 | [from scratch playlist](https://www.youtube.com/playlist?list=PLhr1KZpdzukf-xb0lmiU3G89GJXaDbAIF) | Generative AI Foundations on AWS Technical Deep Dive Series |  | WIP | [notes](aws_genai.md)
 
 
 
