@@ -4,9 +4,10 @@
 - [X] 3. Copy over from previous note book where applicable - 04-01-23
 - [/] 4. Fill the priority ones
 - [/] 5. Watch youtube links from WL list, create topics and fill details
-- [] 6. Fill what was left and leave unwanted
-- [/] 7. Update as per mock interview : https://www.mygreatlearning.com/blog/machine-learning-interview-questions/
-- [] 8. Update as per real interview requirements
+- [/] 6. GenAI FCC full video 
+- [] 7. Fill what was left and leave unwanted
+- [/] 8. Update as per mock interview : https://www.mygreatlearning.com/blog/machine-learning-interview-questions/
+- [/] 9. Update as per real interview requirements
 
 ## Priority
 1. Basics
@@ -331,6 +332,7 @@
 ### LLMs
 - Intro : https://www.youtube.com/watch?v=JhCl-GeT4jw
 - Intro : https://www.youtube.com/watch?v=jkrNMKz9pWU
+- MIT : https://www.youtube.com/playlist?list=PLXV9Vh2jYcjbnv67sXNDJiO8MWLA3ZJKR
 - Working
 - Code
 - Types (llama, mistral, Gemini)
@@ -338,6 +340,8 @@
     - KN llama : https://youtu.be/cMJWC-csdK4
 - RAG
     - In wild : https://www.youtube.com/watch?v=FDEmbYPg-s
+    - E2e RAG :  https://www.youtube.com/watch?v=8uZst7pgOw0&pp=ygUPbWxvcHMgY29tbXVuaXR5 
+    - Prod llm : https://www.youtube.com/watch?v=fo0F-DAum7E&pp=ygUPZGVlcGxlYXJuaW5nIGFp 
 - Fine tuning
     - Domain adaption : https://www.youtube.com/watch?v=cXPYtkosXG4
 - Pros and cons
