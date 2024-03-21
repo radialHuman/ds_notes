@@ -1,4 +1,6 @@
 .ipynb_checkpoints
 data/
 *.py
-notes/2024/requirement.md
+./notes/2024/requirement.md
+notebooks
+*.ipynb

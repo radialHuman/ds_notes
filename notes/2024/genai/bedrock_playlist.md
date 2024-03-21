@@ -1,0 +1,1 @@
+# [AWS bedrock](https://www.youtube.com/playlist?list=PLZoTAELRMXVP8-wzKPtrRST3jNCprvMZj)
