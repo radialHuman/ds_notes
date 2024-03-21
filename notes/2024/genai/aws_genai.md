@@ -99,6 +99,21 @@
 - Skipping
 
 ## [Part 4: Pretraining a new foundation model](https://youtu.be/0xfe54_pYIQ)
+### Prerequisite
+- Must have trried all the techq mentioned above to make an existing model better at the task
+    - 0,1,few,parameter fine tuning, classic fine tuning
+- needs a lot of gpus running for more than 1 month to pretrain
+- TBs in vector database
+- tens of computer nodes
+- so business case is strong only then do this
+- prove at 1% of data that pretraining gets significant results before adpating it fully
+### Steps
+1. data in bucket
+2. process the training data
+3. Optimize data storage using FSX cluster
+4. notebook for test training scripts
+5. scale up
+6. evaluate
 ## [Part 5: Preparing data and training at scale](https://youtu.be/QpPpbM0FQ1Y)
 ## [Part 6: RL with human feedback](https://youtu.be/An-ha4YzxXo)
 ## [Part 7: Deploying a foundation model](https://youtu.be/TGCe3FXDgGY)
