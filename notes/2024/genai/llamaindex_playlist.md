@@ -37,4 +37,7 @@ main use | for search | wide range general purpose
 ---
 
 ## [End to end RAG LLM App Using Llamaindex and OpenAI- Indexing and Querying Multiple pdf's](https://youtu.be/hH4WkgILUD4)
-###
+### DEMO notebook
+
+## [Step-by-Step Guide to Building a RAG LLM App with LLamA2 and LLaMAindex](https://youtu.be/f-AXdiCyiT8?)
+### 

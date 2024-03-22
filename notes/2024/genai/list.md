@@ -50,9 +50,9 @@ sno. | link | title | descp | status | md
 48 | [lang vs index](https://youtu.be/EoauGRf_VCA) | Langchain vs Llama-Index| | TODO | [notes]() 
 49 | [llamaindex playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVNOWh1SDXt5NFujQMOt-CWy) | LLamaindex | | WIP | [notes](llamaindex_playlist.md) 
 50 | [bedrock playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVP8-wzKPtrRST3jNCprvMZj) | aws bedrock | | TODO | [notes](bedrock_playlist.md) 
-51 | [langchain playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar) | langchain | | TODO | [notes]() 
-52 | [langserver 1](https://youtu.be/FgTYqJVNdkU) |   | | TODO | [notes]()
-53 | [langsmith 1](https://youtu.be/3Gcm27l-uyQ) |   | | TODO | [notes]()
+51 | [langchain playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar) | langchain | | TODO | [notes](langchain_playlist.md) 
+52 | [langserver 1](https://youtu.be/FgTYqJVNdkU) | Deploy LLM App as API Using Langserve Langchain  | Just an intro | DONE | [notes](langserve.md)
+53 | [langsmith 1](https://youtu.be/3Gcm27l-uyQ) |  Langsmith LLMOPS Platform By Langchain-Debug ,Monitor And Build Production Grade LLM Application | just an intro | DONE | [notes](langsmith.md)
 
 
 
