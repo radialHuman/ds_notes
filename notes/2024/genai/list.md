@@ -49,33 +49,52 @@ sno. | link | title | descp | status | md
 47 | [lang vs index](https://youtu.be/nze2ZFj7FCk) | Langchain vs Llama-Index - The Best RAG framework? (8 techniques) | | TODO | [notes]() 
 48 | [lang vs index](https://youtu.be/EoauGRf_VCA) | Langchain vs Llama-Index| | TODO | [notes]() 
 49 | [llamaindex playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVNOWh1SDXt5NFujQMOt-CWy) | LLamaindex | | WIP | [notes](llamaindex_playlist.md) 
-50 | [bedrock playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVP8-wzKPtrRST3jNCprvMZj) | aws bedrock | | TODO | [notes](bedrock_playlist.md) 
-51 | [langchain playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar) | langchain | | TODO | [notes](langchain_playlist.md) 
+50 | [bedrock end 2 end](https://www.youtube.com/watch?v=0LE5XrxGvbo) | aws bedrock | | WIP | [notes](bedrock_playlist.md) 
+51 | [langchain playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar) | langchain | | WIP | [notes](langchain_playlist.md) 
 52 | [langserver 1](https://youtu.be/FgTYqJVNdkU) | Deploy LLM App as API Using Langserve Langchain  | Just an intro | DONE | [notes](langserve.md)
 53 | [langsmith 1](https://youtu.be/3Gcm27l-uyQ) |  Langsmith LLMOPS Platform By Langchain-Debug ,Monitor And Build Production Grade LLM Application | just an intro | DONE | [notes](langsmith.md)
+54 | [interview](https://www.youtube.com/watch?v=UifWm9h96Ec) |  | | DONE | [notes](interview.md) 
+55 | [llama2 SM HF](https://www.youtube.com/watch?v=Kq597DYdMEE&pp=ygURZGVwbG95IGxsbSBpbiBhd3M%3D) | Launch your own LLM (Deploy LLaMA 2 on Amazon SageMaker with Hugging Face Deep Learning Containers) |  | TODO | [notes]()
+56 | [SM DLC LLM](https://www.youtube.com/watch?v=A9Pu4xg-Nas&pp=ygURZGVwbG95IGxsbSBpbiBhd3M%3D) | Deploy LLMs (Large Language Models) on AWS SageMaker using DLC |  | TODO | [notes]()
+57 | [Bedrock AWS](https://www.youtube.com/watch?v=jzIZcgaTruA&pp=ygUNIGF3cyAgYmVkcm9jaw%3D%3D) | AWS re:Invent 2023 - Build your first generative AI application with Amazon Bedrock (AIM218) |  | TODO | [notes]()
+58 | [genai bedrock AWS](https://www.youtube.com/watch?v=vleGSQ_mIvc&pp=ygUNIGF3cyAgYmVkcm9jaw%3D%3D) | AWS re:Invent 2023 - Accelerate generative AI application development with Amazon Bedrock (AIM337) |  | TODO | [notes]()
+59 | [training llm](https://www.youtube.com/watch?v=i9MiLFMTmfI&pp=ygUQbWxvcHMgY29tbXVuaXR5IA%3D%3D) | Art and Science training LLMs |  | TODO | [notes]()
+60 | [read paper](https://www.youtube.com/watch?v=K6Wui3mn-uI) | Read AI research paper |  | TODO | [notes]()
+61 | [Prod LLM](https://www.youtube.com/watch?v=fo0F-DAum7E) | Prod LLM  |  | TODO | [notes]()
+62 | [RAG step/step](https://www.youtube.com/watch?v=qN_2fnOPY-M&pp=ygUYcmFnIHNjcmF0Y2ggc3RlcCBieSBzdGVw) | Local Retrieval Augmented Generation (RAG) from Scratch (step by step tutorial) |  | TODO | [notes]()
+63 | [DL channel](https://www.youtube.com/@Deeplearningai/streams) | DeepLearning |  | TODO | [notes]()
+64 | [LanagChain Channel](https://www.youtube.com/@LangChain/videos) | LangChain |  | TODO | [notes]()
+65 | [LLM 5 formula](https://www.youtube.com/watch?v=k9DnQPrfJQs&pp=ygUTNSBmb3JtdWxhIHRyYWluIGxsbQ%3D%3D) | LLMs in 5 formula |  | TODO | [notes]()
+66 | [Vector DB](https://www.youtube.com/watch?v=9iou9s0L8Fs&pp=ygUSemlsbGlzIHJvdW5kdGFibGUn) | Zilliz Roundtable // Why Purpose-built Vector Databases Matter for Your Use Case |  | TODO | [notes]()
+67 | [Finetune playlist](https://www.youtube.com/playlist?list=PLrLEqwuz-mRIEtuUEN8sse2XyksKNN4Om) | Finetuning playlist |  | WIP | [notes]()
+68 | [DistillBert Playlist](https://www.youtube.com/playlist?list=PLc2rvfiptPSTGfTp0nhC71ksTY1p5ooCW) | DistilBert |  | TODO | [notes]()
+69 | [prompt eng.](https://www.youtube.com/watch?v=RASh7C9Pm7I) | Prompt Enginerring |  | TODO | [notes]()
+70 | [Trans4mrs](https://youtu.be/bCz4OMemCcA) | Transformers |  | TODO | [notes]()
+71 | [AK GPT](https://youtu.be/kCc8FmEb1nY) | GPT from scratch | Not exactly explaning how Transformers work | WIP | [notes]()
+72 | [Chainlit](https://youtu.be/AzfV0r2O_gk) | Chainlit |  | TODO | [notes]()
+73 | [Flacon LLM](https://youtu.be/gnyUUY8X-G4) | Falcon LLM |  | TODO | [notes]()
+74 | [usecase](https://www.youtube.com/watch?v=MeyVptCRubI) | Solving Real-World Data Science Problems with LLMs! (Historical Document Analysis) | | TODO | [notes]() 
+75 | [](https://www.youtube.com/watch?8emsTCNk8Ig) |  |  | TODO | [notes]()
+76 | [](https://www.youtube.com/watch?OBttxJ6FTBE) |  |  | TODO | [notes]()
+77 | [](https://www.youtube.com/watch?Wqf2GimAlWo) |  |  | TODO | [notes]()
+78 | [](https://www.youtube.com/watch?iMD7ba1hHgw) |  |  | TODO | [notes]()
+79 | [](https://www.youtube.com/watch?eC6Hd1hFvos) |  |  | TODO | [notes]()
+80 | [](https://www.youtube.com/watch?XpoKB3usmKc) |  |  | TODO | [notes]()
 
 
 
 26 | []() |  | | TODO | [notes]() 
 
-interview : https://www.youtube.com/watch?v=UifWm9h96Ec
 lin vs lch :
 https://youtu.be/g84uWgVXVYg
 https://youtu.be/xEgUC4bd_qI
 
 
 
-Launch your own LLM (Deploy LLaMA 2 on Amazon SageMaker with Hugging Face Deep Learning Containers)
-https://www.youtube.com/watch?v=Kq597DYdMEE&pp=ygURZGVwbG95IGxsbSBpbiBhd3M%3D
 
-Deploy LLMs (Large Language Models) on AWS SageMaker using DLC
-https://www.youtube.com/watch?v=A9Pu4xg-Nas&pp=ygURZGVwbG95IGxsbSBpbiBhd3M%3D
 
-AWS re:Invent 2023 - Build your first generative AI application with Amazon Bedrock (AIM218)
-https://www.youtube.com/watch?v=jzIZcgaTruA&pp=ygUNIGF3cyAgYmVkcm9jaw%3D%3D
 
-AWS re:Invent 2023 - Accelerate generative AI application development with Amazon Bedrock (AIM337)
-https://www.youtube.com/watch?v=vleGSQ_mIvc&pp=ygUNIGF3cyAgYmVkcm9jaw%3D%3D
+
 
 https://medium.com/@kariniai/navigating-genaiops-in-enterprises-challenges-and-best-practices-version-1-0-c6f6b2c0d18d
 
@@ -88,3 +107,6 @@ https://www.datacamp.com/blog/the-top-5-vector-databases
 https://byby.dev/vector-databases
 https://medium.com/koalabs/vector-databases-a-list-43733545feea
 https://www.geeksforgeeks.org/vector-databases-that-you-must-try/
+https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024
+https://github.com/krishnaik06/Data-Science-Projects-For-Resumes
+https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024
