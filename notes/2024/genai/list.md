@@ -11,7 +11,7 @@ sno. | link | title | descp | status | md
 9 | [gradient ai](https://youtu.be/_78rA4uV4jA) | How To Fine Tune LLAMA2 LLM Models With Custom Data |  | TODO | [notes]()
 10 | [fine tuning playlist](https://www.youtube.com/playlist?list=PLrLEqwuz-mRIEtuUEN8sse2XyksKNN4Om) |Fine Tuning of LLMs |  | TODO | [notes]()
 11 | [shaw](https://youtu.be/eC6Hd1hFvos) | Fine-tuning Large Language Models (LLMs)  w/ Example Code |  | TODO | [notes]()
-12 | [peft](https://youtu.be/Us5ZFp16PaU) | Fine-tuning LLMs with PEFT and LoRA |  | TODO | [notes]()
+12 | [peft](https://youtu.be/Us5ZFp16PaU) | Fine-tuning LLMs with PEFT and LoRA |  | DONE | [notes](peft_and_lora.md)
 13 | [single cpu qlora](https://youtu.be/MDA3LUKNl1E) | Fine-tuning Llama 2 on Your Own Dataset  Train an LLM for Your Use Case with QLoRA on a Single GPU |  | TODO | [notes]()
 14 | [sieseme pytorch](https://youtu.be/zvk3Rr-OjU0) | Seismic Data to Subsurface Models with OpenFWI: Training an AI Model with PyTorch |  | TODO | [notes]()
 15 | [shaw single cpu](https://youtu.be/XpoKB3usmKc) | QLoRA—How to Fine-tune an LLM on a Single GPU (w/ Python Code) |  | TODO | [notes]()
@@ -80,7 +80,9 @@ sno. | link | title | descp | status | md
 78 | [](https://www.youtube.com/watch?iMD7ba1hHgw) |  |  | TODO | [notes]()
 79 | [](https://www.youtube.com/watch?eC6Hd1hFvos) |  |  | TODO | [notes]()
 80 | [](https://www.youtube.com/watch?XpoKB3usmKc) |  |  | TODO | [notes]()
-
+81 | [deploy ai models](https://www.youtube.com/playlist?list=PLrLEqwuz-mRKB0Ye9V-NuGASYApagRneg) |  |  | TODO | [notes]()
+82 | [lora and qlora in depth](https://youtu.be/t1caDsMzWBk) | Low-rank Adaptation: LoRA Fine-tuning & QLoRA Explained In-Depth | | WIP | [notes]()
+83 | [lora+, dora neft unsloth intro](https://youtu.be/ae2lbmtTY5A) | Fine tuning Optimizations - DoRA, NEFT, LoRA+, Unsloth |  | DONE | [notes](lora_dora_neft_unsloth.md)
 
 
 26 | []() |  | | TODO | [notes]() 
@@ -90,6 +92,43 @@ https://youtu.be/g84uWgVXVYg
 https://youtu.be/xEgUC4bd_qI
 
 
+
+https://youtu.be/M8FY4ZvAf5w
+https://youtu.be/s-jYxgKMqRc
+https://www.youtube.com/watch?v=kmkcNVvEz-k
+
+LangChain How to and guides
+https://www.youtube.com/playlist?list=PL8motc6AQftk1Bs42EW45kwYbyJ4jOdiZ
+
+sentdex finetunign
+https://youtu.be/pCX_3p40Efc
+
+new finetunign
+https://huggingface.co/docs/trl/main/en/sft_trainer
+https://arxiv.org/abs/2310.05914
+https://github.com/unslothai/unsloth
+https://arxiv.org/abs/2402.09353
+https://arxiv.org/abs/2402.12354
+
+dora explanation
+https://youtu.be/m7KQdGSr0Dg
+
+RAG better chuncking
+https://youtu.be/m6P1Rp91AzM
+
+Raptor
+https://youtu.be/zfHQSr_s9PM
+https://youtu.be/bpeeqbBIH1A
+
+litllm
+https://youtu.be/1Dh6NpjiXq4
+
+Memorization
+https://youtu.be/_GkHZQYFOGM
+
+DPO
+https://youtu.be/E5kzAbD8D0w
+    
 
 
 
@@ -110,3 +149,5 @@ https://www.geeksforgeeks.org/vector-databases-that-you-must-try/
 https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024
 https://github.com/krishnaik06/Data-Science-Projects-For-Resumes
 https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024
+https://sebastianraschka.com/blog/2024/lora-dora.html
+https://www.databricks.com/blog/efficient-fine-tuning-lora-guide-llms
