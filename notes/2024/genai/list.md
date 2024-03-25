@@ -66,7 +66,7 @@ sno. | link | title | descp | status | md
 64 | [LanagChain Channel](https://www.youtube.com/@LangChain/videos) | LangChain |  | TODO | [notes]()
 65 | [LLM 5 formula](https://www.youtube.com/watch?v=k9DnQPrfJQs&pp=ygUTNSBmb3JtdWxhIHRyYWluIGxsbQ%3D%3D) | LLMs in 5 formula |  | TODO | [notes]()
 66 | [Vector DB](https://www.youtube.com/watch?v=9iou9s0L8Fs&pp=ygUSemlsbGlzIHJvdW5kdGFibGUn) | Zilliz Roundtable // Why Purpose-built Vector Databases Matter for Your Use Case |  | TODO | [notes]()
-67 | [Finetune playlist](https://www.youtube.com/playlist?list=PLrLEqwuz-mRIEtuUEN8sse2XyksKNN4Om) | Finetuning playlist |  | WIP | [notes]()
+67 | [Finetune playlist](https://www.youtube.com/playlist?list=PLrLEqwuz-mRIEtuUEN8sse2XyksKNN4Om) | Finetuning playlist |  | WIP | [notes](finetune_playlist.md)
 68 | [DistillBert Playlist](https://www.youtube.com/playlist?list=PLc2rvfiptPSTGfTp0nhC71ksTY1p5ooCW) | DistilBert |  | TODO | [notes]()
 69 | [prompt eng.](https://www.youtube.com/watch?v=RASh7C9Pm7I) | Prompt Enginerring |  | TODO | [notes]()
 70 | [Trans4mrs](https://youtu.be/bCz4OMemCcA) | Transformers |  | TODO | [notes]()
@@ -128,7 +128,40 @@ https://youtu.be/_GkHZQYFOGM
 
 DPO
 https://youtu.be/E5kzAbD8D0w
-    
+https://youtu.be/5K3zzEM2Nnw
+https://youtu.be/XZLc09hkMwA
+https://youtu.be/pzh2oc6shic
+https://youtu.be/HCFTXTn1PHA
+https://youtu.be/EKF4ZJrzPDs
+https://youtu.be/Sj35vzljugI
+
+PODcast
+https://youtu.be/CyprtaOZxu0
+
+Decoder encoder
+https://www.youtube.com/watch?v=6ue7W5DhWbs
+
+Trans4mrs
+https://www.youtube.com/watch?v=fMGPF2gpK4w
+
+Galore
+https://youtu.be/2_6aHjHIcC4
+
+ColBERTv2
+https://youtu.be/xTzUn3G9YA0
+
+DEJAU
+https://youtu.be/DUkWMoi5nG4
+
+
+https://github.com/eugeneyan/open-llms
+https://klu.ai/blog/open-source-llm-models
+https://www.datacamp.com/blog/top-open-source-llms
+Mistral, Falcon, Bloom, T5, Claude 3, Gemini, alpaca, plam2, phi
+ollama, LMStudio, metaGPT, perplexity, orca, axolotl  
+lavauge, skyvern, cohere
+ppo, dpo, galore, longlora, loftq, rslora, rope scaling, flash attention 2
+
 
 
 
@@ -151,3 +184,69 @@ https://github.com/krishnaik06/Data-Science-Projects-For-Resumes
 https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024
 https://sebastianraschka.com/blog/2024/lora-dora.html
 https://www.databricks.com/blog/efficient-fine-tuning-lora-guide-llms
+
+
+
+
+## Channels : 
+Freecodecamp
+Mircosoft reactor
+AWS
+AI Anytime
+Shaw Talebi
+Sam Witteveen
+Venelin Valkov
+PyTorch
+Prompt Engineering
+LlamaIndex
+Pradip Nichite
+James Briggs
+Alex Chao
+DVCorg
+Adrian Twarog
+Rabbit Holke Syndrome
+Zilliz
+AI Makerspace
+Johnny Code
+Tim Carambat
+DSwithBappy
+Greg Kamradt
+AI with Tarun
+CMU DB group
+Ryan nolan Data
+Thursday Content
+AI Round table
+Sunny Savita
+Brian H Hough
+AWS Event
+MLOPs Community
+DeepLearningAI
+Daniel Bourke
+Harvard Data Science Initiative
+KGP Talkie
+Jonathan Yarkoni
+Umar Jamil
+Coding Tech
+Andrej Karpathy
+Keith Galli
+Entry Point AI
+Trelis Research
+What's AI by Louis-François Bouchard
+Coding Crashcourse
+Oxen
+brev
+sentdex
+Gabriel Mongaras
+TwoSetAI
+Super Data Science ML
+Matt Wolfe
+PyData
+Yannic Kilcher
+Stanford Online
+Matthew Berman
+AI paper Academy
+1littlecoder
+AI engineer
+Code Emporium
+Arxiv Papers
+AI Coffee Break with Letitia

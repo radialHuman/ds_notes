@@ -90,3 +90,152 @@
             - batch is when the model is updated
             - 1 epoch can contain multiple batches
     - for different models names might vary, details can be found by for looping over model.state_dict().keys()
+
+## [Train a Small Language Model for Disease Symptoms | Step-by-Step Tutorial](https://youtu.be/1ILVm4IeNY8?list=PLrLEqwuz-mRIEtuUEN8sse2XyksKNN4Om)
+### Aim
+- To enter disease and get back its symptoms using GPT (small LM)
+- https://huggingface.co/distilbert/distilgpt2
+- 124M gpt2  -> 82 M distilgpt
+- dataset : https://huggingface.co/datasets/QuyenAnhDE/Diseases_Symptoms
+
+### Tokenization
+- ngram, bigram are the original LM
+- SKIPPING code explanation
+
+## [Fine Tune Phi-2 Model on Your Dataset](https://youtu.be/eLy74j0KCrY?list=PLrLEqwuz-mRIEtuUEN8sse2XyksKNN4Om)
+- MS's [phi2](https://huggingface.co/microsoft/phi-2) fine tuned for custom dataset
+```python
+!pip install -q torch peft==0.4.0 bitsandbytes==0.40.2 transformers==4.31.0 trl==0.4.7 accelerate einops tqdm scipy
+
+import os
+from dataclasses import dataclass, field
+from typing import Optional
+import torch from datasets
+import load_dataset, load_from_disk
+from peft import LoraConfig, prepare_model_for_kbit_training
+from transformers import ( AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig,
+HfArgumentParser, TrainingArguments )
+
+from tqdm.notebook import tqdm
+
+from trl import SFTTrainer
+
+from huggingface_hub import interpreter_login
+interpreter_login()
+# enter the api key
+
+# get the dataset, 3.5k rows
+dataset = load_dataset("Amod/mental_health_counseling_conversations", split="train")
+dataset
+
+# convert it to df
+import pandas as pd
+df = pd.DataFrame(dataset)
+
+# formating for SLM's consumption, is deifferent for other LLMs, look for documentation
+def format_row(row):
+    question = row[ 'Context' ]
+    answer = row[ 'Response' ]
+    formatted_string = f"[INST] {question} [/INST] {answer} "
+    return formatted_string
+
+df['Formatted'] = df.apply(format_row, axis=1)
+
+new_df = df.rename(columns = {'Formatted': 'Text'})
+new_df = new_df[['Text']]
+
+# finetuning
+base_model = "microsoft/phi-2""
+new_model = "phi2-mental-health" #after applying lora to original one
+
+tokenizer = AutoTokenizer.from_pretrained(base_model, use_fast=True)
+tokenizer.pad_token = tokenizer.eos_token
+tokenizer.padding_ side  = "right"
+bnb_config = BitsAndBytesConfig( 
+    load_in_4bit = True, # loading qlora version of the model
+    bnb_4bit_quant_type = "nf4", # quantile quantization, smaller size format while maintaining a format
+    bnb_4bit_compute_dtype = torch.float16,
+    bnb_4bit_use_double_quant = False # to avoid loss of performance
+)
+
+model = AutoModelForCausalLM.from_pretrained(
+    base_model,
+    quantization_config = bnb_config,
+    trust_remote_code = True,  # for HF API key
+    flash_attn = True, # flash_attn2 is not avaialbe for this right now
+    flash_rotary = True, # 
+    fused_dense = True, # gpu memory
+    low_cpu_mem_usage = True, # 
+    device_map = {" ", @}, # cuda
+    revision = "refs/pr/23" # for commit to HF
+)
+
+model.config.use_cache = False # why?
+model.config.pretraining_tp = 1 # 
+model = prepare_model_for_kbit_training(model , use_gradient_checkpointing= True) #  
+
+training_arguments = TrainingArguments(
+    output_dir = "./mhGPT",
+    num_train_epochs = 2,
+    per_device_train_batch_size = 2,
+    gradient_accumulation_steps = 32,
+    evaluation_strategy = "steps",
+    eval_steps = 1500,
+    logging_steps = 15,
+    optim = "paged_adamw_8bit",
+    learning_rate = 2e-4,
+    lr_scheduler_type = "cosine",
+    save_steps = 1500,
+    warmup_ratio = 0.05,
+    weight_decay = 0.01,
+    max_steps = -1
+)
+peft_config = LoraConfig(
+    r = 32,
+    lora_alpha = 64,
+    lora_dropout = 8.95,
+    bias_type = "none",
+    task_type = "CAUSAL_LM",
+    target_modules = ["Wgqkv", "fc1","fc2"]
+)
+
+trainer = SFTTrainer(
+     model = model,
+     train_dataset = training_dataset,
+     peft_config = peft_config,,
+     dataset_text_field = "Text"
+     max_sequence = 690,
+     tokenizer = tokenizer,
+     args = training_arguments,
+)
+
+# time taking trainign
+trainer.train()
+
+```
+
+## [llamafactory](https://youtu.be/iMD7ba1hHgw?list=PLrLEqwuz-mRIEtuUEN8sse2XyksKNN4Om)
+- finetuning mistral using llmfactory (low code)
+    - Various models: LLaMA, Mistral, Mixtral-MoE, Qwen, Yi, Gemma, Baichuan, ChatGLM, Phi, etc.
+    - Integrated methods: (Continuous) pre-training, supervised fine-tuning, reward modeling, PPO and DPO.
+    - Scalable resources: 32-bit full-tuning, 16-bit freeze-tuning, 16-bit LoRA and 2/4/8-bit QLoRA via AQLM/AWQ/GPTQ/LLM.int8.
+    - Advanced algorithms: GaLore, DoRA, LongLoRA, LLaMA Pro, LoRA+, LoftQ and Agent tuning.
+    - Practical tricks: FlashAttention-2, Unsloth, RoPE scaling, NEFTune and rsLoRA.
+    - Experiment monitors: LlamaBoard, TensorBoard, Wandb, MLflow, etc.
+    - Faster inference: OpenAI-style API, Gradio UI and CLI with vLLM worker.
+- dataset :  MattCoddity/dockexNLcommands
+- aim : to train to get docker commands
+- [llamafactory](https://github.com/hiyouga/LLaMA-Factory)
+- skipping as its low code
+
+
+## [Make LLM Fine Tuning 5x Faster with Unsloth](https://youtu.be/sIFokbuATX4?list=PLrLEqwuz-mRIEtuUEN8sse2XyksKNN4Om)
+- Optimizes a lot to gain speed [github](https://github.com/unslothai/unsloth)
+- llama and mistral architecture
+- Installation depends on GPU being used
+- [trl](https://github.com/huggingface/trl)
+- rope sclaing is inbuilt
+- FastLanguageModel is used here
+- SFTTrainer
+- imdb Dataset is used frmo HF
+- 
