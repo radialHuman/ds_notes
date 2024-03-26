@@ -1,7 +1,7 @@
 sno. | link | title | descp | status | md
 -|-|-|-| -|-|
 1| [link](https://www.youtube.com/watch?v=mEsleV16qdo) | Generative AI Full Course – Gemini Pro, OpenAI, Llama, Langchain, Pinecone, Vector | Not great| rewatch as intro | [notes](genAI_30.md)
-2| [playlist](https://www.youtube.com/playlist?list=PLmQAMKHKeLZ-iTT-E2kK9uePrJ1Xua9VL) | Foundational Generative AI | looks hands on | TODO | [notes]()
+2| [playlist](https://www.youtube.com/playlist?list=PL8motc6AQftk1Bs42EW45kwYbyJ4jOdiZ) |LangChain How to and guides |  | TODO | [notes]()
 3| [playlist](https://www.youtube.com/playlist?list=PLmsFUfdnGr3zAgBMu4l1W713a0W__zAMl) | Generative AI for Beginners | just and intro | DONE | [notes](gen_beginners.md)
 4| [aws bedrock](https://www.youtube.com/watch?v=2maPaQutcWs) | Generative AI In AWS-AWS Bedrock Crash Course  | just a glance | DONE | [notes](bedrock.md)
 5 | [langchain](https://www.youtube.com/watch?v=aWKrL4z5H6w)| Complete Langchain GEN AI Crash Course With 6 End To End LLM Projects With OPENAI,LLAMA2,Gemini Pro | long one | useless | [notes](langchain.md)
@@ -15,9 +15,9 @@ sno. | link | title | descp | status | md
 13 | [single cpu qlora](https://youtu.be/MDA3LUKNl1E) | Fine-tuning Llama 2 on Your Own Dataset  Train an LLM for Your Use Case with QLoRA on a Single GPU |  | TODO | [notes]()
 14 | [sieseme pytorch](https://youtu.be/zvk3Rr-OjU0) | Seismic Data to Subsurface Models with OpenFWI: Training an AI Model with PyTorch |  | TODO | [notes]()
 15 | [shaw single cpu](https://youtu.be/XpoKB3usmKc) | QLoRA—How to Fine-tune an LLM on a Single GPU (w/ Python Code) |  | TODO | [notes]()
-16 | [mixtral](https://youtu.be/RzSDdosu_y8) | Fine-tune Mixtral 8x7B (MoE) on Custom Data - Step by Step Guide |  | TODO | [notes]()
+16 | [mixtral](https://youtu.be/RzSDdosu_y8) | Fine-tune Mixtral 8x7B (MoE) on Custom Data - Step by Step Guide |  | WIP | [notes]()
 17 | [rag llama](https://youtu.be/Y0FL7BcSigI) | A deep dive into Retrieval-Augmented Generation with Llamaindex | | TODO | [notes]() 
-18 | [mastering](https://youtu.be/XGBQ_f-Yy48) | Mastering LlamaIndex : Create, Save & Load Indexes, Customize LLMs, Prompts & Embeddings | | TODO | [notes]() 
+18 | [mastering LlamaIndex](https://youtu.be/XGBQ_f-Yy48) | Mastering LlamaIndex : Create, Save & Load Indexes, Customize LLMs, Prompts & Embeddings | | TODO | [notes]() 
 19 | [vector store](https://youtu.be/Cu5KQz3c4Zk) | RAG with Llama-Index: Vector Stores | | TODO | [notes]() 
 20 | [gpt3.5](https://youtu.be/WKvAWub8VCU) | Llama Index 101 with Vector DBs and GPT 3.5 | | TODO | [notes]() 
 21 | [llamaparser](https://youtu.be/wRMnHbiz5ck) | Super Easy Way To Parse PDF | | TODO | [notes]() 
@@ -29,7 +29,7 @@ sno. | link | title | descp | status | md
 27 | [Advanced Search](https://youtu.be/JEBDfGqrAUA) | Vector Search RAG Tutorial  | | TODO | [notes]() 
 28 | [chose VDB](https://youtu.be/aX_hdQEintc) | How to Choose a Vector Database | | TODO | [notes]() 
 29 | [crash VDB](https://youtu.be/ySus5ZS0b94) | OpenAI Embeddings and Vector Databases Crash Course | | TODO | [notes]() 
-30 | [open vs openai](https://youtu.be/QdDoFfkVkcw) | $0 Embeddings (OpenAI vs. free & open source) | | TODO | [notes]() 
+30 | [open vs openai](https://youtu.be/QdDoFfkVkcw) | $0 Embeddings (OpenAI vs. free & open source) | | CANCELLED | [notes]() 
 31 | [fcc tutorial](https://youtu.be/yfHHvmaMkcA) | Vector Embeddings Tutorial – Code Your Own AI Assistant with GPT-4 API + LangChain + NLP | | TODO | [notes]() 
 32 | [VD 101](https://youtu.be/6yLmbL1o3Ow) | Vector Database 101: A Crash Course| | TODO | [notes]() 
 33 | [high perf RAG](https://youtu.be/wBhY-7B2jdY) | High-performance RAG with LlamaIndex | | TODO | [notes]() 
@@ -74,15 +74,16 @@ sno. | link | title | descp | status | md
 72 | [Chainlit](https://youtu.be/AzfV0r2O_gk) | Chainlit |  | TODO | [notes]()
 73 | [Flacon LLM](https://youtu.be/gnyUUY8X-G4) | Falcon LLM |  | TODO | [notes]()
 74 | [usecase](https://www.youtube.com/watch?v=MeyVptCRubI) | Solving Real-World Data Science Problems with LLMs! (Historical Document Analysis) | | TODO | [notes]() 
-75 | [](https://www.youtube.com/watch?8emsTCNk8Ig) |  |  | TODO | [notes]()
-76 | [](https://www.youtube.com/watch?OBttxJ6FTBE) |  |  | TODO | [notes]()
-77 | [](https://www.youtube.com/watch?Wqf2GimAlWo) |  |  | TODO | [notes]()
-78 | [](https://www.youtube.com/watch?iMD7ba1hHgw) |  |  | TODO | [notes]()
-79 | [](https://www.youtube.com/watch?eC6Hd1hFvos) |  |  | TODO | [notes]()
-80 | [](https://www.youtube.com/watch?XpoKB3usmKc) |  |  | TODO | [notes]()
+75 | [](https://youtu.be/g84uWgVXVYg) |  |  | TODO | [notes]()
+76 | [chunk size](https://www.youtube.com/watch?OBttxJ6FTBE) |  |  | TODO | [notes]()
+77 | [mistral 7b local FT](https://www.youtube.com/watch?Wqf2GimAlWo) |  |  | TODO | [notes]()
+78 | [llama factory](https://www.youtube.com/watch?iMD7ba1hHgw) |  |  | TODO | [notes]()
+79 | [FT](https://www.youtube.com/watch?eC6Hd1hFvos) |  |  | TODO | [notes]()
+80 | [Qlora FT](https://www.youtube.com/watch?XpoKB3usmKc) |  |  | TODO | [notes]()
 81 | [deploy ai models](https://www.youtube.com/playlist?list=PLrLEqwuz-mRKB0Ye9V-NuGASYApagRneg) |  |  | TODO | [notes]()
 82 | [lora and qlora in depth](https://youtu.be/t1caDsMzWBk) | Low-rank Adaptation: LoRA Fine-tuning & QLoRA Explained In-Depth | | WIP | [notes]()
-83 | [lora+, dora neft unsloth intro](https://youtu.be/ae2lbmtTY5A) | Fine tuning Optimizations - DoRA, NEFT, LoRA+, Unsloth |  | DONE | [notes](lora_dora_neft_unsloth.md)
+83 | [lora+, dora neft unsloth intro](https://youtu.be/ae2lbmtTY5A) | Fine tuning Optimizations - DoRA, NEFT, LoRA+, Unsloth |  | DONE | [notes](lora_dora_neft_unsloth.md) 
+84 | [dpo alignment](https://youtu.be/QXVCqtAZAn4) | Aligning LLMs with Direct Preference Optimization | Really interesting | DONE | [notes](dpo_alignment.md) 
 
 
 26 | []() |  | | TODO | [notes]() 
@@ -96,9 +97,6 @@ https://youtu.be/xEgUC4bd_qI
 https://youtu.be/M8FY4ZvAf5w
 https://youtu.be/s-jYxgKMqRc
 https://www.youtube.com/watch?v=kmkcNVvEz-k
-
-LangChain How to and guides
-https://www.youtube.com/playlist?list=PL8motc6AQftk1Bs42EW45kwYbyJ4jOdiZ
 
 sentdex finetunign
 https://youtu.be/pCX_3p40Efc
@@ -119,6 +117,8 @@ https://youtu.be/m6P1Rp91AzM
 Raptor
 https://youtu.be/zfHQSr_s9PM
 https://youtu.be/bpeeqbBIH1A
+https://youtu.be/37JSz9SvECI
+https://youtu.be/jbGchdTL7d0
 
 litllm
 https://youtu.be/1Dh6NpjiXq4
@@ -129,8 +129,7 @@ https://youtu.be/_GkHZQYFOGM
 DPO
 https://youtu.be/E5kzAbD8D0w
 https://youtu.be/5K3zzEM2Nnw
-https://youtu.be/XZLc09hkMwA
-https://youtu.be/pzh2oc6shic
+https://youtu.be/pzh2oc6shic 
 https://youtu.be/HCFTXTn1PHA
 https://youtu.be/EKF4ZJrzPDs
 https://youtu.be/Sj35vzljugI
@@ -153,6 +152,21 @@ https://youtu.be/xTzUn3G9YA0
 DEJAU
 https://youtu.be/DUkWMoi5nG4
 
+RAFT
+https://youtu.be/l3F1MFM47v8
+
+Instruct TUned
+https://www.youtube.com/watch?v=eTieetk2dSw&pp=ygUMaW5zdHJ1Y3QgbGxt
+
+Claude3
+https://youtu.be/Evg4HXvsYVY
+https://docs.anthropic.com/claude/docs/helper-metaprompt-experimental
+https://github.com/anthropics/anthropic-cookbook/
+
+
+Prompt Engineering
+https://www.youtube.com/watch?v=6d60zVdcCV4
+
 
 https://github.com/eugeneyan/open-llms
 https://klu.ai/blog/open-source-llm-models
@@ -160,7 +174,7 @@ https://www.datacamp.com/blog/top-open-source-llms
 Mistral, Falcon, Bloom, T5, Claude 3, Gemini, alpaca, plam2, phi
 ollama, LMStudio, metaGPT, perplexity, orca, axolotl  
 lavauge, skyvern, cohere
-ppo, dpo, galore, longlora, loftq, rslora, rope scaling, flash attention 2
+ppo(RLHF), dpo, galore, longlora, loftq, rslora, rope scaling, flash attention 2
 
 
 
@@ -184,7 +198,7 @@ https://github.com/krishnaik06/Data-Science-Projects-For-Resumes
 https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024
 https://sebastianraschka.com/blog/2024/lora-dora.html
 https://www.databricks.com/blog/efficient-fine-tuning-lora-guide-llms
-
+https://arxiv.org/html/2402.10958v1
 
 
 
