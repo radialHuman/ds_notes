@@ -1,7 +1,7 @@
 sno. | link | title | descp | status | md
 -|-|-|-| -|-|
 1| [link](https://www.youtube.com/watch?v=mEsleV16qdo) | Generative AI Full Course – Gemini Pro, OpenAI, Llama, Langchain, Pinecone, Vector | Not great| rewatch as intro | [notes](genAI_30.md)
-2| [playlist](https://www.youtube.com/playlist?list=PL8motc6AQftk1Bs42EW45kwYbyJ4jOdiZ) |LangChain How to and guides |  | TODO | [notes]()
+2| [LC playlist](https://www.youtube.com/playlist?list=PL8motc6AQftk1Bs42EW45kwYbyJ4jOdiZ) |LangChain How to and guides |  | WIP | [notes](langchainplaylist.md)
 3| [playlist](https://www.youtube.com/playlist?list=PLmsFUfdnGr3zAgBMu4l1W713a0W__zAMl) | Generative AI for Beginners | just and intro | DONE | [notes](gen_beginners.md)
 4| [aws bedrock](https://www.youtube.com/watch?v=2maPaQutcWs) | Generative AI In AWS-AWS Bedrock Crash Course  | just a glance | DONE | [notes](bedrock.md)
 5 | [langchain](https://www.youtube.com/watch?v=aWKrL4z5H6w)| Complete Langchain GEN AI Crash Course With 6 End To End LLM Projects With OPENAI,LLAMA2,Gemini Pro | long one | useless | [notes](langchain.md)
@@ -84,6 +84,10 @@ sno. | link | title | descp | status | md
 82 | [lora and qlora in depth](https://youtu.be/t1caDsMzWBk) | Low-rank Adaptation: LoRA Fine-tuning & QLoRA Explained In-Depth | | WIP | [notes]()
 83 | [lora+, dora neft unsloth intro](https://youtu.be/ae2lbmtTY5A) | Fine tuning Optimizations - DoRA, NEFT, LoRA+, Unsloth |  | DONE | [notes](lora_dora_neft_unsloth.md) 
 84 | [dpo alignment](https://youtu.be/QXVCqtAZAn4) | Aligning LLMs with Direct Preference Optimization | Really interesting | DONE | [notes](dpo_alignment.md) 
+85 | [a-z prompt](https://youtu.be/QYs90ps6rxk) | The A to Z of Prompt Engineering - Intro to Prompt Engineering | | DONE | [notes](a_z_prompt.md) 
+86 | [basic qlora code walkthrough](https://youtu.be/j13jT2iQKOw) | Fine-tuning LLMs with Hugging Face SFT 🚀  QLoRA LLMOps | | DONE | [notes](finetuning.md) 
+87 | [stanford RAG](https://youtu.be/mE7IDf2SmJg) | Stanford CS25: V3 I Retrieval Augmented Language Models | advanced stuff | WIP | [notes](stan_rag.md) 
+88 | [colbertv2](https://youtu.be/xTzUn3G9YA0) | Supercharge Your RAG with Contextualized Late Interactions | | WIP | [notes](colbertv2.md) 
 
 
 26 | []() |  | | TODO | [notes]() 
@@ -98,8 +102,6 @@ https://youtu.be/M8FY4ZvAf5w
 https://youtu.be/s-jYxgKMqRc
 https://www.youtube.com/watch?v=kmkcNVvEz-k
 
-sentdex finetunign
-https://youtu.be/pCX_3p40Efc
 
 new finetunign
 https://huggingface.co/docs/trl/main/en/sft_trainer
@@ -146,8 +148,6 @@ https://www.youtube.com/watch?v=fMGPF2gpK4w
 Galore
 https://youtu.be/2_6aHjHIcC4
 
-ColBERTv2
-https://youtu.be/xTzUn3G9YA0
 
 DEJAU
 https://youtu.be/DUkWMoi5nG4
@@ -163,18 +163,27 @@ https://youtu.be/Evg4HXvsYVY
 https://docs.anthropic.com/claude/docs/helper-metaprompt-experimental
 https://github.com/anthropics/anthropic-cookbook/
 
+---
 
-Prompt Engineering
-https://www.youtube.com/watch?v=6d60zVdcCV4
+Elkevated RAG langchan
+https://youtu.be/XXnc55zypU0
+
+
+Txs turorial
+https://youtu.be/YIx6IRg3m1E
+
+
 
 
 https://github.com/eugeneyan/open-llms
 https://klu.ai/blog/open-source-llm-models
 https://www.datacamp.com/blog/top-open-source-llms
+
 Mistral, Falcon, Bloom, T5, Claude 3, Gemini, alpaca, plam2, phi
-ollama, LMStudio, metaGPT, perplexity, orca, axolotl  
+ollama, LMStudio, metaGPT, perplexity, orca, axolotl , instruct tuned, llm foundry
 lavauge, skyvern, cohere
 ppo(RLHF), dpo, galore, longlora, loftq, rslora, rope scaling, flash attention 2
+ROUGE, unieval
 
 
 
@@ -264,3 +273,9 @@ AI engineer
 Code Emporium
 Arxiv Papers
 AI Coffee Break with Letitia
+LLMops space
+Pieter Abbeel
+
+
+# Advanced
+https://youtu.be/AKbX1Zvo7r8
