@@ -1,0 +1,88 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: |
+  A basic ec2 instance
+Parameters:
+  InstanceType:
+    Description: ec2 instance descp
+    Type: String
+    Default: t3.nano
+Resources:
+  LogicalID:
+    Type: AWS::EC2::SecurityGroup
+    Properties:
+      GroupDescription: "String" # Required
+      GroupName: "String"
+      SecurityGroupEgress:
+        SecurityGroupEgress
+      SecurityGroupIngress:
+        SecurityGroupIngress
+      Tags:
+        Tags
+      VpcId: "String"
+  LogicalID:
+    Type: AWS::EC2::Instance
+    Properties:
+      AdditionalInfo: "String"
+      Affinity: "String"
+      AvailabilityZone: "String"
+      BlockDeviceMappings:
+        BlockDeviceMappings
+      CpuOptions:
+        CoreCount: Number
+        ThreadsPerCore: Number
+      CreditSpecification:
+        CPUCredits: "Number"
+      DisableApiTermination: false
+      EbsOptimized: false
+      ElasticGpuSpecifications:
+        ElasticGpuSpecifications
+      ElasticInferenceAccelerators:
+        ElasticInferenceAccelerators
+      EnclaveOptions:
+        Enabled: false
+      HibernationOptions:
+        Configured: false
+      HostId: "String"
+      HostResourceGroupArn: "String"
+      IamInstanceProfile: "String"
+      ImageId: "String"
+      InstanceInitiatedShutdownBehavior: "String"
+      InstanceType: "String"
+      Ipv6AddressCount: Number
+      Ipv6Addresses:
+        Ipv6Addresses
+      KernelId: "String"
+      KeyName: "String"
+      LaunchTemplate:
+        LaunchTemplateId: "String"
+        LaunchTemplateName: "String"
+        Version: "String"
+      LicenseSpecifications:
+        LicenseSpecifications
+      Monitoring: String
+      NetworkInterfaces:
+        NetworkInterfaces
+      PlacementGroupName: "String"
+      PrivateDnsNameOptions:
+        EnableResourceNameDnsAAAARecord: false
+        EnableResourceNameDnsARecord: false
+        HostnameType: "String"
+      PrivateIpAddress: "false"
+      PropagateTagsToVolumeOnCreation: String
+      RamdiskId: "String"
+      SecurityGroupIds:
+        SecurityGroupIds
+      SecurityGroups:
+        SecurityGroups
+      SourceDestCheck: false
+      SsmAssociations:
+        SsmAssociations
+      SubnetId: "String"
+      Tags:
+        Tags
+      Tenancy: "String"
+      UserData: "String"
+      Volumes:
+        Volumes
+  
+Outputs:

@@ -86,8 +86,22 @@ sno. | link | title | descp | status | md
 84 | [dpo alignment](https://youtu.be/QXVCqtAZAn4) | Aligning LLMs with Direct Preference Optimization | Really interesting | DONE | [notes](dpo_alignment.md) 
 85 | [a-z prompt](https://youtu.be/QYs90ps6rxk) | The A to Z of Prompt Engineering - Intro to Prompt Engineering | | DONE | [notes](a_z_prompt.md) 
 86 | [basic qlora code walkthrough](https://youtu.be/j13jT2iQKOw) | Fine-tuning LLMs with Hugging Face SFT 🚀  QLoRA LLMOps | | DONE | [notes](finetuning.md) 
-87 | [stanford RAG](https://youtu.be/mE7IDf2SmJg) | Stanford CS25: V3 I Retrieval Augmented Language Models | advanced stuff | WIP | [notes](stan_rag.md) 
-88 | [colbertv2](https://youtu.be/xTzUn3G9YA0) | Supercharge Your RAG with Contextualized Late Interactions | | WIP | [notes](colbertv2.md) 
+87 | [stanford RAG](https://youtu.be/mE7IDf2SmJg) | Stanford CS25: V3 I Retrieval Augmented Language Models | advanced stuff | DONE | [notes](stan_rag.md) 
+88 | [colbertv2](https://youtu.be/xTzUn3G9YA0) | Supercharge Your RAG with Contextualized Late Interactions | | DONE | [notes](colbertv2.md) 
+89 | [course CF]() | AWS CloudFormation - Simplified  Hands On with YAML | | TODO | [notes](aws_cloudformation__simplified__hands_on_with_yaml.md) 
+90 | [course bedrock]() | Amazon Bedrock and AWS Generative AI - Beginner to Advanced | | TODO | [notes](amazon_bedrock_and_aws_generative_ai__beginner_to_advanced.md) 
+91 | [course bedrock]() | Udemy - Amazon Bedrock - Hands On Training for Generative AI | | TODO | [notes](udemy__amazon_bedrock__hands_on_training_for_generative_ai.md) 
+92 | [course bedrock]() | Udemy - Amazon Bedrock Masterclass - The Ultimate Generative Ai Guide | | TODO | [notes](udemy__amazon_bedrock_masterclass__the_ultimate_generative_ai_guide.md) 
+93 | [course llamaindex]() | Udemy - LlamaIndex- Develop LLM powered applications with LlamaIndex | | TODO | [notes](udemy__llamaindex_develop_llm_powered_applications_with_llamaindex.md) 
+94 | [course langchain]() | Udemy - Mastering Langchain And Aws - A Guide To Economic Analysis | | TODO | [notes](udemy__mastering_langchain_and_aws__a_guide_to_economic_analysis.md) 
+95 | [course CF]() | Co-Udemy-AWS CloudFormation Master Class v2 [2022] | | TODO | [notes](coudemyaws_cloudformation_master_class_v2_2022.md) 
+96 | [course langchain]() | LangChain MasterClass-Develop 7 OpenAI LLM Apps using Python | | TODO | [notes](langchain_masterclass_develop_7_openai_llm_apps_using_python.md) 
+97 | [course CF]() | Linkedin - Advanced AWS CloudFormation for Enterprise | | WIP | [notes](linkedin__advanced_aws_cloudformation_for_enterprise.md) 
+98 | [course CF]() | Udemy - AWS CloudFormation Step By Step Beginner to Intermediate | | TODO | [notes](udemy__aws_cloudformation_step_by_step_beginner_to_intermediate.md) 
+99 | [Semantic Chunking](https://youtu.be/dt1Iobn_Hw0) | Semantic Chunking for RAG | | DONE | [notes](semantic_chuncking.md) 
+
+
+
 
 
 26 | []() |  | | TODO | [notes]() 
@@ -95,6 +109,7 @@ sno. | link | title | descp | status | md
 lin vs lch :
 https://youtu.be/g84uWgVXVYg
 https://youtu.be/xEgUC4bd_qI
+https://www.youtube.com/playlist?list=PLuu6A6nYhUZ-uBQEPhklIXww3xLeGnRhD
 
 
 
@@ -181,7 +196,7 @@ https://www.datacamp.com/blog/top-open-source-llms
 
 Mistral, Falcon, Bloom, T5, Claude 3, Gemini, alpaca, plam2, phi
 ollama, LMStudio, metaGPT, perplexity, orca, axolotl , instruct tuned, llm foundry
-lavauge, skyvern, cohere
+lavauge, skyvern, cohere, RAGAS
 ppo(RLHF), dpo, galore, longlora, loftq, rslora, rope scaling, flash attention 2
 ROUGE, unieval
 
@@ -208,74 +223,77 @@ https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024
 https://sebastianraschka.com/blog/2024/lora-dora.html
 https://www.databricks.com/blog/efficient-fine-tuning-lora-guide-llms
 https://arxiv.org/html/2402.10958v1
+https://www.kdnuggets.com/7-steps-to-mastering-large-language-model-fine-tuning
 
 
 
 ## Channels : 
-Freecodecamp
-Mircosoft reactor
-AWS
-AI Anytime
-Shaw Talebi
-Sam Witteveen
-Venelin Valkov
-PyTorch
-Prompt Engineering
-LlamaIndex
-Pradip Nichite
-James Briggs
-Alex Chao
-DVCorg
-Adrian Twarog
-Rabbit Holke Syndrome
-Zilliz
-AI Makerspace
-Johnny Code
-Tim Carambat
-DSwithBappy
-Greg Kamradt
-AI with Tarun
-CMU DB group
-Ryan nolan Data
-Thursday Content
-AI Round table
-Sunny Savita
-Brian H Hough
-AWS Event
-MLOPs Community
-DeepLearningAI
-Daniel Bourke
-Harvard Data Science Initiative
-KGP Talkie
-Jonathan Yarkoni
-Umar Jamil
-Coding Tech
-Andrej Karpathy
-Keith Galli
-Entry Point AI
-Trelis Research
-What's AI by Louis-François Bouchard
-Coding Crashcourse
-Oxen
-brev
-sentdex
-Gabriel Mongaras
-TwoSetAI
-Super Data Science ML
-Matt Wolfe
-PyData
-Yannic Kilcher
-Stanford Online
-Matthew Berman
-AI paper Academy
-1littlecoder
-AI engineer
-Code Emporium
-Arxiv Papers
-AI Coffee Break with Letitia
-LLMops space
-Pieter Abbeel
-
+- Freecodecamp
+- Mircosoft reactor
+- AWS
+- AI Anytime
+- Shaw Talebi
+- Sam Witteveen
+- Venelin Valkov
+- PyTorch
+- Prompt Engineering
+- LlamaIndex
+- Pradip Nichite
+- James Briggs
+- Alex Chao
+- DVCorg
+- Adrian Twarog
+- Rabbit Holke Syndrome
+- Zilliz
+- AI Makerspace
+- Johnny Code
+- Tim Carambat
+- DSwithBappy
+- Greg Kamradt
+- AI with Tarun
+- CMU DB group
+- Ryan nolan Data
+- Thursday Content
+- AI Round table
+- Sunny Savita
+- Brian H Hough
+- AWS Event
+- MLOPs Community
+- DeepLearningAI
+- Daniel Bourke
+- Harvard Data Science Initiative
+- KGP Talkie
+- Jonathan Yarkoni
+- Umar Jamil
+- Coding Tech
+- Andrej Karpathy
+- Keith Galli
+- Entry Point AI
+- Trelis Research
+- What's AI by Louis-François Bouchard
+- Coding Crashcourse
+- Oxen
+- brev
+- sentdex
+- Gabriel Mongaras
+- TwoSetAI
+- Super Data Science ML
+- Matt Wolfe
+- PyData
+- Yannic Kilcher
+- Stanford Online
+- Matthew Berman
+- AI paper Academy
+- 1littlecoder
+- AI engineer
+- Code Emporium
+- Arxiv Papers
+- AI Coffee Break with Letitia
+- LLMops space
+- Pieter Abbeel
+- AI Tools Search
+- Greg Kamradt
+- Mervin Praison
 
 # Advanced
 https://youtu.be/AKbX1Zvo7r8
