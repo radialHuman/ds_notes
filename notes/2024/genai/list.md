@@ -99,6 +99,13 @@ sno. | link | title | descp | status | md
 97 | [course CF]() | Linkedin - Advanced AWS CloudFormation for Enterprise | | WIP | [notes](linkedin__advanced_aws_cloudformation_for_enterprise.md) 
 98 | [course CF]() | Udemy - AWS CloudFormation Step By Step Beginner to Intermediate | | TODO | [notes](udemy__aws_cloudformation_step_by_step_beginner_to_intermediate.md) 
 99 | [Semantic Chunking](https://youtu.be/dt1Iobn_Hw0) | Semantic Chunking for RAG | | DONE | [notes](semantic_chuncking.md) 
+100 | [ORPO](https://youtu.be/OWMJ0rBUj04) | Combined Preference and Supervised Fine Tuning with ORPO | Nice details | DONE | [notes](orpo_1.md) 
+101 | [orpo](https://youtu.be/6kkJGkPZP88) | ORPO: NEW DPO Alignment and SFT Method for LLM |  | DONE | [notes](orpo_2.md) 
+102 | [Sparse and Dense Embeddings](https://youtu.be/6_Tjdu6IZdA) | Exploring Sparse and Dense Embeddings: A Guide for Effective Information Retrieval with Milvus | | TODO | [notes]( sparse_dense_embed.md) 
+103 | [5 levels](https://youtu.be/8OJC21T2SL4) | The 5 Levels Of Text Splitting For Retrieval | important stuff | DONE | [notes](5_chunking.md) 
+104 | [llm with Qlora](https://youtu.be/9Ieaf42tOnw) | Webinar: How to Fine-Tune LLMs with QLoRA | | DONE | [notes](decillm_qlora.md) 
+
+
 
 
 
@@ -169,8 +176,10 @@ https://youtu.be/DUkWMoi5nG4
 
 RAFT
 https://youtu.be/l3F1MFM47v8
+https://youtu.be/sqPckknlgDc
+https://www.youtube.com/watch?v=hH3k9KWmzfA
 
-Instruct TUned
+Instruct Tuned
 https://www.youtube.com/watch?v=eTieetk2dSw&pp=ygUMaW5zdHJ1Y3QgbGxt
 
 Claude3
@@ -187,6 +196,9 @@ https://youtu.be/XXnc55zypU0
 Txs turorial
 https://youtu.be/YIx6IRg3m1E
 
+Advaneced retrivalk
+https://youtu.be/KQjZ68mToWo
+
 
 
 
@@ -196,9 +208,10 @@ https://www.datacamp.com/blog/top-open-source-llms
 
 Mistral, Falcon, Bloom, T5, Claude 3, Gemini, alpaca, plam2, phi
 ollama, LMStudio, metaGPT, perplexity, orca, axolotl , instruct tuned, llm foundry
-lavauge, skyvern, cohere, RAGAS
-ppo(RLHF), dpo, galore, longlora, loftq, rslora, rope scaling, flash attention 2
-ROUGE, unieval
+lavauge, skyvern, cohere
+ppo(RLHF), dpo, orpo, galore, longlora, loftq, rslora, rope scaling, 
+ROUGE, unieval, ragas
+flash attention 2
 
 
 
@@ -228,72 +241,74 @@ https://www.kdnuggets.com/7-steps-to-mastering-large-language-model-fine-tuning
 
 
 ## Channels : 
-- Freecodecamp
-- Mircosoft reactor
-- AWS
-- AI Anytime
-- Shaw Talebi
-- Sam Witteveen
-- Venelin Valkov
-- PyTorch
-- Prompt Engineering
-- LlamaIndex
-- Pradip Nichite
-- James Briggs
-- Alex Chao
-- DVCorg
-- Adrian Twarog
-- Rabbit Holke Syndrome
-- Zilliz
-- AI Makerspace
-- Johnny Code
-- Tim Carambat
-- DSwithBappy
-- Greg Kamradt
-- AI with Tarun
-- CMU DB group
-- Ryan nolan Data
-- Thursday Content
-- AI Round table
-- Sunny Savita
-- Brian H Hough
-- AWS Event
-- MLOPs Community
-- DeepLearningAI
-- Daniel Bourke
-- Harvard Data Science Initiative
-- KGP Talkie
-- Jonathan Yarkoni
-- Umar Jamil
-- Coding Tech
-- Andrej Karpathy
-- Keith Galli
-- Entry Point AI
-- Trelis Research
-- What's AI by Louis-François Bouchard
-- Coding Crashcourse
-- Oxen
-- brev
-- sentdex
-- Gabriel Mongaras
-- TwoSetAI
-- Super Data Science ML
-- Matt Wolfe
-- PyData
-- Yannic Kilcher
-- Stanford Online
-- Matthew Berman
-- AI paper Academy
-- 1littlecoder
-- AI engineer
-- Code Emporium
-- Arxiv Papers
-- AI Coffee Break with Letitia
-- LLMops space
-- Pieter Abbeel
-- AI Tools Search
-- Greg Kamradt
-- Mervin Praison
+1. Freecodecamp
+2. Mircosoft reactor
+3. AWS
+4. AI Anytime
+5. Shaw Talebi
+6. Sam Witteveen
+7. Venelin Valkov
+8. PyTorch
+9. Prompt Engineering
+10. LlamaIndex
+11. Pradip Nichite
+12. James Briggs
+13. Alex Chao
+14. DVCorg
+15. Adrian Twarog
+16. Rabbit Holke Syndrome
+17. Zilliz
+18. AI Makerspace
+19. Johnny Code
+20. Tim Carambat
+21. DSwithBappy
+22. Greg Kamradt
+23. AI with Tarun
+24. CMU DB group
+25. Ryan nolan Data
+26. Thursday Content
+27. AI Round table
+28. Sunny Savita
+29. Brian H Hough
+30. AWS Event
+31. MLOPs Community
+32. DeepLearningAI
+33. Daniel Bourke
+34. Harvard Data Science Initiative
+35. KGP Talkie
+36. Jonathan Yarkoni
+37. Umar Jamil
+38. Coding Tech
+39. Andrej Karpathy
+40. Keith Galli
+41. Entry Point AI
+42. Trelis Research
+43. What's AI by Louis-François Bouchard
+44. Coding Crashcourse
+45. Oxen
+46. brev
+47. sentdex
+48. Gabriel Mongaras
+49. TwoSetAI
+50. Super Data Science ML
+51. Matt Wolfe
+52. PyData
+53. Yannic Kilcher
+54. Stanford Online
+55. Matthew Berman
+56. AI paper Academy
+57. 1littlecoder
+58. AI engineer
+59. Code Emporium
+60. Arxiv Papers
+61. AI Coffee Break with Letitia
+62. LLMops space
+63. Pieter Abbeel
+64. AI Tools Search
+65. Greg Kamradt
+66. Mervin Praison
+67. AI FLux
+68. Deci AI
 
 # Advanced
 https://youtu.be/AKbX1Zvo7r8
