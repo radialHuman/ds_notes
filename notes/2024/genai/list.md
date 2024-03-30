@@ -63,7 +63,7 @@ sno. | link | title | descp | status | md
 61 | [Prod LLM](https://www.youtube.com/watch?v=fo0F-DAum7E) | Prod LLM  |  | TODO | [notes]()
 62 | [RAG step/step](https://www.youtube.com/watch?v=qN_2fnOPY-M&pp=ygUYcmFnIHNjcmF0Y2ggc3RlcCBieSBzdGVw) | Local Retrieval Augmented Generation (RAG) from Scratch (step by step tutorial) |  | TODO | [notes]()
 63 | [DL channel](https://www.youtube.com/@Deeplearningai/streams) | DeepLearning |  | TODO | [notes]()
-64 | [LanagChain Channel](https://www.youtube.com/@LangChain/videos) | LangChain |  | TODO | [notes]()
+64 | [LangChain Channel](https://www.youtube.com/@LangChain/videos) | LangChain |  | TODO | [notes]()
 65 | [LLM 5 formula](https://www.youtube.com/watch?v=k9DnQPrfJQs&pp=ygUTNSBmb3JtdWxhIHRyYWluIGxsbQ%3D%3D) | LLMs in 5 formula |  | TODO | [notes]()
 66 | [Vector DB](https://www.youtube.com/watch?v=9iou9s0L8Fs&pp=ygUSemlsbGlzIHJvdW5kdGFibGUn) | Zilliz Roundtable // Why Purpose-built Vector Databases Matter for Your Use Case |  | TODO | [notes]()
 67 | [Finetune playlist](https://www.youtube.com/playlist?list=PLrLEqwuz-mRIEtuUEN8sse2XyksKNN4Om) | Finetuning playlist |  | WIP | [notes](finetune_playlist.md)
@@ -104,6 +104,7 @@ sno. | link | title | descp | status | md
 102 | [Sparse and Dense Embeddings](https://youtu.be/6_Tjdu6IZdA) | Exploring Sparse and Dense Embeddings: A Guide for Effective Information Retrieval with Milvus | | TODO | [notes]( sparse_dense_embed.md) 
 103 | [5 levels](https://youtu.be/8OJC21T2SL4) | The 5 Levels Of Text Splitting For Retrieval | important stuff | DONE | [notes](5_chunking.md) 
 104 | [llm with Qlora](https://youtu.be/9Ieaf42tOnw) | Webinar: How to Fine-Tune LLMs with QLoRA | | DONE | [notes](decillm_qlora.md) 
+105 | [Updated Langchain](https://www.youtube.com/playlist?list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ) | langchain ecosystem | | TODO | [notes](lang_chain_eco.md) 
 
 
 
@@ -142,7 +143,7 @@ Raptor
 https://youtu.be/zfHQSr_s9PM
 https://youtu.be/bpeeqbBIH1A
 https://youtu.be/37JSz9SvECI
-https://youtu.be/jbGchdTL7d0
+https://youtu.be/jbGchdTL7d0 : https://github.com/langchain-ai/rag-from-scratch/tree/main, https://github.com/langchain-ai/langchain/blob/master/cookbook/RAPTOR.ipynb
 
 litllm
 https://youtu.be/1Dh6NpjiXq4
@@ -206,16 +207,55 @@ https://github.com/eugeneyan/open-llms
 https://klu.ai/blog/open-source-llm-models
 https://www.datacamp.com/blog/top-open-source-llms
 
-Mistral, Falcon, Bloom, T5, Claude 3, Gemini, alpaca, plam2, phi
-ollama, LMStudio, metaGPT, perplexity, orca, axolotl , instruct tuned, llm foundry
-lavauge, skyvern, cohere
-ppo(RLHF), dpo, orpo, galore, longlora, loftq, rslora, rope scaling, 
-ROUGE, unieval, ragas
-flash attention 2
+## Jargons
 
+- models :
+    - Mistral, Falcon, Bloom, T5, Claude 3, Gemini, alpaca, plam2, phi, dbrx, llama, openai
+- data and tools :
+    - ollama, LMStudio, metaGPT, perplexity, orca, axolotl , instruct tuned, llm foundry, llamafactory
+- libraries
+    - lang
+        - chain
+        - serve
+        - smith
+        - LCEL
+    - llamaindex
+        - llamaparser
+    - dspy
+- Rag techniques
+    - ...
+- chunking 
+    - raptor, semantic, agentic
+- platforms :
+    - lavauge, skyvern, cohere
+- training :
+    - ppo(RLHF), dpo, sDPO, orpo,
+- peft :
+    - longlora, loftq, rslora, lora, qlora, lora+, galore, dora, neft, unsloth
+- ???
+    - rope scaling, flash attention 2
+- evaluation :
+    - ROUGE, unieval, ragas, autoeval
+- Agent :
+    - crew ai, react agent, self-refine
+- inference :
+    - chain of thought
+- ???
+    - function calling llm
+- quantization :
+    - gptq, gguf, awq, GGml
+- agentic :
+    - reflection, tool, planning, multi agent collboration
+- Vector DB
+    pinecone, chroma, Faiss
+- AWS
+    - sagemaker
+    - bedrock
+    - CloudFormation
+- 
 
-
-
+Self-Refine: Iterative Refinement with Self-Feedback, Madaan et al. (2023)
+Reflexion: Language Agents with Verbal Reinforcement Learning, Shinn et al., (2023)
 
 
 
@@ -237,7 +277,7 @@ https://sebastianraschka.com/blog/2024/lora-dora.html
 https://www.databricks.com/blog/efficient-fine-tuning-lora-guide-llms
 https://arxiv.org/html/2402.10958v1
 https://www.kdnuggets.com/7-steps-to-mastering-large-language-model-fine-tuning
-
+https://www.promptingguide.ai/research/rag
 
 
 ## Channels : 
@@ -310,5 +350,8 @@ https://www.kdnuggets.com/7-steps-to-mastering-large-language-model-fine-tuning
 67. AI FLux
 68. Deci AI
 
+1. Maxime Labonne
+
 # Advanced
-https://youtu.be/AKbX1Zvo7r8
+Policy Gradients and Advantage Estimation : https://youtu.be/AKbX1Zvo7r8
+sDPO : https://youtu.be/O77abFFxk_Q

@@ -1,6 +1,8 @@
 .ipynb_checkpoints
 data/
-*.py
+./*.py
 requirement.md
-notebooks
-*.ipynb
+# notebooks
+./*.ipynb
+*.txt
+*.pdf
