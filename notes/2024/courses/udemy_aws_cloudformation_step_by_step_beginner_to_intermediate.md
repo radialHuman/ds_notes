@@ -149,7 +149,7 @@ AWSTemplateFormatVersion: 2010-09-09
 Description: testing writting template
 Resources: #whatever comes under it will be tabbed
  # every resource should have logical ID which is alpha numeric and unique to the template
-    WebServerInstance: # this is a logical id?
+    WebServerInstance: # these are logical IDs which can be anything but comprehensibe and unique for each resource
         Type: AWS::EC2::Instance
         # this is can be found in the resource and property type documentation online, select EC2 and then all the EC2 related types will be listed, click and see its properties in yaml and json, required 
         Properties: # this is to confugure the resource
@@ -168,6 +168,290 @@ Resources: #whatever comes under it will be tabbed
 - Upload it with a new stack
 
 #### 4 Editing a stack
+- Adding a new resource
+```yaml
+AWSTemplateFormatVersion: 2010-09-09
+Description: testing writting template
+Resources: 
+    WebServerInstance: 
+        Type: AWS::EC2::Instance
+        types will be listed, click and see its properties in yaml and json, required 
+        Properties: 
+            ImageID: ami-0ds0fdf0df 
+            InstanceType: t2.micro 
+            Tag: 
+                -
+                    key: Name
+                    value: Web server
+                - 
+                    key : Project
+                    value : step by step learning
+    WebServerSecurityGroup:
+        Type: AWS::EC2::SecurityGroup
+        Property: # get it form https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-ec2-securitygroup.html
+            GroupDescription: Sec group for web service #required
+            # GroupName: String #not required, auto generated unique id
+            # SecurityGroupEgress: 
+                # - Egress
+            SecurityGroupIngress:  # not required, but its a custom format, so details from doc
+                - # copy details from doc since its about security, its out of scope
+            Tag: 
+                -
+                    key: Name
+                    value: Web server sec group
+            # VpcId: String
+```
+- Save the template
+- To update the stack go to the CF gui 
+    - Action -> update stack -> replace current template
+    - Similar to new template upload upload the updated one from s3/local
+    - make the same configuration as done while building the OG one
+    - in review change set preview check for the new resources added
+    - review and update it
+- When the update is completed then check the resources 
+- But the new resource si not conencted to the OG resource EC2
+
+#### 5 Linking two resources
+- Intrinsic function help in linking two resources
+- Bulit in groups of functions to manage stack
+- used for assining prop during runtime
+- most common one is ref function
+    - used to retuen value of a resoucre or parameter
+    - using the logicla id of the resource, ref fucntion gets value to be used as reference to that resource
+    - The returned value are in AWS CF resource and propert type reference doc
+    - In any resoruce doc page look for return value tab on the right
+        - ex :https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-ec2-securitygroup.html#aws-resource-ec2-securitygroup-return-values
+    - Where can this information be palced in another resource in outr case ec2
+        - GO to ec2 instance resource type
+        - there in yaml we find two places
+            - SecurityGroupIds: 
+                - String #  Array of String
+            - SecurityGroups: 
+                - String # ignore
+        - to make changes in the yaml file
+```yaml
+WebServerInstance: 
+        Type: AWS::EC2::Instance
+        types will be listed, click and see its properties in yaml and json, required 
+        Properties: 
+            ImageID: ami-0ds0fdf0df 
+            InstanceType: t2.micro 
+            # this s where the new lines for reference will go
+            SecurityGroupIds: # this tag is from doc, depends on the resource type for existence
+            # this is one way of typing the ref function
+                - 
+                    Ref: WebServerSecurityGroup
+            # there is another way which will come later
+            Tag: 
+                -
+                    key: Name
+                    value: Web server
+                - 
+                    key : Project
+                    value : step by step learning
+```
+- Once it supdated, it should be updated in the stack in gui, the same way as in previous section
+- Result can be seen in EC2 instance resource
+    - look for unning instance
+    - see its desciprtion
+    - Details from securitygroup will be visible
+- Here the previous version of ec2 without ref will get terminated
+- and a new version will be updated
+
+#### 6 Stack update with replacement
+- When a resource is udpated, old one is terminated and removed later and replaces it with new instance
+- This is visible in Events log of CF
+- Even though adding sec group to running ec2 instance is easy the resource of ec2 insatnce is deleted and replaced with a new one
+- More info of this can be found in https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/using-cfn-updating-stacks-update-behaviors.html#update-some-interrupt
+    - Default: Amazon EC2 uses the default security group.
+    - Required: No
+    - Type: Array of String
+    - Update requires: Some interruptions
+- Since no vpc was given , it created a new one
+- Deletec stack to clean resources
+    - but there can be dependcies, so ordering them is important
+
+#### 7 Ordering Resource creation
+- How to order resources and
+- How to define custom dependencies
+- Implicit ordering (when there is order automatically)
+    - When there is no depdnencies between resources, they are created and deleted parallely
+    - Like in the fsecond video, without refrence in EC2 instance
+    - When there is depdnency i.e. ec2 has reference from security group
+        - Sec group is created before and then ec2 instance gets started
+    - while deleting it (its reverse)
+        - first ec2 will be taken away then sec group
+- Explicit ordering (when the order is user enforced)
+    - ```yaml
+        AWSTemplateFormatVersion: 2010-09-09
+        Description: testing writting template
+        Resources: 
+            WebServerInstance: 
+                Type: AWS::EC2::Instance
+                types will be listed, click and see its properties in yaml and json, required 
+                Properties: 
+                    ImageID: ami-0ds0fdf0df 
+                    InstanceType: t2.micro 
+                    Tag: 
+                        -
+                            key: Name
+                            value: Web server
+                        - 
+                            key : Project
+                            value : step by step learning
+            WebServerSecurityGroup:
+                Type: AWS::EC2::SecurityGroup
+                Property: aws-resource-ec2-securitygroup.html
+                    GroupDescription: Sec group for web service 
+                    SecurityGroupIds: 
+                        - 
+                            Ref: WebServerSecurityGroup
+                    Tag: 
+                        -
+                            key: Name
+                            value: Web server sec group
+                    
+            # creating a new resource sqs with explicit depdndency in ec2
+            SQSQueue:
+                Type: AWS::SQS::Queue
+                # if its stopped here then all 3 resources will be created and deleted in ||le
+                # to force creation os sqs after ec2 the following helps
+                # depndsON must be at type indentation level
+                DependsOn: # multiple things can be added  ??? will that also be in order
+                    - WebServerInstance
+        ```
+
+#### 8 Demo activity
+- Part 1
+    1. Define VPC resource
+    2. Add subnet to VPC which maps public IP to EC2 instance launched inside it
+    3. add route table in vpc associate ti with VPC
+    4. Attach internet gateway to VPC
+    5. Add a route in table for internet access via your internet gateway
+    6. Define Ec2 instance in public subnet
+    7. The create stack form this temp
+- Part 2
+    1. Edit temp : add sec group which has ingress rule to allow ping ICMP protocol
+    2. Attach this sec group to ec2 instance
+    3. Update stack with edited temp
+    4. Test ec2 by oing public ip address
+
+#### 9 Demo answer
+- Adding ony required property
+- Not sure about the resources and details so help is taken from the answer
+- Part 1
+```yaml
+    AWSTemplateFormatVersion: 2010-09-09
+    Description: demo 2
+    Resources:
+    # 1
+        VPCResource:
+            Type: AWS::EC2::VPC
+            Description : VPC resource
+            Property: 
+                CidrBlock: 10.10.10.0/16
+            Tags:
+                -
+                    Key : Name
+                    Value : VPC
+    # 2
+        SubnetResource:
+            Type: AWS::EC2::Subnet
+            Property : 
+                CidrBlock: 10.10.10.0/24
+                VpcId: !Ref VPCResource # required, taken from answer
+                MapPublicIpOnLaunch: true # for ec2
+                Tag: 
+                    - 
+                        Key: Name
+                        Value : Subnet
+    # 3
+        RouteTable:
+            Type : AWS::EC2::RouteTable
+            Property:
+                VpcId: !Ref VPCResource # required, taken from answer
+                Tag: 
+                    - 
+                        Key: Name
+                        Value : RouteTable
+    # 4a
+        InternetGateway:
+            Type : AWS::EC2::InternetGateway
+            # to connect to VPC, see more info in https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-ec2-vpcgatewayattachment.html
+    # 4b
+        VPCInternetGateway:
+            Type : AWS::EC2::VPCGatewayAttachment
+            Property:
+                VpcId: !Ref VPCResource # required, taken from answer
+                InternetGatewayId : !Ref InternetGateway 
+    # 5a
+        InternetRoute:
+            Type: AWS::EC2::Route
+            DependsOn: InternetGateway # required as its dependency, from the answer
+            Property: 
+                RouteTableId: !Ref RouteTable
+                DestinationCidrBlock: 0.0.0.0/0
+                GatewayId: !Ref InternetGateway
+    # 5b
+        #not sure why this is in the answer
+        SubRouteTable:
+            Type: AWS::EC2::SubnetRouteTableAssociation
+            Properties:
+                RouteTableId: !Ref RouteTable
+                SubnetId: !Ref SubnetResource
+    # 6
+        EC2Instance:
+            Type: AWS::EC2::Instance
+            DependsOn:
+                - InternetRoute
+                - SubRouteTable
+            Properties:        
+                InstanceType : t2.micro
+                SubnetId: !Ref SubnetResource
+                ImageId: ami-q34235435345
+
+```
+- Upload
+- Part 2
+```yaml
+        EC2Instance:
+                    Type: AWS::EC2::Instance
+                    DependsOn:
+                        - InternetRoute
+                        - SubRouteTable
+                    Properties:        
+                        InstanceType : t2.micro
+                        SubnetId: !Ref SubnetResource
+                        ImageId: ami-q34235435345
+                    SecurityGroupIds:
+                            - !Ref ActivitySecurityGroup
+        ActivitySecurityGroup:
+            Type: AWS::EC2::SecurityGroup 
+            Properties:
+            GroupDescription: Activity security group #not required
+            VpcId: !Ref ActivityVpc
+            SecurityGroupIngress:
+                -
+                CidrIp: 0.0.0.0/0 
+                IpProtocol: icmp
+                FromPort: -1
+                ToPort: -1
+```
+
+### Resource
+- 
+
+### misc
+ 
+---
+
+## [Parameters]()
+Release date : 
+### Idea
+- 
+
+### Details
+- 
 
 ### Resource
 - 

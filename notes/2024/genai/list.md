@@ -97,7 +97,7 @@ sno. | link | title | descp | status | md
 95 | [course CF]() | Co-Udemy-AWS CloudFormation Master Class v2 [2022] | | TODO | [notes](coudemyaws_cloudformation_master_class_v2_2022.md) 
 96 | [course langchain]() | LangChain MasterClass-Develop 7 OpenAI LLM Apps using Python | | TODO | [notes](langchain_masterclass_develop_7_openai_llm_apps_using_python.md) 
 97 | [course CF]() | Linkedin - Advanced AWS CloudFormation for Enterprise | | WIP | [notes](linkedin__advanced_aws_cloudformation_for_enterprise.md) 
-98 | [course CF]() | Udemy - AWS CloudFormation Step By Step Beginner to Intermediate | | TODO | [notes](udemy__aws_cloudformation_step_by_step_beginner_to_intermediate.md) 
+98 | [course CF]() | Udemy - AWS CloudFormation Step By Step Beginner to Intermediate | | WIP | [notes](udemy__aws_cloudformation_step_by_step_beginner_to_intermediate.md) 
 99 | [Semantic Chunking](https://youtu.be/dt1Iobn_Hw0) | Semantic Chunking for RAG | | DONE | [notes](semantic_chuncking.md) 
 100 | [ORPO](https://youtu.be/OWMJ0rBUj04) | Combined Preference and Supervised Fine Tuning with ORPO | Nice details | DONE | [notes](orpo_1.md) 
 101 | [orpo](https://youtu.be/6kkJGkPZP88) | ORPO: NEW DPO Alignment and SFT Method for LLM |  | DONE | [notes](orpo_2.md) 
@@ -105,6 +105,7 @@ sno. | link | title | descp | status | md
 103 | [5 levels](https://youtu.be/8OJC21T2SL4) | The 5 Levels Of Text Splitting For Retrieval | important stuff | DONE | [notes](5_chunking.md) 
 104 | [llm with Qlora](https://youtu.be/9Ieaf42tOnw) | Webinar: How to Fine-Tune LLMs with QLoRA | | DONE | [notes](decillm_qlora.md) 
 105 | [Updated Langchain](https://www.youtube.com/playlist?list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ) | langchain ecosystem | | TODO | [notes](lang_chain_eco.md) 
+106 | [colbert](https://youtu.be/kEgeegk9iqo) | Advanced RAG with ColBERT in LangChain and LlamaIndex | | TODO | [notes](colbert_lang_llama.md) 
 
 
 
@@ -210,12 +211,13 @@ https://www.datacamp.com/blog/top-open-source-llms
 ## Jargons
 
 - models :
-    - Mistral, Falcon, Bloom, T5, Claude 3, Gemini, alpaca, plam2, phi, dbrx, llama, openai
+    - Mistral, Falcon, Bloom, T5, Claude 3, Gemini, plam2, phi, dbrx, llama, openai, babyllm, Mosaic MPT
 - data and tools :
-    - ollama, LMStudio, metaGPT, perplexity, orca, axolotl , instruct tuned, llm foundry, llamafactory
+    - ollama, alpaca, LMStudio, metaGPT, perplexity, orca, axolotl , instruct tuned, llm foundry, llamafactory
 - libraries
     - lang
         - chain
+            - extract
         - serve
         - smith
         - LCEL
@@ -229,21 +231,25 @@ https://www.datacamp.com/blog/top-open-source-llms
 - platforms :
     - lavauge, skyvern, cohere
 - training :
-    - ppo(RLHF), dpo, sDPO, orpo,
+    - ppo(RLHF), dpo, sDPO, orpo, 
+    - FT, RAG, RAFT
 - peft :
     - longlora, loftq, rslora, lora, qlora, lora+, galore, dora, neft, unsloth
 - ???
     - rope scaling, flash attention 2
 - evaluation :
+    - Code : human eval
     - ROUGE, unieval, ragas, autoeval
 - Agent :
-    - crew ai, react agent, self-refine
+    - crew ai, reAct agent, self-refine
+    - Inventor, APNL, Language Agent Tree search, LDB+Reflexion, CodeT, MetaGPT, ANPL, AgentCoder
+    - devin
 - inference :
     - chain of thought
 - ???
     - function calling llm
 - quantization :
-    - gptq, gguf, awq, GGml
+    - gptq, gguf, awq, GGml, exl2
 - agentic :
     - reflection, tool, planning, multi agent collboration
 - Vector DB
@@ -252,7 +258,9 @@ https://www.datacamp.com/blog/top-open-source-llms
     - sagemaker
     - bedrock
     - CloudFormation
-- 
+- ui
+    - chainlit
+    - gradio
 
 Self-Refine: Iterative Refinement with Self-Feedback, Madaan et al. (2023)
 Reflexion: Language Agents with Verbal Reinforcement Learning, Shinn et al., (2023)
@@ -349,6 +357,7 @@ https://www.promptingguide.ai/research/rag
 66. Mervin Praison
 67. AI FLux
 68. Deci AI
+69. HuggingFace
 
 1. Maxime Labonne
 
