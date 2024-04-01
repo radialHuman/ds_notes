@@ -106,6 +106,8 @@ sno. | link | title | descp | status | md
 104 | [llm with Qlora](https://youtu.be/9Ieaf42tOnw) | Webinar: How to Fine-Tune LLMs with QLoRA | | DONE | [notes](decillm_qlora.md) 
 105 | [Updated Langchain](https://www.youtube.com/playlist?list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ) | langchain ecosystem | | TODO | [notes](lang_chain_eco.md) 
 106 | [colbert](https://youtu.be/kEgeegk9iqo) | Advanced RAG with ColBERT in LangChain and LlamaIndex | | TODO | [notes](colbert_lang_llama.md) 
+107 | [lisa](https://youtu.be/BYZ7H9JR9mU) | LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning | | WIP | [notes]() 
+108 | [dspy](https://youtu.be/NoaDWKHdkH) | DSPy: Transforming Language Model Calls into Smart Pipelines | round about way of explaning | TODO | [notes](dspy_1.md) 
 
 
 
@@ -231,10 +233,11 @@ https://www.datacamp.com/blog/top-open-source-llms
 - platforms :
     - lavauge, skyvern, cohere
 - training :
-    - ppo(RLHF), dpo, sDPO, orpo, 
+    - PPO(RLHF), DPO, SDPO, ORPO, 
     - FT, RAG, RAFT
 - peft :
-    - longlora, loftq, rslora, lora, qlora, lora+, galore, dora, neft, unsloth
+    - LONGLORA, LOFTQ, RSLORA, LORA, QLORA, LORA+, GALORE, DORA, NEFT, unsloth
+    - LISA
 - ???
     - rope scaling, flash attention 2
 - evaluation :
@@ -246,6 +249,7 @@ https://www.datacamp.com/blog/top-open-source-llms
     - devin
 - inference :
     - chain of thought
+    - vllm
 - ???
     - function calling llm
 - quantization :
@@ -253,7 +257,7 @@ https://www.datacamp.com/blog/top-open-source-llms
 - agentic :
     - reflection, tool, planning, multi agent collboration
 - Vector DB
-    pinecone, chroma, Faiss
+    pinecone, chroma, Faiss, Vespa
 - AWS
     - sagemaker
     - bedrock

@@ -451,7 +451,160 @@ Release date :
 - 
 
 ### Details
-- 
+#### 2 Intro
+- Optional section in CF template, to procvide custom values  while creating or updating stacks
+- Once its defined (like a variable), it can be read from resources or output section in the same template only
+- !Ref can be used to call parameters just like resources
+- Type of the parameter needs to be declared, so that it can be validated before creation or update of stack
+- Parameter types allowed:
+    - String : "xyz"
+    - Number : "123"
+    - List of numbers : ["80","20"]
+    - CommaDelimitedList : "test,dev,prod"
+    - AWS-specific parameter types :  from aws account
+        - AWS::EC2::AvailabilityZone::Name
+        - AWS::EC2::AvailabilityZone::Name
+        - AWS::EC2::Image::Id
+        - AWS::EC2::Instance::Id
+        - AWS::EC2::KeyPair::KeyName
+        - AWS::EC2::SecurityGroup::GroupName
+        - AWS::EC2::SecurityGroup::Id
+        - AWS::EC2::Subnet::Id
+        - AWS::EC2::Volume::Id
+        - AWS::EC2::VPC::Id
+        - AWS::Route53::HostedZone::Id
+        - List<AWS::EC2::AvailabilityZone::Name>
+        - List<AWS::EC2::Image::Id>
+        - List<AWS::EC2::Instance::Id>
+        - List<AWS::EC2::SecurityGroup::GroupName>
+        - List<AWS::EC2::SecurityGroup::Id>
+        - List<AWS::EC2::Subnet::Id>
+        - List<AWS::EC2::Volume::Id>
+        - List<AWS::EC2::VPC::Id>
+        - List<AWS::Route53::HostedZone::Id>
+    - SSM parameter types : from systems manager paramter store, advanced
+         - https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/parameters-section-structure.html#aws-ssm-parameter-types
+- Parameter constraints
+    - AllowedPattern
+    - AllowedValues
+    - ConstraintDescription
+    - Default
+    - Description
+    - MaxLength
+    - MaxValue
+    - MinLength
+    - MinValue
+    - NoEcho
+- There can be default values to these paramters also 
+- ALl this increases reuseability of the template
+- To prevent hardcoding in resources and properties like instance type, username and password
+
+
+#### 3 Defining parameters
+- Parameters are to be added before the resource as they are called after and looked before
+- Best to write the resources first and then add parameters ass required, above it
+```yaml
+AWSTemplateFormatVersion: 2010-09-09
+Description: Sample database stack for the Parameters section
+Parameters:
+  DbClass: # parameter name, like resource name cna be anythin but unique
+    Type: String 
+    Description: RDS instance class  # optional, but will be visible in GUi
+    AllowedValues: # constraint
+      - db.t2.micro
+      - db.t2.small
+    ConstraintDescription: 'DbClass parameter can only have these values: db.t2.micro, db.t2.small' # optinal but useful
+    Default: db.t2.micro 
+  MasterUsername:
+    Type: String 
+    Description: Master username for the db instance 
+    MaxLength: 10
+    Default: dbadmin
+    AllowedPattern: '[a-zA-Z][a-zA-Z0-9]*'
+    NoEcho: true 
+  MasterUserPassword:
+    Type: String 
+    Description: Master user password for the db instance 
+    MinLength: 8
+    NoEcho: true 
+  MultiAZ:
+    Type: String
+    Description: Enable Multi-AZ?
+    AllowedValues:
+      - true 
+      - false
+    ConstraintDescription: MultiAZ parameter should be either true or false.
+    Default: false 
+  AllocatedStorage:
+    Type: Number 
+    Description: Database storage size in GB
+    MinValue: 8
+    MaxValue: 20
+    ConstraintDescription: AllocatedStorage parameter value should be between 8 and 20.
+    Default: 8
+  SecurityGroupPorts:
+    Type: List<Number>
+    Description: 'Port numbers as a list: <web-server-port>,<database-port>'
+    Default: '80,3306'
+  DbSubnets:
+    Type: List<AWS::EC2::Subnet::Id>
+    Description: 'Db subnet ids as a list: <subnet1>,<subnet2>,...'
+  VpcId:
+    Type: AWS::EC2::VPC::Id 
+    Description: A valid VPC id in your AWS account
+Resources:
+  WebServerSecurityGroup:
+    Type: AWS::EC2::SecurityGroup
+    Properties:
+      VpcId: !Ref VpcId 
+      GroupDescription: 'Web server instances security group'
+      SecurityGroupIngress:
+        - 
+          CidrIp: 0.0.0.0/0
+          FromPort: 
+            Fn::Select: [ 0, !Ref SecurityGroupPorts ]
+          ToPort: !Select [ 0, !Ref SecurityGroupPorts ]
+          IpProtocol: tcp
+
+  # Note: Please replace the value of VpcId property
+  # with the VPC id of your default VPC
+  DbSecurityGroup:
+    Type: AWS::EC2::SecurityGroup
+    Properties:
+      VpcId: !Ref VpcId
+      GroupDescription: 'Database instances security group'
+      SecurityGroupIngress:
+        - 
+          CidrIp: 0.0.0.0/0
+          FromPort: !Select [ 1, !Ref SecurityGroupPorts ]
+          ToPort: !Select [ 1, !Ref SecurityGroupPorts ]
+          IpProtocol: tcp
+
+  # Note: Please replace the value of SubnetIds property 
+  # with the subnet ids of the subnets in your default VPC!
+  DbSubnetGroup:
+    Type: 'AWS::RDS::DBSubnetGroup'
+    Properties:
+      DBSubnetGroupDescription: Subnets to launch db instances into
+      SubnetIds: !Ref DbSubnets
+
+  DatabaseInstance:
+    Type: AWS::RDS::DBInstance
+    Properties:
+      DBInstanceClass: !Ref DbClass  # reference parameter
+      Engine: mariadb
+      MultiAZ: !Ref MultiAZ
+      PubliclyAccessible: true
+      AllocatedStorage: !Ref AllocatedStorage 
+      MasterUsername: !Ref MasterUsername
+      MasterUserPassword: !Ref MasterUserPassword
+      DBSubnetGroupName: !Ref DbSubnetGroup
+      VPCSecurityGroups: 
+        - !Ref DbSecurityGroup
+      
+```
+- Once this is uploaded in a new stack, there will be a Parameter section in the second page where parameter name will be displayed
+- Only by entering allowed values for these parameters manully can the stack be created else error
 
 ### Resource
 - 

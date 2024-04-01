@@ -23,7 +23,7 @@
 - Variant of LoRA where learning rate is involved in training Bt and A
 - If A is trained with LR then Bt is with 16x LR since its all 0 and must converge faster
 - Optimizer needs to be modified to train B faster than A
-- Not implemented in huggingFace yet may be in future custim functions will not be required
+- Not implemented in huggingFace yet may be in future, custom functions will not be required
 
 ## DORA : Weight-Decomposed Low-Rank Adaptation
 - Here the Wo is seen as M*D which is magnitude and directional matrix
