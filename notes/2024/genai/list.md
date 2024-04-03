@@ -75,7 +75,7 @@ sno. | link | title | descp | status | md
 73 | [Flacon LLM](https://youtu.be/gnyUUY8X-G4) | Falcon LLM |  | TODO | [notes]()
 74 | [usecase](https://www.youtube.com/watch?v=MeyVptCRubI) | Solving Real-World Data Science Problems with LLMs! (Historical Document Analysis) | | TODO | [notes]() 
 75 | [](https://youtu.be/g84uWgVXVYg) |  |  | TODO | [notes]()
-76 | [chunk size](https://www.youtube.com/watch?OBttxJ6FTBE) |  |  | TODO | [notes]()
+76 | [chunk size](https://www.youtube.com/watch?OBttxJ6FTBE) |  | JS based, not required | WIP | [notes]()
 77 | [mistral 7b local FT](https://www.youtube.com/watch?Wqf2GimAlWo) |  |  | TODO | [notes]()
 78 | [llama factory](https://www.youtube.com/watch?iMD7ba1hHgw) |  |  | TODO | [notes]()
 79 | [FT](https://www.youtube.com/watch?eC6Hd1hFvos) |  |  | TODO | [notes]()
@@ -108,7 +108,10 @@ sno. | link | title | descp | status | md
 106 | [colbert](https://youtu.be/kEgeegk9iqo) | Advanced RAG with ColBERT in LangChain and LlamaIndex | | TODO | [notes](colbert_lang_llama.md) 
 107 | [lisa](https://youtu.be/BYZ7H9JR9mU) | LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning | | WIP | [notes]() 
 108 | [dspy](https://youtu.be/NoaDWKHdkH) | DSPy: Transforming Language Model Calls into Smart Pipelines | round about way of explaning | TODO | [notes](dspy_1.md) 
-
+109 | [struggles of llms](https://youtu.be/bYiGlr777hg) | Long-context LLMs Struggle with Long In-context Learning | | DONE | [notes](llm_struggles.md)
+110 | [updated LC KN](https://www.youtube.com/playlist?list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ) | Updated Langchain | | WIP | [notes](updated_lang.md) 
+111 | [open llm alignment](https://youtu.be/uzxd7WUuWVM) | Advancing LLM Reasoning Generalists with Preference Trees| | TODO | [notes](advance_tree.md) 
+112 | [superhuman rag](https://youtu.be/bek8AGvt7dg) | SUPERHUMAN RAG | | TODO | [notes](superhuman.md) 
 
 
 
@@ -144,6 +147,7 @@ https://youtu.be/m6P1Rp91AzM
 
 Raptor
 https://youtu.be/zfHQSr_s9PM
+https://youtu.be/c9EVkLDd6_Q
 https://youtu.be/bpeeqbBIH1A
 https://youtu.be/37JSz9SvECI
 https://youtu.be/jbGchdTL7d0 : https://github.com/langchain-ai/rag-from-scratch/tree/main, https://github.com/langchain-ai/langchain/blob/master/cookbook/RAPTOR.ipynb
@@ -198,11 +202,13 @@ https://youtu.be/XXnc55zypU0
 
 
 Txs turorial
-https://youtu.be/YIx6IRg3m1E
+~~https://youtu.be/YIx6IRg3m1E~~
 
 Advaneced retrivalk
 https://youtu.be/KQjZ68mToWo
-
+https://youtu.be/rTSxt8DY8BE
+https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6
+https://medium.com/@bijit211987/optimizing-rag-for-llms-apps-53f6056d8118
 
 
 
@@ -213,7 +219,7 @@ https://www.datacamp.com/blog/top-open-source-llms
 ## Jargons
 
 - models :
-    - Mistral, Falcon, Bloom, T5, Claude 3, Gemini, plam2, phi, dbrx, llama, openai, babyllm, Mosaic MPT
+    - Mistral, Falcon, Bloom, T5, Claude 3, Gemini, Gemma, plam2, phi, dbrx, llama, openai, babyllm, jamba, Mosaic MPT
 - data and tools :
     - ollama, alpaca, LMStudio, metaGPT, perplexity, orca, axolotl , instruct tuned, llm foundry, llamafactory
 - libraries
@@ -227,13 +233,20 @@ https://www.datacamp.com/blog/top-open-source-llms
         - llamaparser
     - dspy
 - Rag techniques
-    - ...
+    - CRAG
+    - Self-RAG
+    - colbertv2
+    - MultiQueryRetriever
+    - Contextual Compression Ensemble Retrievers
+    - Self-Querying Retrievers
+    - Time Weighted Vector Store Retrievers
+    - |Re-Rank, RankGPT, RAG-Fusion 
 - chunking 
-    - raptor, semantic, agentic
+    - raptor, semantic, agentic, doc summary
 - platforms :
     - lavauge, skyvern, cohere
-- training :
-    - PPO(RLHF), DPO, SDPO, ORPO, 
+- alignment training :
+    - PPO(RLHF), DPO, SDPO, ORPO, KTO, IPO, NAC
     - FT, RAG, RAFT
 - peft :
     - LONGLORA, LOFTQ, RSLORA, LORA, QLORA, LORA+, GALORE, DORA, NEFT, unsloth
@@ -243,10 +256,15 @@ https://www.datacamp.com/blog/top-open-source-llms
 - evaluation :
     - Code : human eval
     - ROUGE, unieval, ragas, autoeval
+    - Github : swe-bench
+    - LM perpexity over long document
+    - pass key retirival task
+    - and long doc Q&A and summarization
+    - ICL
 - Agent :
     - crew ai, reAct agent, self-refine
     - Inventor, APNL, Language Agent Tree search, LDB+Reflexion, CodeT, MetaGPT, ANPL, AgentCoder
-    - devin
+    - devin, [swe-agent](https://github.com/princeton-nlp/SWE-agent),
 - inference :
     - chain of thought
     - vllm
@@ -265,6 +283,16 @@ https://www.datacamp.com/blog/top-open-source-llms
 - ui
     - chainlit
     - gradio
+- long context window
+    - alabi, rope embedding
+    - context window sliding and segmentation
+    - positional extrapolation and interpolation
+    - sliding memory window, chunk segmentation
+
+- ALT models
+    - mamba
+    - jamba
+    - RWKV 
 
 Self-Refine: Iterative Refinement with Self-Feedback, Madaan et al. (2023)
 Reflexion: Language Agents with Verbal Reinforcement Learning, Shinn et al., (2023)
@@ -290,6 +318,9 @@ https://www.databricks.com/blog/efficient-fine-tuning-lora-guide-llms
 https://arxiv.org/html/2402.10958v1
 https://www.kdnuggets.com/7-steps-to-mastering-large-language-model-fine-tuning
 https://www.promptingguide.ai/research/rag
+https://www.axios.com/2024/03/27/ai-chatbot-letdown-hype-reality
+LONG-FORM FACTUALITY IN LARGE LANGUAGE
+MODELS
 
 
 ## Channels : 
@@ -364,6 +395,47 @@ https://www.promptingguide.ai/research/rag
 69. HuggingFace
 
 1. Maxime Labonne
+
+
+# Libraries
+- AutoModelForCausalLM
+- AutoTokenizer
+- BitsAndBytesConfig
+- HfArgumentParser
+- TrainingArguments
+- pipeline
+- logging
+- RecursiveCharacterTextSplitter
+- PyPDFDirectoryLoader
+- PromptTemplate
+- RetrievalQA
+- PDFReader
+- RAGPretrainedModel
+- dspy
+- ChatPromptTemplate
+- StrOutputParser
+- ChatOpenAI
+- DirectoryLoader
+- LoraConfig
+- PeftModel
+- get_peft_model
+- prepare_model_for_kbit_training
+- DPOTrainer
+- SFTTrainer
+- axolotl
+- hugging face
+- accelerate
+- CTransformers
+- faiss-cpu
+- tiktoken
+- OpenAIEmbeddings
+- Pinecone
+- ConversationBufferMemory
+- SequentialChain
+- sentence_transformers
+- bfloat16
+- SubDocSummaryPack
+- from unsloth import FastLlamaModel
 
 # Advanced
 Policy Gradients and Advantage Estimation : https://youtu.be/AKbX1Zvo7r8
