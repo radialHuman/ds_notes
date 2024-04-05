@@ -36,7 +36,7 @@ sno. | link | title | descp | status | md
 34 | [chroma 1](https://youtu.be/eCCHDxMaFIk) | Semantic Search with Open-Source Vector DB: Chroma DB  Pinecone Alternative | | TODO | [notes]() 
 35 | [chroma 2](https://youtu.be/QSW2L8dkaZk) | Getting Started with ChromaDB - Lowest Learning Curve Vector Database & Semantic Search | | TODO | [notes]() 
 36 | [chroma 3](https://youtu.be/61kaK-e3Owc) | How to run a private Chroma Vector Database locally in 5 mins! | | TODO | [notes]() 
-37 | [VDB](https://youtu.be/8KrTO9bS91s) | Complete Tutorial on Vector Database - Learn ChromaDB, Pinecone & Weaviate | | TODO | [notes]() 
+37 | [VDB](https://youtu.be/8KrTO9bS91s) | Complete Tutorial on Vector Database - Learn ChromaDB, Pinecone & Weaviate | code explanation | WIP | [notes]() 
 38 | [langchain playlist](https://www.youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5) | LangChain | | TODO | [notes]() 
 39 | [milvus 1](https://youtu.be/612Y0jXmWKk) | End to end Demo | | TODO | [notes]() 
 40 | [milvus 2](https://youtu.be/ZABs7HcMPR0) | Milvus 101- Most Advanced Vector Database  | | TODO | [notes]() 
@@ -110,8 +110,11 @@ sno. | link | title | descp | status | md
 108 | [dspy](https://youtu.be/NoaDWKHdkH) | DSPy: Transforming Language Model Calls into Smart Pipelines | round about way of explaning | TODO | [notes](dspy_1.md) 
 109 | [struggles of llms](https://youtu.be/bYiGlr777hg) | Long-context LLMs Struggle with Long In-context Learning | | DONE | [notes](llm_struggles.md)
 110 | [updated LC KN](https://www.youtube.com/playlist?list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ) | Updated Langchain | | WIP | [notes](updated_lang.md) 
-111 | [open llm alignment](https://youtu.be/uzxd7WUuWVM) | Advancing LLM Reasoning Generalists with Preference Trees| | TODO | [notes](advance_tree.md) 
+111 | [open llm alignment](https://youtu.be/uzxd7WUuWVM) | Advancing LLM Reasoning Generalists with Preference Trees| | WIP | [notes](advance_tree.md) 
 112 | [superhuman rag](https://youtu.be/bek8AGvt7dg) | SUPERHUMAN RAG | | TODO | [notes](superhuman.md) 
+113 | [semantic cache](https://youtu.be/z4MKqZtV7T4) | RAG Production Trick - Semantic Cache  | | DONE | [notes](semantic_cache.md) 
+114 | [Techniques LLMs](https://youtu.be/ahnGLM-RC1Y) | A Survey of Techniques for Maximizing LLM Performance | | DONE | [notes](openai_tech.md) 
+115 | [command r+](https://youtu.be/aRHl-XS6Za0) | Cohere's Command-R+ Specialized Model for RAG and Tools | | WIP | [notes](command_r+.md) 
 
 
 
@@ -217,11 +220,16 @@ https://klu.ai/blog/open-source-llm-models
 https://www.datacamp.com/blog/top-open-source-llms
 
 ## Jargons
-
 - models :
     - Mistral, Falcon, Bloom, T5, Claude 3, Gemini, Gemma, plam2, phi, dbrx, llama, openai, babyllm, jamba, Mosaic MPT
+    - Quiet-STaR,
+- ViT:
+    - 
+    - LVLM-Intrepret
 - data and tools :
     - ollama, alpaca, LMStudio, metaGPT, perplexity, orca, axolotl , instruct tuned, llm foundry, llamafactory
+    - Mixture-of-Depths, 
+    - safemate
 - libraries
     - lang
         - chain
@@ -235,14 +243,20 @@ https://www.datacamp.com/blog/top-open-source-llms
 - Rag techniques
     - CRAG
     - Self-RAG
-    - colbertv2
     - MultiQueryRetriever
     - Contextual Compression Ensemble Retrievers
     - Self-Querying Retrievers
     - Time Weighted Vector Store Retrievers
-    - |Re-Rank, RankGPT, RAG-Fusion 
+    - Re-Rank, RankGPT, RAG-Fusion 
+    - HyDe
+    - cohere's Command R+ for RAG in prod
+- Embedding
+    - google palm
+    - openai
+    - FB's llama 2 
+    - HF 
 - chunking 
-    - raptor, semantic, agentic, doc summary
+    - raptor, semantic, agentic, doc summary, colbertv2
 - platforms :
     - lavauge, skyvern, cohere
 - alignment training :
@@ -265,17 +279,23 @@ https://www.datacamp.com/blog/top-open-source-llms
     - crew ai, reAct agent, self-refine
     - Inventor, APNL, Language Agent Tree search, LDB+Reflexion, CodeT, MetaGPT, ANPL, AgentCoder
     - devin, [swe-agent](https://github.com/princeton-nlp/SWE-agent),
+    - 
 - inference :
     - chain of thought
     - vllm
 - ???
     - function calling llm
 - quantization :
-    - gptq, gguf, awq, GGml, exl2
+    - gptq, gguf, awq, GGml, exl2, hqq
 - agentic :
     - reflection, tool, planning, multi agent collboration
 - Vector DB
-    pinecone, chroma, Faiss, Vespa
+    - pinecone (cloud)
+    - chroma
+    - Faiss
+    - Vespa
+    - Milvus
+    - weaviate (cloud)
 - AWS
     - sagemaker
     - bedrock
@@ -288,6 +308,8 @@ https://www.datacamp.com/blog/top-open-source-llms
     - context window sliding and segmentation
     - positional extrapolation and interpolation
     - sliding memory window, chunk segmentation
+- Hacks
+    - Many-shot Jailbreaking
 
 - ALT models
     - mamba
@@ -436,6 +458,10 @@ MODELS
 - bfloat16
 - SubDocSummaryPack
 - from unsloth import FastLlamaModel
+- xformers. it's a package that provides libraries an utilities to facilitate the work with transformers models. We
+need to install in order to avoid an error when we work with the model and embeddings.
+- SentenceTransformer
+- faiss
 
 # Advanced
 Policy Gradients and Advantage Estimation : https://youtu.be/AKbX1Zvo7r8
