@@ -115,6 +115,7 @@ sno. | link | title | descp | status | md
 113 | [semantic cache](https://youtu.be/z4MKqZtV7T4) | RAG Production Trick - Semantic Cache  | | DONE | [notes](semantic_cache.md) 
 114 | [Techniques LLMs](https://youtu.be/ahnGLM-RC1Y) | A Survey of Techniques for Maximizing LLM Performance | | DONE | [notes](openai_tech.md) 
 115 | [command r+](https://youtu.be/aRHl-XS6Za0) | Cohere's Command-R+ Specialized Model for RAG and Tools | | WIP | [notes](command_r+.md) 
+116 | [GPTQ vs. GGUF vs. AWQ](https://youtu.be/mNE_d-C82lI) | Which Quantization Method is Right for You?  | | WIP | [notes]() 
 
 
 
@@ -286,7 +287,7 @@ https://www.datacamp.com/blog/top-open-source-llms
 - ???
     - function calling llm
 - quantization :
-    - gptq, gguf, awq, GGml, exl2, hqq
+    - gptq, gguf(GGml), awq, exl2, hqq
 - agentic :
     - reflection, tool, planning, multi agent collboration
 - Vector DB
@@ -300,6 +301,7 @@ https://www.datacamp.com/blog/top-open-source-llms
     - sagemaker
     - bedrock
     - CloudFormation
+    - hyperpod
 - ui
     - chainlit
     - gradio
