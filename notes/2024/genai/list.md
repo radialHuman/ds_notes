@@ -116,13 +116,26 @@ sno. | link | title | descp | status | md
 114 | [Techniques LLMs](https://youtu.be/ahnGLM-RC1Y) | A Survey of Techniques for Maximizing LLM Performance | | DONE | [notes](openai_tech.md) 
 115 | [command r+](https://youtu.be/aRHl-XS6Za0) | Cohere's Command-R+ Specialized Model for RAG and Tools | | WIP | [notes](command_r+.md) 
 116 | [GPTQ vs. GGUF vs. AWQ](https://youtu.be/mNE_d-C82lI) | Which Quantization Method is Right for You?  | | WIP | [notes]() 
-
+117 | [fastapi model](https://youtu.be/5PgqzVG9SCk) | Creating APIs For Machine Learning Models with FastAPI | html+python+js | WIP | [notes]() 
+118 | [llmops](https://youtu.be/K2GAL2ZOgBk) | Charting LLMOps Odyssey // Yinxi Zhang  | | WIP | [notes]() 
+119 | [local llm search](https://youtu.be/lsp4KhLETTY) | I found this STUNNING Local Perplexity CLONE!!! | ollama interesting | WIP | [notes]() 
+120 | [GPTQ, GGUF](https://youtu.be/YEVyupJxt1Q) | New Tutorial on LLM Quantization w/ QLoRA, GPTQ and Llamacpp, LLama 2 | detailed GGUF | WIP | [notes]() 
+121 | [pydantic intro](https://youtu.be/XIdQ6gO3Anc) | Pydantic Tutorial • Solving Python's Biggest Problem | | WIP | [notes]() 
+122 | [pydantic intro](https://youtu.be/Nlhp4EmE55I) | Does Pydantic Replace Dataclasses in Python? | more hands on than previous | WIP | [notes]() 
+123 | [pydantic v2](https://youtu.be/ok8bF8M7gjk) | Pydantic (V2) - In-depth Starter Guide | | WIP | [notes]() 
+124 | [dspy intro](https://youtu.be/f_7oLIF6X9o) | Getting started with DSPy tutorial | in detail | WIP | [notes]() 
+125 | [pissa](https://youtu.be/lsZ2d363OkA) | PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models | | WIP | [notes](pissa.md) 
+126 | [MoE architecture](https://youtu.be/OqlNmNylE0I) | Mixture of Experts: Mixtral 8x7B Dive in | | WIP | [notes]() 
+127 | [hyde intro](https://youtu.be/v_BnBEubv58) | Advanced RAG 05 - HyDE - Hypothetical Document Embeddings | | WIP | [notes](hyde.md) 
+128 | [2024 mlops state](https://youtu.be/6s9Y5fgP3dg) | The State of Production Machine Learning in 2024 // Alejandro Saucedo // AI in Production | | WIP | [notes](mlops_state.md) 
+129 | [ai agents](https://youtu.be/GZWFLEj0UqI) | AI Agents! Giving Reasoning and Tools to LLMs - Context & Code Examples | | WIP | [notes]() 
 
 
 
 
 
 26 | []() |  | | TODO | [notes]() 
+
 
 lin vs lch :
 https://youtu.be/g84uWgVXVYg
@@ -264,8 +277,9 @@ https://www.datacamp.com/blog/top-open-source-llms
     - PPO(RLHF), DPO, SDPO, ORPO, KTO, IPO, NAC
     - FT, RAG, RAFT
 - peft :
-    - LONGLORA, LOFTQ, RSLORA, LORA, QLORA, LORA+, GALORE, DORA, NEFT, unsloth
+    - LONGLORA, LOFTQ, RSLORA, LORA, QLORA, LORA+, GALORE, DORA, NEFT, unsloth, PISSA
     - LISA
+- reft
 - ???
     - rope scaling, flash attention 2
 - evaluation :
@@ -345,6 +359,8 @@ https://www.promptingguide.ai/research/rag
 https://www.axios.com/2024/03/27/ai-chatbot-letdown-hype-reality
 LONG-FORM FACTUALITY IN LARGE LANGUAGE
 MODELS
+https://www.marktechpost.com/2024/04/08/google-deepmind-and-anthropic-researchers-introduce-equal-info-windows-a-groundbreaking-ai-method-for-efficient-llm-training-on-compressed-text/
+https://paperswithcode.com/
 
 
 ## Channels : 
