@@ -129,6 +129,9 @@ sno. | link | title | descp | status | md
 127 | [hyde intro](https://youtu.be/v_BnBEubv58) | Advanced RAG 05 - HyDE - Hypothetical Document Embeddings | | WIP | [notes](hyde.md) 
 128 | [2024 mlops state](https://youtu.be/6s9Y5fgP3dg) | The State of Production Machine Learning in 2024 // Alejandro Saucedo // AI in Production | | WIP | [notes](mlops_state.md) 
 129 | [ai agents](https://youtu.be/GZWFLEj0UqI) | AI Agents! Giving Reasoning and Tools to LLMs - Context & Code Examples | | WIP | [notes]() 
+130 | [sagemaker studio](https://youtu.be/stB-F6jswno) | AWS re:Invent 2023 - Scale complete ML development with Amazon SageMaker Studio (AIM325) | important stuff | WIP | [notes]() 
+131 | [rag disadvantage](https://youtu.be/NSTRus2Cen4) | WHY Retrieval Augmented Generation (RAG) is OVERRATED! | | WIP | [notes]() 
+132 | [aws bedrock customize](https://youtu.be/YY9N7sDoP30) | AWS re:Invent 2023 - Customize FMs for generative AI applications with Amazon Bedrock (AIM247) | | WIP | [notes]() 
 
 
 
@@ -235,8 +238,9 @@ https://www.datacamp.com/blog/top-open-source-llms
 
 ## Jargons
 - models :
-    - Mistral, Falcon, Bloom, T5, Claude 3, Gemini, Gemma, plam2, phi, dbrx, llama, openai, babyllm, jamba, Mosaic MPT
+    - Mistral, Falcon, Bloom, T5, Claude 3, Gemini, Gemma, plam2, phi, dbrx, llama, openai, babyllm, Mosaic MPT
     - Quiet-STaR,
+    - RecurrentGemma(https://arxiv.org/pdf/2402.19427.pdf), jamba 
 - ViT:
     - 
     - LVLM-Intrepret
@@ -280,6 +284,7 @@ https://www.datacamp.com/blog/top-open-source-llms
     - LONGLORA, LOFTQ, RSLORA, LORA, QLORA, LORA+, GALORE, DORA, NEFT, unsloth, PISSA
     - LISA
 - reft
+    - loReft
 - ???
     - rope scaling, flash attention 2
 - evaluation :
