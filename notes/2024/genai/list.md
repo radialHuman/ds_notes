@@ -132,6 +132,9 @@ sno. | link | title | descp | status | md
 130 | [sagemaker studio](https://youtu.be/stB-F6jswno) | AWS re:Invent 2023 - Scale complete ML development with Amazon SageMaker Studio (AIM325) | important stuff | WIP | [notes]() 
 131 | [rag disadvantage](https://youtu.be/NSTRus2Cen4) | WHY Retrieval Augmented Generation (RAG) is OVERRATED! | | WIP | [notes]() 
 132 | [aws bedrock customize](https://youtu.be/YY9N7sDoP30) | AWS re:Invent 2023 - Customize FMs for generative AI applications with Amazon Bedrock (AIM247) | | WIP | [notes]() 
+133 | [LLoCO](https://youtu.be/cj05AggcyLY) | LLoCO: Learning Long Contexts Offline | | WIP | [notes](lloco1.md) 
+134 | [Rho-1 1](https://youtu.be/2BN7qrAe0Nc) | RHO-1: Not All Tokens Are What You Need | | WIP | [notes]() 
+135 | [genai tech](https://youtu.be/CK9dN0KpvGM) | Pre-train Mixtral MoE model on SageMaker HyperPod + SLURM + Fine-Tuning + Continued Pre-Training | | WIP | [notes]() 
 
 
 
@@ -244,9 +247,15 @@ https://www.datacamp.com/blog/top-open-source-llms
 - ViT:
     - 
     - LVLM-Intrepret
+    - controlNet++
+- Audio
+    - udio
+    - suno
 - data and tools :
-    - ollama, alpaca, LMStudio, metaGPT, perplexity, orca, axolotl , instruct tuned, llm foundry, llamafactory
+    - ollama, alpaca, LMStudio, metaGPT, perplexity, orca, axolotl , instruct tuned, llm foundry, llamafactory, lightening ai
     - Mixture-of-Depths, 
+    - mixture of experts
+    - mixture of adpapters : phatgoose
     - safemate
 - libraries
     - lang
@@ -275,6 +284,11 @@ https://www.datacamp.com/blog/top-open-source-llms
     - HF 
 - chunking 
     - raptor, semantic, agentic, doc summary, colbertv2
+- Context handeling
+    - LLoCO
+    - Leave no context behind
+- Better training
+    - RHO-1
 - platforms :
     - lavauge, skyvern, cohere
 - alignment training :
