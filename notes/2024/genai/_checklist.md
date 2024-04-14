@@ -12,6 +12,7 @@
         - gptq, gguf, awq, exl2, hqq
     - alignment
         - dpo, ppo, orpo, kto, ipo, nac
+        - dno
 - Which framework
     - llamaindex
     - langchain
@@ -28,7 +29,20 @@
     - agentic
     - length
     - stop words
-- Which vector store
+- How to choose vector store
+    - familiarity
+    - felxible
+    - ease of implementation
+        - abstraction
+        - Integration
+    - performance
+        - Queries per second (QPS)
+        - Recall rate
+    - scalability
+        - Vector dimensions supported
+        - Number of embeddings
+    - Consider trade-offs between cost, recall, throughput and latency
+- Which vector store : 
     - pinecone (cloud)
     - chroma
     - Faiss
@@ -36,6 +50,8 @@
     - Milvus
     - weaviate (cloud)
     - redis
+    - AWS aurora with pgvector postgres
+    - AWS Open search
 - Which fine tuning
     - peft
     - lora

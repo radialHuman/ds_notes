@@ -135,6 +135,9 @@ sno. | link | title | descp | status | md
 133 | [LLoCO](https://youtu.be/cj05AggcyLY) | LLoCO: Learning Long Contexts Offline | | WIP | [notes](lloco1.md) 
 134 | [Rho-1 1](https://youtu.be/2BN7qrAe0Nc) | RHO-1: Not All Tokens Are What You Need | | WIP | [notes]() 
 135 | [genai tech](https://youtu.be/CK9dN0KpvGM) | Pre-train Mixtral MoE model on SageMaker HyperPod + SLURM + Fine-Tuning + Continued Pre-Training | | WIP | [notes]() 
+136 | [bedrock aws](https://youtu.be/kzzlchi0DzU) | AWS re:Invent 2023 - Building an AWS solutions architect agent with Amazon Bedrock (BOA306) | | WIP | [notes]() 
+137 | [5 types of chunking](https://youtu.be/pIGRwMjhMaQ) | Chunking Strategies in RAG: Optimising Data for Advanced AI Responses | | WIP | [notes]() 
+138 | [dno intro](https://youtu.be/wRZ8t9NQnac) | Direct Nash Optimization of LLM Beats DPO | | WIP | [notes]() 
 
 
 
@@ -142,6 +145,14 @@ sno. | link | title | descp | status | md
 
 26 | []() |  | | TODO | [notes]() 
 
+
+AWS
+AIM218: Build your first generative Al application with Amazon Bedrock
+DAT505: Build generative-Al-powered search with Amazon Aurora & Amazon RDS
+DAT305: Get started with Amazon Neptune, LLMs, and LangChain 
+ANT312: Using Amazon OpenSearch Service as a vector database for gen Al apps
+AIM340: Customize your FMs securely to deliver differentiated experiences
+DAT407: Best practices for querying vector data for gen Al in PostgreSQL
 
 lin vs lch :
 https://youtu.be/g84uWgVXVYg
@@ -209,6 +220,7 @@ RAFT
 https://youtu.be/l3F1MFM47v8
 https://youtu.be/sqPckknlgDc
 https://www.youtube.com/watch?v=hH3k9KWmzfA
+https://youtu.be/pira_p6aRVA
 
 Instruct Tuned
 https://www.youtube.com/watch?v=eTieetk2dSw&pp=ygUMaW5zdHJ1Y3QgbGxt
@@ -242,7 +254,7 @@ https://www.datacamp.com/blog/top-open-source-llms
 ## Jargons
 - models :
     - Mistral, Falcon, Bloom, T5, Claude 3, Gemini, Gemma, plam2, phi, dbrx, llama, openai, babyllm, Mosaic MPT
-    - Quiet-STaR,
+    - Quiet-STaR, rerank3
     - RecurrentGemma(https://arxiv.org/pdf/2402.19427.pdf), jamba 
 - ViT:
     - 
@@ -257,6 +269,7 @@ https://www.datacamp.com/blog/top-open-source-llms
     - mixture of experts
     - mixture of adpapters : phatgoose
     - safemate
+    - SAFE
 - libraries
     - lang
         - chain
@@ -292,7 +305,7 @@ https://www.datacamp.com/blog/top-open-source-llms
 - platforms :
     - lavauge, skyvern, cohere
 - alignment training :
-    - PPO(RLHF), DPO, SDPO, ORPO, KTO, IPO, NAC
+    - PPO(RLHF), DPO, SDPO, ORPO, KTO, IPO, NAC, DNO
     - FT, RAG, RAFT
 - peft :
     - LONGLORA, LOFTQ, RSLORA, LORA, QLORA, LORA+, GALORE, DORA, NEFT, unsloth, PISSA
@@ -309,6 +322,8 @@ https://www.datacamp.com/blog/top-open-source-llms
     - pass key retirival task
     - and long doc Q&A and summarization
     - ICL
+    - lmsys.org
+    - Berkley function calling
 - Agent :
     - crew ai, reAct agent, self-refine
     - Inventor, APNL, Language Agent Tree search, LDB+Reflexion, CodeT, MetaGPT, ANPL, AgentCoder
@@ -330,11 +345,14 @@ https://www.datacamp.com/blog/top-open-source-llms
     - Vespa
     - Milvus
     - weaviate (cloud)
+    - AWS aurora with pgvector postgres
+    - AWS Open search
+    - Redis
 - AWS
     - sagemaker
     - bedrock
-    - CloudFormation
     - hyperpod
+    - Jumpstart
 - ui
     - chainlit
     - gradio
@@ -345,6 +363,13 @@ https://www.datacamp.com/blog/top-open-source-llms
     - sliding memory window, chunk segmentation
 - Hacks
     - Many-shot Jailbreaking
+- For edge mobile
+    - Octopus v2
+    - mediapipe
+    - tflite
+    - https://fluttergems.dev/chatgpt-llm-genai/
+- Smaller models
+    - JetMoE
 
 - ALT models
     - mamba
@@ -380,6 +405,7 @@ LONG-FORM FACTUALITY IN LARGE LANGUAGE
 MODELS
 https://www.marktechpost.com/2024/04/08/google-deepmind-and-anthropic-researchers-introduce-equal-info-windows-a-groundbreaking-ai-method-for-efficient-llm-training-on-compressed-text/
 https://paperswithcode.com/
+https://blog.salesforceairesearch.com/moirai/
 
 
 ## Channels : 
