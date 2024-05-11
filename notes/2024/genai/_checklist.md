@@ -1,3 +1,37 @@
+- Before starting an LLM project, conduct impact & risk assessment. After POC, conduct maturity assessment.
+    - identify the problem if llm is req
+    - identify profit , not tech for the sake of tech
+    - cost
+    - define time line
+    - define impact
+- Risks
+    - Customer facing 
+    - Preventing facing hallucinations 
+    - privacy concern
+    - ai bias
+    - data sec breach
+    - downtime
+    - human oversight and feeedback
+    - misuse
+- Questions to ask
+    - which llm, verison, token useage cost, latency, 
+    - embeddings : which model, how parsing occurs, how chunking occurs, computational expense
+    - store embedding : how to udpate, how to store chuncks, metadata storage, chunking strategy
+    - retrieving : How many chunks are retrieved, combining chunks, relevancy ranking, Metadata filtering, Which metadata was retrieved with the embeddings, Which similarity algorithm is used
+    - prompt strategy : ICL, query enrichment before sending
+- Fine tuning
+    - Corresponding code commit. Infrastructure used for fine-tuning & serving.
+    - What model artifact is produced.
+    - What training data is used. retraining strategy & frequency. Methodology (supervised, self-supervised, RLHF).
+- Tools : 
+    - version control : github, hitlab
+    - cicd : jenkins, gitlab cicd
+    - orchestration :L airflow, databricks, aws
+    - mdoel regustry and tracking :  mlflow, sagemaker, vertex
+    - container registry :  ecr, docekr hub
+    - serving : k8, databricks, azure, sagemaker
+    - evaluation :  grafana, elastic, 
+    - vectore db : https://superlinked.com/vector-db-comparison
 # RAG
 - Which model
     - architecture
@@ -13,6 +47,30 @@
     - alignment
         - dpo, ppo, orpo, kto, ipo, nac
         - dno
+    - Guardrails
+        - nemo
+        - guardralis ai
+        - aws guardrails
+        - llamaguard
+        - prompt injection
+        - anti jailbreak
+    - Techniques to improve
+        - CRAG
+        - Reranking
+        - Hyde
+        - Pre retreval
+            - query routing
+            - query rewriting
+            - query expansion
+        - Post retrival 
+            - rerank
+            - summary
+            - fusion
+        - graph rag
+    - Citation required? 
+        - llama index citation query engine
+        - from langchain.chains import create_citation_fuzzy_match_chain
+    - Metadata details
 - Which framework
     - llamaindex
     - langchain
@@ -52,14 +110,6 @@
     - redis
     - AWS aurora with pgvector postgres
     - AWS Open search
-- Which fine tuning
-    - peft
-    - lora
-    - qlora
-    - 1 bit
-    - reft
-    - LISA
-    - LONGLORA, LOFTQ, RSLORA, QLORA, LORA+, GALORE, DORA, NEFT, unsloth, PISSA
 - Caching required?
 - Feedback mechanism
     - store for that
@@ -68,6 +118,20 @@
     - is conversion of pre processing it into a specific format required?
 - Should we look into RAFT?
 - Evaluation
+    - LangSmith
+    - RAGAS
+    - Prometheus 2
+    - AWS clarify
+
+# Fine tune
+- Which fine tuning
+    - peft
+    - lora
+    - qlora
+    - 1 bit
+    - reft
+    - LISA
+    - LONGLORA, LOFTQ, RSLORA, QLORA, LORA+, GALORE, DORA, NEFT, unsloth, PISSA
 
 # Agent
 
@@ -75,3 +139,4 @@
 
 
 
+- Understand what users can do, expect the unexpected

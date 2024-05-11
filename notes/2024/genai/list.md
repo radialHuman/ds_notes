@@ -138,9 +138,23 @@ sno. | link | title | descp | status | md
 136 | [bedrock aws](https://youtu.be/kzzlchi0DzU) | AWS re:Invent 2023 - Building an AWS solutions architect agent with Amazon Bedrock (BOA306) | | WIP | [notes]() 
 137 | [5 types of chunking](https://youtu.be/pIGRwMjhMaQ) | Chunking Strategies in RAG: Optimising Data for Advanced AI Responses | | WIP | [notes]() 
 138 | [dno intro](https://youtu.be/wRZ8t9NQnac) | Direct Nash Optimization of LLM Beats DPO | | WIP | [notes]() 
+139 | [xlstm paper](https://youtu.be/CiOsdnhQumc) | xLSTM Models Might Beat Transformer LLMs | | WIP | [notes]() 
+140 | [nemo](https://youtu.be/3DfV6URqrZA) | NeMo Guardrails - Tame your LLM without Prompt Engineering | intro | WIP | [notes](birla) 
+141 | [llm avalange](https://youtu.be/mspA9SUgjYw?list=TLPQMTEwNTIwMjTwlt8Pr6OjTA) | LLM Avalanch: Shreya Rajpal: Practical Guardrails for your AI applications | | WIP | [notes](birla) 
+142 | [new summarize](https://youtu.be/6Yd6NdJrn4s) | New Summarization via In Context Learning with a New Class of Models | | WIP | [notes](birla) 
+143 | [aws guardrails](https://www.youtube.com/watch?v=gIul8qZyA1A) | Build gen AI applications responsibly with Guardrails for Amazon Bedrock  Amazon Web Services | | WIP | [notes](birla) 
+144 | [llamaindex prod](https://youtu.be/WLKRAzORtOI) | Practical Data Considerations for Building Production-Ready LLM Applications | | WIP | [notes](birla) 
+145 | [learn guardrails](https://youtu.be/XKDcOi-rZ_I) | Learn to Implement Guardrails in Generative AI Applications | | WIP | [notes](birla) 
+146 | [nemo code](https://youtu.be/SwqusllMCnE) | NVIDIA NeMo Guardrails: Full Walkthrough for Chatbots / AI | | WIP | [notes]() 
+147 | [reranker](https://youtu.be/Uh9bYiVrW_s) | RAG But Better: Rerankers with Cohere AI | | WIP | [notes](birla) 
+148 | [citation](https://youtu.be/RnCuOL-LBAw) | Unlocking Advanced RAG: Citations and Attributions | | WIP | [notes]() 
+149 | [llmops issues](https://youtu.be/L4tFxMWFVFc) | LLMOps and GenAI at Enterprise Scale - Challenges and Opportunities // Andy McMahon // AI in Prod | | WIP | [notes](birla) 
+150 | [llmops thinsg to remember](https://youtu.be/En78C8eXWv8) |  | | WIP | [notes](birla) 
+151 | [llm things to remeber while building](https://youtu.be/v21fCCuVMQg) | Lessons from Building LLM-based Social Media Products // Faizaan Charania // AI in Production | | WIP | [notes]() 
+152 | [mvp to prod llm](https://youtu.be/Smq3Q9r-9cg) | From MVP to Production // Day 2 Panel 2 // AI in Production Conference | | WIP | [notes]() 
 
 
-
+https://youtu.be/2tm0b8_TVr8
 
 
 26 | []() |  | | TODO | [notes]() 
@@ -281,6 +295,10 @@ https://www.datacamp.com/blog/top-open-source-llms
         - llamaparser
     - dspy
 - Rag techniques
+    - LOTR (langchain)
+    - graph rag
+    - long context reorder
+    - Ensemble retriver
     - CRAG
     - Self-RAG
     - MultiQueryRetriever
@@ -290,6 +308,8 @@ https://www.datacamp.com/blog/top-open-source-llms
     - Re-Rank, RankGPT, RAG-Fusion 
     - HyDe
     - cohere's Command R+ for RAG in prod
+    - llamaindex's AutoVector
+    - llama index citation query engine
 - Embedding
     - google palm
     - openai
@@ -308,12 +328,22 @@ https://www.datacamp.com/blog/top-open-source-llms
     - PPO(RLHF), DPO, SDPO, ORPO, KTO, IPO, NAC, DNO
     - FT, RAG, RAFT
 - peft :
-    - LONGLORA, LOFTQ, RSLORA, LORA, QLORA, LORA+, GALORE, DORA, NEFT, unsloth, PISSA
+    - LONGLORA, LOFTQ, RSLORA, LORA, QLORA, LORA+, GALORE, DORA, NEFT, unsloth, PISSA, QDORA
     - LISA
+    - Pytorch's torchtune
 - reft
     - loReft
 - ???
     - rope scaling, flash attention 2
+- guardrails
+    - nemo
+    - guardrail.ai
+    - llamaguard
+    - aws guardrails
+    - semantic router
+    - colang
+    - prompt injection
+    - anti jailbreak
 - evaluation :
     - Code : human eval
     - ROUGE, unieval, ragas, autoeval
@@ -328,6 +358,8 @@ https://www.datacamp.com/blog/top-open-source-llms
     - crew ai, reAct agent, self-refine
     - Inventor, APNL, Language Agent Tree search, LDB+Reflexion, CodeT, MetaGPT, ANPL, AgentCoder
     - devin, [swe-agent](https://github.com/princeton-nlp/SWE-agent),
+    - babygpt, autoGPT, gpt-researcher, openGPT
+    - toolformer
     - 
 - inference :
     - chain of thought
@@ -375,6 +407,25 @@ https://www.datacamp.com/blog/top-open-source-llms
     - mamba
     - jamba
     - RWKV 
+
+- Hosting LLMs challenge
+    - Inference best practices 
+        - Continuous Batching 
+        - Paged Attention
+        - Flash Attention 
+        - Prefix Caching
+    - Low-level customizations 
+        - Stop condition 
+        - Enforce output format
+    - vllm, llamac++. openllm, mlc-llm
+    - tensorRT-llm
+    - Auto-scaling based on traffic
+    - Scaling to/from Zero
+    - Cold start optimization w/ large container and model files
+    - Concurrency based autoscaling
+    - Async non-blocking invocation
+    - Shared model replica
+    - Dynamic Batching
 
 Self-Refine: Iterative Refinement with Self-Feedback, Madaan et al. (2023)
 Reflexion: Language Agents with Verbal Reinforcement Learning, Shinn et al., (2023)
