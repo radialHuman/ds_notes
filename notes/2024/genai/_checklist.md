@@ -55,7 +55,10 @@
         - prompt injection
         - anti jailbreak
     - Techniques to improve
-        - CRAG
+        - multi query retrival
+        - CRAG : judge t5
+        - self-RAG
+        - Self-CRAG
         - Reranking
         - Hyde
         - Pre retreval
@@ -78,7 +81,15 @@
     - semantic kernel
     - autogen
     - taskWeive
+    - Haystack
 - Embedding using which model
+    - OpenAl
+    - bge-large
+    - lim-embedder
+    - Cohere-v2
+    - Cohere-v3
+    - Voyage
+    - JinaAl
 - Chunking style
     - raptor
     - semantic
@@ -110,6 +121,7 @@
     - redis
     - AWS aurora with pgvector postgres
     - AWS Open search
+    - qdrant
 - Caching required?
 - Feedback mechanism
     - store for that
@@ -120,9 +132,44 @@
 - Evaluation
     - LangSmith
     - RAGAS
-    - Prometheus 2
+    - Prometheus 2 : judge jury
     - AWS clarify
-
+    - Giskard
+    - GPT Eval
+    - GPT Score
+    - WEAT
+    - BertScore
+    - Vectara
+    - replacing judge with juries
+    - Panel of LLMs
+    - weights and bias
+    - Phoenix eval
+    - MMLU
+    - big bench
+    - MATH
+    - human eval
+    - Vicuna bench
+    - MT bench
+    - Alpacafarm
+    - Truelens
+- metrics
+    - f1-over-words
+    - Precision@k
+    - NDCG
+    - Hit rate
+    - MRR : Mean Reciprocal Rank (MRR)the quality of information retrieval systems
+    - Correctness, haluucaination, toxicity
+    - faithfullness, 
+    - adherence to guidlines
+- Optimization strategy
+    - Better Parsers
+    - Chunk Sizes
+    - Prompt Engineering
+    - Customizing Models
+    - Metadata Filtering
+    - Recursive Retrieval
+    - Embedded Tables
+    - Small-to-big Retrieval
 # Fine tune
 - Which fine tuning
     - peft

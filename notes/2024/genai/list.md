@@ -152,6 +152,17 @@ sno. | link | title | descp | status | md
 150 | [llmops thinsg to remember](https://youtu.be/En78C8eXWv8) |  | | WIP | [notes](birla) 
 151 | [llm things to remeber while building](https://youtu.be/v21fCCuVMQg) | Lessons from Building LLM-based Social Media Products // Faizaan Charania // AI in Production | | WIP | [notes]() 
 152 | [mvp to prod llm](https://youtu.be/Smq3Q9r-9cg) | From MVP to Production // Day 2 Panel 2 // AI in Production Conference | | WIP | [notes]() 
+153 | [Prompt Engineering Techniques](https://youtu.be/RASh7C9Pm7I) | Prompt Engineering Techniques (extended version) | | WIP | [notes](birla) 
+154 | [giskard intro](https://youtu.be/KeY6qPAvyq0) | Testing Framework Giskard for LLM and RAG Evaluation (Bias, Hallucination, and More) | | WIP | [notes](birla) 
+155 | [vectara hallucination](https://youtu.be/O-VYDADgc68) | Check Hallucination of LLMs and RAGs using Open Source Evaluation Model by Vectara | | WIP | [notes](birla) 
+156 | [WEAT](https://youtu.be/eTenkUPsjko) | Evaluating Biases in LLMs using WEAT and Demographic Diversity Analysis | | WIP | [notes](biral) 
+157 | [pheonix](https://www.youtube.com/watch?v=LrMguHcbpO8) | RAG Time! Evaluate RAG with LLM Evals and Benchmarking | | WIP | [notes](birla) 
+158 | [ragas intro](https://youtu.be/5fp6e5nhJRk) | RAGAS: How to Evaluate a RAG Application Like a Pro for Beginners | | WIP | [notes](birla) 
+159 | [prometheus intro](https://youtu.be/YJ_jDZPj4V4) | Evaluate LLMs with Prometheus LLM and Prometheus-Eval Locally | | WIP | [notes](birla) 
+160 | [prometheus 2 paper](https://youtu.be/KazKtXi4jSM) | PROMETHEUS 2: An Open Source Language Model Specialized in Evaluating Other Language Models | | WIP | [notes](birla) 
+161 | [CRAG Paper](https://youtu.be/Har-Pzwx_8I) | Production RAG Must-have: Corrective RAG (CRAG) | | WIP | [notes](birla) 
+162 | [langchain eval](https://www.youtube.com/playlist?list=PLfaIDFEXuae0um8Fj0V4dHG37fGFU8Q5S) | LangSmith Evaluations | | WIP | [notes](birla) 
+163 | [langSmith eval playlist](https://www.youtube.com/playlist?list=PLfaIDFEXuae0um8Fj0V4dHG37fGFU8Q5S) | LangSmith Evaluation | | WIP | [notes](birla) 
 
 
 https://youtu.be/2tm0b8_TVr8
@@ -300,6 +311,7 @@ https://www.datacamp.com/blog/top-open-source-llms
     - long context reorder
     - Ensemble retriver
     - CRAG
+    - multi query retrival
     - Self-RAG
     - MultiQueryRetriever
     - Contextual Compression Ensemble Retrievers
@@ -354,6 +366,26 @@ https://www.datacamp.com/blog/top-open-source-llms
     - ICL
     - lmsys.org
     - Berkley function calling
+    - Giskard
+    - GPT Eval
+    - GPT Score
+    - WEAT
+    - Vectara
+    - weights and bias
+    - Pheonix eval
+- Benchmarks
+    - arc
+    - truthfulqa
+    - gsm8k
+    - hellaswag
+    - mmlu
+    - winogrande
+    - Open LLM leaderboard
+    - MT-bench
+    - CHatbot arena
+    - AlpacaEval
+    - IFEval
+    - LangChain Benchmark
 - Agent :
     - crew ai, reAct agent, self-refine
     - Inventor, APNL, Language Agent Tree search, LDB+Reflexion, CodeT, MetaGPT, ANPL, AgentCoder
@@ -457,6 +489,117 @@ MODELS
 https://www.marktechpost.com/2024/04/08/google-deepmind-and-anthropic-researchers-introduce-equal-info-windows-a-groundbreaking-ai-method-for-efficient-llm-training-on-compressed-text/
 https://paperswithcode.com/
 https://blog.salesforceairesearch.com/moirai/
+
+https://mltechniques.com/2024/04/12/hallucination-free-self-tuned-fast-hierarchical-llms-with-multi-token-embeddings/
+https://www.snowflake.com/blog/introducing-snowflake-arctic-embed-snowflakes-state-of-the-art-text-embedding-family-of-models/
+https://www.analyticsvidhya.com/blog/2024/04/googles-transformerfam-a-breakthrough-in-long-context-processing/
+https://www.analyticsvidhya.com/blog/2024/04/pytorchs-torchtune-revolutionizing-llm-fine-tuning/
+https://towardsdatascience.com/pushing-boundaries-integrating-foundational-models-e-g-556cfb6d0632
+https://analyticsindiamag.com/ai-platforms-will-control-what-everybody-sees-says-metas-ai-chief-yann-lecun/
+https://www.kdnuggets.com/7-steps-to-mastering-mlops
+https://www.kdnuggets.com/7-end-to-end-mlops-platforms-you-must-try-in-2024
+https://www.marktechpost.com/2024/04/13/google-ai-introduces-patchscopes-a-machine-learning-approach-that-trains-llms-to-provide-natural-language-explanations-of-their-hidden-representations/
+https://www.marktechpost.com/2024/04/11/researchers-at-apple-propose-ferret-ui-a-new-multimodal-large-language-model-mllm-tailored-for-enhanced-understanding-of-mobile-ui-screens/
+https://www.marktechpost.com/2024/04/11/researchers-at-apple-propose-ferret-ui-a-new-multimodal-large-language-model-mllm-tailored-for-enhanced-understanding-of-mobile-ui-screens/
+https://huggingface.co/papers/2404.12390
+https://www.kdnuggets.com/vector-databases-in-ai-and-llm-use-cases
+https://towardsdatascience.com/evaluate-anything-you-want-creating-advanced-evaluators-with-llms-e2d540af6090
+https://huggingface.co/papers/2404.12253
+https://www.marktechpost.com/2024/04/17/google-ai-proposes-transformerfam-a-novel-transformer-architecture-that-leverages-a-feedback-loop-to-enable-the-neural-network-to-attend-to-its-latent-representations/
+https://towardsdatascience.com/dont-crash-your-app-load-records-from-the-databse-in-batches-for-better-performance-ab09f3598d96
+https://www.marktechpost.com/2024/04/19/this-ai-paper-from-cmu-introduces-agentkit-a-machine-learning-framework-for-building-ai-agents-using-natural-language/?amp
+https://magazine.sebastianraschka.com/p/using-and-finetuning-pretrained-transformers
+https://venturebeat.com/ai/meta-challenges-transformer-architecture-with-megalodon-llm/
+https://www.marktechpost.com/2024/04/17/this-ai-paper-explores-the-fundamental-aspects-of-reinforcement-learning-from-human-feedback-rlhf-aiming-to-clarify-its-mechanisms-and-limitations/
+https://towardsdatascience.com/structured-generative-ai-e772123428e4
+https://www.liveabout.com/top-free-or-open-source-accounting-programs-14071
+https://www.marktechpost.com/2024/04/18/create-tsi-a-generative-ai-rag-toolkit-that-generates-ai-applications-using-llamaindex-with-low-code/
+https://www.marktechpost.com/2024/04/19/google-deepmind-releases-penzai-a-jax-library-for-building-editing-and-visualizing-neural-networks/
+https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/amp/
+https://medium.com/decodingml/sota-python-streaming-pipelines-for-fine-tuning-llms-and-rag-in-real-time-82eb07795b87
+https://www.searchenginejournal.com/recurrentgemma/514392/
+https://timesofindia.indiatimes.com/world/us/artificial-intelligence-has-a-measurement-problem/articleshow/109468730.cms
+https://www.philschmid.de/fsdp-qlora-llama3
+https://www.answer.ai/posts/2024-04-26-fsdp-qdora-llama3.html
+https://www.marktechpost.com/2024/04/19/how-faithful-are-rag-models-this-ai-paper-from-stanford-evaluates-the-faithfulness-of-rag-models-and-the-impact-of-data-accuracy-on-rag-systems-in-llms/
+https://bdtechtalks.com/2024/04/22/llm2vec/
+https://www.infoworld.com/article/3715323/aws-moves-amazon-bedrock-s-ai-guardrails-and-other-features-to-general-availability.html
+https://venturebeat.com/ai/amazon-bedrock-continues-to-lay-down-generative-ai-foundation-for-the-cloud/
+https://investors.snowflake.com/news/news-details/2024/Snowflake-Launches-Arctic-The-Most-Open-Enterprise-Grade-Large-Language-Model/default.aspx
+https://analyticsindiamag.com/now-run-programs-in-real-time-with-llama-3-on-groq/
+https://www.kdnuggets.com/how-to-standout-and-safeguard-your-job-in-the-generative-ai-era
+https://www.ndtv.com/business-news/explained-how-big-tech-companies-are-now-expanding-into-indias-smaller-cities-5519685/amp/1
+https://www.marktechpost.com/2024/04/22/tencent-ai-lab-developed-alphallm-a-novel-machine-learning-framework-for-self-improving-language-models/?amp
+https://www.deccanherald.com/india/eu-found-cancer-causing-chemical-in-527-indian-items-2991515
+https://huggingface.co/papers/2404.16811
+https://towardsdatascience.com/the-landscape-of-emerging-ai-agent-architectures-for-reasoning-planning-and-tool-calling-a-a95214b743c1
+https://towardsdatascience.com/reducing-the-size-of-docker-images-serving-large-language-models-part-2-b7226a0b6514
+https://www.analyticsvidhya.com/blog/2024/05/rag-application-with-cohere-command-r-and-rerank/
+https://cleanlab.ai/blog/trustworthy-language-model/
+https://towardsdatascience.com/relation-extraction-with-llama3-models-f8bc41858b9e
+https://www.marktechpost.com/2024/04/26/single-agent-architectures-ssas-and-multi-agent-architectures-maas-achieving-complex-goals-including-enhanced-reasoning-planning-and-tool-execution-capabilities/
+https://towardsdatascience.com/moment-a-foundation-model-for-time-series-forecasting-classification-anomaly-detection-1e35f5b6ca76
+https://towardsdatascience.com/temperature-scaling-and-beam-search-text-generation-in-llms-for-the-ml-adjacent-21212cc5dddb
+https://www.marktechpost.com/2024/04/25/understanding-key-terminologies-in-large-language-model-llm-universe/
+https://www.marktechpost.com/2024/04/28/cleanlab-introduces-the-trustworthy-language-model-tlm-that-addresses-the-primary-challenge-to-enterprise-adoption-of-llms-unreliable-outputs-and-hallucinations/
+https://www.marktechpost.com/2024/04/28/mistral-rs-a-lightning-fast-llm-inference-platform-with-device-support-quantization-and-open-ai-api-compatible-http-server-and-python-bindings/
+https://www.marktechpost.com/2024/04/26/deepmind-researchers-propose-naturalized-execution-tuning-next-a-self-training-machine-learning-method-that-drastically-improves-the-llms-ability-to-reason-about-code-execution/?amp
+https://www.kdnuggets.com/7-end-to-end-mlops-platforms-you-must-try-in-2024
+https://towardsdatascience.com/can-recommendations-from-llms-be-manipulated-to-enhance-a-products-visibility-64c64fa9cd24
+https://www.kdnuggets.com/guide-data-structures-ai-and-machine-learning
+https://www.kdnuggets.com/5-mlops-courses-from-google-to-level-up-your-ml-workflow
+https://huggingface.co/papers/2404.19737
+https://huggingface.co/blog/evaluation-structured-outputs
+https://towardsdatascience.com/large-language-model-performance-in-time-series-analysis-4d274b480e24
+https://analyticsindiamag.com/pytorch-releases-executorch-alpha-for-deploying-llms-for-edge-devices/
+https://www.marktechpost.com/2024/04/25/snowflake-ai-research-team-unveils-arctic-an-open-source-enterprise-grade-large-language-model-llm-with-a-staggering-480b-parameters/
+https://www.marktechpost.com/2024/04/30/scrapegraphai-a-web-scraping-python-library-that-uses-llms-to-create-scraping-pipelines-for-websites-documents-and-xml-files/
+https://foundationcapital.com/the-future-of-generative-agents/
+https://huggingface.co/papers/2405.01535
+https://towardsdatascience.com/how-to-use-re-ranking-for-better-llm-rag-retrieval-243f89414266
+https://huggingface.co/papers/2405.00332
+https://www.marktechpost.com/2024/05/01/free-llm-playgrounds-and-their-comparative-analysis/?amp
+https://www.kdnuggets.com/5-simple-steps-to-automate-data-cleaning-with-python
+https://www.marktechpost.com/2024/04/27/this-ai-paper-proposes-flora-a-novel-machine-learning-approach-that-leverages-federated-learning-and-parameter-efficient-adapters-to-train-visual-language-models-vlms/
+https://abvijaykumar.medium.com/multi-agent-architectures-e09c53c7fe0d
+https://www.marktechpost.com/2024/05/02/kolmogorov-arnold-networks-kans-a-new-era-of-interpretability-and-accuracy-in-deep-learning/
+https://thenewstack.io/sql-schema-generation-with-large-language-models/
+https://www.blackhatethicalhacking.com/tools/pphack/
+https://towardsdatascience.com/reducing-the-size-of-docker-images-serving-llm-models-b70ee66e5a76
+https://www.marktechpost.com/2024/05/03/a-novel-ai-approach-to-enhance-language-models-multi-token-prediction/?amp
+https://towardsdatascience.com/get-underlined-text-from-any-pdf-b7b068ca3d64
+https://www.marktechpost.com/2024/05/04/prometheus-2-an-open-source-language-model-that-closely-mirrors-human-and-gpt-4-judgements-in-evaluating-other-language-models/
+https://www.marktechpost.com/2024/05/06/nvidia-publishes-a-competitive-llama3-70b-quality-assurance-qa-retrieval-augmented-generation-rag-fine-tune-model/
+https://www.marktechpost.com/2024/05/05/deciphering-transformer-language-models-advances-in-interpretability-research/
+https://www.analyticsvidhya.com/blog/2024/05/advanced-rag-technique-langchain-react-and-cohere/
+https://www.sahivalue.com/products/used-refurbished-google-pixel-4a-128gb-685302/293890000037435112
+https://www.analyticsvidhya.com/blog/2024/05/python-tricks-to-make-pandas-faster/
+https://towardsdatascience.com/how-does-temperature-impact-next-token-prediction-in-llms-779bd908f2cf
+https://www.tweag.io/blog/2024-02-06-evaluating-retrieval-in-RAGs/
+https://hackaday.com/2024/05/08/ai-helps-make-web-scraping-faster-and-easier/
+https://techxplore.com/news/2024-05-framework-hallucinations-text-generated-llms.amp
+https://analyticsindiamag.com/the-world-needs-something-better-than-the-transformer/
+https://entrackr.com/2024/05/cybersecurity-startup-treacle-raises-pre-seed-round-led-by-ipv/
+https://www.insightpartners.com/ideas/ai-agents-disrupting-automation/
+https://towardsdatascience.com/n-beats-the-first-interpretable-deep-learning-model-that-worked-for-time-series-forecasting-06920daadac2
+https://www.marktechpost.com/2024/05/10/this-ai-paper-by-microsoft-and-tsinghua-university-introduces-yoco-a-decoder-decoder-architectures-for-language-models/
+https://www.marktechpost.com/2024/05/10/anthropic-ai-launches-a-prompt-engineering-tool-that-generates-production-ready-prompts-in-the-anthropic-console/
+https://www.marktechpost.com/2024/05/12/knowhalu-a-novel-ai-approach-for-detecting-hallucinations-in-text-generated-by-large-language-models-llms/
+https://www.marktechpost.com/2024/05/11/uc-berkeley-researchers-introduce-learnable-latent-codes-as-bridges-lcb-a-novel-ai-approach-that-combines-the-abstract-reasoning-capabilities-of-large-language-models-with-low-level-action-policies/
+https://techxplore.com/news/2024-05-framework-hallucinations-text-generated-llms.html
+https://www.the420.in/750-applications-cyber-warriors-fcrf-virtual-meetup/
+https://searchengineland.com/entity-oriented-search-the-evolution-of-information-retrieval-explained-440395
+https://towardsdatascience.com/the-lesser-known-rising-application-of-llms-775834116477
+https://www.techtarget.com/searchenterpriseai/tip/How-to-build-an-MLOps-pipeline
+https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+https://towardsdatascience.com/safeguard-your-llm-chatbot-with-llama-guard-2-ff5f5aa0f894
+https://www.livemint.com/ai/artificial-intelligence/ai-experts-india-inc-hiring-demand-skills-gaps-11715599729345.html
+https://huggingface.co/blog/agents
+https://huggingface.co/papers/2405.09220
+https://www.marktechpost.com/2024/05/15/decoding-complexity-with-transformers-researchers-from-anthropic-propose-a-novel-mathematical-framework-for-simplifying-transformer-models/
+https://www.kdnuggets.com/the-best-strategies-for-fine-tuning-large-language-models
+https://builtin.com/artificial-intelligence/artificial-intelligence-cybersecurity
+
 
 
 ## Channels : 
