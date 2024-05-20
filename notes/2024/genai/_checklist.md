@@ -70,6 +70,9 @@
             - summary
             - fusion
         - graph rag
+        - Temprature
+            - top p and top k
+        - model merging mergekit, LM-Cocktail
     - Citation required? 
         - llama index citation query engine
         - from langchain.chains import create_citation_fuzzy_match_chain
@@ -78,6 +81,7 @@
     - llamaindex
     - langchain
     - dspy
+    - Verba
     - semantic kernel
     - autogen
     - taskWeive
@@ -98,6 +102,7 @@
     - agentic
     - length
     - stop words
+    - Semantic splitting
 - How to choose vector store
     - familiarity
     - felxible
@@ -152,6 +157,11 @@
     - MT bench
     - Alpacafarm
     - Truelens
+    - multiple logically related questions maxsat solver
+    - self-refinement
+    - DeepEval
+    - AutoRAGAS (costly)
+    - CICD CircleCI
 - metrics
     - f1-over-words
     - Precision@k
@@ -170,6 +180,7 @@
     - Recursive Retrieval
     - Embedded Tables
     - Small-to-big Retrieval
+    - Knowledge base
 # Fine tune
 - Which fine tuning
     - peft

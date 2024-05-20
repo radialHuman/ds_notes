@@ -163,6 +163,7 @@ sno. | link | title | descp | status | md
 161 | [CRAG Paper](https://youtu.be/Har-Pzwx_8I) | Production RAG Must-have: Corrective RAG (CRAG) | | WIP | [notes](birla) 
 162 | [langchain eval](https://www.youtube.com/playlist?list=PLfaIDFEXuae0um8Fj0V4dHG37fGFU8Q5S) | LangSmith Evaluations | | WIP | [notes](birla) 
 163 | [langSmith eval playlist](https://www.youtube.com/playlist?list=PLfaIDFEXuae0um8Fj0V4dHG37fGFU8Q5S) | LangSmith Evaluation | | WIP | [notes](birla) 
+164 | [issue with llm](https://youtu.be/e8vg1vin78U) | Thomas Dietterich, "What’s Wrong with Large Language Models, and What We Should Be Building Instead" | | WIP | [notes]() 
 
 
 https://youtu.be/2tm0b8_TVr8
@@ -281,6 +282,8 @@ https://www.datacamp.com/blog/top-open-source-llms
     - Mistral, Falcon, Bloom, T5, Claude 3, Gemini, Gemma, plam2, phi, dbrx, llama, openai, babyllm, Mosaic MPT
     - Quiet-STaR, rerank3
     - RecurrentGemma(https://arxiv.org/pdf/2402.19427.pdf), jamba 
+    - mergekit
+    - LM-Cocktail
 - ViT:
     - 
     - LVLM-Intrepret
@@ -295,6 +298,7 @@ https://www.datacamp.com/blog/top-open-source-llms
     - mixture of adpapters : phatgoose
     - safemate
     - SAFE
+    - unstructured
 - libraries
     - lang
         - chain
@@ -322,6 +326,7 @@ https://www.datacamp.com/blog/top-open-source-llms
     - cohere's Command R+ for RAG in prod
     - llamaindex's AutoVector
     - llama index citation query engine
+    - Verba
 - Embedding
     - google palm
     - openai
@@ -329,6 +334,7 @@ https://www.datacamp.com/blog/top-open-source-llms
     - HF 
 - chunking 
     - raptor, semantic, agentic, doc summary, colbertv2
+    - Semantic splitting
 - Context handeling
     - LLoCO
     - Leave no context behind
@@ -373,6 +379,9 @@ https://www.datacamp.com/blog/top-open-source-llms
     - Vectara
     - weights and bias
     - Pheonix eval
+    - DeepEval
+    - AutoRAGAS (costly)
+    - CICD CircleCI
 - Benchmarks
     - arc
     - truthfulqa
@@ -387,11 +396,12 @@ https://www.datacamp.com/blog/top-open-source-llms
     - IFEval
     - LangChain Benchmark
 - Agent :
-    - crew ai, reAct agent, self-refine
+    - crew ai, reAct agent, self-refine, AutoGen
     - Inventor, APNL, Language Agent Tree search, LDB+Reflexion, CodeT, MetaGPT, ANPL, AgentCoder
     - devin, [swe-agent](https://github.com/princeton-nlp/SWE-agent),
     - babygpt, autoGPT, gpt-researcher, openGPT
     - toolformer
+    - PrasionAI
     - 
 - inference :
     - chain of thought
