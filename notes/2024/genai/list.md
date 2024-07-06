@@ -164,12 +164,36 @@ sno. | link | title | descp | status | md
 162 | [langchain eval](https://www.youtube.com/playlist?list=PLfaIDFEXuae0um8Fj0V4dHG37fGFU8Q5S) | LangSmith Evaluations | | WIP | [notes](birla) 
 163 | [langSmith eval playlist](https://www.youtube.com/playlist?list=PLfaIDFEXuae0um8Fj0V4dHG37fGFU8Q5S) | LangSmith Evaluation | | WIP | [notes](birla) 
 164 | [issue with llm](https://youtu.be/e8vg1vin78U) | Thomas Dietterich, "What’s Wrong with Large Language Models, and What We Should Be Building Instead" | | WIP | [notes]() 
+165 | [scrape ai](https://youtu.be/QxHE4af5BQE) | How to scrape the web for LLM in 2024: Jina AI (Reader API), Mendable (firecrawl) and Scrapegraph-ai | | WIP | [notes]() 
+166 | [Quantized Aware training QAT](https://youtu.be/gZYt3F3Aw-E) | Custom Gradient Estimators are Straight-Through Estimators in Disguise | | WIP | [notes]() 
+167 | [scrapegraph](https://youtu.be/zDqAZOiPX_M) | Web Scraping AI AGENT, that absolutely works 😍 | | WIP | [notes]() 
+168 | [evaluation llm](https://youtu.be/rzbwqme61KE) | Evaluating Language Models // Matthew Sharp // AI in Production Conference Lightning Talk | | WIP | [notes]() 
+169 | [ai in govt](https://youtu.be/CT21h9fU6V8) | AI Systems in Government: Challenges & Opportunities - Jared Dunnmon  Stanford MLSys#100 | | WIP | [notes]() 
+170 | [llmops stack](https://youtu.be/OiyP8uUI1OU) | Navigating the Emerging LLMOps Stack // Hien Luu // AI in Production Conference Lightning Talk | | WIP | [notes]() 
+171 | [AGILE Agent](https://youtu.be/F-OQ9bQp3jk) | AGILE: A Novel Framework of LLM Agents | | WIP | [notes]() 
+172 | [grph rag](https://youtu.be/vMBL2nErmQ8) | Get Ahead in Your RAG! Must-Know Knowledge Graph Integration Secrets! | | WIP | [notes]() 
+173 | [buffer of thought](https://www.youtube.com/watch?v=gCGck5Fn3G4) | New prompting method uses thought templates | Buffer of Thoughts | | WIP | [notes]() 
+174 | [MLOps In Practice – How To Run Your Machine Learning Models In Production At Enterprise Scale](https://youtu.be/LQzTyV5suQo) |  | | WIP | [notes]() 
+175 | [Software Engineering Principles](https://youtu.be/yP6Eyny7p20) | All Data Scientists Should Learn Software Engineering Principles // Catherine Nelson // Podcast #245 | | WIP | [notes](notes/2024/general/swe_ds.md) 
+
+
+26 | []() |  | | TODO | [notes]() 
 
 
 https://youtu.be/2tm0b8_TVr8
 
+https://youtu.be/BD9TkvEsKwM
 
-26 | []() |  | | TODO | [notes]() 
+https://youtu.be/-1Sx4bYZzCk
+
+https://youtu.be/iy9Z4DyHxvE pyreft
+
+https://youtu.be/hf5N-SlqRmA longlora
+
+https://vinija.ai/nlp/parameter-efficient-fine-tuning
+
+https://superlinked.com/vector-db-comparison
+
 
 
 AWS
@@ -198,6 +222,7 @@ https://arxiv.org/abs/2310.05914
 https://github.com/unslothai/unsloth
 https://arxiv.org/abs/2402.09353
 https://arxiv.org/abs/2402.12354
+https://arxiv.org/html/2405.12130v1
 
 dora explanation
 https://youtu.be/m7KQdGSr0Dg
@@ -334,6 +359,7 @@ https://www.datacamp.com/blog/top-open-source-llms
     - HF 
 - chunking 
     - raptor, semantic, agentic, doc summary, colbertv2
+    - metadata based
     - Semantic splitting
 - Context handeling
     - LLoCO
@@ -346,8 +372,8 @@ https://www.datacamp.com/blog/top-open-source-llms
     - PPO(RLHF), DPO, SDPO, ORPO, KTO, IPO, NAC, DNO
     - FT, RAG, RAFT
 - peft :
-    - LONGLORA, LOFTQ, RSLORA, LORA, QLORA, LORA+, GALORE, DORA, NEFT, unsloth, PISSA, QDORA
-    - LISA
+    - LONGLORA, LOFTQ, RSLORA, LORA, QLORA, LORA+, GALORE, DORA, NEFT, unsloth, PISSA, QDORA, MORA, ReLora
+    - LISA, QALora
     - Pytorch's torchtune
 - reft
     - loReft
@@ -432,6 +458,7 @@ https://www.datacamp.com/blog/top-open-source-llms
     - gradio
 - long context window
     - alabi, rope embedding
+    - cope https://arxiv.org/abs/2405.18719
     - context window sliding and segmentation
     - positional extrapolation and interpolation
     - sliding memory window, chunk segmentation
@@ -609,7 +636,10 @@ https://huggingface.co/papers/2405.09220
 https://www.marktechpost.com/2024/05/15/decoding-complexity-with-transformers-researchers-from-anthropic-propose-a-novel-mathematical-framework-for-simplifying-transformer-models/
 https://www.kdnuggets.com/the-best-strategies-for-fine-tuning-large-language-models
 https://builtin.com/artificial-intelligence/artificial-intelligence-cybersecurity
-
+https://www.rungalileo.io/blog/mastering-rag-how-to-select-a-reranking-model
+https://www.pinecone.io/learn/series/rag/rerankers/
+https://gradientflow.com/the-new-era-of-efficient-llm-deployment/
+https://a16z.com/emerging-architectures-for-llm-applications/
 
 
 ## Channels : 

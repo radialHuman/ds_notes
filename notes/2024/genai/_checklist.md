@@ -34,7 +34,7 @@
     - vectore db : https://superlinked.com/vector-db-comparison
 # RAG
 - Which model
-    - architecture
+    - architecture : rag, knowleegde grahp, crag, self rag, reranking
     - mixture
     - Context length
     - Tranined on which data
@@ -60,7 +60,7 @@
         - self-RAG
         - Self-CRAG
         - Reranking
-        - Hyde
+        - Hyde : hypothetical answer using 2nd llm along with actual query
         - Pre retreval
             - query routing
             - query rewriting
@@ -69,14 +69,17 @@
             - rerank
             - summary
             - fusion
-        - graph rag
+        - knowledge graph rag
         - Temprature
             - top p and top k
         - model merging mergekit, LM-Cocktail
+        - DFT positional encofing for faithfulness
+        - CoPe
+        - RoPe (RoFormer)
     - Citation required? 
         - llama index citation query engine
         - from langchain.chains import create_citation_fuzzy_match_chain
-    - Metadata details
+    - Metadata details : hierarchical details
 - Which framework
     - llamaindex
     - langchain
@@ -133,7 +136,7 @@
     - logs
 - Data
     - is conversion of pre processing it into a specific format required?
-- Should we look into RAFT?
+- Should we look into RAFT? : trainign llm on classifying relevant document
 - Evaluation
     - LangSmith
     - RAGAS
@@ -162,6 +165,8 @@
     - DeepEval
     - AutoRAGAS (costly)
     - CICD CircleCI
+    - ChainPoll
+    - RealHall Closed
 - metrics
     - f1-over-words
     - Precision@k
@@ -181,20 +186,37 @@
     - Embedded Tables
     - Small-to-big Retrieval
     - Knowledge base
+    - React
+    - Chain of thougth
+    - Tree of thought
+    - Buffer of thought
 # Fine tune
 - Which fine tuning
     - peft
     - lora
+    - MORA
     - qlora
     - 1 bit
     - reft
     - LISA
-    - LONGLORA, LOFTQ, RSLORA, QLORA, LORA+, GALORE, DORA, NEFT, unsloth, PISSA
+    - LONGLORA, LOFTQ, RSLORA, QLORA, LORA+, GALORE, DORA, NEFT, unsloth, PISSA, Relora, ReMora, QALora, 
+# Back up llm
 
 # Agent
 
+# Guides
 
+https://gradientflow.com/the-new-era-of-efficient-llm-deployment/
+https://a16z.com/emerging-architectures-for-llm-applications/
+https://www.youtube.com/watch?v=Z3-HddkYgyI
 
+Gateway | External and internal models, quota management, utilization, general RAI checks, etc.
+Orchestration | On top of langchain; tool selection (RAG)
+Memory & EBR | Context compression; few shots
+LLM Model Training / Adaptation / Fine-Tuning | LoRA, RLHF
+LLM Model Serving | Multi-GPU; multi-machines
+Trust & Responsible Al | Prompt injection / leakage defenses etc.
+Dev Tools Prompt, Playground, Evaluation (human & algorithmic evaluation; batch evaluation)
 
 
 - Understand what users can do, expect the unexpected
