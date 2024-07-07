@@ -59,6 +59,8 @@
         - CRAG : judge t5
         - self-RAG
         - Self-CRAG
+        - Autorag
+        - hippo rag
         - Reranking
         - Hyde : hypothetical answer using 2nd llm along with actual query
         - Pre retreval

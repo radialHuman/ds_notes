@@ -175,6 +175,8 @@ sno. | link | title | descp | status | md
 173 | [buffer of thought](https://www.youtube.com/watch?v=gCGck5Fn3G4) | New prompting method uses thought templates | Buffer of Thoughts | | WIP | [notes]() 
 174 | [MLOps In Practice – How To Run Your Machine Learning Models In Production At Enterprise Scale](https://youtu.be/LQzTyV5suQo) |  | | WIP | [notes]() 
 175 | [Software Engineering Principles](https://youtu.be/yP6Eyny7p20) | All Data Scientists Should Learn Software Engineering Principles // Catherine Nelson // Podcast #245 | | WIP | [notes](notes/2024/general/swe_ds.md) 
+176 | [death of fine tuning](https://youtu.be/h1c_jmk97Ss) | Why Fine Tuning is Dead w/Emmanuel Ameisen | | CANCELLED | [notes]() 
+177 | [clean code](https://youtu.be/uAzxM-RrKw8) | Clean Code for Data Scientists // Matt Sharp // MLOps Podcast # 160 | | DONE | [notes](notes/2024/general/clean_code.md) 
 
 
 26 | []() |  | | TODO | [notes]() 
@@ -352,6 +354,8 @@ https://www.datacamp.com/blog/top-open-source-llms
     - llamaindex's AutoVector
     - llama index citation query engine
     - Verba
+    - autoRag
+    - Hippo rag
 - Embedding
     - google palm
     - openai
