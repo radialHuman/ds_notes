@@ -373,7 +373,7 @@ https://www.datacamp.com/blog/top-open-source-llms
 - platforms :
     - lavauge, skyvern, cohere
 - alignment training :
-    - PPO(RLHF), DPO, SDPO, ORPO, KTO, IPO, NAC, DNO
+    - PPO(RLHF), DPO, SDPO, ORPO, KTO, IPO, NAC, DNO, WARP
     - FT, RAG, RAFT
 - peft :
     - LONGLORA, LOFTQ, RSLORA, LORA, QLORA, LORA+, GALORE, DORA, NEFT, unsloth, PISSA, QDORA, MORA, ReLora
