@@ -133,6 +133,17 @@ Kling
 - ByteDance : Doubao-pro-32k
 - Tencent : Hunyuan Standard
 
+### 14. [SenseTime Launches SenseNova 5.0 with Major Upgrades and Industry-Leading Cloud-to-Edge AI Solutions](https://www.youtube.com/watch?v=Xa-LXaXo0T8)
+- knowledge
+- resoning
+- execution
+- creative, linguistic, scintific
+- multimodal, 10tb token training data synthetic
+- 200k inference window
+- math and code
+- TTI and image parsing
+- TTV
+
 ### Github
 - https://github.com/wgwang/awesome-LLMs-In-China
 - https://github.com/MiuLab/Taiwan-LLM
