@@ -144,6 +144,10 @@ Kling
 - TTI and image parsing
 - TTV
 
+
+### 15. https://stcsm.sh.gov.cn/english/News/20230727/61b69488e2144fef8d6805e692b53292.html
+### 16. [Needlebench shaghai ai](https://analyticsindiamag.com/ai-news-updates/shanghai-ai-laboratory-unveils-needlebench-a-new-framework-to-test-long-context-capabilities-of-large-language-models/)
+
 ### Github
 - https://github.com/wgwang/awesome-LLMs-In-China
 - https://github.com/MiuLab/Taiwan-LLM
@@ -175,6 +179,11 @@ Kling
 - DialogBench
 
 ### Papers
+- [NeedleBench: Can LLMs Do Retrieval and Reasoning in 1 Million Context Window?](https://arxiv.org/pdf/2407.11963)
+- [CMMaTH: A Chinese Multi-modal Math Skill Evaluation Benchmark for Foundation Models](https://arxiv.org/abs/2407.12023)
+- [MedBench: A Comprehensive, Standardized, and Reliable Benchmarking System for Evaluating Chinese Medical Large Language Models](https://arxiv.org/abs/2407.10990)
+- [How Chinese are Chinese Language Models? The Puzzling Lack of Language Policy in China's LLMs](https://arxiv.org/abs/2407.09652)
+- [System Report for CCL24-Eval Task 7: Multi-Error Modeling and Fluency-Targeted Pre-training for Chinese Essay Evaluation](https://arxiv.org/abs/2407.08206)
 - [DoctorGLM: Fine-tuning your Chinese Doctor is not a Herculean Task](https://arxiv.org/abs/2304.01097)
 - [Tuning LLaMA Model with Chinese Medical Knowledge](https://arxiv.org/pdf/2304.06975)
 - [Linguistically Informed ChatGPT Prompts to Enhance Japanese-Chinese Machine Translation: A Case Study on Attributive Clauses](https://arxiv.org/abs/2303.15587)
