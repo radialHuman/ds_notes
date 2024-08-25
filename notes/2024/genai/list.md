@@ -478,7 +478,7 @@ https://www.datacamp.com/blog/top-open-source-llms
 
 - ALT models
     - mamba
-    - jamba
+    - jamba, 1.5
     - RWKV 
 
 - Hosting LLMs challenge
