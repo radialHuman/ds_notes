@@ -182,6 +182,26 @@ sno. | link | title | descp | status | md
 26 | []() |  | | TODO | [notes]() 
 
 
+TODO Github
+
+https://github.com/aws-samples/Easy_Fintune_LLM_using_SageMaker_with_LLama_Factory/blob/main/03.deploy_on_SageMaker_endpoint_lmi_vllm.ipynb
+https://github.com/arjuntheprogrammer/sagemaker_finetune_mistral7B_and_deploy/blob/main/notebooks/train-deploy-llm.ipynb
+https://github.com/huggingface/notebooks/blob/main/sagemaker/24_train_bloom_peft_lora/sagemaker-notebook.ipynb
+https://github.com/huggingface/notebooks/blob/main/sagemaker/28_train_llms_with_qlora/sagemaker-notebook.ipynb
+https://github.com/aws-samples/sagemaker-genai-hosting-examples/blob/main/Llama2/Llama2-7b/LMI/llama2-7b-multi-lora-adapters-sagemaker.ipynb
+
+https://www.philschmid.de/sagemaker-train-evalaute-llms-2024
+https://aws.amazon.com/blogs/machine-learning/model-management-for-lora-fine-tuned-models-using-llama2-and-amazon-sagemaker/
+
+
+https://github.com/krishnaik06/Generative-AI-With-Cloud/tree/main/AWS%20sagemaker (https://youtu.be/U72q95dHpRo)
+https://github.com/aws-samples/Easy_Fintune_LLM_using_SageMaker_with_LLama_Factory
+https://github.com/aws-samples/Easy_Fintune_LLM_using_SageMaker_with_LLama_Factory/blob/main/01.llama_factory_finetune_on_SageMaker_QLora-Local-Notebook.ipynb
+https://colab.research.google.com/drive/1eRTPn37ltBbYsISy9Aw2NuI2Aq5CQrD9?usp=sharing
+https://github.com/DaoyuanLi2816/Llama3-8B_Emotion_Text_Classification_LoRA/tree/master
+
+TODO videos
+
 https://youtu.be/2tm0b8_TVr8
 
 https://youtu.be/BD9TkvEsKwM
