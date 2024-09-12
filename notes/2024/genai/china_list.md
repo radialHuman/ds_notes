@@ -90,6 +90,7 @@ Kling
 - AltDiffusion ³¹ 11/12/2022 BAAI
 - AR-LDM³² 11/20/2022 University of Waterloo, Alibaba, Vector Institute
 - ALM 1.0³³ 11/28/2022 BAAI
+- MiniCPM3-4B 09/05/2024 Open Lab for Big Model Base by  ModelBest Inc and TsinghuaNLP 
 #### Data
 - BAAI team released WuDaoCorpora, a bilingual dataset with 2.3TB of cleaned Chinese data and 300GB of cleaned English data from encyclopedias, novels, news, and scientific literature
 - multimodal models, the M6 developers from Tsinghua University and Alibaba released the M6-Corpus, the first large-scale multimodal dataset in Chinese
