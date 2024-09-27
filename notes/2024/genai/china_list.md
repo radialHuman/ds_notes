@@ -1,6 +1,9 @@
 ### 0. Text classification
 https://github.com/search?q=ernie+text+classification&type=repositories&s=stars&o=desc
-
+https://github.com/labteral/ernie
+https://github.com/lonePatient/ERNIE-text-classification-pytorch/tree/master
+https://towardsdatascience.com/https-medium-com-gaganmanku96-fine-tune-ernie-2-0-for-text-classification-6f32bee9bf3c
+https://www.activestate.com/blog/bert-vs-ernie-the-natural-language-processing-revolution/
 
 ### 1. [Install Chinese Tiny LLM Locally - Chinese-First AI Model](https://youtu.be/Ayi15gOlcHc)
 - https://huggingface.co/m-a-p/CT-LLM-SFT-DPO
