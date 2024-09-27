@@ -1,3 +1,7 @@
+### 0. Text classification
+https://github.com/search?q=ernie+text+classification&type=repositories&s=stars&o=desc
+
+
 ### 1. [Install Chinese Tiny LLM Locally - Chinese-First AI Model](https://youtu.be/Ayi15gOlcHc)
 - https://huggingface.co/m-a-p/CT-LLM-SFT-DPO
 - MiniCPM-2B-sft (min, 2024) 
