@@ -181,9 +181,14 @@ sno. | link | title | descp | status | md
 
 26 | []() |  | | TODO | [notes]() 
 
+CTC 
+https://github.com/dalinvip/cw2vec?tab=readme-ov-file
+https://www.youtube.com/watch?v=ibi5hvw6f3g&pp=ygUhdGV4dCBjbGFzc2lmaWNhaXRvbiB1c2luZyBtbCAtbGxt
+https://dennybritz.com/posts/wildml/implementing-a-cnn-for-text-classification-in-tensorflow/
+https://investigate.ai/text-analysis/how-to-make-scikit-learn-natural-language-processing-work-with-japanese-chinese/
+https://spacy.io/models/zh#zh_core_web_lg
 
 TODO Github
-
 https://github.com/aws-samples/Easy_Fintune_LLM_using_SageMaker_with_LLama_Factory/blob/main/03.deploy_on_SageMaker_endpoint_lmi_vllm.ipynb
 https://github.com/arjuntheprogrammer/sagemaker_finetune_mistral7B_and_deploy/blob/main/notebooks/train-deploy-llm.ipynb
 https://github.com/huggingface/notebooks/blob/main/sagemaker/24_train_bloom_peft_lora/sagemaker-notebook.ipynb
