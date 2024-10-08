@@ -390,6 +390,7 @@ https://www.datacamp.com/blog/top-open-source-llms
     - raptor, semantic, agentic, doc summary, colbertv2
     - metadata based
     - Semantic splitting
+    - topical
 - Context handeling
     - LLoCO
     - Leave no context behind

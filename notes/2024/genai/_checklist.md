@@ -18,7 +18,7 @@
     - embeddings : which model, how parsing occurs, how chunking occurs, computational expense
     - store embedding : how to udpate, how to store chuncks, metadata storage, chunking strategy
     - retrieving : How many chunks are retrieved, combining chunks, relevancy ranking, Metadata filtering, Which metadata was retrieved with the embeddings, Which similarity algorithm is used
-    - prompt strategy : ICL, query enrichment before sending
+    - prompt strategy : ICL, query enrichment before sending, meta prompting, prompt expansion
 - Fine tuning
     - Corresponding code commit. Infrastructure used for fine-tuning & serving.
     - What model artifact is produced.
@@ -110,6 +110,7 @@
     - length
     - stop words
     - Semantic splitting
+    - topical
 - How to choose vector store
     - familiarity
     - felxible
