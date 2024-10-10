@@ -1983,3 +1983,30 @@
 1996,Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters (Paper) ,https://youtu.be/xgZzmXx80rk,Yannic Kilcher,970 ,4:26
 1997,821: The Skills You Need to Be an Effective Data Scientist — with Marck Vaisman ,https://youtu.be/6_Tjdu6IZdA,Super Data Science: ML &amp; AI Podcast with Jon Krohn,569 ,16:16
 2229,LLM Security 101 ,https://youtu.be/RaR7rr_bN0A,Trelis Research,1900,38:12
+2278,Making Open Models 10x faster and better for Modern Application Innovation: Dmytro (Dima) Dzhulgakov ,https://youtu.be/91SK90SahHc,AI Engineer,113 ,17:20
+2279,Differential Transformer Explained in Simple Words ,https://youtu.be/r8LZDIOyNzo,Fahd Mirza,370 ,25:09
+2280,Inference &amp; GPU Optimization: GPTQ ,https://youtu.be/7PMUVqtXS0A,AI Makerspace,354 ,25:09
+2281,Time series anomaly detection with a human-in-the-loop [PyCon DE &amp; PyData Berlin 2024] ,https://youtu.be/STuEJLBLvoc,PyData,80 ,51:44
+2282,Fragments 🦄: Open Source Claude Artifacts For ANY LLM! (Llama 3.2) ,https://youtu.be/Ob4KePkOI8Q,Ai Flux,1200,51:44
+2283,Haystack 2.0: the story of a rewrite [PyCon DE &amp; PyData Berlin 2024] ,https://youtu.be/W485bz0_TdI,PyData,21 ,8:56
+2284,Neuro-Symbolic GRAPH REASONING #ai ,https://youtu.be/ysB863OXcIw,Discover AI,19 ,8:56
+2285,GenAI in production with MLflow // Ben Wilson // DE4AI ,https://youtu.be/KYmydU7f9Lc,MLOps.community,65 ,9:07
+2286,DuckDB is fast for analytics- but what can it do for AI? // Mehdi Ouazza // DE4AI ,https://youtu.be/oB4B32uWR6o,MLOps.community,19 ,9:07
+2287,From Notebook to Kubernetes: Scaling GenAI Pipelines with ZenML // Alex Strick van Linschoten ,https://youtu.be/7rba4exIaOs,MLOps.community,57 ,32:42
+2288,Turn Data Chaos into AI Strategy with Programmatic AI Data Development // Elena Boiarskaia // DE4AI ,https://youtu.be/nqgnGcNe_i4,MLOps.community,25 ,32:42
+2289,Data Infrastructure Cost: Tips to Keep Our CFOs Happy // Jose Navarro // DE4AI ,https://youtu.be/1vAAvOHpqx0,MLOps.community,11 ,21:54
+2290,Supercharging Your RAG System: Techniques and Challenges // Tengyu Ma // DE4AI ,https://youtu.be/tENsalmU_ik,MLOps.community,19 ,21:54
+2291,The Only Constant is (Data) Change // Panel // DE4AI ,https://youtu.be/pl_RuGqx1HA,MLOps.community,16 ,15:17
+2292,Engineering Your AI Platform // Panel // DE4AI ,https://youtu.be/7dSMIZb-V3Q,MLOps.community,28 ,15:17
+2293,Real-Time Data Streaming Architectures for Generative AI // Emily Ekdahl // DE4AI ,https://youtu.be/u2pFB3JamtE,MLOps.community,1200,7:34
+2294,An Overview of Common ML Serving Architectures // Rebecca Taylor // DE4AI ,https://youtu.be/gUJkyp9j3sM,MLOps.community,133 ,7:34
+2295,Going beyond Parquet's default settings – be surprised what you can get ,https://youtu.be/gUJkyp9j3sM,PyData,53 ,9:07
+2296,Inside The Prompt Report...Part 1 ,https://youtu.be/NkPDAlflmJc,Oxen,4500,9:07
+2297,EnsemW2S: Can an Ensemble of LLMs be Leveraged to Obtain a Stronger LLM? ,https://youtu.be/RBzYKL_dO84,Arxiv Papers,243 ,16:52
+2298,I Built a TALKING AI That Books Meetings FASTER Than Humans! (OpenAI Realtime API) ,https://youtu.be/CG9StTrrGh4,Mervin Praison,2500,16:52
+2299,825: Data Contracts: The Key to Data Quality — with Chad Sanderson ,https://youtu.be/tKcR4Oc5N7I,Super Data Science: ML &amp; AI Podcast with Jon Krohn,162 ,45:48
+2300,Smart LLM Routing &amp; Novel Multi-Agent Framework ,https://youtu.be/VgA02gmAgdA,Discover AI,1700,45:48
+2301,Centralized or Decentralized ML Platform? // Jelmer Borst and Daniela Solis // MLOps Podcast #267 ,https://youtu.be/R08oRXYjb-U,MLOps.community,416 ,1:03:18
+2302,We accidentally made an AI platform: Jamie Turner ,https://youtu.be/5Mh2FrpyOwo,AI Engineer,849 ,1:03:18
+2535,Not Diamond: Cut AI Costs with Smart LLM Routing ,https://youtu.be/zUEYB8GXLJo,Mervin Praison,76 ,14:13
+2726,Stop Paying for Microsoft GraphRAG! This Alternative is 10x Cheaper ,https://youtu.be/ecwo3B0zEOE,Mervin Praison,1800,51:40
