@@ -80,6 +80,7 @@
         - RoPe (RoFormer)
         - Rags to riches
         - Hallucination Detection Model in RAG Pipeline - Lynx 8B
+        - contextual retrival
     - Citation required? 
         - llama index citation query engine
         - from langchain.chains import create_citation_fuzzy_match_chain
@@ -111,6 +112,7 @@
     - stop words
     - Semantic splitting
     - topical
+    - late chunking
 - How to choose vector store
     - familiarity
     - felxible
