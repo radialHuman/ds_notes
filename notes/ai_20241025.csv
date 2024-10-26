@@ -2091,3 +2091,42 @@
 3308,FASTER than Flash Attention?!?!?! (Guest Lecturer) ,https://youtu.be/llOXBycBRE8,Discover AI,1700,13:41
 3311,Understanding Positional Encodings (the KEY to Transformers) ,https://youtu.be/GkBDqTrV0hg,MG,20000,47:42
 3316,ADD LLM TO Knowledge-Graph: NEW GIVE Method (Berkeley) ,https://youtu.be/DjqTkVASLC4,AI Engineer,41000,21:52
+3378,TD-MPC Explained- With Alexander Soare (Part 2 of 2) ,https://youtu.be/tB5s7Q-8DsE,PyData,1400,3:55
+3379,Tiny Transformers ,https://youtu.be/4XI3uQubxCM,""" style=""""><div class=""yt-spec-button-shape-next__icon"" aria-hidden=""true""><yt-icon style=""width: 24px; height: 24px;""><!--css-build:shady--><!--css-build:shady--><span class=""yt-icon-shape style-scope yt-icon yt-spec-icon-shape""><div style=""width: 100%; height: 100%; display: block; fill: currentcolor;""><svg xmlns=""http://www.w3.org/2000/svg"" height=""24"" viewBox=""0 0 24 24"" width=""24"" focusable=""false"" aria-hidden=""true"" style=""pointer-events: none; display: inherit; width: 100%; height: 100%;""><polygon points=""19.35,11.5 11.5,3.65 3.65,11.5 4.35,12.21 11,5.56 11,20 12,20 12,5.56 18.65,12.21""></polygon></svg></div></span></yt-icon></div><yt-touch-feedback-shape style=""border-radius: inherit;""><div class=""yt-spec-touch-feedback-shape yt-spec-touch-feedback-shape--touch-response-inverse"" aria-hidden=""true""><div class=""yt-spec-touch-feedback-shape__stroke"" style=""""></div><div class=""yt-spec-touch-feedback-shape__fill"" style=""""></div></div></yt-touch-feedback-shape></button></button-view-<ytd-two-column-browse-results-renderer class=""style-scope ytd-browse grid grid-disabled"" page-subtype=""playlist""><!--css-build:shady--><!--css-build:shady--><div id=""primary",541 ,10:32
+3380,MCTS Enhanced AI AGENTS: SELA (Stanford- UC Berkeley) ,https://youtu.be/WhNozRPwgiY,HuggingFace,190 ,10:32
+3381,Python Outlier detection with Local Outlier Factor (LOF) ,https://youtu.be/LjBQngeg2U4,hu-po,253 ,3:55
+3382,🤗 Hugging Cast S2E5 - Introducing HUGS - Scale your AI with Open Models ,https://youtu.be/j-JzWvN3REw,Discover AI,718 ,3:55
+3383,Multimodal RAG with Pixtral and Milvus ,https://youtu.be/pb8Vdj4yGjs,Ryan &amp; Matt Data Science,2500,29:49
+3384,This AI is the future of music production ,https://youtu.be/9I4zremzv08,HuggingFace,519 ,29:49
+3385,Knowledge Distillation Using Frontier Open-Source LLMs: Generalizability and Role of Synthetic Data ,https://youtu.be/2MDi_jWhzB0,Zilliz,15000,52:25
+3386,CRM AI AGENTS: Microsoft- Salesforce- or Anthropic? ,https://youtu.be/LLLYK_l8N7o,AI Search,21000,52:25
+3387,Swarm: Multi-Agent Orchestration ,https://youtu.be/8JYUOZP0V4U,Arxiv Papers,307 ,33:26
+3388,EfficientML.ai Lecture 13 - LLM Deployment Techniques (MIT 6.5940- Fall 2024) ,https://youtu.be/UTX8QgOTiv0,Discover AI,27 ,33:26
+3389,EfficientML.ai Lecture 13 - LLM Deployment Techniques (MIT 6.5940- Fall 2024- Zoom Recording) ,https://youtu.be/lnmLwpk2FlE,AI Makerspace,443 ,13:07
+3390,Contextual Information Retrieval for improving your RAG pipeline (from Anthropic) ,https://youtu.be/8KntBPOdfWA,MIT HAN Lab,53000,13:07
+3391,How to Evaluate LLM Performance for Domain-Specific Use Cases ,https://youtu.be/gigoBIPm_2k,MIT HAN Lab,1400,8:16
+3392,Optimizing vLLM Performance through Quantization | Ray Summit 2024 ,https://youtu.be/ktdVRiDkWM4,AI Bites,5500,8:16
+3393,The Hidden Math Behind All Living Systems ,https://youtu.be/QzNI1HRIpYo,Snorkel AI,146 ,5:44
+3394,This AI can control your computer! HUGE updates from Claude AI ,https://youtu.be/JIq5WS7TjMM,Anyscale,10000,5:44
+3395,mPLUG: Vision-Language Learning ,https://youtu.be/hthRRfapPR8,Machine Learning Street Talk,1900,1:35:17
+3396,Mastering Text Rich Images: Discover mPLUG DocOwl 1 5's OCR Free Revolution! ,https://youtu.be/i2vBaFzCEJw,AI Search,2300,1:35:17
+3397,No OCR Needed! Revolutionizing Document Understanding: mPLUG-DocOwl 1.5 ,https://youtu.be/iGQLG0bWDxE,Data Science Gems,8900,19:14
+3398,Extract Key Information from Documents using LayoutLM | LayoutLM Fine-tuning | Deep Learning ,https://youtu.be/gEury85F2jw,Arxflix,171 ,19:14
+3399,DocLLM to Handle Invoices Receipts Contracts Reports with AI ,https://youtu.be/oageL-1I0GE,Simeon Emanuilov,106 ,12:21
+3400,Intelligent Document Understanding Explained ,https://youtu.be/cpYYpV6txCc,Karndeep Singh,92 ,12:21
+3401,Boosting LLM/RAG Workflows &amp; Scheduling w/ Composable Memory and Checkpointing // Bernie Wu // #270 ,https://youtu.be/_4vWduu9Zj8,Fahd Mirza,503 ,1:01:40
+3402,Meta New Models - SAM 2.1- Spirit LM- MEXMA and More ,https://youtu.be/ZEi4OTuFa3I,IBM Technology,2100,1:01:40
+3403,Juan Orduz - Time Series forecasting with NumPyro | PyData Amsterdam 2024 ,https://youtu.be/62_kZI6sA84,MLOps.community,22000,17:52
+3404,The Best- Ultra-Fast and Low-Cost GraphRAG: LightRAG ,https://youtu.be/escd2emPILo,Prompt Engineering,3000,17:52
+3405,Agent-S : Unleash The Power Of GUI Computer Use Agents ! ,https://youtu.be/3xmn5JWBjiw,PyData,1700,6:18
+3406,The Evolution of Multi-GPU Inference in vLLM | Ray Summit 2024 ,https://youtu.be/y-OrOWRcRwI,Hands-on AI ,1500,6:18
+3407,How tree-of-thought- plan-and-solve- and decomposition prompting work with Sander Schulhoff ,https://youtu.be/O6knqp1Y7e4,Sam Witteveen,2300,6:55
+3408,Generative Reward Models ,https://youtu.be/s7_NlkBwdj8,Anyscale,2000,6:55
+3409,829: Neuroscience Fueled ,https://youtu.be/sYcUKB4ksOA,Oxen,2400,45:05
+3410,RL Loses Against Multi-Agent Intelligence: CoMAL ,https://youtu.be/H59GRoCJWdE,Arxiv Papers,3100,45:05
+3411,Learn Claude AI – Build Text Summarizers- Image Describers- and More with the Anthropic API ,https://youtu.be/Fm68I-phaiY,Super Data Science: ML &amp; AI Podcast with Jon Krohn,3500,53:09
+3415,How Far Can AI Reason? The limits of AI exposed ,https://youtu.be/Guz3bVUXR4Q,Fahd Mirza,336 ,6:56
+3594,Q-Learning Tutorial 7: Adjust Learning Rate to Unstuck MountainCarContinuous-v0 from Local Optima ,https://youtu.be/zMpVb3-grJw,Trelis Research,2700,36:56
+3647,Lamba - Enhancing your JupyterLab Developer Experience with Local LLMs and Code Snippets ,https://youtu.be/CzjeJhTSzto,Discover AI,171 ,1:20:07
+4190,Crawl4AI: The Ultimate AI Website Scraping Guide ,https://youtu.be/6Yu6JpLMWVo,Michael,2500,11:56
+4279,Implement the Target Network | DQN PyTorch Beginners Tutorial #5 ,https://youtu.be/wtbKIePCVJ8,ThatMathThing,128 ,1:29:40

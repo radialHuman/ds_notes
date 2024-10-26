@@ -337,7 +337,8 @@ https://www.datacamp.com/blog/top-open-source-llms
     - mergekit
     - LM-Cocktail
 - ViT:
-    - 
+    - ocr free document understanding
+        - mplug DOcOwn 2
     - LVLM-Intrepret
     - controlNet++
 - Audio
@@ -364,6 +365,7 @@ https://www.datacamp.com/blog/top-open-source-llms
 - Rag techniques
     - LOTR (langchain)
     - graph rag
+    - LightRag
     - long context reorder
     - Ensemble retriver
     - CRAG

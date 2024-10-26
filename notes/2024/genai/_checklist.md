@@ -72,6 +72,7 @@
             - summary
             - fusion
         - knowledge graph rag
+        - Light rag
         - Temprature
             - top p and top k
         - model merging mergekit, LM-Cocktail

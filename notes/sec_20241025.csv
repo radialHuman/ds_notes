@@ -1,0 +1,598 @@
+,title,link,channel,views,length
+0,Zendesk Fiasco &amp; the CTBB Naughty List (Ep. 94) ,https://youtu.be/yHQZUTsA2Qg,Critical Thinking - Bug Bounty Podcast,687 ,49:30
+1,Marcus Carey: The Legacy of Tribe of Hackers ,https://youtu.be/v0ywG_FQp0M,Phillip Wylie,63 ,49:30
+2,DEF CON 32 - Counter Deception: Defending Yourself in a World  Full of Lies - Tom Cross- Greg Conti ,https://youtu.be/gHqDEMrqTjE,DEFCONConference,45000,1:03:19
+3,Cybersecurity Tool: How To Install an IDS (Suricata) ,https://youtu.be/uXNhwduQve8,MyDFIR,1400,1:03:19
+4,Why and how to run NVIDIA NIM on Amazon SageMaker | AWS OnAir S05 ,https://youtu.be/NyqjaLmtxfs,AWS Events,135 ,42:55
+5,All About Hacking ft. @Tib3rius&amp; @TylerRamsbey ,https://youtu.be/iwwziyXfbsY,Tyler Ramsbey || Hack Smarter,1500,42:55
+6,You Won't Get Hired Without THIS Cyber Security Project on Your Resume ,https://youtu.be/f7k1FWMC8g4,Mad Hat,4200,12:49
+7,China Has Not Broken Your Encryption (Yet) ,https://youtu.be/5keAL6rphqA,Mental Outlaw,105000,12:49
+8,Samsung Reacts to iPhone SE 4 Leaks ,https://youtu.be/7VEDqBYNgTE,SAMTIME,104000,16:28
+9,Anonymous Sudan Takedown- Cisco Leak &amp; Robot Vacuums Hacked | cybernews.com ,https://youtu.be/-owdgpxJxeI,CyberNews,6200,16:28
+10,Windows Servers Can Expose PowerShell on the Web ,https://youtu.be/9aeRWl7Qd_8,John Hammond,28000,59:10
+11,Is This The Best Recon Framework? ,https://youtu.be/GOwq95QMv_g,NahamSec,6600,59:10
+12,Adversary in the Middle (AitM): Post-Exploitation w/ Michael Allen ,https://youtu.be/WY4mH-8TbWY,Black Hills Information Security,629 ,31:00
+13,DEF CON 32 - Open Sesame: how vulnerable is your stuff in electronic lockers -Dennis Giese- braelynn ,https://youtu.be/GPODCSvZMyM,DEFCONConference,3000,31:00
+14,DEF CON 32 - Xiaomi The Money : Our Toronto Pwn2Own Exploit &amp; BTS Story - Ken Gannon- Ilyes Beghdadi ,https://youtu.be/B0A8F_Izmj0,DEFCONConference,2500,10:06
+15,DEF CON 32 - An adversarial approach to Airline Revenue Management Proving Ground - Craig Lester ,https://youtu.be/A5SefnQPyn0,DEFCONConference,622 ,10:06
+16,DEF CON 32 - 1 for All- All for WHAD: wireless shenanigans made easy - Romain Cayre- Damien Cauquil ,https://youtu.be/4xjRgr4dbzU,DEFCONConference,659 ,3:25
+17,DEF CON 32 - Your CI CD Pipeline Is Vulnerable- But It's Not Your Fault - Elad Pticha- Oreen Livni ,https://youtu.be/3dHZ-l3XSsE,DEFCONConference,1300,3:25
+18,DEF CON 32 - Lessons Learned from Building and Defending LLM Applications - Javan Rasokat ,https://youtu.be/2-C7xSJ9rhI,DEFCONConference,925 ,9:31
+19,DEF CON 32 - Using EPSS for Better Management Vulnerability Management - Jerry Gamblin ,https://youtu.be/02ElRMhArcQ,DEFCONConference,386 ,9:31
+20,DEF CON 32 - You got a lighter  I need to do some Electroporation  - J. Utley- P. Rhodes- J. Hill ,https://youtu.be/-ad-Y18pY54,DEFCONConference,588 ,18:12
+21,DEF CON 32 - Warflying in a Cessna - Matt Thomassen- Sean McKeever ,https://youtu.be/anrgU7LjN1A,DEFCONConference,2100,18:12
+22,DEF CON 32 - Offensive Security Testing  Safeguarding the Final Frontier - Andrzej Olchawa ,https://youtu.be/YtMutNk8RpY,DEFCONConference,680 ,19:54
+23,DEF CON 32 - Whose Slide Is It Anyway ,https://youtu.be/WZJJgkftzOs,DEFCONConference,888 ,19:54
+24,DEF CON 32 - War Games  Red Team for OT Based on Real World Case Studies- Shishir Gupta ,https://youtu.be/Utz4o7CJmAU,DEFCONConference,1600,1:53:57
+25,DEF CON 32 - V2GEvil: Ghost in the Wires - Pavel Khunt &amp; Thomas Sermpinis aka  Cr0wTom ,https://youtu.be/Ui2etjRyrUE,DEFCONConference,1600,1:53:57
+26,DEF CON 32 -  How State Laws Meant to Protect Children Raise Other Risks - Anthony Hendricks ,https://youtu.be/TuAZXkMCgXI,DEFCONConference,1100,40:09
+27,DEF CON 32 - Web2 Meets Web3  Hacking Decentralized Applications - Peiyu Wang ,https://youtu.be/QipdGm6HffM,DEFCONConference,1000,40:09
+28,DEF CON 32 - Winning the Game of Active Directory - Brandon Colley ,https://youtu.be/M-2d3sM3I2o,DEFCONConference,10000,39:02
+29,DEF CON 32 - XR for All:  Accessibility and Privacy for Disabled Users - Dylan Fox ,https://youtu.be/LysMyDrOGn4,DEFCONConference,346 ,39:02
+30,DEF CON 32 - Using AI Computer Vision in Your OSINT Data Analysis  - Mike Raggo ,https://youtu.be/TK3A510jArc,DEFCONConference,2100,42:36
+31,DEF CON 32 - MaLDAPtive: Obfuscation and De-Obfuscation - Daniel Bohannon- Sabajete Elezaj ,https://youtu.be/mKRS5Iyy7Qo,DEFCONConference,1700,42:36
+32,DEF CON 32 - OH MY DC  Abusing OIDC all the way to your cloud - Aviad Hahami ,https://youtu.be/asd33hSRJKU,DEFCONConference,2100,44:40
+33,DEF CON 32 -Your Smartcard is Dumb A Brief History of Hacking Access Control Systems - Chad Shortman ,https://youtu.be/zBP2deuPQTg,DEFCONConference,20000,44:40
+34,DEF CON 32 - Welcome to DEF CON 32 - The Dark Tangent ,https://youtu.be/vad7FiHlgMU,DEFCONConference,1400,25:45
+35,DEF CON 32 - The edges of Surveilance System and its supply chain - Chanin Kim- Myounghun Pak ,https://youtu.be/v6VMEeUcqzo,DEFCONConference,6900,25:45
+36,DEF CON 32 - Why are you still using my server for your internet access - Thomas Boejstrup Johansen ,https://youtu.be/uwsykPWa5Lc,DEFCONConference,22000,27:05
+37,DEF CON 32 - On Your Ocean's 11 Team- I'm the AI Guy (technically Girl) - Harriet Farlow ,https://youtu.be/pTSEViCwAig,DEFCONConference,15000,27:05
+38,DEF CON 32 - Where’s the Money-Defeating ATM Disk Encryption - Matt Burch ,https://youtu.be/lF8NEsl3-kQ,DEFCONConference,21000,24:32
+39,DEF CON 32 - AppSec Considerations From the Casino Industry - Aleise McGowan- Tennisha Martin ,https://youtu.be/k7odY9gCxaI,DEFCONConference,1600,24:32
+40,DEF CON 32 - What To Expect When You’re Exploiting: 0Days Ba,https://youtu.be/caY7ls4G460,DEFCONConference,14000,27:15
+41,Study With Me - Ethical Hacking || Pomodoro [25/5] ,https://youtu.be/zmT2AiNpFHA,Tyler Ramsbey || Hack Smarter,1600,27:15
+42,DEF CON 32 - DEF CON Closing Ceremonies &amp; Awards ,https://youtu.be/GdeKrNlvG8g,DEFCONConference,3300,24:29
+43,Prototype Pollution for Beginners ,https://youtu.be/XSgNXcJUr2Y,The Cyber Mentor,3300,24:29
+44,Can this Mind Blowing 🤯 Reverse Shell be stopped? (Powershell Hack) ,https://youtu.be/nODVcuLhe1M,David Bombal,29000,14:01
+45,Start 2 hack - The Secrets They Don't Teach You In IT Class ,https://youtu.be/0qmEPl6IKFs,The XSS rat,1000,14:01
+46,A Chat with Dr. Bouman - Life as a Hacker and a Doctor (Ep.93) ,https://youtu.be/wBfON--LkYY,Critical Thinking - Bug Bounty Podcast,1900,52:31
+47,Understanding the Bugcrowd VRT: An Insider's Guide ,https://youtu.be/AIJK_Lw8rKw,InsiderPhD,693 ,52:31
+48,I Vulnerability Scanned The Entire Internet And Accidentally Made A Botnet ,https://youtu.be/REfYQh4-9lU,Marcus Hutchins,52000,23:08
+49,How the US Debt Crisis Affects Us All ,https://youtu.be/NX6YgvXlTAU,ColdFusion,551000,23:08
+50,Hackers Abuse MeshCentral for a RAT ,https://youtu.be/2KdoTpFnV1g,John Hammond,49000,24:19
+51,Navigating the Al Frontier: The Next Wild Innovation ,https://youtu.be/_HUUYe0dllk,SANS Institute,209 ,24:19
+52,Supply Chain Attacks: Why Security Leaders Must Act Now ,https://youtu.be/OWg8JoGbIXM,SANS Institute,306 ,21:59
+53,Bug Bounty Q&amp;A with Jhaddix &amp; Blaklis ,https://youtu.be/hfNFRfFIJbY,Bug Bounty Reports Explained,6000,21:59
+54,Active Directory Hacking: Enumerating Users &amp; Password Spraying with Kerbrute! ,https://youtu.be/wMUVG1C7-cA,Tyler Ramsbey || Hack Smarter,3100,24:15
+55,North Korean Hackers: A Growing Threat... ,https://youtu.be/YHsyYt9NSdo,Warfronts,143000,24:15
+56,You have to learn this! AI for the CCNA 2024 exam! // FREE CCNA 200-301 course ,https://youtu.be/KBMe0pSAFYU,David Bombal Tech,5400,43:05
+57,You need to learn this! Unlock the Power of AI (Artificial Intelligence) // FREE CCNA 200-301 Course ,https://youtu.be/oQD688R_JAo,David Bombal,35000,43:05
+58,Why you should NOT choose cybersecurity.. ,https://youtu.be/YIxm4LRZOgs,Bitten Tech,40000,22:56
+59,Hacking ARP with Python and Kali Linux (and capture passwords) ,https://youtu.be/qMnPgJoF5YE,David Bombal,48000,22:56
+60,SAML XPath Confusion- Chinese DNS Poisoning- and AI Powered 403 Bypasser (Ep. 92) ,https://youtu.be/nxvqnNfwfz4,Critical Thinking - Bug Bounty Podcast,1600,52:39
+61,How I Earned OffSec’s Certs In One Year ,https://youtu.be/muLaL3p7G94,OffSec ,1600,52:39
+62,Midnight Commander Basics – The Best Terminal-Based File Manager for Linux ,https://youtu.be/I973iH79G-A,Learn Linux TV,20000,46:43
+63,Reverse Engineering Android Spyware ...with LaurieWired ,https://youtu.be/aLCoyJof95Y,Off By One Security,2600,46:43
+64,Microsoft Recall is MANDATORY ,https://youtu.be/G9FRadIkkE0,Chris Titus Tech,317000,37:39
+65,017 - Privacy During a Natural Disaster- Self-Hosting Nextcloud- Backblaze B2 &amp; Restic- and Farew... ,https://youtu.be/RinGW81eUHw,The Lockdown - Practical Privacy &amp; Security,157 ,37:39
+66,This Is Gonna Be Good. ,https://youtu.be/GlsaBE32vQ4,TechLinked,577000,53:22
+67,Router Critical Vulnerabilities- Russia Bans Discord &amp; Google Vs Epic | cybernews.com ,https://youtu.be/AUCGEo3U_QQ,CyberNews,7000,53:22
+68,How GenAI is Changing Your SOC for the Better with Seth Misenar ,https://youtu.be/t4RvQN3UV4c,SANS Institute,438 ,20:17
+69,REAL Ransomware Chat Logs ,https://youtu.be/Yj28OEeDDzk,John Hammond,71000,20:17
+70,Non-Caveman Alternatives to iPhones and Google Androids! Find Safe Phones that don't Track You ,https://youtu.be/Cl2mPi_OeJs,Rob Braxman Tech,75000,43:48
+71,The End of Ad Blockers In Chrome ,https://youtu.be/TO48wxdjWMg,Mental Outlaw,424000,43:48
+72,Github Intentionally Lets You Read Deleted &amp; Private Commits ,https://youtu.be/DYdMXwDfRdA,John Hammond,15000,39:10
+73,DEF CON 32 - Hacker Jeopardy - Night 2 ,https://youtu.be/yTDCt4rvR7s,DEFCONConference,4400,39:10
+74,Three Ways to Hack Mobile Apps ,https://youtu.be/QwwLSyRzNwo,John Hammond,71000,37:41
+75,GOAD-Light OSCP Series: Bloodhound Attack Chain ,https://youtu.be/Aaa5BsDNvKI,Hack the Clown,495 ,37:41
+76,K2: Middle Camp || Detailed Walkthrough - (TryHackMe!) ,https://youtu.be/Gy6vmJWEdFw,Tyler Ramsbey || Hack Smarter,700 ,38:34
+77,Telegram's U-Turn: Years of Privacy Lies Exposed! ,https://youtu.be/mOHzG-Xp978,Surveillance Report,9100,38:34
+78,Your Privacy and Security Nightmare: Hackers track and control cars with just license plate number 😱 ,https://youtu.be/lDdJLrxQg24,David Bombal,51000,18:23
+79,Harvard students turn Meta's Ray-Ban Smart Glasses into a surveillance nightmare • FRANCE 24 ,https://youtu.be/zKVXNVnPCrQ,FRANCE 24 English,731000,18:23
+80,How Monero Users Get Traced (RUN YOUR OWN NODE!) ,https://youtu.be/WkphgF6Hn4w,Mental Outlaw,89000,40:02
+81,Detecting &amp; Exploiting Cross-Site Scripting (XSS) ,https://youtu.be/KljtU2vJKPA,Tyler Ramsbey || Hack Smarter,2100,40:02
+82,The Frontier of Cybersecurity: Defending Against AI-Based Threats ,https://youtu.be/PQEFSfe0pRA,SANS Institute,368 ,2:48:07
+83,Gen-AI for DFIR in the Real World: Practical Use Cases ,https://youtu.be/1tCAkolv-SY,SANS Institute,326 ,2:48:07
+84,Lightning Talk: Markov Chains - potentially faster log analysis ,https://youtu.be/2vH-qSspIHE,SANS Institute,194 ,2:14:28
+85,Making Secure AI Real: Real Threats- Lessons Learned- and Future of the Secure AI Technology Stack ,https://youtu.be/6AnGu2ffyDE,SANS Institute,289 ,2:14:28
+86,Start Web App Pentesting for Free ,https://youtu.be/ezBuZPNEOrI,The Cyber Mentor,7100,12:40
+87,Interview with a hacker   kevtech IT support ,https://youtu.be/P6LZLxEFku8,The XSS rat,410 ,12:40
+88,Zero to LHE in 9 Months (feat gr3pme) (Ep. 91) ,https://youtu.be/5WIRyMA0FfM,Critical Thinking - Bug Bounty Podcast,3900,1:13:18
+89,Cyber security degree or certificates in 2024 ,https://youtu.be/sx49kgxaHVM,Mad Hat,14000,1:13:18
+90,Hacking from Cloud to Endpoint (and vice versa) ,https://youtu.be/6P0NqCMt_bA,John Hammond,44000,28:20
+91,Underrated Ethical Hacking Certs (Better than OSCP) ,https://youtu.be/5hiqPTUs-yc,UnixGuy | Cyber Security,15000,28:20
+92,Snehal Antani: A New Cybersecurity Paradigm ,https://youtu.be/upWPi-49NIw,Phillip Wylie,156 ,1:41:30
+93,Are phones and cars next? Hacker explains: The Cybersecurity threat you need to worry about? ,https://youtu.be/8G0ai8Zl2D0,David Bombal,127000,1:41:30
+94,Hacking Websites With A Zip File (Zip Slip) ,https://youtu.be/4sKlbMiGWAw,NahamSec,16000,13:21
+95,Where Does Malware Go On Your Computer? ,https://youtu.be/qUyiGXxgHbg,John Hammond,76000,13:21
+96,What is a Switch? A Router? What network is this? And what are these? // FREE CCNA 200-301 course ,https://youtu.be/qIIRSwnIcaA,David Bombal Tech,31000,8:38
+97,The Insane World Of North Korean Hackers ,https://youtu.be/IIIvNVGjl0k,Cipher,722000,8:38
+98,5k Clickjacking- Encryption Oracles- and Cursor for PoCs (Ep. 90) ,https://youtu.be/S8qzaXhWHyw,Critical Thinking - Bug Bounty Podcast,1700,23:15
+99,Christophe Foulon: Certifications- Are They Still Necessary? ,https://youtu.be/4fm3zTNMiZ4,Phillip Wylie,91 ,23:15
+100,Never access the Dark Web without doing this! (Tor and Telegram demos) ,https://youtu.be/7wLLcFMmbpg,David Bombal,156000,20:49
+101,My Journey to Exploit Development (Part 2) ,https://youtu.be/KzLv5VHebd4,Hack the Clown,1300,20:49
+102,Cracking Active Directory Passwords &amp; MFA Fatigue ,https://youtu.be/xr3hH1Wup68,John Hammond,70000,12:22
+103,Performance upgrades in Burp Suite ,https://youtu.be/UmsXJkVyGfU,PortSwigger,1000,12:22
+104,Adversaries Are Doing Stranger Things ,https://youtu.be/GTFpUaRcUWo,SANS Offensive Operations,1700,8:21
+105,The Untapped Bug Bounty Landscape of IoT w/ Matt Brown (Ep. 89) ,https://youtu.be/tSpDLTm5POs,Critical Thinking - Bug Bounty Podcast,2300,8:21
+106,Fake CAPTCHA Runs Malware ,https://youtu.be/lSa_wHW1pgQ,John Hammond,116000,54:45
+107,The Always-On Purple Team: An Automated CI/CD for Detection Engineering ,https://youtu.be/2wJvfx9hGaw,SANS Offensive Operations,683 ,54:45
+108,#reupload - DeGoogle Your Life Part 2 ,https://youtu.be/SCNyT7gvtLk,Shirley Rodrigues,705 ,7:56
+109,DEF CON 32 - Disenshittify or die! How hackers can seize the means of computation - Cory Doctorow ,https://youtu.be/4EmstuO0Em8,DEFCONConference,180000,7:56
+110,Fuzzing from First Principles with Alisa Esage ,https://youtu.be/9U-FK_Qi1XQ,Off By One Security,9900,18:58
+111,Surveillance: The New Normal ,https://youtu.be/aXhXkXcMXyM,Naomi Brockwell TV,29000,18:58
+112,Scammers Only Need One Thing ,https://youtu.be/CJWkB96YLIQ,Fraud Squad,824000,38:21
+113,the ultimate downfall of hackers. ,https://youtu.be/pg9wt5S8P2Y,Grant Collins,8600,38:21
+114,News- Tools- and Writeups (Ep. 88) ,https://youtu.be/NlkpQV63mo4,Critical Thinking - Bug Bounty Podcast,2100,38:21
+115,Ransomware In Action: MedusaLocker ReadText34 ,https://youtu.be/VKTlxQKEdKY,John Hammond,70000,38:21
+116,Physical Penetration Testing: Inside a Real-World Break-In ,https://youtu.be/DSZdkaiRxEI,Gridware Cybersecurity,1600,18:07
+117,VPN INSIDER'S MYTH-BUSTING! Separating Fact from Fiction: How VPNs Really Work ,https://youtu.be/GGY2NdfnX-o,Rob Braxman Tech,354000,18:07
+118,The Internet's most broken protocol ,https://youtu.be/cOE2miIh1_o,Fireship,605000,20:03
+119,Exploiting &amp; Defending CSRF Attacks ,https://youtu.be/a2ev-oHovQc,Tyler Ramsbey || Hack Smarter,1100,20:03
+120,Chinese Hackers use Visual Studio Code to Target Asian Governments ,https://youtu.be/9la5vTerq0o,John Hammond,76000,47:39
+121,ZTNA vs VPN ,https://youtu.be/iQuSoZlGox8,CyberSec,1400,47:39
+122,Amazon litterbox fatally harms cat; this is the sad end result of what I've talked about all year :( ,https://youtu.be/p6Y19nSPvC4,Louis Rossmann,263000,48:06
+123,Anonymous Torrenting With I2P ,https://youtu.be/FNp0TRDG0BQ,Mental Outlaw,142000,48:06
+124,How Russia Became Addicted To Hacking ,https://youtu.be/ROf4oNqGEUc,CyberNews,243000,11:14
+125,Build Python Algorithms For Cybersecurity - Python Tutorial ,https://youtu.be/KVmbRdwWohY,Hank Hackerson,9100,11:14
+126,The Problems with Linux No One Talks About (Featuring @RaidOwl) ,https://youtu.be/cHqF71nz01g,Learn Linux TV,101000,1:45:49
+127,Scanning All Vulnerability Disclosure Programs For Automated API Hacking ,https://youtu.be/1-bpQrWcZEA,NahamSec,20000,1:45:49
+128,Learn Cyber Security for FREE! Best Hacking Resources ,https://youtu.be/cDY8V_ipO4I,Bitten Tech,79000,4:59
+129,'Hacker Wife' Mariah Gardner on Bug Bounty Mentality and Relationships (Ep. 87) ,https://youtu.be/PNYrQhUgxPM,Critical Thinking - Bug Bounty Podcast,3900,4:59
+130,Be Fearless Online: In-Browser Email Security ,https://youtu.be/wQgApVuO8IQ,Phillip Wylie,55 ,56:26
+131,Caido Should Be in Your Toolkit ,https://youtu.be/4rpbtc4nPAA,The Cyber Mentor,6700,56:26
+132,Nmap tutorial &amp; commands cheatsheet for beginners |  Learn with HTB (Episode #4) ,https://youtu.be/Xm8HTHxT7J0,Hack The Box,3200,10:52
+133,I Can't Scan This Website ,https://youtu.be/am832jLuaIM,John Hammond,30000,10:52
+134,Getting Started in Offensive Wireless w/ Ayub and Cameron #livestream #infosec #wifi ,https://youtu.be/pXFIhBl-ryo,Black Hills Information Security,1900,9:40
+135,The X-Correlation between Frans &amp; RCE - Research Drop (Ep. 86) ,https://youtu.be/YLdqWZ_E-O4,Critical Thinking - Bug Bounty Podcast,6300,9:40
+136,Turning unexploitable XSS into an account takeover with Matan Berson ,https://youtu.be/_VGEtJSRkjg,Bug Bounty Reports Explained,13000,1:36:23
+137,Dahvid Schloss: From JSOC to Offensive Security ,https://youtu.be/B4a0MYC_u74,Phillip Wylie,119 ,1:36:23
+138,The Moment They Got Hacked ,https://youtu.be/iebGSKPa6LI,John Hammond,26000,27:56
+139,SQL Injection Explained  With @BuildHackSecure + FREE LABS! ,https://youtu.be/EZXvxpbFqvg,NahamSec,8400,27:56
+140,SecDataOps - OCSF? || 06/27/24 || ,https://youtu.be/BAU8cv5flMA,Cyber Insecurity,256 ,25:14
+141,How I got my FIRST job in cyber security with NO experience ,https://youtu.be/lt7NMJkRvng,Pr0tag0nist,1100,25:14
+142,you NEED this cyber security project on your resume ,https://youtu.be/IJUkGuirTGQ,Mad Hat,34000,10:05
+143,My Trip to DEF CON &amp; Black Hat ,https://youtu.be/bhQ6FF3fCdA,LiveOverflow,54000,10:05
+144,Modern Data Strategy in the Security Team - SecDataOps ,https://youtu.be/LGIOIzo_5Dw,Cyber Insecurity,235 ,28:34
+145,Plugins That Save My Life ,https://youtu.be/s9P2k4cepeA,The Cyber Mentor,3700,28:34
+146,&quot;For criminals- ,https://youtu.be/YSWZYu3wpG8,Jack Rhysider,267000,1:27:01
+147,Sinister Cyber: India’s Space Agency Got HACKED ,https://youtu.be/WgzQGxHNT3Q,Cyber Made Simple,2200,1:27:01
+148,ISP Hacked For DNS Poisoning... Customers Pwned ,https://youtu.be/HsQ-cr-AZsg,Seytonic,69000,43:41
+149,Disney creates best argument for piracy in a century ,https://youtu.be/ikA9KkiTH-c,Louis Rossmann,537000,43:41
+150,Two Factor Authentication (2FA).  The SCAM of the Century. Defensive Strategy. ,https://youtu.be/tY7LPZbIguw,Rob Braxman Tech,79000,20:53
+151,The Mark Of The Web ,https://youtu.be/dZ21eDJl0co,John Hammond,70000,20:53
+152,LIVE: DEFCON Diaries | Cybersecurity | Pentesting | Hacking | AMA ,https://youtu.be/X4oYgNoxIgA,The Cyber Mentor,3800,54:59
+153,Kim Dotcom is Being Taken ,https://youtu.be/X-7RAtQb650,Mental Outlaw,109000,54:59
+154,Practical Applications of DEFCON 32 Web Research (Ep. 85) ,https://youtu.be/GGPAoxNN6UU,Critical Thinking - Bug Bounty Podcast,2300,34:58
+155,Eric Teichmiller: Exploring Cybersecurity Careers ,https://youtu.be/TnoKSqV62bQ,Phillip Wylie,136 ,34:58
+156,How to use the kill command in Linux (Linux Crash Course Series) ,https://youtu.be/5ER65GtElmo,Learn Linux TV,7400,35:12
+157,Cybersecurity: Stand out from competition (SOC Analyst) ,https://youtu.be/INeuxxc3Zv4,MyDFIR,6000,35:12
+158,a day in the life of a SENIOR security analyst ,https://youtu.be/KO4cX_6RrIk,Mad Hat,20000,5:58
+159,Hunting Hackers via Log Analysis! ,https://youtu.be/brYTSS84-Fk,Tyler Ramsbey || Hack Smarter,1300,5:58
+160,TryHackMe The Marketplace | XSS to RCE | CTF Walkthrough #31 ,https://youtu.be/1NmIuobBGfs,Bitten Tech,3300,11:11
+161,How To Network At Conferences ,https://youtu.be/pOLZSDGyajE,The Cyber Mentor,4300,11:11
+162,Cybersecurity Breach Tier List 2024 ,https://youtu.be/lxutmdiZIYY,Mad Hat,9200,11:33
+163,0xLupin &amp; Takeaways from Google's Las Vegas BugSwat (Ep. 84) ,https://youtu.be/x5R43EMOsBQ,Critical Thinking - Bug Bounty Podcast,1400,11:33
+164,Top Cybersecurity Priorities for 2024 | Razorthorn Security ,https://youtu.be/15MpXpdxUU0,Razorthorn Security,1000,36:03
+165,SSRF - SSRF with Filter Bypass via Open Redirection Vulnerability ,https://youtu.be/sOrS69P-D8M,z3nsh3ll,252 ,36:03
+166,Think Outside the Box to Land First Pentesting Job ft. Ryan Daub #7 ,https://youtu.be/cmN1OktUkVY,Kyser Clark - Cybersecurity,2100,35:47
+167,Governments Can Suddenly Shut Down Your Internet - Here's Why ,https://youtu.be/smyZdtGD2ds,ColdFusion,799000,35:47
+168,Going full-time bug bounty- privilege escalation bugs and more with Douglas Day ,https://youtu.be/-YzAwKRMXK0,Bug Bounty Reports Explained,8100,19:30
+169,Jeff Man: From NSA to Pentesting ,https://youtu.be/MXYZpP2UPVk,Phillip Wylie,182 ,19:30
+170,Brainstorming Proxy Plugins (Ep.83) ,https://youtu.be/VLc5YVNcHw0,Critical Thinking - Bug Bounty Podcast,1100,39:16
+171,Hack The Box SOC Analyst Lab - Campfire (Active Directory) ,https://youtu.be/_fTz323-f8M,MyDFIR,4000,39:16
+172,How to Debloat Windows 11 Using Microsoft's Official Tools! ,https://youtu.be/V5X0Cg7y3gk,Gary Explains,26000,10:32
+173,Andrew Lemon: Engineering Your Own Opportunities ,https://youtu.be/2oVTO_yItJA,Phillip Wylie,320 ,10:32
+174,Reverse Engineering for Beginners: How to Perform Static Analysis on any Piece of Software ,https://youtu.be/krmxFEOaHss,ethicalPap_,118000,41:28
+175,Reverse Engineering 101 tutorial with the amazing Stephen Sims! ,https://youtu.be/5FXrCHLAJZM,David Bombal,65000,41:28
+176,New Cybersecurity Certification? ,https://youtu.be/5IzzOsgzWuQ,David Bombal,61000,1:22:53
+177,You Give Photo- I Find Location ,https://youtu.be/ctJk3LhtHxc,The Cyber Mentor,10000,1:22:53
+178,Cybersecurity SOC Analyst - Malware Detected ,https://youtu.be/jOp5V45Wnoc,MyDFIR,2800,9:01
+179,Part-Time Bug Bounty (Ep. 82) ,https://youtu.be/AlqmnkfckWg,Critical Thinking - Bug Bounty Podcast,2500,9:01
+180,Anthony &quot;TonyP&quot; Pillitiere: Offense Driven Defense ,https://youtu.be/j2rATNNqY6M,Phillip Wylie,135 ,30:05
+181,Beginner's Guide: 15 Essential Tweaks for New Fedora Workstation Users ,https://youtu.be/GoCPO_If7kY,Learn Linux TV,86000,30:05
+182,The Wazuh File Integrity Monitoring (FIM) Use case ,https://youtu.be/aO2jUOFa9Hs,MyDFIR,9900,17:12
+183,Is T-POT The ULTIMATE HONEYPOT Platform? ,https://youtu.be/uwnVK3DI8Sk,Daniel Lowrie,2600,17:12
+184,Cascade- Inheritance- Specificity - Core CSS Mastery 6.1 ,https://youtu.be/WDsih3mqfws,z3nsh3ll,57 ,58:58
+185,Hacking a Docker Container Registry ,https://youtu.be/FnHfmDeoQo8,John Hammond,44000,58:58
+186,A beginner’s guide to modern incident response (step-,https://youtu.be/QHfO73X63ro,Hack The Box,2600,31:11
+187,Live Recon: Automating API Hacking/Tooling ,https://youtu.be/VlWYb6rTa50,NahamSec,2600,31:11
+188,Beginner's Guide to Webapp Vuln Scanning Using Nuclei w/ BB King #webapp ,https://youtu.be/oajbdFOnVEY,Black Hills Information Security,6200,13:19
+189,Crushing Client-Side on Any Scope with MatanBer (Ep. 81) ,https://youtu.be/aDcK6Z6K2Zc,Critical Thinking - Bug Bounty Podcast,1000,13:19
+190,OffSec Live | Rookie Mistake ,https://youtu.be/ybPt94h4fnk,OffSec ,2800,12:21
+191,Building an end to end data strategy for analytics and generative AI | AWS Events ,https://youtu.be/-B7Sc4SjUvI,AWS Events,5700,12:21
+192,Finding criticals in mobile apps - Joel Margolis (0xteknogeek) from @criticalthinkingpodcast ,https://youtu.be/PaVxzsQ3MdA,Bug Bounty Reports Explained,1100,36:00
+193,Inside the life of a hacker ,https://youtu.be/5ZGe6sus9Gc,BSides Ahmedabad,199 ,36:00
+194,Rob Fuller (aka Mubix): From Hacking Games to Professional Hacker ,https://youtu.be/i1lr_Dv8e_8,Phillip Wylie,16000,19:19
+195,This is The Fastest Hacking &amp; Recon Tool ,https://youtu.be/7v6t6O0LMiY,NahamSec,48000,19:19
+196,The real world truth about AI Hacking ,https://youtu.be/YZqiWFyq-OE,David Bombal,14000,51:42
+197,FREE Cybersecurity Training (SOC Analyst) ,https://youtu.be/bcq263eZOwk,MyDFIR,825 ,51:42
+198,Bypassing Restrictions in API Gateway - (Hacking AWS!) ,https://youtu.be/Qb3L4bK-CgI,Tyler Ramsbey || Hack Smarter,4500,33:04
+199,Exploit Failed. Now What? ,https://youtu.be/rZ0uOmtQ3T4,The Cyber Mentor,806000,33:04
+200,Planned Obsolescence (ft. Louis Rossmann) ,https://youtu.be/6IZe7KjIJg4,ColdFusion,3800,1:20:22
+201,Hacktivists Leak Disney Data! (Plus- Signal Finally Fixes Encryption Flaw!) Technado Ep. 369 ,https://youtu.be/crvyfsmph-U,ITPro,429 ,1:20:22
+202,Your Public Libraries &amp; Packages Are Trojanized! ,https://youtu.be/RwOoobtoswI,Hacker Man,4300,14:06
+203,Pwn2Own VS H1 Live Hacking Event (feat SinSinology) (Ep. 80) ,https://youtu.be/S78r0Pc5ph4,Critical Thinking - Bug Bounty Podcast,118 ,14:06
+204,Noah King: From Sales to Offensive Security Engineer ,https://youtu.be/_js1IwQeThM,Phillip Wylie,385 ,17:31
+205,SecDataOps - Building a Modern Security Team ,https://youtu.be/SxxAF3lxaAk,Cyber Insecurity,61 ,17:31
+206,Jacob Krasnov: From Aerospace to Cybersecurity ,https://youtu.be/LPP_IbP4h7c,Phillip Wylie,11000,22:24
+207,Live Recon: Hacking With STOK ,https://youtu.be/-U1yTtCsnZY,NahamSec,8400,22:24
+208,LIVE Hacking with TryHackMe | Cyber Security | Pentesting | AppSec ,https://youtu.be/LZxPSwweb9g,The Cyber Mentor,746000,53:04
+209,How Hackers Bypass Kernel Anti Cheat ,https://youtu.be/kzVYgg9nQis,Ryscu,8400,53:04
+210,Getting Started With Hardware Hacking ,https://youtu.be/GQBsGsbrzD4,The Cyber Mentor,16000,1:58:04
+211,Live Recon: Hacking Dell's Bug Bounty Program ,https://youtu.be/9mdLNRD0IEI,NahamSec,54000,1:58:04
+212,HackTheBox Certified Penetration Testing Specialist (CPTS) - Review + Tips ,https://youtu.be/UN5fTQtlKCc,CryptoCat,32000,22:45
+213,Proxyjacking for Profit: The Latest Cybercriminal Side Hustle ,https://youtu.be/iTw3DEmgTlQ,Southern California Linux Expo,119000,22:45
+214,UEFI Malware - The Low Level Threat To Millions of PCs ,https://youtu.be/Lb3Q-CkXfVw,Mental Outlaw,11000,1:01:51
+215,How to Get Pentesting Experience ,https://youtu.be/h0mctbrki7c,The Cyber Mentor,13000,1:01:51
+216,BREAKING | RockYou2024: The Largest Password Leak Ever? ,https://youtu.be/MUmgWUdXkvo,CyberNews,208000,28:20
+217,Why Cybersecurity Training is a SCAM ,https://youtu.be/BEskYHiyl8E,Technical Institute of America,33000,28:20
+218,Live Recon: Hacking A Real Organization (with STOK) ,https://youtu.be/TJKudnfpmxw,NahamSec,13000,49:50
+219,Introduction To Red Teaming ,https://youtu.be/rHxYZwMz-DY,HackerSploit,1500,49:50
+220,I SCANNED EVERY BUG BOUNTY PROGRAM ,https://youtu.be/Se_eYMSPMEU,NahamSec,55000,2:00:30
+221,Ep 37 - Your Security Tool has just been Banned ,https://youtu.be/MvAB3a4AJ5w,SECURITYbreak,151000,2:00:30
+222,Browser Fingerprinting Explained (You're Tracked!) ,https://youtu.be/45uJAOs22jE,Matt Sionkowski,2800,10:54
+223,Quickly Find Any File in Linux with the locate Command ,https://youtu.be/xg9GcuxeRwk,Learn Linux TV,249 ,10:54
+224,Advanced SQL Injection - (TryHackMe!) ,https://youtu.be/D8tkJRJDCDM,Tyler Ramsbey || Hack Smarter,1400,21:00
+225,Stress Management and Work Life Balance | OffSec Live ,https://youtu.be/N7g4GaK4f-c,OffSec ,1500,21:00
+226,Walking Through a Former DEF CON CTF Potent Pwnable 300 Binary ,https://youtu.be/bKXTZddUYOs,Off By One Security,72000,11:21
+227,SUDO Exploitation ,https://youtu.be/GCaCK_BaGig,hexdump,282000,11:21
+228,You can pass any IT certification doing this! ,https://youtu.be/JMIzj3Kfz7o,Gerard O'Brien,534 ,1:05:32
+229,Hackers expose deep cybersecurity vulnerabilities in AI | BBC News ,https://youtu.be/Fg9hCKH1sYs,BBC News,1800,1:05:32
+230,DDOS - The Unbeatable Cyber Attack system ,https://youtu.be/0vOHe6w9oN8,Brain Of PLastic,18000,35:52
+231,Emulating Obfuscated Code ,https://youtu.be/hfAyFfA13OU,Off By One Security,3500,35:52
+232,Speed Up Pentest Report Writing ,https://youtu.be/0mH6JngtNoM,John Hammond,49000,20:36
+233,Bug Bounty Mental - Practical Tips for Staying Sharp &amp; Motivated (Ep.77) ,https://youtu.be/9s0mX1KB-90,Critical Thinking - Bug Bounty Podcast,22000,20:36
+234,Stop Scammers from Controlling Your Computer ,https://youtu.be/eqYsffgrl1g,John Hammond,31000,26:05
+235,Hacking Large Corporations (Recon) ,https://youtu.be/oMTO4hAZPl0,NahamSec,1000,26:05
+236,So Hack The Box Made a Web Cert? ,https://youtu.be/z-vSj9iuK_U,John Hammond,1000,4:13
+237,PGP: The software that changed Internet Privacy and Cryptography Forever | Infosec Toolshed S1 E9 ,https://youtu.be/0kcDBe6AkQE,Mark Baggett,9100,4:13
+238,Hacking AWS: Learning the CLI! ,https://youtu.be/Hvop2tKYilA,Tyler Ramsbey || Hack Smarter,65000,1:29:57
+239,The secret to finding many Criticals - Alex Chapman ,https://youtu.be/sW2jsZB27jk,Bug Bounty Reports Explained,184 ,1:29:57
+240,Finally. Privacy Focused AI Use is Here! ,https://youtu.be/cQs55PZdl-s,Rob Braxman Tech,966 ,15:40
+241,White Knight Labs: Navigating Advanced Red Team Operations ,https://youtu.be/6IJN5YJkLRU,Phillip Wylie,915 ,15:40
+242,Continuous Security with HackerOne Bug Bounty: Cyber Defense Done Right ,https://youtu.be/zwDo2b4Oa5g,HackerOne,5600,13:02
+243,How To Get Into Web App Pentesting - InfoSec Pat ,https://youtu.be/pZhdnmLmcTk,InfoSec Pat,13000,13:02
+244,MailFail: Who's Spoofing your Email- and How are they Doing it? #livestream #infosec #email #server ,https://youtu.be/UbdMAmsWus8,Black Hills Information Security,288000,11:36
+245,My Favorite API Hacking Vulnerabilities &amp; Tips ,https://youtu.be/3Z2STZGqvc4,NahamSec,1400,11:36
+246,Next Gen Hackers are NEXT level 🤯 ,https://youtu.be/U1-pOPFKcXo,David Bombal,81000,12:22
+247,Getting Into Cybersecurity - An Interview with NahamSec! ,https://youtu.be/Woj_C6E4CmA,Tib3rius,343 ,12:22
+248,How to Choose a Hacking Course? ,https://youtu.be/bX0ljZg5ChU,Bitten Tech,166 ,27:02
+249,How to scale your predictive maintenance using Amazon Monitron | AWS Events ,https://youtu.be/K_9S8R21ptM,AWS Events,6200,27:02
+250,How to efficiently manage ML experiments using MLflow on AmazonSageMaker ,https://youtu.be/1XmuMlWyBYg,AWS Events,196000,6:17:27
+251,How to Prepare for The Practical Web Penetration Tester Exam ,https://youtu.be/4bVGVBT0Lx8,The Cyber Mentor,7300,6:17:27
+252,Linux from Scratch ,https://youtu.be/oV541sgHKGo,Titus Tech Talk,2400,47:28
+253,Unleashing Metasploit: The Comprehensive Toolkit for Ethical Hacking ,https://youtu.be/evlJdV_dZ_c,David Bombal Clips,106 ,47:28
+254,Match &amp; Replace - HTTP Proxies' Most Underrated Feature (Ep. 76) ,https://youtu.be/GvBi17HfSqU,Critical Thinking - Bug Bounty Podcast,100 ,9:48
+255,Phillip Wylie Show with Matt Scheurer ,https://youtu.be/AHWdK0yjgNY,Phillip Wylie,4100,9:48
+256,White Knight Labs: Training Offerings ,https://youtu.be/1X3BWPb62nw,Phillip Wylie,1400,15:41
+257,LIVE Resume Roast | Career Advice | Cyber Security | Hacking the Resume ,https://youtu.be/QXyCFYoBuKc,The Cyber Mentor,4500,15:41
+258,Reading My Bug Bounty Reports ,https://youtu.be/ykiT2HC81Tw,The XSS rat,425000,1:26:42
+259,Fuzz Faster with Turbo Intruder ,https://youtu.be/aPu6arKIdmE,The Cyber Mentor,1900,1:26:42
+260,How I Would Learn Cyber Security If I Could Start Over in 2024 (6 Month Plan) ,https://youtu.be/rz0RL4Xue-A,UnixGuy | Cyber Security,70000,51:02
+261,7 Ways Smartphones Improve Life and How Linux-Based Libre OS Can Offer These Benefits ,https://youtu.be/eMDZExflIOQ,Linux Renaissance,380000,51:02
+262,Microsoft's Secret Plan to Dominate Tech and You Again! ,https://youtu.be/PnG66fHKRw0,Rob Braxman Tech,80000,22:43
+263,Reclaim your Privacy! Ditch Android &amp; Apple! ,https://youtu.be/ubcqZvNOXeo,David Bombal,33000,22:43
+264,Stealing Computer Passwords on Login ,https://youtu.be/FYpsHwkuQiw,John Hammond,54 ,25:00
+265,Day in the Life of an Ethical Hacker/Penetration Tester ,https://youtu.be/PNcqD52hs7Y,NahamSec,158000,25:00
+266,John Woodling: The Power of Community and Self Learning ,https://youtu.be/_lis0U4IcKg,Phillip Wylie,263 ,23:04
+267,Windows Recall (was) a Security Nightmare ,https://youtu.be/JujkOmvbgGw,John Hammond,20000,23:04
+268,Ransomware and the Crypto Threat Landscape in 2024 ,https://youtu.be/zNWd1y6njbA,Chainalysis,5900,1:07:57
+269,Learn Complete Hacking 🔥 Introducing My Offensive Pentesting Course ,https://youtu.be/9u7nNfS2BDI,Bitten Tech,2500,1:07:57
+270,Three Mental Models for Cybersecurity ,https://youtu.be/EeLVZOfZ8fs,The Cyber Mentor,109000,42:10
+271,Supply Chain Attack Primer - Popping RCE Without an HTTP Request (feat 0xLupin) (Ep. 74) ,https://youtu.be/5bgFIP-3VqI,Critical Thinking - Bug Bounty Podcast,101000,42:10
+272,The Future of Cybersecurity with Cisco &amp; Splunk's $28 billion investment! ,https://youtu.be/javF-inON7g,David Bombal,14000,23:46
+273,Fileless Malware Analysis &amp; PowerShell Deobfuscation ,https://youtu.be/1-FyyhpW-t8,John Hammond,6900,23:46
+274,This is How You  Scan Large Infrastructures ,https://youtu.be/N2Zy9Uvv1IU,NahamSec,9000,51:13
+275,LIVE HackTheBox | Pentesting | Cyber Security  |  AppSec ,https://youtu.be/lX68R8YQ65s,The Cyber Mentor,1600,51:13
+276,Cybersecurity Tool: Spiderfoot (OSINT) ,https://youtu.be/yw_KPBdAKHo,MyDFIR,65000,23:58
+277,XXE Injection - Detailed Walkthrough - (TryHackMe!) ,https://youtu.be/s8Ff-rmSP3U,Tyler Ramsbey || Hack Smarter,1100,23:58
+278,Linux Hackers Become Root with CURL &amp; Sudo ,https://youtu.be/szOQHJL2Bs8,John Hammond,3200,17:49
+279,Kape Forensics UNCUT ,https://youtu.be/yboNUdo2Ugs,Mark Baggett,55000,17:49
+280,Optimize Your Bug Bounty Learning ,https://youtu.be/DeJdmwlOhwM,g0lden,44000,1:05:04
+281,What Does Edward Snowden Recommend and Why? ,https://youtu.be/4Ny5nhwPNTk,Switched to Linux,2200,1:05:04
+282,What SECRETS are in your Email? ,https://youtu.be/Oy1-W5CmrWQ,John Hammond,40000,11:05
+283,EP-5 | HackTheBox | Redeemer | Learning to be a Hacker! ,https://youtu.be/dg-PR2bCWs8,Actually Hacker,10000,11:05
+284,If I Were to Start in Cyber Security- I'd Do This ,https://youtu.be/aO3h_-aFbiY,NahamSec,61000,11:10
+285,Using PAM EXEC to Log Passwords on Linux ,https://youtu.be/FQGu9jarCWY,IppSec,569 ,11:10
+286,WiFi Security Myths Demo: Don't believe that these will protect you! ,https://youtu.be/ucal07Y9q_s,David Bombal,3800,26:35
+287,Cloud Hacking &amp; Security - SecDataOps ,https://youtu.be/ERbfV67loZw,Cyber Insecurity,53000,26:35
+288,Exploiting the Front-End: Challenge Walkthrough ,https://youtu.be/67Y5lygfVDg,The Cyber Mentor,5500,1:09:41
+289,Did you know this about Linux? // Linux for Hackers Ep 5 ,https://youtu.be/nbznYEAdZfk,David Bombal,4900,1:09:41
+290,LIVE XXE | Pentesting | Cyber Security  |  AppSec ,https://youtu.be/YTk01osjSZY,The Cyber Mentor,36000,9:22
+291,Cybersecurity Tool: PFSense (Firewall) ,https://youtu.be/IymmPht-dAQ,MyDFIR,3600,9:22
+292,Privilege Escalation with Nim Package Manager ,https://youtu.be/CbceSV5krYQ,John Hammond,1500,1:05:00
+293,Hunting the Bug Hunters ,https://youtu.be/HITZebOQZpA,BSides Ahmedabad,1300,1:05:00
+294,Sandboxed IFrames and WAF Bypasses (Ep. 73) ,https://youtu.be/uHOxsmdsXUA,Critical Thinking - Bug Bounty Podcast,441 ,5:33
+295,Builder - Detailed Walkthrough (Hack The Box!) ,https://youtu.be/I1nPlfR96nM,Tyler Ramsbey || Hack Smarter,169 ,5:33
+296,Hacking into iOS's VoLTE Implementation ,https://youtu.be/BJ95zihVUY0,BSides Ahmedabad,533000,8:08
+297,Eddie Miro: From Criminal to Cybersecurity Expert ,https://youtu.be/NERFEkXoXnI,Phillip Wylie,9300,8:08
+298,You've been using AI Wrong ,https://youtu.be/UbDyjIIGaxQ,NetworkChuck,2800,8:31
+299,MYDFIR SOC Analyst Course: Overview (NEW SOC COURSE) ,https://youtu.be/cU-nZ6Ltvog,MyDFIR,8800,8:31
+300,Web Apps: APIs’ Nightmare ,https://youtu.be/1PjKr4ZZ6Ww,BSides Ahmedabad,172000,25:14
+301,#NahamCon2024: Shodan &amp; WAF Evasion Techniques | @godfatherOrwa ,https://youtu.be/wH6FEvmyo4A,NahamSec,8400,25:14
+302,Install Nessus for Free and scan for Vulnerabilities (New Way) ,https://youtu.be/Gy-aPBb0djk,David Bombal,5600,27:46
+303,Road to OSCP | Launching Privilege Escalation Courses ,https://youtu.be/AmlL8MkvQpI,Bitten Tech,15000,27:46
+304,Yet another OSCP exam experience video ,https://youtu.be/fmwc9pZq2Js,redfire359,109000,1:04:06
+305,#NahamCon2024: Modern WAF Bypass Techniques on Large Attack Surfaces ,https://youtu.be/0OMmWtU2Y_g,NahamSec,11000,1:04:06
+306,The coolest WiFi hacking device? ,https://youtu.be/-6n0wvpjrDY,David Bombal,145 ,10:40
+307,Privacy vs. Security in the Age of Digital Surveillance | Digits ,https://youtu.be/q86RKI-uZSc,Curiosity Stream,14000,10:40
+308,From IoT Hacks to Reverse Engineering: Jacob Swinsinski's Path to Cybersecurity ,https://youtu.be/pp4bKn9NflE,Cyber Warrior Studios,41000,1:30:31
+309,Kape  - The game changing tool that almost never was | Infosec Toolshed S1 E8 ,https://youtu.be/jxYMJnd-S6E,Mark Baggett,12000,1:30:31
+310,Cybersecurity Careers Are Experiencing a Fundamental Shift Right Now. ,https://youtu.be/o-1jDWGllHM,Grant Collins,9300,26:43
+311,The fastest way to become a cybersecurity analyst in 2024 | Learn with HTB (Episode #1) ,https://youtu.be/aDABB2Yp3a4,Hack The Box,3000,26:43
+312,How to Prevent- Detect- and Respond to Attacks with this Free Tool? ,https://youtu.be/vTPTo65_eNo,The Cyber Mentor,1500,16:03
+313,How To Setup: Metasploitable 2 &amp; OpenVAS (Tutorial) ,https://youtu.be/O8FQO17yEKw,MyDFIR,253 ,16:03
+314,Real Threat Hunting with AI and ML ,https://youtu.be/_XyegLNPGhY,SANS Institute,514 ,6:29
+315,Your Journey to the New GenAI-DFIR Era Starts Today ,https://youtu.be/SIlUmYX-z0Y,SANS Institute,1400,6:29
+316,The responsible use of generative AI in academic information security research ,https://youtu.be/quSslou7MrU,SANS Institute,61000,12:21
+317,Research TLDRs &amp; Smuggling Payloads in Well Known Data Types (Ep. 72) ,https://youtu.be/XLWntUWRj3U,Critical Thinking - Bug Bounty Podcast,142 ,12:21
+318,How to Hack Web Apps with Caido ,https://youtu.be/5Di0VVK9JiQ,John Hammond,551 ,7:58
+319,Dirce Hernandez: Breaking into Cybersecurity ,https://youtu.be/Ny2n5u5QYs8,Phillip Wylie,659 ,7:58
+320,Uncovering Azure's Silent Threats: A Journey into Cloud Vulnerabilities By Nitesh Surana ,https://youtu.be/9c6eiKguBUg,BSides Ahmedabad,65000,1:08:10
+321,The Story Of A CSRF Exploit And A Hacker - CSRF introduction ,https://youtu.be/9NxHmA2GYGs,The XSS rat,2600,1:08:10
+322,You have to look out for these hacks in 2024! (plus get FREE training) ,https://youtu.be/7KlZcMEDK5E,David Bombal,713 ,6:20
+323,Creative Windows Evasion and Forensics with Yarden Shafir ,https://youtu.be/usW9F_bUpvQ,Off By One Security,852 ,6:20
+324,Beyond the Algorithm: AI Developers' AMA ,https://youtu.be/pUxmBmHeja4,HackerOne,1300,27:12
+325,Wireless Hacking Devices: Are they worth it? ,https://youtu.be/A9Cy_hnkkyA,Off By One Security,96000,27:12
+326,More VDP Chats &amp; AI Bias Bounty Strats with Keith Hoodlet (Ep. 71) ,https://youtu.be/rAKe3iGUoeM,Critical Thinking - Bug Bounty Podcast,17000,27:16
+327,Feds Seize Largest Cyber Criminal Forum ,https://youtu.be/Bx3660vv3i4,John Hammond,1600,27:16
+328,OSCP: From FAIL to FULL points - My Top 20 Tips ,https://youtu.be/X0hkXwyM51w,Mike Gropp,41000,52:45
+329,XSS | Here’s how I got my first bounty - medium reading ,https://youtu.be/bOO2RdZgNF8,The XSS rat,8700,52:45
+330,Learn to Hack AWS &amp; Cloud Security ,https://youtu.be/pYI0X5iHODw,John Hammond,5800,10:38
+331,How to Secure Your Email (DMARC- DKIM- SPF Tutorial) ,https://youtu.be/6TjUrX7lB7I,The Cyber Mentor,167000,10:38
+332,How To Create Sock Puppet Accounts For OSINT 2024 - InfoSec Pat ,https://youtu.be/BbxSYwUFlr8,InfoSec Pat,1300,32:29
+333,Android Bluetooth Hacking ,https://youtu.be/IevVEUzXA30,David Bombal,4300,32:29
+334,Solving Research Problems Dynamically with Frida and Love ,https://youtu.be/7u7yWyK1LCg,Off By One Security,869 ,16:51
+335,Till Recollapse: Fuzzing the Web for Mysterious Vulnerabilities ,https://youtu.be/CiIyaZ3x49c,BSides Ahmedabad,125 ,16:51
+336,CISOs Confront AI: Adapting Cybersecurity to the AI Era ,https://youtu.be/x4W2W0gzm6w,SANS Institute,137 ,1:31:16
+337,The Role of AI &amp; ML in Predicting Threat Intelligence ,https://youtu.be/x1i1IXCVeMM,BSides Ahmedabad,518000,1:31:16
+338,Zero trust architectures: Moving beyond perimeters ,https://youtu.be/wWuubaG3KpM,BSides Ahmedabad,9100,49:04
+339,Thousands of Windows Users Will Lose Their Data ,https://youtu.be/kTLkejC4PbI,Mental Outlaw,51000,49:04
+340,THE POWER OF RECON ,https://youtu.be/yyD8Z5Qar5I,BSides Ahmedabad,5600,54:47
+341,These Files Don't Show Their Extension ,https://youtu.be/OS_v49D7w6M,John Hammond,5500,54:47
+342,Bug Bounty Hunters are WRONG about this‘ OR 1=1 ,https://youtu.be/-7mrIzjQnhs,Bug Hunter Labs,1000,32:43
+343,Live Bug Bounty Hunting | The FloQast Security Team Tells You How to HACK THEM! ,https://youtu.be/G7bdwfuR8Ns,rs0n_live,1500,32:43
+344,The #1 Thing Every Bug Bounty Hunter Should Be Looking For ,https://youtu.be/ekeEad5kiDo,The XSS rat,27000,7:03
+345,Cybersecurity Experience: No Job Required! Easy Tips ,https://youtu.be/1e0_KODrXCM,Scratch,8300,7:03
+346,💀 What THEY won't tell you about cybersecurity/hacker careers ,https://youtu.be/htfy4I99guM,rwxrob,89000,33:39
+347,How I PASSED the OSCP Without Lab Access ,https://youtu.be/24JKeFqDgGg,PenTest Tom,88000,33:39
+348,How to Disappear: Advanced Tech Techniques ,https://youtu.be/IBe35gzCfNc,Rob Braxman Tech,380 ,55:24
+349,Hacking Wordpress with Python in seconds (using Dark Web and Telegram data) ,https://youtu.be/Z8u4xw3YxFs,David Bombal,1000,55:24
+350,Panel | Your First Cyber Role: Aspiring Cybersecurity Professional to Employed ,https://youtu.be/4GksU2jmKg8,SANS Institute,1100,1:18:48
+352,Ask me anything... Let's talk about anything to do with security... Random guests welcome... ,https://youtu.be/lIZMY-ex6k8,Off By One Security,2800,32:54
+353,LIVE Resume Advice Throughout Your Career | Cyber Security | Soft Skills | Q &amp; A ,https://youtu.be/J5Fw1T9M8vM,The Cyber Mentor,187 ,32:54
+354,Johan Carlsson - 3 Month Check-in on Full-time Bug Bounty. (Ep. 69) ,https://youtu.be/Env8L2SlayM,Critical Thinking - Bug Bounty Podcast,17000,17:15
+355,Tyler Day: The Challenges and Rewards of Becoming a Pen Tester ,https://youtu.be/vc8aVXQhpV4,Phillip Wylie,7500,17:15
+356,How To Become An Ethical Hacker in 2024 - [Detailed Guide] ,https://youtu.be/IWx88uvfKbA,Tyler Ramsbey || Hack Smarter,5100,4:10
+357,6 Tips to Stay Motivated ,https://youtu.be/uXgVFSPhCGM,The Cyber Mentor,105000,4:10
+358,HackTheBox Cronos | SQL Injection | CTF Walkthrough #29 ,https://youtu.be/2znoTo0scc0,Bitten Tech,7300,36:32
+359,Real World Windows Pentest Tutorial (demos of Top 5 Active Directory hacks) ,https://youtu.be/BsS7VITiUXo,David Bombal,122 ,36:32
+360,LIVE Hacking | New Course | AppSec | Cybersecurity | Pentesting ,https://youtu.be/UgAhrTVbd70,The Cyber Mentor,9900,56:21
+361,Be Fearless Online: Vivek Ramachandran a Year of Browser Security Innovation ,https://youtu.be/OdvRp6qbYIo,Phillip Wylie,2100,56:21
+362,Tenable Nessus Vulnerability Management | PROJECT IDEA ,https://youtu.be/G7e5Uw6RO_E,MyDFIR,1500,43:19
+363,0-days &amp; HTMX-SS with Mathias (Ep. 68) ,https://youtu.be/l-k2pJ7oYa4,Critical Thinking - Bug Bounty Podcast,110 ,43:19
+364,Pwning Cloud Contexts: from Github token to compromising an entire GCP org By Ayoub Fathi ,https://youtu.be/fjX5u4jxW0E,BSides Ahmedabad,588 ,32:04
+365,Ryan Pullen: Insights from a Cybersecurity Pro and TED Talk Featured Speaker ,https://youtu.be/G5UKTr2OioM,Phillip Wylie,74000,32:04
+366,Hack Smarter LIVE! ,https://youtu.be/9AjNmBvVHoc,Tyler Ramsbey || Hack Smarter,10000,19:58
+367,Hackers Use Github For Malware ,https://youtu.be/0wduZ3nO848,John Hammond,7900,19:58
+368,Turning a $500 bounty into $30-000+ ,https://youtu.be/-HIwTEp_oMQ,NahamSec,175000,15:40
+369,Hack Active Directory with LLMNR ,https://youtu.be/zV1rzbi30nc,The Cyber Mentor,25000,15:40
+370,The new AI Cyber Defense  you need to know about ,https://youtu.be/vI8eUH8uiMY,David Bombal,1700,24:35
+371,Hacking Active Directory | AD | Pentesting | Live ,https://youtu.be/DrLS4wfFL-s,The Cyber Mentor,8100,24:35
+372,VDPs &amp; Accidental Program VS Hacker Debate Part 2 (Ep. 67) ,https://youtu.be/mFC0G4oBlIY,Critical Thinking - Bug Bounty Podcast,803 ,13:47
+373,Request smuggling - do more than running tools! HTTP Request smuggling bug bounty case study ,https://youtu.be/qKsdu6WAoqo,Bug Bounty Reports Explained,125000,13:47
+374,Threat Hunting in the Cloud! -- Pwned Labs! ,https://youtu.be/iBKu6ehQRw4,Tyler Ramsbey || Hack Smarter,40000,1:03:10
+375,Next Gen Hackers protecting our world ,https://youtu.be/Y4oUAvTIL3Y,David Bombal,3700,1:03:10
+376,Start Hacking for FREE ,https://youtu.be/N6zPFoGgPE0,The Cyber Mentor,86 ,58:50
+377,Introduction to AI and Leveraging it in Cybersecurity ,https://youtu.be/WWva3v9Hhfk,SANS Institute,1700,58:50
+378,Huxley Barbee: The Dark Side of Technology ,https://youtu.be/LOz0tvvxk5w,Phillip Wylie,10000,2:04:49
+379,Web LLM Attacks - [Portswigger Learning Path] ,https://youtu.be/WGZFlvObRvk,Tyler Ramsbey || Hack Smarter,70000,2:04:49
+380,How to Pick a Company to Hack On ,https://youtu.be/mHXy07g_o5k,NahamSec,123000,57:38
+381,Black Hat Bash: Bash Scripting for Hackers and Pentesters (Bonus: GraphQL and Drone hacking) ,https://youtu.be/c1ZCHCwqWls,David Bombal,4500,57:38
+382,NSA &quot;Red Team&quot; Hacker | Jeff Man | Ep. 269 ,https://youtu.be/zq6fBWO--Ms,The Team House,2600,50:39
+383,I got 110 points in OSCP as a DevOps engineer! ,https://youtu.be/Z8iQRt8qcCU,Hack the Clown,5800,50:39
+384,BRAND NEW CompTIA Certifications 2024. ,https://youtu.be/ebI6A4_lLRc,MyFreeAcademy,2300,1:08:52
+385,Enterprise Linux Security Episode 86 - The 'xz' Fiasco ,https://youtu.be/O_QZD8jBKZM,Learn Linux TV,77000,1:08:52
+386,CDN-CGI Research- Intent To Ship- and Louis Vuitton (Ep. 66) ,https://youtu.be/PNaXwJlpcuI,Critical Thinking - Bug Bounty Podcast,3700,36:07
+387,You ever seen these devices? Networking for Hackers and Cybersecurity professionals. ,https://youtu.be/N4N3oP2QIOk,David Bombal,62 ,36:07
+388,LIVE Blue Team with MalwareCube | SOC | Malware | AMA ,https://youtu.be/EECmpBBbn5Y,The Cyber Mentor,223000,42:33
+389,Ricky Allen: The Evolution of Cybersecurity Challenges ,https://youtu.be/qI2-OFjTl_M,Phillip Wylie,39000,42:33
+390,How Soviets Hacked the US: Project Gunman ,https://youtu.be/0Bln-DSbpWU,CyberNews,63000,10:03
+391,The Truth About Bug Bounties ,https://youtu.be/qrNtQmjfByo,NahamSec,10000,10:03
+392,How Hackers Can Hide PowerShell in Environment Variables ,https://youtu.be/8CiNx4nNqQ0,John Hammond,1200,40:08
+393,How to Keep Up with Cybersecurity News ,https://youtu.be/gLeoHS4rN2E,The Cyber Mentor,38000,40:08
+394,AWS Hunting! -- Identify AWS Account ID from a Public S3 Bucket - [Pwned Labs] ,https://youtu.be/O1HPnYCzh7g,Tyler Ramsbey || Hack Smarter,61000,9:39
+395,What is a Honeypot? | How-To Setup &amp; Install (WALKTHROUGH) ,https://youtu.be/FtR9sFJlkSA,MyDFIR,1600,9:39
+396,Malware &amp; Cybersecurity Threats on the Horizon ,https://youtu.be/WMGJQ7t2Uo8,John Hammond,6000,51:55
+397,Grim OSINT: Your Go-to Tool for Website Recon on Linux ,https://youtu.be/Av0j9zEB9ZQ,TechyNoob,18000,51:55
+398,Motivation and Methodology with Sam Curry (Zlz) (Ep. 65) ,https://youtu.be/iFtcathflSw,Critical Thinking - Bug Bounty Podcast,15000,9:04
+399,Cyber Security Project: Vulnerability Management ,https://youtu.be/pdIYJuuqzLw,Cyber Salih,5800,9:04
+400,The Art of Finding Critical Vulnerabilities ,https://youtu.be/fk4bFzZfN8A,NahamSec,9900,19:17
+401,NEW 2024 SOC Analyst Course (TEASER) ,https://youtu.be/fsq1NY7YSI8,MyDFIR,3900,19:17
+402,Supercharging VIM and Your Bug Bounty Recon Using AI ,https://youtu.be/qTuXcAJ_WKc,NahamSec,64000,1:07:21
+403,OWASP TOP 10 Introduction - Explained with examples (2024 edition) ,https://youtu.be/Q_hwxazyXQY,Security in mind,24000,1:07:21
+404,Hackers Can Phish with PLAINTEXT QR Codes ,https://youtu.be/cG8Uq2VESfM,John Hammond,836 ,10:16
+405,We installed RedLine InfoStealer (Malware) ,https://youtu.be/_nXdWaG1zKA,NahamSec,3300,10:16
+406,Communication Skills in Cybersecurity ,https://youtu.be/Lt-WLl8DfnU,OffSec ,32000,2:49:27
+407,Microsoft Teams Abuse w/ Matthew Eidelberg ,https://youtu.be/kMMZrd9intI,Black Hills Information Security,4000,2:49:27
+408,you DON'T need helpdesk!!! ,https://youtu.be/ds_riShqoAU,Mad Hat,21000,26:50
+409,JHaddix Returns (Ep. 63) ,https://youtu.be/5NBlyzV0Wbc,Critical Thinking - Bug Bounty Podcast,117000,26:50
+410,2024 Guide: Hacking APIs ,https://youtu.be/k5HZI6CfHw4,NahamSec,437 ,1:03:52
+411,The Apex Legends Hack. ,https://youtu.be/vWyvYPXjOe0,John Hammond,3400,1:03:52
+412,PNPT Study group session 2 ,https://youtu.be/Fl0v60Sam74,b1gb33f ,7900,35:10
+413,Mastering Adversary Emulation with Caldera: A Practical Guide ,https://youtu.be/orjlIEsas64,SANS Offensive Operations,294 ,35:10
+414,WiFi Hacking Made Easy with Angry Oxide (better than Pwnagotchi?) ,https://youtu.be/i7-kcT3rqoY,Security in mind,1100,1:27:44
+415,Hacking the Wordlist: How pro hackers use wordlists to crack passwords ,https://youtu.be/KgzCAx2wyfQ,Security in mind,810 ,1:27:44
+416,From Pentest to Red Team: Overview of The Necessary Skills and Breakdown of Frameworks ,https://youtu.be/2oX3leJlCjg,SANS Offensive Operations,819 ,1:54:43
+417,The Second Rule of Hacking: There Are No Rules ,https://youtu.be/nDzNcEy-Pyg,SANS Offensive Operations,84000,1:54:43
+418,Pwn TeamCity in the Cloud! - CVE-2024-27198 -- [Pwned Labs!] ,https://youtu.be/_N4TFAkF6zM,Tyler Ramsbey || Hack Smarter,30000,19:38
+419,Stop Your Programs Reporting Your Activity with Little Snitch ,https://youtu.be/_0EiqiPuR4Q,Naomi Brockwell TV,5100,19:38
+420,Hacking Using Metasploit with OTW (Linux Tutorial) ,https://youtu.be/51RcvBZUSII,Yaniv Hoffman,1800,16:43
+421,XSS WAF Bypass Techniques ,https://youtu.be/n6gl49FK1VU,Ott3rly,125000,16:43
+422,AD Series PNPT Prep: LLMNR Poisoning (Video 1 of 6) ,https://youtu.be/Uc69zUvF-L4,OvergrownCarrot1 Hacking,4500,1:34:34
+423,5 Common Mistakes New Linux Users Often Make ,https://youtu.be/nY9dVJ2EnSk,Learn Linux TV,697 ,1:34:34
+424,2024 Artificial Intelligence Security Trends and Predictions ,https://youtu.be/qHPil2DwqW8,SANS Institute,837 ,58:28
+425,PNPT Study group Session 1 ,https://youtu.be/OZAqS6Tlb1I,b1gb33f ,33000,58:28
+426,Backdoors &amp; Breaches - Introducing the DenSecure Expansion Deck w/ DenSecure ,https://youtu.be/JO71FrNxp1M,Black Hills Information Security,2000,34:48
+427,How to do Code Review - The Offensive Security Way ,https://youtu.be/fb-t3WWHsMQ,OWASP DevSlop,1900,34:48
+428,Cyber Apocalypse 2024: Speedrunning very easy challenges ,https://youtu.be/koxAVOrjT8I,Hack The Box,12000,8:03
+429,A Hacker on Wall Street - JR0ch17 (Ep. 61) ,https://youtu.be/eBKuDxH9B4k,Critical Thinking - Bug Bounty Podcast,11000,8:03
+430,How to take notes when you suck at it ,https://youtu.be/uXuMvUPlvd0,InsiderPhD,1600,8:44
+431,Active Directory Project (Home Lab) | Intro ,https://youtu.be/5OessbOgyEo,MyDFIR,8300,8:44
+432,The dark side of AI security: Beware of prompt injection attacks ,https://youtu.be/EaR4jUa_dgI,AI MISTAKES,498 ,2:50
+433,HTB Cyber Apocalypse 2024: Hacker Royle - Hacking Workshops ,https://youtu.be/3iyjb0xBj9E,Hack The Box,415 ,2:50
+434,LIVE Q&amp;A with John Hammond &amp; Tyler Ramsbey! ,https://youtu.be/pFVPGHzY-0I,Tyler Ramsbey || Hack Smarter,20000,10:37
+436,The AI Future of Networking and Cybersecurity. How to get started. ,https://youtu.be/LUkkHO1OP2c,David Bombal Tech,4400,1:27:47
+437,Top 5 Wireshark tricks to troubleshoot SLOW networks ,https://youtu.be/5yOw2_x1Pxg,David Bombal,2300,1:27:47
+438,Demystifying Windows Malware Investigations w/ Patterson Cake ,https://youtu.be/TsTBnAo07ks,Black Hills Information Security,4700,48:26
+439,Our Take on PortSwigger's Top 10 Web Hacking Techniques of 2023 (Ep. 60) ,https://youtu.be/33VWVXJ2ADs,Critical Thinking - Bug Bounty Podcast,210000,48:26
+440,The 5 Week Program: IDOR Q&amp;A + Labs ,https://youtu.be/cVWUrf-NolE,NahamSec,6400,20:01
+441,How to Crush Bug Bounties in the first 12 Months ,https://youtu.be/AbebbJ3cRLI,Bugcrowd,80000,20:01
+442,Answering all of your XSS questions LIVE! ,https://youtu.be/S_yrxrKiThI,NahamSec,8500,55:35
+443,Active Directory Enumeration With BloodHound ,https://youtu.be/sGO4F23Xik4,HackerSploit,78000,55:35
+444,Bloodhound For OSCP - Active Directory ,https://youtu.be/y3tB-9VBELc,Elevate Cyber,3900,19:48
+445,BLOODHOUND Domain Enumeration (Active Directory #06) ,https://youtu.be/yp8fw72oQvY,John Hammond,6200,19:48
+446,Cybersecurity Tool: LimaCharlie ,https://youtu.be/LbXiQnukb6Q,MyDFIR,47000,10:46
+447,A Honest Talk With Aditya Shende on Bug Bounties | HACKCAST EP 1 | Hacker's Podcast | #bugbounty ,https://youtu.be/lBB4uUyHEHE,Linux by Vikku,23000,10:46
+448,API Hacking 101- w/ Dr. Katie Paxton-Fear | ,https://youtu.be/qC8NQFwVOR0,Traceable AI,398000,1:33:08
+449,Awk Isn't Just A Command: Let's Learn The Basics ,https://youtu.be/2eX0scAsYJk,Brodie Robertson,20000,1:33:08
+450,EVERYONE Needs to Learn a Little Bit of AWK! ,https://youtu.be/jJ02kEETw70,Gary Explains,4300,1:12:21
+451,Awk: Hack the planet['s text]! (Presentation) - 2023 Update ,https://youtu.be/E5aQxIdjT0M,Benjamin Porter,11000,1:12:21
+452,Hacking and Fixing APIs LIVE | Special Guest Evan Ottinger (Otty) ,https://youtu.be/nQzA2bsxWmQ,The Cyber Mentor,102 ,1:45:50
+453,BEST Malware Project Ideas!!! ,https://youtu.be/wFrpGo5Wl9o,Cosmodium CyberSecurity,512 ,1:45:50
+454,Andy Liverman Anderson: Scaling Cybersecurity Functions with AI ,https://youtu.be/ymjvXQwFrA8,Phillip Wylie,2700,41:27
+455,The BEST Platform for Learning Cloud Pentesting ft. Ian Austin ,https://youtu.be/tHYr4rgYeeM,Tyler Ramsbey || Hack Smarter,35000,41:27
+456,Lab: Exploiting HTTP request smuggling to capture other users' requests ,https://youtu.be/lXtZU7AGtus,Jarno Timmermans,1100,14:14
+457,Easy IDOR hunting with Autorize? (GIVEAWAY) ,https://youtu.be/2WzqH6N-Gbc,InsiderPhD,74000,14:14
+458,Tunneling made easy with ligolo-ng ,https://youtu.be/2a8KiJCN9Yo,Raaven (That1kidfranky),1000,20:58
+459,Linux for Hackers: LINUX commands you need to know (with OTW) // Ep 6 ,https://youtu.be/DiGangfhJ4g,David Bombal,1900,20:58
+460,WIFI Password Cracking - Time is not important only SKILLS! ,https://youtu.be/htyAJEfXXy0,Security in mind,1200,9:31
+461,Web and Mobile Vulns We Exploited on #Pentests w/ Sean Verity #cybersecurity #web #mobile #security ,https://youtu.be/uJi8GhGTNPA,Black Hills Information Security,2700,9:31
+462,Jason Haddix- SusParams: Hypercharge your web testing with DATA- DEF CON 31- AppSec Village ,https://youtu.be/zInDWK43yQ8,AppSec Village,5500,1:46:50
+463,“Learnings from scanning 2 million hosts daily for bug bounty” ,https://youtu.be/P2QwYAU77kU,Infosec Studio by IW,1000,1:46:50
+464,Modern Adversarial Reconnaissance – Long Live the External ,https://youtu.be/N_Qyx836Y9s,SANS Offensive Operations,22000,25:15
+465,The Bug Hunter's Methodology v4 Recon Edition ,https://youtu.be/iwz9fTwu4S0,All Hacking Cons,3200,25:15
+466,h@cktivitycon 2020: The Bug Hunter's Methodology v4: Recon Edition ,https://youtu.be/qLTe6Z10vj8,HackerOne,13000,1:50:20
+467,Jason Haddix: From Hacker to CISO (Ep. 12) ,https://youtu.be/OYlL67pj7Ek,Critical Thinking - Bug Bounty Podcast,1600,1:50:20
+468,5 Week Program: Picking A Target &amp; Recon ,https://youtu.be/r7L_1VX2qIQ,NahamSec,16000,15:58
+469,White Box Formulas - Vulnerable Coding Patterns (Ep. 54) ,https://youtu.be/4A13Mwjf_Jg,Critical Thinking - Bug Bounty Podcast,2300,15:58
+470,“Recon Like an Adversary” ,https://youtu.be/nGs8pWIj5k4,Infosec Studio by IW,179 ,13:31
+471,Is Being a Pentester ACTUALLY Worth It? ,https://youtu.be/vfqv7PFH1gA,Tyler Ramsbey || Hack Smarter,26000,13:31
+472,Michael Jenks: Lessons from a Former DoD Professional ,https://youtu.be/I0_HWqbLiY0,Phillip Wylie,28000,8:50
+473,[HINDI] Complete ClickJacking Masterclass | Concept and Hands On ,https://youtu.be/Unu41TIk8CY,Bitten Tech,237000,8:50
+474,1 Hour of Popular Web Attacks (XSS- CSRF- SSRF- SQL Injection- MIME Sniffing- Smuggling and more!) ,https://youtu.be/pdC3H8SX-F4,Hussein Nasser,300000,23:36
+475,Free Web Hacking Course ,https://youtu.be/WqbrB12Jvgc,David Bombal,167000,23:36
+476,The best Hacking Courses &amp; Certs (not all these)? Your roadmap to Pentester success. ,https://youtu.be/Zfz3ZN2dTDM,David Bombal,26000,27:00
+477,The Bug Hunter's Methodology Full 2-hour Training ,https://youtu.be/uKWu6yhnhbQ,Red Team Village,273000,27:00
+478,API Hacking With ChatGPT! ,https://youtu.be/BTlUEWHRldk,NahamSec,17000,1:16:32
+479,NMAP Full Guide (You will never ask about NMAP again) #hackers #scanning #nmap ,https://youtu.be/JHAMj2vN2oU,Hacker Joe,865 ,1:16:32
+480,[Part II] Bug Bounty Hunting for IDORs and Access Control Violations ,https://youtu.be/jTdqM2aO4Ys,rs0n_live,109000,23:31
+481,Kerberoasting | Infosec Toolshed Season:1 Episode 3 ,https://youtu.be/KHkYd81wHTg,Mark Baggett,3000,23:31
+482,SQL Injections: The Full Course ,https://youtu.be/fiq59DuhY68,Cybr,61000,46:41
+483,Web App Wednesday! AMA with HackingHub CTO Adam Langley! ,https://youtu.be/SeoLfZQW0Rg,The Cyber Mentor,621 ,46:41
+484,Android Penetration Testing Tutorial | Mobile Penetration Testing of Android Applications | fortify ,https://youtu.be/6DIeR8CtVww,Fortify Solutions,2700,45:51
+485,Thinking Like a Forensicator - SANS Cyber Camp ,https://youtu.be/pf-Kc84X2yw,SANS Institute,8400,45:51
+486,NoSQL injection Basics Tryhackme ,https://youtu.be/-gN3ZYOxXak,Thatquietkid,22000,17:34
+487,how to use zap proxy | bug bounty | bug bounty for beginners | zap proxy tutorial | zap proxy setup ,https://youtu.be/cHvHBgsK9sc,Hacker Vlog,3000,17:34
+488,OSCP Prep - x86 Windows Stack-Based Buffer Overflow Full Tutorial - War-FTP 1.65 ,https://youtu.be/Z2pQuGmFNrM,Alh4zr3d,34 ,1:14:26
+489,Web App Wednesday! Deadly Deserialization! ,https://youtu.be/Du3noIwCokI,The Cyber Mentor,1400,1:14:26
+490,Penetration Testing with Aircrack Suite ,https://youtu.be/9rV5fTkncI4,Enes 01,23000,10:08
+491,Live Intro to Malware Analysis TryHackMe Room - InfoSec Pat ,https://youtu.be/DAH5FLAeMbQ,InfoSec Pat,69000,10:08
+492,10 AD PrivEsc Concepts You MUST Know for Mastering OSCP ,https://youtu.be/xowytiyooBk,Unknown Artists - Cyber Threat Division,88000,1:10:04
+493,Pentester Blueprint: Your road to success ,https://youtu.be/-FjL8y3B08k,David Bombal,687 ,1:10:04
+494,Free OSINT course and resources: How you can get started in 2024 ,https://youtu.be/izR7BMVJEh0,David Bombal,1300,44:41
+495,Python for PenTesting: How to Build Scanners- Keyloggers- &amp; Hash Crackers With Python ,https://youtu.be/W5whGIkmIiQ,Hank Hackerson,1200,44:41
+496,Fireside Chat with TomNomNom 🔥 ,https://youtu.be/nx8vChlyi0U,"Gerald Auger, PhD - Simply Cyber",3200,10:37
+497,Container Vulnerabilities -- [TryHackMe LIVE!] ,https://youtu.be/R1gae66-A5o,Tyler Ramsbey || Hack Smarter,9500,10:37
+498,Burp Extension Development Part 2: Data Persistence ,https://youtu.be/3-0luMgoJlM,The Cyber Mentor,276000,27:47
+499,Begin your journey into DFIR- Blue Team- Malware and Threat Hunting with Mary Ellen Kennel ,https://youtu.be/LV3K8kOPafs,The Cyber Mentor,25000,27:47
+500,How Hackers Move Through Networks (with Ligolo) ,https://youtu.be/qou7shRlX_s,John Hammond,1000,1:00:50
+501,Bug Bounty Hunting for Client-Side Injection Vulnerabilities | Part I ,https://youtu.be/cnL7CB-Gak0,rs0n_live,11000,1:00:50
+502,How To Get Into Bug Bounty - Picking A Target ,https://youtu.be/FgVdC6XgaU0,The XSS rat,3200,9:17
+503,500k/yr as Full-Time Bug Hunter &amp; Content Creator - Nahamsec (Ep. 53) ,https://youtu.be/5o0Ldc8Kypg,Critical Thinking - Bug Bounty Podcast,5300,9:17
+504,Find more clients and improve in pentesting - Cristi Vlad ,https://youtu.be/CfE0-GZk4v8,Bug Bounty Reports Explained,33000,2:35:42
+505,WebApp Weds | PNPT | Code with AI | WebApp Hacking ,https://youtu.be/2JtbR4uWi6g,The Cyber Mentor,17000,2:35:42
+506,Applied Data Science and Machine Learning for Cybersecurity - SANS Tactical Detection Summit 2018 ,https://youtu.be/m2AgYbbXz8k,SANS Institute,16000,11:40
+507,Day-6 Finding Secrets Using Shodan in Live Recon  - Bug Bounty Free Course [ Hindi ] ,https://youtu.be/dFH7wNyPRjM,Defronix Academy,2.1M ,11:40
+508,Ethical Hacking Full Course - Learn to Hack Fast! ,https://youtu.be/K6V7fc5Hj2s,Carpa Security ,16000,1:34:43
+509,3 Levels of WiFi Hacking ,https://youtu.be/dZwbb42pdtg,NetworkChuck,7900,1:34:43
+510,Live Bug Bounty Hunting | Client-Side Injection Testing on Starbucks Japan (Plus Q&amp;A) ,https://youtu.be/2eTquULp1tA,rs0n_live,723000,31:53
+511,Burp Extension Development Part 1: Setup &amp; Basics ,https://youtu.be/cKUL52wiy3U,The Cyber Mentor,5000,31:53
+512,Hacking Tools (with demos) that you need to learn in 2024 ,https://youtu.be/GxkKszPVD1M,David Bombal,187000,4:51
+513,Approaching Large Scope Targets Without Feeling Overwhelmed ,https://youtu.be/W4pafFxOOwc,InsiderPhD,9600,4:51
+514,2024 Roadmap to Master Hacker ,https://youtu.be/_wOqpowCaW8,David Bombal,26000,1:59:25
+515,New OWASP API Top 10 for Hackers ,https://youtu.be/sl1yqGhuVy4,InsiderPhD,263000,1:59:25
+516,Avoid &quot;OR 1=1&quot; in SQL Injections ,https://youtu.be/8iSGWP7lk-M,The Cyber Mentor,365000,24:03
+517,I Hacked Another File Upload Website ,https://youtu.be/BJhTZlg5Ig8,John Hammond,5800,24:03
+518,How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell ,https://youtu.be/MHsI8hJmggI,Josh Madakor,97000,15:45
+519,WebAppWednesday | Hacking APIs | New PortSwigger Labs | Where is Tib3rius?! ,https://youtu.be/gL5Jp_xkF1w,The Cyber Mentor,5700,15:45
+520,AI Firewalls are here! (Can your firewall do this?) ,https://youtu.be/n_-QuGvQXso,David Bombal,297 ,19:16
+521,Hacking when all the bugs have been found? ,https://youtu.be/S077-waODvc,InsiderPhD,6300,19:16
+522,Server-Side Vulnerabilities - Part 2 -- [Web Security Academy Learning Path] ,https://youtu.be/gP7yqDv1K7Q,Tyler Ramsbey || Hack Smarter,6300,9:26
+523,Web App Wednesday - HTTP Request Smuggling! ,https://youtu.be/A7Pq5mXos08,The Cyber Mentor,14000,9:26
+524,Giving Yourself the Best Opportunity to Find a Bug ,https://youtu.be/r-04ABtu0ZQ,InsiderPhD,8900,22:00
+525,Bug Bounty Target Deep Dive ,https://youtu.be/I83oCOV2OuA,NahamSec,3600,22:00
+526,How to Start Bug Bounty: Full Roadmap  #bugbounty ,https://youtu.be/IndLd60WB8Y,Byte BloggerBase,4300,20:31
+527,Web App Wednesday! AMA with Bug Bounty Hunter Chris (cinzinga) ,https://youtu.be/KCIovl7yIIc,The Cyber Mentor,68000,20:31
+528,Web App Wednesday - eXciting XXE Injection! ,https://youtu.be/0znxynOQFUA,The Cyber Mentor,2000,21:24
+529,Hacking with Bloodhound: Map Your Environment ,https://youtu.be/0gK8t7Kk7ZI,John Hammond,3500,21:24
+530,Enter the World of Haiku and Learn Cybersecurity Through Video Games ,https://youtu.be/4Caomjdz8Pc,"Gerald Auger, PhD - Simply Cyber",20000,10:58
+531,Weak File Permissions || Linux Privilege Escalation ,https://youtu.be/EFuVCU4AS_A,The Cyber Expert,2400,10:58
+532,kali Nethunter Full Course | Kali Linux for Android | Ethical hacking course | Kali Nethunter ,https://youtu.be/9JC0AklEecg,whitesec cyber security ,694000,35:48
+533,Sudo Misconfigurations || Linux Privilege Escalation ,https://youtu.be/tQVN-UbMjZM,The Cyber Expert,60000,35:48
+534,WiFi WPA/WPA2 vs hashcat and hcxdumptool ,https://youtu.be/Usw0IlGbkC4,David Bombal,111000,37:04
+535,OSCP Practice Lab: Active Directory Attack Path #1 ,https://youtu.be/gY_9Dncjw-s,Derron C,40000,37:04
+536,Learning Docker // Getting started! ,https://youtu.be/Nm1tfmZDqo8,Christian Lempa,4000,36:55
+537,The Beginner's Guide to Blind XSS (Cross-Site Scripting) ,https://youtu.be/MjtMLbRw0lI,NahamSec,142000,36:55
+538,AI and hacking - opportunities and threats - Joseph “rez0” Thacker ,https://youtu.be/zY7dz4Dx5tc,Bug Bounty Reports Explained,9800,13:01
+539,Linux Networking that you need to know (Episode 3) ,https://youtu.be/t96iOUxC27M,David Bombal,7800,13:01
+540,3 Real API Bugs I got a bounty for ,https://youtu.be/Yr8qhYlIzXA,InsiderPhD,65000,8:47
+541,Hacking WebApps Live | NoSQL Injection ,https://youtu.be/8OHYS7z5_-s,The Cyber Mentor,2100,8:47
+542,[HINDI] Top Cyber Security Projects for Your Resume | Solving Real Problems ,https://youtu.be/Id7drI9TPkg,Bitten Tech,303 ,1:38:19
+543,OWASP - Top 10 -- Part 2 [TryHackMe LIVE!] ,https://youtu.be/nZDwUwIPJ6M,Tyler Ramsbey || Hack Smarter,999 ,1:38:19
+544,NMAP Full Guide: Hack Like a Pro (NMAP tutorial) #nmap ,https://youtu.be/kU1UqlTdhqo,Security in mind,21000,35:30
+545,The Best Guide On Manual SQLi Testing I Could Find! - Medium ,https://youtu.be/hCR7whlYDxY,The XSS rat,19000,35:30
+546,NMAP Revealed: Unleash the Ultimate Hacker Tool ,https://youtu.be/OseLMP88QFA,pentestTV,1200,26:42
+547,Run ANY Linux Program In Memory ,https://youtu.be/7dc29U9DeIE,John Hammond,5700,26:42
+548,WazeHell Active Directory Exploitation ,https://youtu.be/GQdXSXOfkfI,OvergrownCarrot1 Hacking,5800,15:54
+549,Linux Fileserver: A Beginners Guide ... ,https://youtu.be/2YQoAWQY6Uo,Michael Horn,3100,15:54
+550,Live hacking w/ Tib3rius [SSTI] ,https://youtu.be/Tv1QBeH7-1U,The Cyber Mentor,4600,1:41:44
+551,From reporting self-XSSes to improving browser security mechanisms - Michał Bentkowski ,https://youtu.be/rcpSbNDT_EI,Bug Bounty Reports Explained,392000,1:41:44
+552,Introduction to Web Application Penetration Testing Methodology w/ Craig Vincent | 1-Hour ,https://youtu.be/uRHsdaHjH-o,Black Hills Information Security,19000,9:48
+553,Proxmox VE Setup Guide: Everything You Need to Know ,https://youtu.be/5j0Zb6x_hOk,Learn Linux TV,7200,9:48
+554,How to Use Proxychains with TOR ,https://youtu.be/073MiVKdxtE,Hacker 101,1700,1:04:44
+555,How to turn SQL injection into an RCE or a file read? Case study of 128 bug bounty reports ,https://youtu.be/ClnVdYf4PK0,Bug Bounty Reports Explained,11000,1:04:44
+556,OAuth 2.0 Fundamentals for Webapp Testers w/ Fernando Panizza | 1-Hour ,https://youtu.be/CX1BHhcksJM,Black Hills Information Security,207000,18:44
+557,Exploit Blind SSRF with Out-of-Band Detection ,https://youtu.be/AzBAHw6FZto,The Cyber Mentor,362000,18:44
+558,Do you STILL suck at subnetting?? (THE FINAL TEST) // EP 9 ,https://youtu.be/OD2vG5st4zI,NetworkChuck,28000,1:20:07
+559,DEF CON 31 - Infinite Money Glitch - Hacking Transit Cards -  Bertocchi- Campbell- Gibson- Harris ,https://youtu.be/1JT_lTfK69Q,DEFCONConference,38000,1:20:07
+560,Cybersecurity Tip: Build A Basic Home Lab (2/3) ,https://youtu.be/5iafC6vj7kM,MyDFIR,903 ,17:18
+561,I passed the OSCP with 100 points (and so can you) + Active Directory ,https://youtu.be/MHOAymrRiqI,Beau Knows Cyber,3.7M ,17:18
+562,CNWPP - Live lesson 1 - Part #1 ,https://youtu.be/v_vYmlETjso,The XSS rat,13000,15:42
+563,The Dark Web | Black Market Trade | Illegal Activities | Documentary ,https://youtu.be/GvW8Hcb15Es,Moconomy,8300,15:42
+564,Learn to Hack WebApps: Ep 21 - SSRF (Server-side request forgery) ,https://youtu.be/j2z9BuUYm-8,The Cyber Mentor,133 ,21:56
+565,[HINDI] Battle Against SQL Injection! | Secure Coding Masterclass ,https://youtu.be/TDH-eemiO0c,Bitten Tech,335 ,21:56
+566,SQL Injection Attacks: What You Need to Know (Part 2/2) ,https://youtu.be/RvN-wexD1Fw,ITLearnz,62000,18:56
+567,SQL Injection Attacks: What You Need to Know (Part 1/2) ,https://youtu.be/OWH0z0bF9kc,ITLearnz,8400,18:56
+568,My PenTesting Methodology For OSCP | How I Hack Things ,https://youtu.be/gXFTM3fRqIg,QuirkyKirkHax,36000,13:40
+569,Recon for Bug bounty By Hacklido with @Y0gisec ,https://youtu.be/eK4jDaXGGhk,Hacklido,76000,13:40
+570,Hands-On Traffic Analysis with Wireshark - Let's practice! ,https://youtu.be/5PKAa6TI82U,Chris Greer,3200,28:51
+571,Buffer Overflow Hacking Tutorial (Bypass Passwords) ,https://youtu.be/c2BvS2VqDWg,David Bombal,110000,28:51
+572,The Illustrated Pentester - Short Stories of Security | Chris Traynor | 1-Hour ,https://youtu.be/4v2lBK21sfs,Black Hills Information Security,274000,24:27
+573,Real World Hacking with OTW (Privacy and Cybersecurity IoT warning) ,https://youtu.be/IHs-QqUik4E,David Bombal,229000,24:27
+574,Improve Cybersecurity Skills with CTFs - PicoCTF Walkthrough (2018) ,https://youtu.be/uIkxsBgkpj8,freeCodeCamp.org,48000,1:16:48
+575,Real World Hacking Demo with OTW ,https://youtu.be/R1amgARgFDs,David Bombal,7000,1:16:48
+576,MALWARE Analysis with Wireshark // TRICKBOT Infection ,https://youtu.be/Brx4cygfmg8,Chris Greer,6400,16:21
+577,PowerShell Empire | Privilege Escalation &amp; Persistence | Windows 7 Hack Lab ,https://youtu.be/lultvRrnN1k,Hacker 101,26000,16:21
+578,WebApp Hacking Live! Attack &amp; Defense w/ Evan Ottinger ,https://youtu.be/pfBK7uJZjg0,The Cyber Mentor,306000,39:20
+579,How DHCP Works // DHCP EXPLAINED ,https://youtu.be/Cy0M54GSpBg,Chris Greer,120000,39:20
+580,How Nmap really works // And how to catch it // Stealth scan vs TCP scan // Wireshark analysis ,https://youtu.be/F2PXe_o7KqM,David Bombal,210000,1:31:45
+581,Wireshark Basics for Wi-Fi Hacking ,https://youtu.be/1x31YZ7DVCM,SecurityFWD,35000,1:31:45
+582,SQL Injection Hacking Tutorial (Beginner to Advanced) ,https://youtu.be/yusJWttsD5o,David Bombal,1.7M ,14:07
+583,Bug Bounty Recon Basics: The Complete Course (Part 1) ,https://youtu.be/krCsMZfbuB4,NahamSec,1300,14:07
+584,IPv4 Addressing Lesson 2: Network IDs and Subnet Masks ,https://youtu.be/XQ3T14SIlV4,NGT Academy,26000,27:16
+585,Learning sqlmap Pentesting Tool with World of Haiku ,https://youtu.be/Hh0ATwSZ5Ko,"Gerald Auger, PhD - Simply Cyber",2.9M ,27:16
+586,Cybersecurity Analyst Interview Questions / Answers ,https://youtu.be/uaokTZjD3p8,"Gerald Auger, PhD - Simply Cyber",147000,29:19
+587,DHCP Explained - Dynamic Host Configuration Protocol ,https://youtu.be/e6-TaH5bkjo,PowerCert Animated Videos,448 ,29:19
+588,12 Incredible SOC Analyst Interview Questions and Answers ,https://youtu.be/YfNr1vx3lEM,"Gerald Auger, PhD - Simply Cyber",28000,31:14
+589,Bug Bounty Workshop: Unleashing Your Cybersecurity Superpowers ,https://youtu.be/Ute9BtyJj3w,Cybermukesh,13000,31:14
+590,Hacker Interview: Ryan Montgomery AKA 0day ,https://youtu.be/-3QlhAuQfaE,NahamSec,8900,1:08:41
+591,Linux Crash Course Series - Using the passwd Command ,https://youtu.be/M9FccMReqzQ,Learn Linux TV,31000,1:08:41
+592,Lessons from the Real World (and how you can become an Insider as well) ,https://youtu.be/Hp4a0Ta1a_o,David Bombal Tech,91000,32:34
+593,Hacking with Google Dorking! ,https://youtu.be/H1zKQ7z3hN4,NahamSec,33000,32:34
+594,Trying to Find a Bug in WordPress ,https://youtu.be/lLjgskJgaRU,LiveOverflow,10000,41:39
+595,Blind SQL Injection Made Easy ,https://youtu.be/j-fLh_WNg7k,The Cyber Mentor,772 ,41:39
+596,How to do account takeover? Case study of 146 bug bounty reports ,https://youtu.be/1mOEUUKLXWs,Bug Bounty Reports Explained,7400,30:58
+597,Foundations of Website Hacking: Essential Techniques for Beginners ,https://youtu.be/ECRlu4TSb7M,AllGood Tutorials,,30:58
+598,Demystifying Bug Bounties: Insights from a Decade of Experience - Yassine Aboukir ,https://youtu.be/qAb3Uvi4iWM,BSides Prishtina,,19:34
