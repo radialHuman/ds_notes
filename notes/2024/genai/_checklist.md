@@ -71,8 +71,11 @@
             - rerank
             - summary
             - fusion
+        - hybrid rag : graph + vector rag
         - knowledge graph rag
         - Light rag
+        - colpali : vision rag
+        - LongRAG
         - Temprature
             - top p and top k
         - model merging mergekit, LM-Cocktail
