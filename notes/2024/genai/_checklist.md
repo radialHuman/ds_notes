@@ -85,6 +85,7 @@
         - Rags to riches
         - Hallucination Detection Model in RAG Pipeline - Lynx 8B
         - contextual retrival
+        - PyMuPDF4LLM for RAG
     - Citation required? 
         - llama index citation query engine
         - from langchain.chains import create_citation_fuzzy_match_chain
