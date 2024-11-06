@@ -76,6 +76,7 @@
         - Light rag
         - colpali : vision rag
         - LongRAG
+        - OP-RAG by NVIDIA for long context
         - Temprature
             - top p and top k
         - model merging mergekit, LM-Cocktail
@@ -84,8 +85,11 @@
         - RoPe (RoFormer)
         - Rags to riches
         - Hallucination Detection Model in RAG Pipeline - Lynx 8B
-        - contextual retrival
+        - contextual retrival by anthropic
         - PyMuPDF4LLM for RAG
+        - Rule RAG #TODO
+        - ATRag #TODO
+        - Report generator - llama index's agent
     - Citation required? 
         - llama index citation query engine
         - from langchain.chains import create_citation_fuzzy_match_chain
