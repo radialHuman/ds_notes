@@ -90,6 +90,7 @@
         - Rule RAG #TODO
         - ATRag #TODO
         - Report generator - llama index's agent
+        - AstuteRag : to prevent contradicatory knowledge
     - Citation required? 
         - llama index citation query engine
         - from langchain.chains import create_citation_fuzzy_match_chain

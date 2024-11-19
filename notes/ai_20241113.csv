@@ -2161,3 +2161,128 @@
 4406,Peter presents: Einstein summation notation and the einsum function ,https://youtu.be/K7g1ZkNyNbg,nPlan,1000,1:12:50
 4407,Qdrant X Emergent Methods: Prototype- Pivot- and Perfect ,https://youtu.be/mfAV_bigdRA,nPlan,314 ,1:12:50
 4413,This AI changes music production forever ,https://youtu.be/AuQ2vyrG6M4,HuggingFace,23000,1:10:34
+4478,Docling - IBM Library to Make Documents AI Ready - Install and Test Locally ,https://youtu.be/Ph4-m0hFsvU,Mukul Tripathi,54 ,58:45
+4479,Teaching LLMs to Use Computers ,https://youtu.be/KG2C-KsiNyI,AI Engineer,51 ,58:45
+4480,Crossroads: AI- Cybersecurity- and How to Prepare for What's Next ,https://youtu.be/JKNii9rIdmU,Fahd Mirza,6100,55:23
+4481,Knowledge Graphs &amp; GraphRAG: Techniques for Building Effective GenAI Applications: Zach Blumenthal ,https://youtu.be/JKNii9rIdmU,AI Makerspace,1000,55:23
+4482,Securing AI: Red Teaming &amp; Attack Strategies for Machine Learning Systems ,https://youtu.be/nzcBvba7mzI,MLSecOps,775 ,16:09
+4483,EfficientML.ai Lecture 16 - Vision Transformer (MIT 6.5940- Fall 2024) ,https://youtu.be/8iNW38mK3sU,AI Engineer,32 ,16:09
+4484,Distinguishing Ignorance from Error in LLM Hallucinations ,https://youtu.be/f8whjxDBcd8,MLSecOps,22 ,15:48
+4485,RouteLLM in ChatLLM: Optimise AI for Cost- Latency and Quality! ,https://youtu.be/uFWHweuTCGE,MIT HAN Lab,688 ,15:48
+4486,Inside the VLM: NEW &quot;Task Vectors&quot; emerge (UC Berkeley) ,https://youtu.be/FA7oLqzz8gQ,Arxiv Papers,8700,1:54:44
+4487,Stop Shipping Broken AI Apps ,https://youtu.be/apZXpgU_klw,Mervin Praison,486 ,1:54:44
+4488,EU AI Act - Navigating New Legislation // Petar Tsankov // MLOps Podcast #271 ,https://youtu.be/cyGZPF_RMNE,Discover AI,9200,31:33
+4489,Tokenformer: Rethinking Transformer Scaling with Tokenized Model Parameters ,https://youtu.be/rtmDQO3ESoE,AI User Group,2300,31:33
+4490,[QA] Tokenformer: Rethinking Transformer Scaling with Tokenized Model Parameters ,https://youtu.be/LOF6fvV5XUc,MLOps.community,96 ,15:49
+4491,Toward Understanding In-context vs. In-weight Learning ,https://youtu.be/Ak0vkBKOz0U,Arxiv Papers,68 ,15:49
+4492,Don’t Embed Wrong! ,https://youtu.be/z3smcBXytsY,Arxiv Papers,47 ,47:17
+4493,ChatGPT SEARCH Hallucinates Complete Documents (on LiNeS) ,https://youtu.be/3manp6wnmL8,Arxiv Papers,2000,47:17
+4494,The Difference Between DevOps &amp; Continuous Delivery • Dave Farley • GOTO 2024 ,https://youtu.be/DI9Q60T_054,Matt Williams,1100,6:36
+4495,What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective ,https://youtu.be/q9JB5_W4YuU,Discover AI,229 ,6:36
+4496,EP3: LLM from scratch : GPT like Decoder based LLM Architecture Implementation ,https://youtu.be/ns07b2xixvA,GOTO Conferences,396 ,13:44
+4497,RAG ,https://youtu.be/Fhy9aMu0fB4,Arxiv Papers,338 ,13:44
+4498,The craziest things The Changelog has seen in 15 years of Open Source [Podcast #148] ,https://youtu.be/A6XjEfeMfJo,Aritra Sen,2100,15:34
+4499,From PDFs to Pixels: How ColPali is Changing Information Retrieval | S2 E7 ,https://youtu.be/ImYtIEFWfzg,hu-po,665 ,15:34
+4500,Building Enterprise AI Apps with Multi-Agent RAG Systems (MARS) | TechCrunch Disrupt 2024 ,https://youtu.be/F3wzKiJcX1E,freeCodeCamp.org,42 ,55:27
+4501,OpenAI Chips!!! ,https://youtu.be/jiYqbEDPw7A,How AI Is Built,229 ,55:27
+4502,Lightning AI Makes Developing AI Systems Fast and Easy ,https://youtu.be/hbZi4AtMZyo,TechCrunch,2400,17:37
+4503,Fourier Head: Helping Large Language Models Learn Complex Probability Distributions ,https://youtu.be/qR56cyMdDXg,1littlecoder,74 ,17:37
+4504,Where Do Large Learning Rates Lead Us? ,https://youtu.be/tuUugVdV3mY,Super Data Science: ML &amp; AI Podcast with Jon Krohn,71 ,11:58
+4505,NEW Spectral Secrets: LoRA vs Full Fine-Tuning LLM (MIT) ,https://youtu.be/xrrnWnWPJRw,Arxiv Papers,66 ,11:58
+4506,AI Engineering Without Borders   swyx ,https://youtu.be/H3PY4gUEkd8,Arxiv Papers,898 ,14:49
+4507,LLM Engineering Challenge Walkthrough with The Wiz ,https://youtu.be/ZhRHc0rBd1Q,Discover AI,5500,14:49
+4508,Install Amazon Q Developer Locally in VS Code - Free AI-Powered Code Assistant ,https://youtu.be/BjjPO2aM0LU,AI Engineer,8200,13:28
+4509,ThunderKittens goes live: AMA and library walkthrough ,https://youtu.be/du6tSOMumDc,AI Makerspace,24000,13:28
+4510,OpenAI Swarm CRUSHES Traditional Agentic Frameworks in 2024! ,https://youtu.be/yEwRpY_77w0,Fahd Mirza,18000,57:35
+4511,Building Multi-Agent Systems with OpenAI Swarm: Practical Example ,https://youtu.be/HcE3I_iCvoI,Stanford MLSys Seminars,440 ,57:35
+4512,How Prioritized Experience Replay (PER) Works in Deep Q-Learning ,https://youtu.be/E3YM9Tad08c,TwoSetAI,707 ,34:42
+4513,How to make data ready for your RAG application with Qdrant and FastEmbed ,https://youtu.be/_LEaSHhcNGw,Pradip Nichite,144 ,34:42
+4514,State Space Models for Realtime Multimodal Intelligence: Karan Goel ,https://youtu.be/m6CGGPbwHCY,Johnny Code,282 ,44:54
+4515,Rethinking RAG: Beyond Nearest Neighbor Search ,https://youtu.be/Mg-giGAEqNw,Qdrant - Vector Database &amp; Search Engine,2100,44:54
+4516,CareDash: Simplify Your Healthcare Journey ,https://youtu.be/dQJZxPyI5l8,AI Engineer,396 ,11:45
+4517,PropSentinel ,https://youtu.be/yRAOnnRwuJg,Featureform,907 ,11:45
+4518,Clinical Trial Accelerator ,https://youtu.be/D-Q8HtUdZNg,AI Makerspace,49 ,56:43
+4519,LLMWare - Small- Specialized Models for RAG- Agents - Install Locally ,https://youtu.be/_1pqcEW6Hys,AI Makerspace,85 ,56:43
+4520,Scrape ANY Website in a Few Seconds!!! 💥 AI powered Web Scraping 💥 ,https://youtu.be/sTz2tXG1T0c,AI Makerspace,366 ,17:08
+4521,Can VISION Language Models Solve RAG? Introducing localGPT-Vision ,https://youtu.be/7g5tL2stswo,Fahd Mirza,3700,17:08
+4522,Multi-modal RAG: Chat with Docs containing Images ,https://youtu.be/PF5NCnBtZsA,1littlecoder,73 ,59:29
+4523,Try this Before RAG. This New Approach Could Save You Thousands! ,https://youtu.be/ZHjulqB-4A0,Prompt Engineering,1000,59:29
+4524,831: PyTorch Lightning- Lit-Serve and Lightning Studios — with Dr. Luca Antiga ,https://youtu.be/G1WNlLxPLSE,Prompt Engineering,1400,23:55
+4525,Conversational RAG Without LangChain or LlamaIndex ,https://youtu.be/hf18w6CuY8o,Prompt Engineering,2100,23:55
+4526,LangFuzz: Uncover Hidden Failures in Your LLM Apps ,https://youtu.be/mILNMFDgVf8,Super Data Science: ML &amp; AI Podcast with Jon Krohn,2800,9:34
+4527,Coding Assistant for Jupyter Lab ,https://youtu.be/-FEGlMXLSTs,Pradip Nichite,7100,9:34
+4528,LLMs Smarter + Faster + Better = PDL (IBM Research) ,https://youtu.be/AVfwbixq02w,MG,8700,14:09
+4529,5 Minute RAG: Build GenAI at Warp Speed ,https://youtu.be/WfBF2lt103I,Trelis Research,4500,14:09
+4530,Optimizing Document Retrieval with ColPali and Qdrant's Binary Quantization ,https://youtu.be/aGcLSH9TTLU,Discover AI,392 ,1:00:28
+4531,GenQ: Unsupervised Training of Sentence Embeddings in NLP ,https://youtu.be/FRt2yI4RUJo,Qdrant - Vector Database &amp; Search Engine,1200,1:00:28
+4532,LoRA vs Full Fine-tuning: An Illusion of Equivalence ,https://youtu.be/FpfhY-_0uCw,Qdrant - Vector Database &amp; Search Engine,1600,20:59
+4578,Knowledge Graph-Powered GenAI Assistant speeds Maintenance &amp; Troubleshooting | AWS Events ,https://youtu.be/QzNI1HRIpYo,Anyscale,32 ,40:20
+4579,Needle Threading: Can LLMs Follow Threads through Near-Million-Scale Haystacks? ,https://youtu.be/JIq5WS7TjMM,Machine Learning Street Talk,304 ,40:20
+4580,Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models ,https://youtu.be/hthRRfapPR8,AWS Events,592 ,40:50
+4581,Multi AI Agent System - Pure Social Manipulation ,https://youtu.be/i2vBaFzCEJw,Arxiv Papers,877 ,40:50
+4582,Theoretical physics of next token prediction in LLMs ,https://youtu.be/9gDJ6PhvVck,Arxiv Papers,482 ,30:09
+4583,Evaluating Retrieval-Augmented Generation (RAG) ,https://youtu.be/dQxWx8WaW7E,Discover AI,797 ,30:09
+4584,The State of AI with Stanford Researcher Yifan Mai [Podcast #149] ,https://youtu.be/b_xPyv2Q6GI,Tunadorable,1700,12:19
+4585,Ollama with Vision - Enabling Multimodal RAG ,https://youtu.be/2DyHW23L6Cs,Zilliz,808 ,12:19
+4586,[Paper Reading] Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts ,https://youtu.be/2DyHW23L6Cs,freeCodeCamp.org,549 ,17:33
+4587,New in Python 3.13: TypeIs ,https://youtu.be/o-B-sugN0YQ,Prompt Engineering,563 ,17:33
+4588,Tokenformer ,https://youtu.be/v0jYDgaVzlk,SupportVectors,120 ,30:32
+4589,Pattern Recognition vs True Intelligence - Francois Chollet ,https://youtu.be/xj0gnL9Vkq4,Indently,4400,30:32
+4590,How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis ,https://youtu.be/TQYWDCI7XjA,hu-po,2600,56:42
+4591,Do Mice Grok? Glimpses of Hidden Progress During Overtraining in Sensory Cortex ,https://youtu.be/Rad5fDUUasA,Machine Learning Street Talk,237 ,56:42
+4592,Inference &amp; GPU Optimization: VPTQ ,https://youtu.be/XJo7jJAjOHU,Arxiv Papers,2100,18:59
+4593,Medical GraphRAG - Simple RAG Pipeline for Medical Data - Install Locally ,https://youtu.be/qecHGs2fcm0,Arxiv Papers,486 ,18:59
+4594,Output Predictions - Faster Inference with OpenAI or vLLM ,https://youtu.be/lobxEA8-2SI,AI Makerspace,345 ,4:51
+4595,Learn Prompt Engineering in 30 MINS: Beginner's Guide to LLMs &amp; Prompting ,https://youtu.be/242QJH4atto,Fahd Mirza,69 ,4:51
+4596,Revolutionize AI with Multi Modality RAG the Future is Here ,https://youtu.be/AOJMjVzT5Ug,Trelis Research,69 ,59:32
+4597,LightRAG with Ollama - Simple and Fast RAG - Install Locally ,https://youtu.be/76EIC_RaDNw,Mayomi AI,83 ,59:32
+4598,Fourier-Enhanced Fine-Tuning Vision Language Models (PEFT-VFPT) ,https://youtu.be/0hEDtwapbgc,TwoSetAI,1700,32:25
+4599,833: The 10 Reasons AI Projects Fail — with Dr. Martin Goodson ,https://youtu.be/bIolJv_bWtg,Fahd Mirza,895 ,32:25
+4600,TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters ,https://youtu.be/kHFYBEnsYU4,Discover AI,41000,57:50
+4601,What is the Role of Small Models in the LLM Era: A Survey // MLOps Reading Group // October 17 ,https://youtu.be/5e5alJuZjc8,Super Data Science: ML &amp; AI Podcast with Jon Krohn,4500,57:50
+4602,Introduction to Report Generation ,https://youtu.be/YLdK-683lCY,Gabriel Mongaras,891 ,5:36
+4603,How Meta's Thinking LLMs Work ,https://youtu.be/ZACCZpkX53o,MLOps.community,68 ,5:36
+4604,How to evaluate using LLM-as-a-Judge (Tutorial) ,https://youtu.be/FGt7JvbzFx8,LlamaIndex,3200,6:02
+4605,What It Actually Takes to Deploy GenAI Applications to Enterprises: Arjun Bansal and Trey Doig ,https://youtu.be/Tvr7Ar_bsIA,Oxen,71 ,6:02
+4606,Using GraphRAG to Generate Business Insights ,https://youtu.be/GAM9wEE8IJo,Elvis Saravia,2300,9:19
+4607,Three Misconceptions About RAG ,https://youtu.be/bG1rZtgZiAU,AI Engineer,165 ,9:19
+4608,Decoding Dark Matter: Specialized Autoencoders for Interpreting Rare Concepts in Foundation Models ,https://youtu.be/6C6g3OnqxvQ,Intelligent Content Academy,135 ,26:54
+4609,Adapting Language Models via Token Translation ,https://youtu.be/sPotGmTlcvI,AI User Group,153 ,26:54
+4610,#216 OPRO: LLMs as optimizers ,https://youtu.be/rl9gzpI1Lqw,Arxiv Papers,85 ,53:35
+4611,LangGraph - SQL Agent - Let an LLM interact with your SQL Database ,https://youtu.be/eDr0m6R7fI4,Arxiv Papers,76 ,53:35
+4612,NEW: Post-Training Optimization Multimodal Retriever (Stanford Univ- MIT) ,https://youtu.be/etdAcVJAoao,Data Science Gems,1800,6:38
+4613,Contributing To Open Source – Beginner's Guide ,https://youtu.be/NTo-6wwD1LA,Coding Crash Courses,1900,6:38
+4614,NEW Knowledge-Graph Adaptive Reasoning: Plan-on-Graph LLM ,https://youtu.be/IAwLzkldxUk,Discover AI,63 ,2:37:07
+4615,How to use AI Agents (LLMs)  with RAG in order to query your SQL database | Building a FREE APP ,https://youtu.be/PRpXH9w5M2c,freeCodeCamp.org,165 ,2:37:07
+4616,LLM prompting optimization: Automatic Multi-step Reasoning and Tool Use ,https://youtu.be/g9E7VNeZItM,Discover AI,532 ,34:48
+4626,New VLM Post-Training Layer Scaling: No more Forgetting #ai ,https://youtu.be/8LqhTKexkmg,Arxiv Papers,1500,43:49
+4634,NEW: LoRA Models override Pre-trained Knowledge (MIT) ,https://youtu.be/ovNHRJWxQvQ,Arxiv Papers,6200,31:51
+4657,AI Prompt Programming: Beyond DSPy &amp; TextGrad: PDL ,https://youtu.be/Fhy9aMu0fB4,MG,493 ,1:00:00
+4678,835: AI Systems as Productivity Engines — with You.com’s Bryan McCann ,https://youtu.be/D-Q8HtUdZNg,WorldofAI,467 ,1:05:42
+4679,Generate Automated Podcast with AI | Open Source Notebook LM ,https://youtu.be/_1pqcEW6Hys,Arxiv Papers,2700,1:05:42
+4680,Object and Bounding Box Detection  Vision Fine tuning ,https://youtu.be/sTz2tXG1T0c,Super Data Science: ML &amp; AI Podcast with Jon Krohn,30000,5:29
+4681,AI AGENTS w/ new Q-Learning: Q-SFT (UC Berkeley) ,https://youtu.be/7g5tL2stswo,MG,2300,5:29
+4682,How to Prompt Documents With Large Language Models ,https://youtu.be/PF5NCnBtZsA,Trelis Research,10000,54:07
+4683,Step-By-Step Advanced CrewAI Setup 🤖 ,https://youtu.be/ZHjulqB-4A0,Discover AI,13000,54:07
+4684,The Impact of UX Research in the AI Space // Lauren Kaplan // MLOps Podcast #272 ,https://youtu.be/G1WNlLxPLSE,Ryan &amp; Matt Data Science,2200,26:34
+4685,#221 Imagen 3: Evaluating Image generation models ,https://youtu.be/hf18w6CuY8o,Matthew Berman,2000,26:34
+4686,#222 Multimodal Models Part1 (as part of IIT Delhi course on Large Language Models (LLMs)) ,https://youtu.be/zpLLWnLP0qc,MLOps.community,154 ,11:10
+4687,Navigating RAG Optimization with an Evaluation Driven Compass: Atita Arora and Deanna Emery ,https://youtu.be/9c9V7f7dMko,Data Science Gems,75 ,11:10
+4688,Chonkie - RAG Chunking Library - Easy Local Installation and Testing ,https://youtu.be/rubEGu7WWq0,Data Science Gems,14000,10:30
+4689,🔥 This CHANGES the REASONING Game!!!💥 Nous Forge Reasoning💥 ,https://youtu.be/Wj-sZZ1CffE,AI Engineer,2000,41:07
+4690,Multi-Modal RAG with ColPali as Reranker ,https://youtu.be/W7ze7dPsWyU,Fahd Mirza,6600,41:07
+4691,RAG Pipelines with Real-Time Data ,https://youtu.be/ia-7WllGoaM,1littlecoder,200 ,20:46
+4692,New in Python 3.13: Replace ,https://youtu.be/Dsx1oTPgLqE,LlamaIndex,40 ,20:46
+4693,Self-Taught Reasoning: How LLMs can learn arithmetic better - Explained! ,https://youtu.be/45LJT-bt500,Zilliz,79 ,1:16:20
+4694,Free CodeLLM: New Tech for AI Coding ,https://youtu.be/1dMaLjs5c8A,Indently,75 ,1:16:20
+4695,Step-,https://youtu.be/FdshdE-5D1U,CodeEmporium,14000,24:12
+4696,How to build Skynet = Adaptive Multi AI Agents ,https://youtu.be/yOT9WIL_2Kg,Discover AI,7200,24:12
+4697,Chunking Best Practices for RAG Applications ,https://youtu.be/JTU8Ha4Jyfc,Matthew Berman,48 ,16:23
+4698,Make Your RAG Agents Actually Work! (No More Hallucinations) ,https://youtu.be/wwgnswkBlrc,Discover AI,16000,16:23
+4699,The Problem with Vector Databases (and how to fix it) ,https://youtu.be/pIZ-yEIyMvw,KX,1700,32:06
+4700,New RAG for Multi-Modal DocVQA: M3DOCRAG (ColPali Qwen2-VL) ,https://youtu.be/mAgPQPsbtLw,Leon van Zyl,31000,32:06
+4701,The 10 Reasons AI Projects Fail ,https://youtu.be/vv0Zcin0H4s,Dave Ebbelaar,47 ,29:35
+4702,ADOPT: Modified Adam Can Converge with Any with the Optimal Rate ,https://youtu.be/vAywondgxwA,Discover AI,39 ,29:35
+4703,Tsinghua Open Courses | Artificial Intelligence: Fundamentals- Challenges and Progresses ,https://youtu.be/_IrBzNSoUC4,Super Data Science: ML &amp; AI Podcast with Jon Krohn,344 ,29:33
+4704,Nano GraphRAG with Ollama - Smaller- Faster- Cleaner GraphRAG - Install Locally ,https://youtu.be/qlTSqUEcIlk,Arxiv Papers,700 ,29:33
+4705,FREE CrewAI Studio GUI EASY AI Agent Creation!🤖 Open Source AI Agent Orchestration Self Hosted ,https://youtu.be/PjnfV4jCTLo,Tsinghua University,1100,15:37
