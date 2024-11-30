@@ -1,103 +1,116 @@
 ,title,link,channel,views,length
-0,Enhancing Quality and Security in CI: Gunjan Patel ,https://youtu.be/prttz9_1XDc,AI Engineer,1100,18:27
-1,Alibaba's QwQ Model can THINK before Answering: Beats o1 and Claude? ,https://youtu.be/prttz9_1XDc,Mervin Praison,2200,18:27
-2,Agentic RAG with Memory || Phidata and Qdrant ,https://youtu.be/QSA5tt-MVeA,AI With Tarun,115 ,6:07
-3,Šimon Podhajský - Multi-Agent Frameworks: Teaming Up Specialized AI Models to Tackle Complex Tasks ,https://youtu.be/CDC3GOuJyZ0,PyData,229 ,6:07
-4,Experimental Prototype LLM: QwQ 32B - EXTREME POWERFUL ,https://youtu.be/TrBpjYYJNUc,Discover AI,1900,17:03
-5,AI Terminology: Know What You Are Talking About ,https://youtu.be/EWTWS1nghY0,NeuralNine,779 ,17:03
-6,CI/CD Revolutionizing GenAI App Deployment // Luke Marsden // MLOps Podcast #273 clip ,https://youtu.be/5igrdrDS5ek,MLOps.community,80 ,27:35
-7,PDF Summary with LLMs in Python - LangChain Tutorial ,https://youtu.be/0396QnvGZmc,NeuralNine,2700,27:35
-8,Patrick Hoefler - Building Large Scale ETL Pipelines with Dask | PyData Paris 2024 ,https://youtu.be/doRpfmXncEE,PyData,60 ,16:38
-9,Bel-Letoile &amp; Carton - Leveraging LLMs to build supervised datasets suitable for smaller models ,https://youtu.be/doRpfmXncEE,PyData,44 ,16:38
-10,El Mawass &amp; Knorps - Evaluating the evaluator- RAG eval libraries under the loop | PyData Paris 2024 ,https://youtu.be/oZM4k_vVzMM,PyData,33 ,22:54
-11,Lemaitre &amp; Senger - An update on the latest scikit-learn features | PyData Paris 2024 ,https://youtu.be/82AflyGwGWk,PyData,82 ,22:54
-12,Carton &amp; Tiran-Cappello - MLOps at Renault: A Generic Pipeline for Scalable Deployment ,https://youtu.be/yrWmK3pXrKk,PyData,68 ,2:59
-13,Johan Mabille &amp; Julien Jerphanion - Unveiling Mamba 2.0: The Future of Fast Package Management ,https://youtu.be/PlCn-hqdMLw,PyData,63 ,2:59
-14,Silva-Enhancing RAG-based apps ,https://youtu.be/CBK6E-NPdWg,PyData,264 ,14:19
-15,Prompt Canvas from LangChain - Step ,https://youtu.be/2Pu72HC1DW8,Fahd Mirza,381 ,14:19
-16,CODE to Fine-Tune NEW SmolVLM on Consumer GPU w QLoRA ,https://youtu.be/sjprfQw5TJw,Discover AI,1000,28:59
-17,Attamba: Attending To Multi-Token States ,https://youtu.be/jIOZlzQ3le8,Arxiv Papers,45 ,28:59
-18,AI News: AWS Multi-Agents Framework- OpenAI- DeepMind and more! ,https://youtu.be/jIOZlzQ3le8,Mervin Praison,2500,30:46
-19,Advanced RAG Optimization To Make it Production-ready ,https://youtu.be/TJApH9Waf-0,Zilliz,43 ,30:46
-20,EfficientML.ai Lecture 22: Course Summary + Quantum Machine Learning Part 1 (MIT 6.5940- Fall 2024) ,https://youtu.be/TRAK93AGwsw,MIT HAN Lab,154 ,29:51
-21,EfficientML.ai Lecture 23: Quantum Machine Learning Part 2 (MIT 6.5940- Fall 2024) ,https://youtu.be/RiEs78GXlE0,MIT HAN Lab,78 ,29:51
-22,EfficientML.ai Lecture 22: Quantum Machine Learning Part 1 (Zoom Recording) (MIT 6.5940- Fall 2024) ,https://youtu.be/nlh-kHT5-_E,MIT HAN Lab,86 ,30:53
-23,EfficientML.ai Lecture 23: Quantum Machine Learning Part 2 (Zoom Recording) (MIT 6.5940- Fall 2024) ,https://youtu.be/svjjD2uthhQ,MIT HAN Lab,72 ,30:53
-24,On-Prem Agentic RAG: Report Generation ,https://youtu.be/ZDk-GsyInt8,AI Makerspace,531 ,32:06
-25,PyTorch's Combined Effort in Large Model Optimization // Michael Gschwind // MLOps Podcast #274 ,https://youtu.be/Ce0T48-c6XI,MLOps.community,150 ,32:06
-26,Anthropic's New Agent Protocol! ,https://youtu.be/N1WhPLhySGA,Sam Witteveen,16000,30:09
-27,[QA] Attamba: Attending To Multi-Token States ,https://youtu.be/u9BL5viEPhU,Arxiv Papers,29 ,30:09
-28,Revolutionize Document Retrieval with THIS Vision Language Model Hack ,https://youtu.be/i-Vo0AlaR7g,TwoSetAI,423 ,30:39
-29,AgentOps Library: Build Your Own AI Agents Monitoring Framework 🧰 ,https://youtu.be/8mU2OeOCIrE,AI Anytime,1400,30:39
-30,DDPS | “A first-principles approach to understanding deep learning” ,https://youtu.be/n02mEp1OoNw,Inside Livermore Lab,6500,8:05
-31,Autogens (AG2) Captain Agent Is A Game Changer. ,https://youtu.be/ku6kof8bwbw,Yaron Been,1100,8:05
-32,This Physics Technology Trains Machine Learning 10X Faster ,https://youtu.be/5rez0aU56dk,CompuFlair,2700,16:47
-33,Agentic RAG with LlamaIndex Workflows ,https://youtu.be/7UQNHPAAaNk,Arize AI,1000,16:47
-34,Understanding LLM Embeddings for Regression ,https://youtu.be/LubDbW89xeM,Arxiv Papers,113 ,15:30
-35,What is “reasoning” in modern AI? ,https://youtu.be/5T9cpbccSSE,Machine Learning Street Talk,9100,15:30
-36,A Brief History of AI &amp; AI Agents | Future of Global AI ,https://youtu.be/wfPWZOotleU,Discover AI,2900,6:26
-37,LLM Agents - Explained! ,https://youtu.be/IUhNmrfHa78,CodeEmporium,1100,6:26
-38,KEYNOTE: Amanda Silver - Building and scaling AI applications for Data Scientists and Developers ,https://youtu.be/XFMk0snybAc,PyData,26 ,39:22
-39,Gao &amp; Slater - Use ARTKIT to Automate and Scale Up Your LLM Evaluation Process | PyData NYC 2024 ,https://youtu.be/EMgbAqT8DS4,PyData,21 ,39:22
-40,KEYNOTE: Benjamin Zaitlen - Density! The not-so-secret trend driving the future of Data Analytics ,https://youtu.be/5CLNoPiMbUc,PyData,142 ,1:22:42
-41,Hugo Bowne-Anderson - Building Your First Multimodal Gen AI App 🚀 | PyData NYC 2024 ,https://youtu.be/PLZzSw64Sio,PyData,52 ,1:22:42
-42,Rami Krispin- Deploy &amp; Monitor ML Pipelines with Python- Docker and GitHub Actions | PyData NYC 2024 ,https://youtu.be/pGZo9gR5q_M,PyData,290 ,1:13:12
-43,Art Anderson &amp; Tim Faulkes - Vector Databases Demystified: Discover how they work | PyData NYC 2024 ,https://youtu.be/hh0hK6UDQw0,PyData,71 ,1:13:12
-44,Nick Tchayka - Building Production-Ready AI Systems in 90 Minutes | PyData NYC 2024 ,https://youtu.be/wTukMgtkleA,PyData,59 ,1:18:41
-45,Art Anderson - Unlocking the Power of Hybrid Search: A Deep Dive into Python-Powered Precision ,https://youtu.be/YM3UrQd2wEA,PyData,75 ,1:18:41
-46,Kumar &amp; Pattaniyil - An Introduction to Retrieval Augmented Generation | PyData NYC 2024 ,https://youtu.be/OM1CHD89jqw,PyData,68 ,1:13:11
-47,Josh Reini - Eliminate Hallucinations with Context Filter Guardrails | PyData NYC 2024 ,https://youtu.be/C4u1SjGiT_8,PyData,98 ,1:13:11
-48,A. Datta &amp; D. Datta - Building machine learning pipelines that scale | PyData NYC 2024 ,https://youtu.be/d5i5Lc9X4Og,PyData,451 ,1:02:03
-49,Saba Nejad - How to Deploy Machine Learning Inference Code to Production | PyData NYC 2024 ,https://youtu.be/XU2xhCHqILE,PyData,123 ,1:02:03
-50,Avi Levin - Explaining Machine Learning Models with LLMs | PyData NYC 2024 ,https://youtu.be/X-5X-iKNfvw,PyData,277 ,57:44
-51,Evaluating RAG Pipelines Built on Unstructured Data ,https://youtu.be/TtHjwPQMbyk,Zilliz,154 ,57:44
-52,Challenge: Can you Break the LLM? ,https://youtu.be/J_3jrS3FalY,Zilliz,18 ,15:35
-53,Anthropic's Model Context Protocol (MCP) is a GAME CHANGER for AI ,https://youtu.be/mMNcWXe_Hbo,Chris Hay,12000,15:35
-54,OpenWebUI Memory Explained: A Sneak Peek Into the Future of AI ,https://youtu.be/hGx4fQNJpiU,DigitalBrainBase,1100,7:46
-55,10 n8n Tips in 10 Minutes to 10x Your AI Automations ,https://youtu.be/SvTjzFoCkfY,Cole Medin,14000,7:46
-56,Step ,https://youtu.be/VNb4tGAHgos,Nate Herk | AI Automation,7800,19:18
-57,LLMs to agents: The Beauty &amp; Perils of Investing in GenAI // VC Panel // Agents in Production ,https://youtu.be/a0H2w5z_uk4,MLOps.community,215 ,19:18
-58,Build a multi-agent financial analyst using Microsoft's AutoGen and Lllama3-70B ,https://youtu.be/Nsu9BzQv5C4,Akshay Pachaar,1700,28:35
-59,Hymba ,https://youtu.be/wEXrbtqNIqI,AI Papers Academy,1900,28:35
-60,Generative AI Interview Questions: Fine-Tuning LLMs ,https://youtu.be/PtVp6zLYcoY,Data Science in your pocket,140 ,1:17:33
-61,Microsoft Launches 10 NEW AI Agents ,https://youtu.be/t31o4FoXO-0,Sam Witteveen,38000,1:17:33
-62,NEW Fireworks AI: F1 Preview (&amp; LIVE Logic Test) ,https://youtu.be/9EdYwMMABnA,Discover AI,1100,25:45
-63,Blackwell Tensor Cores: HYMBA Model w/ MetaTokens (Small LM) ,https://youtu.be/JE_YpjM-x4o,Discover AI,1900,25:45
-64,TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters (Paper Explained) ,https://youtu.be/pcWKJ_yvf1M,Yannic Kilcher,12000,24:22
-65,vLLM: Virtual LLM ,https://youtu.be/1j4BLvYOqdc,AI Makerspace,417 ,24:22
-66,AnyChat - Unified Chat Interface for Multiple AI Models ,https://youtu.be/gzfQpl97c5A,Fahd Mirza,341 ,12:44
-67,SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory ,https://youtu.be/gfU5y7qCxF0,Arxiv Papers,56 ,12:44
-68,When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training ,https://youtu.be/-fgUmezTCgI,Arxiv Papers,342 ,12:39
-69,How to extend Laptop RAM to run LLMs ? ,https://youtu.be/0B7UqEClD3Q,Data Science in your pocket,28000,12:39
-70,New AI Upgrades You Need to Know About—Best of 2024 ,https://youtu.be/ItqzRAsnL6o,Andy Stapleton,307 ,1:44:43
-71,NVIDIA Hymba : The best small LLM ,https://youtu.be/nM_tk2J3UPM,Data Science in your pocket,686 ,1:44:43
-72,Fine-tuning Multi modal LLMs (Llama 3.2 Vision) ,https://youtu.be/IVcFddAtSog,Data Science in your pocket,563 ,50:44
-73,AWS Multi-Agent Orchestrator Framework: Step-,https://youtu.be/bjijlNLTyuE,Fahd Mirza,731 ,50:44
-74,Optimizing ColPali for Retrieval at Scale- from Theory to Practice ,https://youtu.be/d-rKejutpUM,Qdrant - Vector Database &amp; Search Engine,1100,14:13
-75,838: Consciousness and Machines — with Jennifer K. Hill ,https://youtu.be/KnMRK4swzcM,Super Data Science: ML &amp; AI Podcast with Jon Krohn,336 ,14:13
-76,Day 3 - Git &amp; GitHub for MLOps | MLOps Foundation ,https://youtu.be/oQU6Vq3Fgcw,DSwithBappy,2000,54:58
-77,TEST: DeepSeek R1 Reasoning Model vs OpenAI's o1? ,https://youtu.be/oQU6Vq3Fgcw,Discover AI,86 ,54:58
-78,Hymba: A Hybrid-head Architecture for Small Language Models ,https://youtu.be/_h6SN1WwnLs,Arxiv Papers,75 ,37:39
-79,Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents ,https://youtu.be/idx81zUAm0M,Arxiv Papers,2500,37:39
-80,Product Hunt's &quot;Maker Of The Year&quot; on how to build AI ,https://youtu.be/idx81zUAm0M,Greg Kamradt,28000,39:12
-81,5 Wacky Python Features ,https://youtu.be/ipVlWGPOijI,Indently,1800,39:12
-82,TEST TIME Optimized AI REASONING (MIT) ,https://youtu.be/KfduOtqa5jg,Discover AI,668 ,1:29:42
-83,Key Metrics and Evaluation Methods for RAG ,https://youtu.be/_ZxpeppolVk,What's AI by Louis-François Bouchard,1600,1:29:42
-84,Visual Reasoning ,https://youtu.be/hs9RUAOos9M,hu-po,4700,1:11:18
-85,DeepSeek-R1-Lite: Open Source Reasoning LLMs are HERE! ,https://youtu.be/AVl3k7u0X0U,Ai Flux,1400,1:11:18
-86,Samsung Drops TinyClick - Single Turn Agent for GUI Automation - Install Locally ,https://youtu.be/sa6u_Pnj_JU,Fahd Mirza,1900,1:23:27
-87,Decoding Mistral AI's Large Language Models: Devendra Chaplot ,https://youtu.be/3ea2O7qfPjo,AI Engineer,152 ,1:23:27
-88,Exploring RAG and Prompt Engineering in LLM ,https://youtu.be/cRz0BWkuwHg,MLOps.community,98 ,1:12:51
-89,Challenges in Structured Document Data Extraction at Scale with LLMs ,https://youtu.be/5qkjxDzEaaw,Zilliz,5800,1:12:51
-90,The AI emperor has no DAUs  why most devs still don't use code AI: Quinn Slack ,https://youtu.be/YwsQo4cz97U,AI Engineer,2100,57:11
-91,Build LLMs From Scratch with Sebastian Raschka #52 ,https://youtu.be/em0mong0ejg,AI Stories Podcast - Neil Leiser,344 ,57:11
-92,Text-to-SQL using GPT-4o as LLM - SQLite DB Colab Python Demo🔥🔥 ,https://youtu.be/AUuktOQPWYg,Rithesh Sreenivasan,38 ,1:13:59
-93,[Paper Reading] DRAGIN: Dynamic RAG Retrieval ,https://youtu.be/-erjWBE61Js,SupportVectors,66 ,1:13:59
-94,AI for Developers #20 ,https://youtu.be/sFgkPslrxFI,AI User Group,143 ,29:07
-95,Agentic RAG Explained: The Future of AI Information Systems | Complete Architecture Guide 2024 ,https://youtu.be/Up6WVA07QdE,sam_mk87,8300,29:07
-96,Deepseek-R1-Lite: BEST Opensource LLM EVER! Beats Claude 3.5 Sonnet + O1! - (Fully Tested) ,https://youtu.be/79F32D9aM8U,WorldofAI,233 ,1:39:35
-97,Is Semantic Search All You Need? ,https://youtu.be/M9_ErR59_XY,Zilliz,122000,1:39:35
-98,Visualizing transformers and attention | Talk for TNG Big Tech Day '24 ,https://youtu.be/K5dacRVjTF8,Grant Sanderson,4700,40:22
+0,Build Anything with Claude Agents- Here’s How ,https://youtu.be/5CmAKm1wWW0,David Ondrej,41000,18:35
+1,Denoising Autoencoders | Deep Learning Animated ,https://youtu.be/0V96wE7lY4w,Deepia,3700,18:35
+2,Anthropic Has (Maybe) Solved a Holy Grail of Business AI ,https://youtu.be/5cZwbWVdovs,The AI Daily Brief: Artificial Intelligence News,3500,15:17
+3,Building AI Agents: Chat Trigger- Memory- and System/User Messages Explained [Part 1] ,https://youtu.be/yzvLfHb0nqE,n8n,1100,15:17
+4,Cleric AI SRE: Towards Self-healing Autonomous Software // Willem Pienaar // Agents in Production ,https://youtu.be/RoDQflGheHQ,MLOps.community,173 ,8:05
+5,Software Architecture- Design Thinking &amp; Knowledge Flow • Diana Montalion &amp; Kris Jenkins • GOTO 2024 ,https://youtu.be/5olb_uNB_5k,GOTO Conferences,742 ,8:05
+6,Boost RAG Performances with Fine-Tuned Embedding Models ,https://youtu.be/YE6-dS-80KQ,What's AI by Louis-François Bouchard,171 ,20:16
+7,CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models ,https://youtu.be/JadmQUudEt4,Arxiv Papers,18 ,20:16
+8,The Drive Towards Better Tech Solutions // Michael Gschwind // MLOps Podcast #274 clip ,https://youtu.be/I9bocV81_0Q,MLOps.community,21 ,29:01
+9,AI-Driven Code: Navigating Due Diligence &amp; Transparency in MLOps // Matt van Itallie // Podcast #275 ,https://youtu.be/G0mn1W3bEXo,MLOps.community,45 ,29:01
+10,Enhancing Quality and Security in CI: Gunjan Patel ,https://youtu.be/prttz9_1XDc,AI Engineer,1300,42:37
+11,Alibaba's QwQ Model can THINK before Answering: Beats o1 and Claude? ,https://youtu.be/prttz9_1XDc,Mervin Praison,2700,42:37
+12,Agentic RAG with Memory || Phidata and Qdrant ,https://youtu.be/QSA5tt-MVeA,AI With Tarun,169 ,8:46
+13,Šimon Podhajský - Multi-Agent Frameworks: Teaming Up Specialized AI Models to Tackle Complex Tasks ,https://youtu.be/CDC3GOuJyZ0,PyData,372 ,8:46
+14,Experimental Prototype LLM: QwQ 32B - EXTREME POWERFUL ,https://youtu.be/TrBpjYYJNUc,Discover AI,2600,15:26
+15,AI Terminology: Know What You Are Talking About ,https://youtu.be/EWTWS1nghY0,NeuralNine,1300,15:26
+16,The Future of CI/CD: Deploying GenAI Apps ,https://youtu.be/5igrdrDS5ek,MLOps.community,156 ,2:03
+17,PDF Summary with LLMs in Python - LangChain Tutorial ,https://youtu.be/0396QnvGZmc,NeuralNine,2800,2:03
+18,Patrick Hoefler - Building Large Scale ETL Pipelines with Dask | PyData Paris 2024 ,https://youtu.be/doRpfmXncEE,PyData,64 ,57:02
+19,Bel-Letoile &amp; Carton - Leveraging LLMs to build supervised datasets suitable for smaller models ,https://youtu.be/doRpfmXncEE,PyData,48 ,57:02
+20,El Mawass &amp; Knorps - Evaluating the evaluator- RAG eval libraries under the loop | PyData Paris 2024 ,https://youtu.be/oZM4k_vVzMM,PyData,34 ,18:27
+21,Lemaitre &amp; Senger - An update on the latest scikit-learn features | PyData Paris 2024 ,https://youtu.be/82AflyGwGWk,PyData,98 ,18:27
+22,Carton &amp; Tiran-Cappello - MLOps at Renault: A Generic Pipeline for Scalable Deployment ,https://youtu.be/yrWmK3pXrKk,PyData,77 ,6:07
+23,Johan Mabille &amp; Julien Jerphanion - Unveiling Mamba 2.0: The Future of Fast Package Management ,https://youtu.be/PlCn-hqdMLw,PyData,72 ,6:07
+24,Silva-Enhancing RAG-based apps ,https://youtu.be/CBK6E-NPdWg,PyData,308 ,17:03
+25,Prompt Canvas from LangChain - Step ,https://youtu.be/2Pu72HC1DW8,Fahd Mirza,386 ,17:03
+26,CODE to Fine-Tune NEW SmolVLM on Consumer GPU w QLoRA ,https://youtu.be/sjprfQw5TJw,Discover AI,1100,27:35
+27,Attamba: Attending To Multi-Token States ,https://youtu.be/jIOZlzQ3le8,Arxiv Papers,58 ,27:35
+28,AI News: AWS Multi-Agents Framework- OpenAI- DeepMind and more! ,https://youtu.be/jIOZlzQ3le8,Mervin Praison,2600,16:38
+29,Advanced RAG Optimization To Make it Production-ready ,https://youtu.be/TJApH9Waf-0,Zilliz,55 ,16:38
+30,EfficientML.ai Lecture 22: Course Summary + Quantum Machine Learning Part 1 (MIT 6.5940- Fall 2024) ,https://youtu.be/TRAK93AGwsw,MIT HAN Lab,184 ,22:54
+31,EfficientML.ai Lecture 23: Quantum Machine Learning Part 2 (MIT 6.5940- Fall 2024) ,https://youtu.be/RiEs78GXlE0,MIT HAN Lab,99 ,22:54
+32,EfficientML.ai Lecture 22: Quantum Machine Learning Part 1 (Zoom Recording) (MIT 6.5940- Fall 2024) ,https://youtu.be/nlh-kHT5-_E,MIT HAN Lab,109 ,2:59
+33,EfficientML.ai Lecture 23: Quantum Machine Learning Part 2 (Zoom Recording) (MIT 6.5940- Fall 2024) ,https://youtu.be/svjjD2uthhQ,MIT HAN Lab,89 ,2:59
+34,On-Prem Agentic RAG: Report Generation ,https://youtu.be/ZDk-GsyInt8,AI Makerspace,602 ,14:19
+35,How to Optimize Large AI Models with PyTorch ,https://youtu.be/Ce0T48-c6XI,MLOps.community,174 ,14:19
+36,Anthropic's New Agent Protocol! ,https://youtu.be/N1WhPLhySGA,Sam Witteveen,22000,28:59
+37,[QA] Attamba: Attending To Multi-Token States ,https://youtu.be/u9BL5viEPhU,Arxiv Papers,33 ,28:59
+38,Revolutionize Document Retrieval with THIS Vision Language Model Hack ,https://youtu.be/i-Vo0AlaR7g,TwoSetAI,782 ,30:46
+39,AgentOps Library: Build Your Own AI Agents Monitoring Framework 🧰 ,https://youtu.be/8mU2OeOCIrE,AI Anytime,1500,30:46
+40,DDPS | “A first-principles approach to understanding deep learning” ,https://youtu.be/n02mEp1OoNw,Inside Livermore Lab,7100,29:51
+41,Autogens (AG2) Captain Agent Is A Game Changer. ,https://youtu.be/ku6kof8bwbw,Yaron Been,1100,29:51
+42,This Physics Technology Trains Machine Learning 10X Faster ,https://youtu.be/5rez0aU56dk,CompuFlair,2700,30:53
+43,Agentic RAG with LlamaIndex Workflows ,https://youtu.be/7UQNHPAAaNk,Arize AI,1000,30:53
+44,Understanding LLM Embeddings for Regression ,https://youtu.be/LubDbW89xeM,Arxiv Papers,118 ,32:06
+45,What is “reasoning” in modern AI? ,https://youtu.be/5T9cpbccSSE,Machine Learning Street Talk,9900,32:06
+46,A Brief History of AI &amp; AI Agents | Future of Global AI ,https://youtu.be/wfPWZOotleU,Discover AI,3000,30:09
+47,LLM Agents - Explained! ,https://youtu.be/IUhNmrfHa78,CodeEmporium,1100,30:09
+48,KEYNOTE: Amanda Silver - Building and scaling AI applications for Data Scientists and Developers ,https://youtu.be/XFMk0snybAc,PyData,29 ,30:39
+49,Gao &amp; Slater - Use ARTKIT to Automate and Scale Up Your LLM Evaluation Process | PyData NYC 2024 ,https://youtu.be/EMgbAqT8DS4,PyData,22 ,30:39
+50,KEYNOTE: Benjamin Zaitlen - Density! The not-so-secret trend driving the future of Data Analytics ,https://youtu.be/5CLNoPiMbUc,PyData,144 ,8:05
+51,Hugo Bowne-Anderson - Building Your First Multimodal Gen AI App 🚀 | PyData NYC 2024 ,https://youtu.be/PLZzSw64Sio,PyData,53 ,8:05
+52,Rami Krispin- Deploy &amp; Monitor ML Pipelines with Python- Docker and GitHub Actions | PyData NYC 2024 ,https://youtu.be/pGZo9gR5q_M,PyData,298 ,16:47
+53,Art Anderson &amp; Tim Faulkes - Vector Databases Demystified: Discover how they work | PyData NYC 2024 ,https://youtu.be/hh0hK6UDQw0,PyData,74 ,16:47
+54,Nick Tchayka - Building Production-Ready AI Systems in 90 Minutes | PyData NYC 2024 ,https://youtu.be/wTukMgtkleA,PyData,60 ,15:30
+55,Art Anderson - Unlocking the Power of Hybrid Search: A Deep Dive into Python-Powered Precision ,https://youtu.be/YM3UrQd2wEA,PyData,76 ,15:30
+56,Kumar &amp; Pattaniyil - An Introduction to Retrieval Augmented Generation | PyData NYC 2024 ,https://youtu.be/OM1CHD89jqw,PyData,70 ,6:26
+57,Josh Reini - Eliminate Hallucinations with Context Filter Guardrails | PyData NYC 2024 ,https://youtu.be/C4u1SjGiT_8,PyData,101 ,6:26
+58,A. Datta &amp; D. Datta - Building machine learning pipelines that scale | PyData NYC 2024 ,https://youtu.be/d5i5Lc9X4Og,PyData,454 ,39:22
+59,Saba Nejad - How to Deploy Machine Learning Inference Code to Production | PyData NYC 2024 ,https://youtu.be/XU2xhCHqILE,PyData,123 ,39:22
+60,Avi Levin - Explaining Machine Learning Models with LLMs | PyData NYC 2024 ,https://youtu.be/X-5X-iKNfvw,PyData,279 ,1:22:42
+61,Evaluating RAG Pipelines Built on Unstructured Data ,https://youtu.be/TtHjwPQMbyk,Zilliz,179 ,1:22:42
+62,Challenge: Can you Break the LLM? ,https://youtu.be/J_3jrS3FalY,Zilliz,22 ,1:13:12
+63,Anthropic's Model Context Protocol (MCP) is a GAME CHANGER for AI ,https://youtu.be/mMNcWXe_Hbo,Chris Hay,13000,1:13:12
+64,OpenWebUI Memory Explained: A Sneak Peek Into the Future of AI ,https://youtu.be/hGx4fQNJpiU,DigitalBrainBase,1100,1:18:41
+65,10 n8n Tips in 10 Minutes to 10x Your AI Automations ,https://youtu.be/SvTjzFoCkfY,Cole Medin,14000,1:18:41
+66,Step ,https://youtu.be/VNb4tGAHgos,Nate Herk | AI Automation,8400,1:13:11
+67,LLMs to agents: The Beauty &amp; Perils of Investing in GenAI // VC Panel // Agents in Production ,https://youtu.be/a0H2w5z_uk4,MLOps.community,216 ,1:13:11
+68,Build a multi-agent financial analyst using Microsoft's AutoGen and Lllama3-70B ,https://youtu.be/Nsu9BzQv5C4,Akshay Pachaar,1800,1:02:03
+69,Hymba ,https://youtu.be/wEXrbtqNIqI,AI Papers Academy,1900,1:02:03
+70,Generative AI Interview Questions: Fine-Tuning LLMs ,https://youtu.be/PtVp6zLYcoY,Data Science in your pocket,143 ,57:44
+71,Microsoft Launches 10 NEW AI Agents ,https://youtu.be/t31o4FoXO-0,Sam Witteveen,40000,57:44
+72,NEW Fireworks AI: F1 Preview (&amp; LIVE Logic Test) ,https://youtu.be/9EdYwMMABnA,Discover AI,1100,15:35
+73,Blackwell Tensor Cores: HYMBA Model w/ MetaTokens (Small LM) ,https://youtu.be/JE_YpjM-x4o,Discover AI,2000,15:35
+74,TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters (Paper Explained) ,https://youtu.be/pcWKJ_yvf1M,Yannic Kilcher,13000,7:46
+75,vLLM: Virtual LLM ,https://youtu.be/1j4BLvYOqdc,AI Makerspace,425 ,7:46
+76,AnyChat - Unified Chat Interface for Multiple AI Models ,https://youtu.be/gzfQpl97c5A,Fahd Mirza,357 ,19:18
+77,SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory ,https://youtu.be/gfU5y7qCxF0,Arxiv Papers,56 ,19:18
+78,When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training ,https://youtu.be/-fgUmezTCgI,Arxiv Papers,336 ,28:35
+79,How to extend Laptop RAM to run LLMs ? ,https://youtu.be/0B7UqEClD3Q,Data Science in your pocket,28000,28:35
+80,Best AI Upgrades of 2024—You’re Missing Out on These Game-Changers! ,https://youtu.be/ItqzRAsnL6o,Andy Stapleton,315 ,1:17:33
+81,NVIDIA Hymba : The best small LLM ,https://youtu.be/nM_tk2J3UPM,Data Science in your pocket,824 ,1:17:33
+82,Fine-tuning Multi modal LLMs (Llama 3.2 Vision) ,https://youtu.be/IVcFddAtSog,Data Science in your pocket,595 ,25:45
+83,AWS Multi-Agent Orchestrator Framework: Step-,https://youtu.be/bjijlNLTyuE,Fahd Mirza,768 ,25:45
+84,Optimizing ColPali for Retrieval at Scale- from Theory to Practice ,https://youtu.be/d-rKejutpUM,Qdrant - Vector Database &amp; Search Engine,1100,24:22
+85,838: Consciousness and Machines — with Jennifer K. Hill ,https://youtu.be/KnMRK4swzcM,Super Data Science: ML &amp; AI Podcast with Jon Krohn,345 ,24:22
+86,Day 3 - Git &amp; GitHub for MLOps | MLOps Foundation ,https://youtu.be/oQU6Vq3Fgcw,DSwithBappy,2000,12:44
+87,TEST: DeepSeek R1 Reasoning Model vs OpenAI's o1? ,https://youtu.be/oQU6Vq3Fgcw,Discover AI,90 ,12:44
+88,Hymba: A Hybrid-head Architecture for Small Language Models ,https://youtu.be/_h6SN1WwnLs,Arxiv Papers,75 ,12:39
+89,Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents ,https://youtu.be/idx81zUAm0M,Arxiv Papers,2600,12:39
+90,Product Hunt's &quot;Maker Of The Year&quot; on how to build AI ,https://youtu.be/idx81zUAm0M,Greg Kamradt,28000,1:44:43
+91,5 Wacky Python Features ,https://youtu.be/ipVlWGPOijI,Indently,1800,1:44:43
+92,TEST TIME Optimized AI REASONING (MIT) ,https://youtu.be/KfduOtqa5jg,Discover AI,690 ,50:44
+93,Key Metrics and Evaluation Methods for RAG ,https://youtu.be/_ZxpeppolVk,What's AI by Louis-François Bouchard,1700,50:44
+94,Visual Reasoning ,https://youtu.be/hs9RUAOos9M,hu-po,4700,14:13
+95,DeepSeek-R1-Lite: Open Source Reasoning LLMs are HERE! ,https://youtu.be/AVl3k7u0X0U,Ai Flux,1400,14:13
+96,Samsung Drops TinyClick - Single Turn Agent for GUI Automation - Install Locally ,https://youtu.be/sa6u_Pnj_JU,Fahd Mirza,1900,54:58
+97,Decoding Mistral AI's Large Language Models: Devendra Chaplot ,https://youtu.be/3ea2O7qfPjo,AI Engineer,158 ,54:58
+98,Exploring RAG and Prompt Engineering in LLM ,https://youtu.be/cRz0BWkuwHg,MLOps.community,98 ,37:39
+99,Challenges in Structured Document Data Extraction at Scale with LLMs ,https://youtu.be/5qkjxDzEaaw,Zilliz,,37:39
+6,CI/CD Revolutionizing GenAI App Deployment // Luke Marsden // MLOps Podcast #273 clip ,https://youtu.be/5igrdrDS5ek,MLOps.community,80.0,27:35
+25,PyTorch's Combined Effort in Large Model Optimization // Michael Gschwind // MLOps Podcast #274 ,https://youtu.be/Ce0T48-c6XI,MLOps.community,150.0,32:06
+70,New AI Upgrades You Need to Know About—Best of 2024 ,https://youtu.be/ItqzRAsnL6o,Andy Stapleton,307.0,1:44:43
+90,The AI emperor has no DAUs  why most devs still don't use code AI: Quinn Slack ,https://youtu.be/YwsQo4cz97U,AI Engineer,2100.0,57:11
+91,Build LLMs From Scratch with Sebastian Raschka #52 ,https://youtu.be/em0mong0ejg,AI Stories Podcast - Neil Leiser,344.0,57:11
+92,Text-to-SQL using GPT-4o as LLM - SQLite DB Colab Python Demo🔥🔥 ,https://youtu.be/AUuktOQPWYg,Rithesh Sreenivasan,38.0,1:13:59
+93,[Paper Reading] DRAGIN: Dynamic RAG Retrieval ,https://youtu.be/-erjWBE61Js,SupportVectors,66.0,1:13:59
+94,AI for Developers #20 ,https://youtu.be/sFgkPslrxFI,AI User Group,143.0,29:07
+95,Agentic RAG Explained: The Future of AI Information Systems | Complete Architecture Guide 2024 ,https://youtu.be/Up6WVA07QdE,sam_mk87,8300.0,29:07
+96,Deepseek-R1-Lite: BEST Opensource LLM EVER! Beats Claude 3.5 Sonnet + O1! - (Fully Tested) ,https://youtu.be/79F32D9aM8U,WorldofAI,233.0,1:39:35
+97,Is Semantic Search All You Need? ,https://youtu.be/M9_ErR59_XY,Zilliz,122000.0,1:39:35
+98,Visualizing transformers and attention | Talk for TNG Big Tech Day '24 ,https://youtu.be/K5dacRVjTF8,Grant Sanderson,4700.0,40:22
 99,The NEW REASONING AI you shouldn't ignore!! ,https://youtu.be/K5dacRVjTF8,1littlecoder,,40:22
 29,The Dark Side of Being an AI Engineer - 8 reasons NOT to become an AI Engineer ,https://youtu.be/IUhNmrfHa78,Coding Crash Courses,842.0,1:13:12
 94,Qwen 2.5 models and Vision Language Models Overview ,https://youtu.be/RAicpRpavxs,TwoSetAI,70000.0,13:10
@@ -106,7 +119,6 @@
 97,A Practical Guide to Efficient AI: Shel,https://youtu.be/KJtZARuO3JY,AI Engineer,3400.0,4:37
 98,Browser-use +  LightRAG Agent That Can&nbsp;Scrape 99% websites with LLM ,https://youtu.be/1kxv4QJAvBM,Gao Dalie (高達烈),308.0,11:10
 99,Marqo Ecommerce Embeddings - Fine-tuned for Shopping Domain - Install Locally ,https://youtu.be/aUZ60v8OhJM,Fahd Mirza,,11:10
-41,Best AI Upgrades of 2024—You’re Missing Out on These Game-Changers! ,https://youtu.be/bjijlNLTyuE,Andy Stapleton,242.0,40:22
 77,Multimodal AI: LLMs that can see (and hear) ,https://youtu.be/Yyg_BoeB2LU,Shaw Talebi,2000.0,21:36
 78,Test-Time Adaptation: Novel Policy-Reward Tree Search! ,https://youtu.be/ehMdktyQgEk,Discover AI,610.0,21:36
 79,LLM-Native Resume Matching Solution with LlamaParse and LlamaCloud ,https://youtu.be/Eb6eoNhRWR8,LlamaIndex,3100.0,9:44
