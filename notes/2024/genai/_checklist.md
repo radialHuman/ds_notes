@@ -115,14 +115,20 @@
 - Chunking style
     - raptor
     - semantic
+        - cluster based
     - doc summary
     - colbertv2
     - agentic
     - length
+        - character
+        - token
     - stop words
-    - Semantic splitting
+    - Recursive
+        - character
+        - token
     - topical
     - late chunking
+    - llm as chunker
 - How to choose vector store
     - familiarity
     - felxible
@@ -148,6 +154,7 @@
     - AWS Open search
     - qdrant
 - Caching required?
+    - prompt chaching
 - Feedback mechanism
     - store for that
     - logs
