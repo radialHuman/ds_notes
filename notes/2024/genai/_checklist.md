@@ -56,6 +56,8 @@
         - anti jailbreak
     - Techniques to improve
         - multi query retrival
+        - BM25
+        - BM41
         - CRAG : judge t5
         - self-RAG
         - Self-CRAG
@@ -74,8 +76,7 @@
         - hybrid rag : graph + vector rag
         - knowledge graph rag
         - Light rag
-        - colpali : vision rag
-        - LongRAG
+=        - LongRAG
         - OP-RAG by NVIDIA for long context
         - Temprature
             - top p and top k
@@ -95,6 +96,20 @@
         - llama index citation query engine
         - from langchain.chains import create_citation_fuzzy_match_chain
     - Metadata details : hierarchical details
+- vision rag
+    - colpali
+    - clip :  two encoders are trained, openai
+    - Align : same but from google
+    - siglip : adds sigmoid so that two batches are not processed
+    - EVA
+    - MetaClip
+    - CLIPA
+    - DFN
+    - lit : pre-trained image encoder is froozen and only text is trained
+    - Siglit
+    - imagebind
+    - FuDD
+    - 
 - Which framework
     - llamaindex
     - langchain
@@ -226,7 +241,25 @@
     - LONGLORA, LOFTQ, RSLORA, QLORA, LORA+, GALORE, DORA, NEFT, unsloth, PISSA, Relora, ReMora, QALora, 
 # Back up llm
 
+# Multimodal LLM
+- QwenVL
+- Pixtral
+- OpenAI o1
+- Gemini 1.5
+
+# resoning API
+- Forge
+
 # Agent
+- Crewai
+- pydantic ai
+- Autogen
+- langflow
+- MS semantic kernel
+- OpenAI Swarm
+- Langraph
+- Llamaindex workflow
+
 
 # Guides
 
