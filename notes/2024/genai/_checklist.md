@@ -250,15 +250,18 @@
 # resoning API
 - Forge
 
-# Agent
+# Agent : authentication, extensive unit test, reAct, loop, observe, action
 - Crewai
 - pydantic ai
-- Autogen
+- MS Autogen
 - langflow
 - MS semantic kernel
 - OpenAI Swarm
 - Langraph
 - Llamaindex workflow
+- ChatDev
+- Stack
+- Phi Data (OS)
 
 
 # Guides
