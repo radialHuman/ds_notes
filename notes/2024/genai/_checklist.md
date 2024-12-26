@@ -107,7 +107,7 @@
     - DFN
     - lit : pre-trained image encoder is froozen and only text is trained
     - Siglit
-    - imagebind
+    - imagebind :  multimodal
     - FuDD
     - 
 - Which framework
@@ -127,6 +127,7 @@
     - Cohere-v3
     - Voyage
     - JinaAl
+    - Fine tuning : linear adapter, 
 - Chunking style
     - raptor
     - semantic
@@ -226,9 +227,17 @@
     - Small-to-big Retrieval
     - Knowledge base
     - React
-    - Chain of thougth
-    - Tree of thought
+    - Chain of thougth (CoT)
+    - Tree of thought (beam search)
+    - Monte carlo Tree search (MCTS)
+    - Language Agent Tree search (LATS)
     - Buffer of thought
+# Local run
+- lm studio
+- llama cpp
+- ollama
+- anything llm
+
 # Fine tune
 - Which fine tuning
     - peft
@@ -239,6 +248,15 @@
     - reft
     - LISA
     - LONGLORA, LOFTQ, RSLORA, QLORA, LORA+, GALORE, DORA, NEFT, unsloth, PISSA, Relora, ReMora, QALora, 
+- Which tool
+    - unsloth
+    - onnx
+    - llama factory
+- which library
+    - auto GPTQ
+    - auto round
+    - bitsandbytes
+    - auto awq
 # Back up llm
 
 # Multimodal LLM
@@ -262,7 +280,7 @@
 - ChatDev
 - Stack
 - Phi Data (OS)
-
+- Camel AI
 
 # Guides
 
