@@ -158,6 +158,10 @@
         - Vector dimensions supported
         - Number of embeddings
     - Consider trade-offs between cost, recall, throughput and latency
+    - Indexing
+    - Search algorithm
+    - Similarity alogorithm
+    - Distributed architecture
 - Which vector store : 
     - pinecone (cloud)
     - chroma
@@ -237,6 +241,24 @@
 - llama cpp
 - ollama
 - anything llm
+
+# Parsers
+- langchain aprser
+- PyMuPDF4LLM
+- Unstructured
+- llama parse
+- docling
+- LLMSherpa
+- PageMage
+- pypdf2
+- pdfminer
+- pdfquery
+- camleot
+- tabula-py
+- pdfminer
+- pdfreader
+- pymupdf/fitz
+- pypdfium2
 
 # Fine tune
 - Which fine tuning
