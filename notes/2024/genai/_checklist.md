@@ -14,7 +14,12 @@
     - human oversight and feeedback
     - misuse
 - Questions to ask
-    - which llm, verison, token useage cost, latency, 
+    - which
+        - llm
+        - verison
+        - token : Byte pair encoding, Wordpience, sentence piece, unigram, Byte Latent
+        - useage cost
+        - latency, 
     - embeddings : which model, how parsing occurs, how chunking occurs, computational expense
     - store embedding : how to udpate, how to store chuncks, metadata storage, chunking strategy
     - retrieving : How many chunks are retrieved, combining chunks, relevancy ranking, Metadata filtering, Which metadata was retrieved with the embeddings, Which similarity algorithm is used
@@ -159,7 +164,7 @@
         - Number of embeddings
     - Consider trade-offs between cost, recall, throughput and latency
     - Indexing
-    - Search algorithm
+    - Search algorithm : hswn, diskknn
     - Similarity alogorithm
     - Distributed architecture
 - Which vector store : 
@@ -274,6 +279,8 @@
     - unsloth
     - onnx
     - llama factory
+    - swift
+    - DeepSpeed
 - which library
     - auto GPTQ
     - auto round
@@ -303,6 +310,105 @@
 - Stack
 - Phi Data (OS)
 - Camel AI
+- smolagent
+
+
+# Speed it up
+When a Retrieval-Augmented Generation (RAG) system experiences latency issues, several strategies can be employed to improve its speed. Here's an exhaustive list of potential optimizations:
+
+**Optimizing the Retrieval Stage:**
+
+* **Efficient Indexing and Search in the Vector Database:**
+    * **Choose an appropriate vector database:** Evaluate different vector databases (like Pinecone, Faiss, Milvus, etc.) based on their performance characteristics and suitability for the specific use case. The sources use Pinecone in their example.
+    * **Optimize indexing parameters:** Fine-tune indexing parameters, such as the number of clusters or the distance metric used, to improve search speed. 
+    * **Use approximate nearest neighbor search:** Consider techniques like Locality Sensitive Hashing (LSH) for faster retrieval at a slight cost to accuracy.
+
+* **Reduce the Number of Documents Retrieved:** 
+    * **Fine-tune the similarity threshold:** Adjust the threshold for document similarity to retrieve a smaller, more relevant set of documents. 
+    * **Employ smarter pre-filtering:** Use heuristics or rule-based filters to narrow down the search space before querying the vector database.
+
+* **Optimize Embedding Computation:** 
+    * **Use smaller embedding models:** Consider using smaller or more efficient embedding models if the accuracy trade-off is acceptable.
+    * **Batch embedding computations:**  Process multiple documents or queries simultaneously to reduce overhead.
+    * **Cache frequently used embeddings:** Store embeddings for frequently accessed documents in a cache to avoid recomputation. 
+
+**Optimizing the Generation Stage:**
+
+* **Use a Smaller or More Efficient LLM:**
+    * **Quantize the LLM:** Employ quantization techniques to reduce the precision of model weights and activations, leading to faster inference and smaller model sizes.
+    * **Distill knowledge into a smaller model:** Train a smaller "student" model to mimic the behavior of the larger LLM using knowledge distillation techniques. The sources mention that a smaller model trained this way is guaranteed to both be smaller and improve latency.
+* **Reduce the Context Length:** 
+    * **Limit the number of retrieved documents passed to the LLM:**  Experiment with passing only the most relevant documents to the LLM. 
+    * **Use summarization techniques:** Summarize retrieved documents before feeding them to the LLM to reduce the input sequence length. The sources explain that this can be done using an external LLM.
+* **Optimize LLM Inference:**
+    * **Compile the LLM:**  Compile the LLM to optimize its execution on the target hardware. This leads to improved efficiency, resource utilization, and cost.
+    * **Use a more efficient inference engine:** Explore optimized inference engines or libraries specifically designed for fast LLM inference. For example, vLLM, Hugging Face's TGI, or OpenLLM are libraries that can be used for easy deployment of LLM inference services.
+    * **Employ caching:** Cache LLM outputs for frequently used prompts or inputs. 
+* **Stream Responses:** Stream LLM-generated text to the user as it's being generated, improving perceived latency and responsiveness. Streaming allows users to see the text as it's being produced, even if the entire generation process takes some time.
+
+**Optimizing the Overall System:**
+
+* **Distributed Computing:**
+    * **Parallelize retrieval and generation:** Distribute the workload across multiple GPUs or computing nodes. This can be done using libraries like Ray, which enables scaling to multiple GPUs by running each pipeline on a separate node. Accelerate is another library that can be used for parallelizing and scaling to multiple GPUs.
+    * **Optimize data transfer:** Minimize data transfer between nodes by using efficient communication protocols and data serialization techniques. For example, using gRPC can improve network I/O performance, especially for large payloads often seen in LLM applications.
+* **Caching:** 
+    * **Cache retrieval results:** Store frequently used retrieval results in a cache to avoid repeated searches. 
+    * **Cache LLM generations:** Cache LLM outputs for commonly used prompts or document combinations. 
+* **Hardware Optimization:** 
+    * **Use faster storage:** Employ high-speed SSDs or NVMe drives to reduce storage access latency. This is particularly relevant for storing and retrieving embeddings and documents in the vector database. 
+    * **Use powerful GPUs:** Utilize high-performance GPUs to accelerate both embedding computations and LLM inference. 
+* **Code Optimization:**
+    * **Profile the code:** Identify performance bottlenecks in the retrieval and generation processes. 
+    * **Optimize data structures and algorithms:** Employ efficient data structures and algorithms to minimize computational overhead. 
+* **Load Balancing and Autoscaling:**
+    * **Distribute traffic:** Use load balancing to distribute incoming requests across multiple instances of the RAG system. 
+    * **Implement autoscaling:** Automatically adjust the number of instances based on the workload to handle varying traffic patterns. This ensures efficient resource utilization and avoids bottlenecks during peak usage.
+
+Addressing latency in a RAG system often involves a combination of these techniques, carefully chosen based on the specific system architecture, requirements, and performance bottlenecks.
+
+
+# better accuracy
+
+Several techniques can be implemented to enhance the retrieval stage of a Retrieval-Augmented Generation (RAG) system, improving speed and accuracy. Here's an exhaustive list of potential optimizations focusing on the retrieval aspect:
+
+### **Enhancing the Vector Database:**
+
+*   **Selecting the Right Vector Database:**  The choice of vector database significantly impacts search speed and scalability. Evaluate different options like **Pinecone**, **Faiss**, **Weaviate**, **Milvus**, and **Pine cone** based on their performance, indexing methods, and suitability for your data and query patterns. The sources mention **Pinecone** as a practical example for implementing RAG.
+*   **Optimizing Indexing Parameters:** Fine-tuning the indexing parameters of your chosen vector database can significantly enhance search speed. Experiment with parameters like:
+    *   **Number of clusters:** This influences the granularity of the search space.
+    *   **Distance metric:**  Choose the appropriate distance metric (Euclidean, cosine similarity, etc.) based on the nature of your embeddings and the desired similarity measure.
+
+### **Optimizing the Search Strategy:**
+
+*   **Employing Approximate Nearest Neighbor Search:** For faster retrieval, particularly in large-scale databases, consider using approximate nearest neighbor search (ANN) techniques like **Locality Sensitive Hashing (LSH)**. ANN methods sacrifice some accuracy for substantial speed improvements.
+*   **Implementing Hybrid Search:** Combine semantic search with keyword search to leverage the strengths of both approaches. Keyword search can be useful for exact phrase matching, while semantic search excels at capturing meaning and context.
+*   **Using Query Rewriting:** If your RAG system is a chatbot, use an LLM to rewrite verbose or context-dependent user queries into concise and focused queries optimized for the retrieval step. This can improve the relevance of retrieved documents. 
+
+### **Refining Text Chunking:**
+
+*   **Choosing the Right Chunking Strategy:** The way you divide documents into chunks before embedding them affects the expressiveness of your search index. Consider: 
+    *   **Sentence-level chunking:**  Suitable for short documents or when fine-grained retrieval is necessary.
+    *   **Paragraph-level chunking:** Effective for longer documents with clear paragraph structures.
+    *   **Fixed-length chunking:**  Useful when document structure is inconsistent.
+    *   **Overlapping chunks:** Include overlapping segments to preserve context and capture concepts spanning multiple sentences. The sources highlight this as an effective strategy.
+*   **Adding Context to Chunks:** Enhance chunk embeddings by incorporating surrounding text:
+    *   Include the document title in each chunk to provide document-level context.
+    *   Add text snippets from preceding and following sentences to enrich the representation of the current chunk.
+
+### **Optimizing Embedding Computation and Storage:**
+
+*   **Fine-Tuning Embedding Models:** Improve the retrieval relevance by fine-tuning the embedding model on a dataset of relevant query-document pairs. This aligns the model with your specific notion of relevance, as demonstrated in the sources.
+*   **Using Smaller or More Efficient Embedding Models:** If accuracy trade-offs are acceptable, consider using smaller embedding models or those specifically optimized for efficiency.
+*   **Batching Embedding Computations:**  Process multiple documents or queries simultaneously to reduce overhead. This optimizes the embedding generation process.
+*   **Caching Frequently Used Embeddings:** Store embeddings for frequently accessed documents in a cache to avoid recomputation, speeding up the retrieval process.
+
+### **Managing Computational Resources:**
+
+*   **Using Efficient Hardware:** Employing high-speed storage, like SSDs or NVMe drives, for the vector database reduces storage access latency. Using powerful GPUs can accelerate both embedding computations and LLM inference.
+*   **Parallelizing Retrieval:** Utilize distributed computing techniques to parallelize the retrieval process across multiple GPUs or computing nodes. Libraries like **Ray** or **Accelerate** can enable this scaling.
+
+By implementing a combination of these techniques, tailored to your specific RAG system and data characteristics, you can significantly improve the speed and effectiveness of the retrieval stage. 
+
 
 # Guides
 
