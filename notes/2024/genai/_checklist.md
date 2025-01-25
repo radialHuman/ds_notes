@@ -40,6 +40,7 @@
 # RAG
 - Which model
     - architecture : rag, knowleegde grahp, crag, self rag, reranking
+    - CAG will work instead of RAG? or hybrid?
     - mixture
     - Context length
     - Tranined on which data
@@ -69,6 +70,7 @@
         - Autorag
         - hippo rag
         - Reranking
+        - Main-RAG
         - Hyde : hypothetical answer using 2nd llm along with actual query
         - Pre retreval
             - query routing
@@ -139,6 +141,7 @@
         - cluster based
     - doc summary
     - colbertv2
+    - PLAID
     - agentic
     - length
         - character
@@ -229,6 +232,7 @@
     - Better Parsers
     - Chunk Sizes
     - Prompt Engineering
+    - Grpah Tracing in ICL 
     - Customizing Models
     - Metadata Filtering
     - Recursive Retrieval
@@ -237,8 +241,14 @@
     - Knowledge base
     - React
     - Chain of thougth (CoT)
+        - Reward modeling
+        - Self verification
+        - Search methods
+        - Best-of-N sampling
+        - STaR algorithm
+        - Verifier
+        - Monte carlo Tree search (MCTS)
     - Tree of thought (beam search)
-    - Monte carlo Tree search (MCTS)
     - Language Agent Tree search (LATS)
     - Buffer of thought
 # Local run
@@ -275,7 +285,9 @@
     - reft
     - LISA
     - LONGLORA, LOFTQ, RSLORA, QLORA, LORA+, GALORE, DORA, NEFT, unsloth, PISSA, Relora, ReMora, QALora, 
-- Which tool
+    - LORA-XS
+    - VERA
+- Which toolNN
     - unsloth
     - onnx
     - llama factory
@@ -308,7 +320,7 @@
 - Llamaindex workflow
 - ChatDev
 - Stack
-- Phi Data (OS)
+- PhiData (OS)
 - Camel AI
 - smolagent
 

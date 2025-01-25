@@ -22,5 +22,7 @@ https://arxiv.org/pdf/2411.07396 - Toward Optimal Search and Retrieval for RAG
 https://arxiv.org/pdf/2411.07494 - RAPID RESPONSE: MITIGATING LLM JAILBREAKS WITH A FEW EXAMPLES
 https://arxiv.org/pdf/2411.04996 - Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models
 https://arxiv.org/pdf/2411.02830 - Mixtures of In-Context Learners
-
- 
+https://arxiv.org/pdf/2501.00332 - Main-Rag
+https://arxiv.org/pdf/2501.06252v2 - transx2
+https://arxiv.org/pdf/2501.06425v1 - tensor is all u need
+https://arxiv.org/pdf/2501.06713v2 - Mini Rag
