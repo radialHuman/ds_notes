@@ -2509,8 +2509,41 @@
 2522,Direct Preference Optimization: Your Language Model is Secretly a Reward Model (Ko/En Subtitles) ,https://youtu.be/rie-9AEhYdY,LLMPaperReview,4400,13:43
 2523,Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy ,https://youtu.be/-CbLgua_TaE,Stanford Online,3300,13:43
 2524,Fast Fine Tuning and DPO Training of LLMs using Unsloth ,https://youtu.be/PXWYUTMt-AU,AI Anytime,15000,11:53
-2525,767: Open-Source LLM Libraries and Techniques — with Dr. Sebastian Raschka ,https://youtu.be/2Uar1fDKYpQ,Super Data Science: ML &amp; AI Podcast with Jon Krohn,,11:53
-2526,Prompt Engineering Techniques (extended version) ,https://youtu.be/tVw3CwrN5-8,Jonathan Yarkoni,,3:52
+2525,767: Open-Source LLM Libraries and Techniques — with Dr. Sebastian Raschka ,https://youtu.be/2Uar1fDKYpQ,Super Data Science: ML &amp; AI Podcast with Jon Krohn,66 ,11:53
+2526,Prompt Engineering Techniques (extended version) ,https://youtu.be/tVw3CwrN5-8,Jonathan Yarkoni,7 ,3:52
+2527,R1- OpenAI’s o3- and the ARC-AGI Benchmark: Insights from Mike Knoop on the Gradient Dissent Podcast ,https://youtu.be/0ai-L50VCYU,Weights &amp; Biases,378 ,3:52
+2528,AI &amp; Aliens: New Eyes on Ancient Questions // Richard Cloete // MLOps Podcast #288 ,https://youtu.be/e24BlWvSLNM,MLOps.community,23 ,31:46
+2529,OpenAI's $200 Masterplan!!! ,https://youtu.be/2GgVRSO5bVs,1littlecoder,60 ,31:46
+2530,Fix LLM Hallucinations with Fact Checker ,https://youtu.be/GQPOtyITy54,MG,268 ,26:27
+2531,859: BAML: The Programming Language for AI — with Vaibhav Gupta ,https://youtu.be/XV1RXLPIVlw,Super Data Science: ML &amp; AI Podcast with Jon Krohn,2600,26:27
+2532,How to Write Perfect AI Prompts (Without Being a Prompt Engineer) ,https://youtu.be/Eug2clsLtFs,D-Squared,619 ,20:10
+2533,Stanford Univ CREATED the S1 Reasoning LLM (o1- R1) ,https://youtu.be/dTzL8OF_3i0,Discover AI,47 ,20:10
+2534,How to Build Customer Segments with AI (Real-World Use Case) ,https://youtu.be/_NG6tNRlof0,Shaw Talebi,6800,14:56
+2535,Bhavnick Minhas - The Hippo’s guide to the RAGalaxy ,https://youtu.be/fnDUaDDrR4c,Cohere,1500,14:56
+2536,TOTEM: TOkenized Time Series EMbeddings for General Time Series Analysis ,https://youtu.be/vELvSKZOREA,Steve Brunton,145 ,14:48
+2537,Why I Think Transformers Is Flawed And What Alternative Architectures I Like ,https://youtu.be/fbledYWt_PE,Richard Aragon,3700,14:48
+2538,IBM Docling Free and OpenSource Advanced Document Parser ,https://youtu.be/BYZ7H9JR9mU,Geek Avenue,81000,13:56
+2539,Have we been doing LLM inference wrong the whole time?!?! ,https://youtu.be/gc4UBabpVPA,Tunadorable,119000,13:56
+2540,Deep Research ,https://youtu.be/EZBvSAjblss,AI Explained,1600,6:03
+2541,How AI Will Answer Questions We Haven’t Thought to Ask | Aravind Srinivas | TED ,https://youtu.be/5ZlavKF_98U,TED,1100,6:03
+2542,GRPO Explained with Hands-on Demo - Train Your Own DeepSeek Reasoning Model ,https://youtu.be/kEgeegk9iqo,Fahd Mirza,36000,9:43
+2543,Top Vision Models 2025: Qwen 2.5 VL- Moondream- &amp; SmolVLM (Fine-Tuning &amp; Benchmarks) ,https://youtu.be/R4CUKAHShyE,Trelis Research,399000,9:43
+2544,You HAVE to Try Agentic RAG with DeepSeek R1 (Insane Results) ,https://youtu.be/sIFokbuATX4,Cole Medin,198 ,51:28
+2545,Introduction to Deep Research ,https://youtu.be/0c7Ksd6BG88,OpenAI,328 ,51:28
+2546,Chain-of-Retrieval Augmented Generation (Paper Walkthrough) ,https://youtu.be/wds11xm4ruo,Ribbit Ribbit - Discover Research The Fun Way,5500,7:20
+2547,Real LLM Success Stories: How They Actually Work // Alex Strick van Linschoten // Podcast #287 ,https://youtu.be/f_7oLIF6X9o,MLOps.community,646 ,7:20
+2548,Axolotl is a AI FineTuning Magician ,https://youtu.be/f_7oLIF6X9o,Matt Williams,185 ,6:47
+2549,Fine-tuning Multimodal Embeddings on Custom Text-Image Pairs ,https://youtu.be/ycfnKPxBMck,Shaw Talebi,35000,6:47
+2550,Rebuilding YC’s Hype AI… Before Lunch! (Step-,https://youtu.be/NoaDWKHdkHg,TwoSetAI,3900,9:42
+2551,DeepSeek R1 Theory Overview | GRPO + RL + SFT ,https://youtu.be/aQ4yQXeB1Ss,Deep Learning with Yacine,49 ,9:42
+2552,Open Source DeepSeek ,https://youtu.be/pbAd8O1Lvm4,hu-po,14000,10:23
+2553,Eval Me Maybe: How Evals Support Faster- More Confident LLM Development ,https://youtu.be/v5ymBTXNqtk,AI User Group,8800,10:23
+2554,The Best Tiny LLMs ,https://youtu.be/Ll7lRBaP378,Trelis Research,65 ,6:14
+2555,DeepSeek-V3 ,https://youtu.be/i4V9iJcxzZ4,Gabriel Mongaras,1600,6:14
+2556,Inside Vector Database Quantization: Product- Binary- and Scalar | S2 E23 ,https://youtu.be/XM8pllpBVA0,How AI Is Built,223 ,18:00
+2562,DeepSeek explained - The Chinese AI that shocked the world ,https://youtu.be/kBXYFaZ0EN0,AI Search,130000,19:53
+2583,[GRPO Explained] DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models ,https://youtu.be/gMOAud7hZg4,Yannic Kilcher,596 ,20:02
+2704,Don't invent faster horses - Prof. Jeff Clune ,https://youtu.be/uQY_7LKS8sc,Machine Learning Street Talk,9900,6:13
 0,The GAN is dead; long live the GAN! A Modern Baseline GAN ,https://youtu.be/6q420No69Aw,Arxiv Papers,No ,26:00
 1,Python Reduced Row Echelon Form (RREF) - NumPy ,https://youtu.be/12hpWB3cmzg,Ryan &amp; Matt Data Science,43 ,26:00
 8,Chollet -- &quot;o-models FAR beyond classical DL&quot; ,https://youtu.be/w9WE1aOPjHc,Machine Learning Street Talk,36000,21:17
