@@ -317,12 +317,19 @@
 - MS semantic kernel
 - OpenAI Swarm
 - Langraph
+    - LangGraph Multi-Agent Supervisor
 - Llamaindex workflow
 - ChatDev
 - Stack
 - PhiData (OS)
 - Camel AI
 - smolagent
+
+# Memory
+- memgpt
+- LangMem
+
+
 
 
 # Speed it up
