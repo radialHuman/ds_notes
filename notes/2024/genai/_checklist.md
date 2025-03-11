@@ -51,7 +51,7 @@
     - Quantization
         - gptq, gguf, awq, exl2, hqq
     - alignment
-        - dpo, ppo, orpo, kto, ipo, nac
+        - dpo, ppo, orpo, kto, ipo, nac, apo
         - dno
     - Guardrails
         - nemo
@@ -219,6 +219,7 @@
     - CICD CircleCI
     - ChainPoll
     - RealHall Closed
+    - OpenEval
 - metrics
     - f1-over-words
     - Precision@k
@@ -232,6 +233,10 @@
     - Better Parsers
     - Chunk Sizes
     - Prompt Engineering
+        - dspy
+        - textgrad
+        - automatic PR
+        - conversational PE
     - Grpah Tracing in ICL 
     - Customizing Models
     - Metadata Filtering
@@ -329,7 +334,11 @@
 - memgpt
 - LangMem
 
-
+# SQL
+- Lida
+- vanna
+- pandasai
+- 
 
 
 # Speed it up
