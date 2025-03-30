@@ -81,7 +81,7 @@
             - summary
             - fusion
         - hybrid rag : graph + vector rag
-        - knowledge graph rag
+        - knowledge graph rag : networkx, neo4j, grafitti, zap, rdflib
         - Light rag
 =        - LongRAG
         - OP-RAG by NVIDIA for long context
