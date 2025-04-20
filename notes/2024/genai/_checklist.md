@@ -167,7 +167,7 @@
         - Number of embeddings
     - Consider trade-offs between cost, recall, throughput and latency
     - Indexing
-    - Search algorithm : hswn, diskknn
+    - Search algorithm : hswn, diskann, scann, iVF, PQ
     - Similarity alogorithm
     - Distributed architecture
 - Which vector store : 
@@ -329,6 +329,20 @@
 - PhiData (OS)
 - Camel AI
 - smolagent
+
+## Agent framework properties 04/25
+- state management : mutable (PyDantic G), immutable (LanGraph)
+- node calling (pydantic g) or edge flow defining (langraph, node agnostic, but command)
+- data sharing : nodes dont know other nodes data (pydantic g), langgraph shared state
+- Dependency injection : pasing non data objects to nodes (connector)
+- state persistance dumping : states can be stored as checkpoints
+- node dependencies : node has state and dependncy passed separately
+- strucutred output : for deterministic flow
+- async-ness : by default
+- reuseable nodes : if they return the next node, it cant be resused
+- non-leaky abstraction : prompt conflict
+- oops heavy : pydantic
+- can a node call two nodes simultaneously?
 
 # Memory
 - memgpt
