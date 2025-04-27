@@ -120,12 +120,13 @@
 - Which framework
     - llamaindex
     - langchain
-    - dspy
+    - dspy (ml for better prompt)
     - Verba
     - semantic kernel
     - autogen
     - taskWeive
     - Haystack
+    - embedAnything
 - Embedding using which model
     - OpenAl
     - bge-large
@@ -181,6 +182,7 @@
     - AWS aurora with pgvector postgres
     - AWS Open search
     - qdrant
+    - lancedb (on the fly)
 - Caching required?
     - prompt chaching
 - Feedback mechanism
@@ -263,22 +265,26 @@
 - anything llm
 
 # Parsers
-- langchain aprser
-- PyMuPDF4LLM
-- Unstructured
-- llama parse
-- docling
+- langchain aprser 
+- PyMuPDF4LLM (not that good with tables)
+- Unstructured (uses most of these and models from HF)
+- llama parse (paid api)
+- docling (uses HF models, good)
 - LLMSherpa
 - PageMage
 - pypdf2
 - pdfminer
+- pdfplumber (not good with tables)
 - pdfquery
 - camleot
-- tabula-py
-- pdfminer
-- pdfreader
+- tabula-py (needs java)
+- pdfreader (gets images out, but depedns on the pdf)
 - pymupdf/fitz
 - pypdfium2
+- marker (not for commercial use, uses HF models)
+- extarctable
+- spire.pdf
+
 
 # Fine tune
 - Which fine tuning
@@ -305,6 +311,10 @@
     - auto awq
 # Back up llm
 
+# Inferencing
+- Test time
+- sleep time 
+
 # Multimodal LLM
 - QwenVL
 - Pixtral
@@ -316,7 +326,7 @@
 
 # Agent : authentication, extensive unit test, reAct, loop, observe, action
 - Crewai
-- pydantic ai
+- pydantic ai and grpah
 - MS Autogen
 - langflow
 - MS semantic kernel
