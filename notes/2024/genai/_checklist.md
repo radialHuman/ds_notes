@@ -60,10 +60,30 @@
         - llamaguard
         - prompt injection
         - anti jailbreak
+    - how to test guardrails
+        - [spikee](https://spikee.ai/)
+        - [pyrit](https://github.com/Azure/PyRIT)
+    - Security:
+        - vul scan [garak](https://github.com/NVIDIA/garak)
+        - Plexiglass
+        - PurpleLlama
+        - Rebuff
+        - Garak
+        - LLMFuzzer
+        - LLM Guard
+        - Vigil
+        - jailbreak-evaluation
+        - Prompt Fuzzer
+        - WhistleBlower
+        - Open-Prompt-Injection
+        - Agentic Radar
+        - https://github.com/msoedov/agentic_security
     - Techniques to improve
         - multi query retrival
         - BM25
         - BM41
+        - Dense passage retriver
+        - Haystack retriver
         - CRAG : judge t5
         - self-RAG
         - Self-CRAG
@@ -154,6 +174,7 @@
     - topical
     - late chunking
     - llm as chunker
+    - chonkie
 - How to choose vector store
     - familiarity
     - felxible
@@ -222,6 +243,8 @@
     - ChainPoll
     - RealHall Closed
     - OpenEval
+    - Anthropic's Circuit tracer : how it said what it said, OS [link](https://github.com/safety-research/circuit-tracer)
+    - lilypad : to trace llms resposnes [link](https://github.com/Mirascope/lilypad)
 - metrics
     - f1-over-words
     - Precision@k
@@ -320,6 +343,8 @@
 - Pixtral
 - OpenAI o1
 - Gemini 1.5
+- MedGemma 3 for medical
+- Bagel MoT
 
 # resoning API
 - Forge
@@ -339,6 +364,9 @@
 - PhiData (OS)
 - Camel AI
 - smolagent
+
+# Deep research
+- deerflow : https://github.com/bytedance/deer-flow
 
 ## Agent framework properties 04/25
 - state management : mutable (PyDantic G), immutable (LanGraph)
