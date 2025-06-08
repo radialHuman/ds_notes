@@ -156,6 +156,10 @@
     - Voyage
     - JinaAl
     - Fine tuning : linear adapter, 
+    - Qwen embeeding
+    - Gemini embedding
+    - Reranker 
+    - matryoshka embedding support
 - Chunking style
     - raptor
     - semantic
@@ -364,6 +368,27 @@
 - PhiData (OS)
 - Camel AI
 - smolagent
+
+# Agent protocol
+- only llm to agent
+    - MCP
+    - agents.json
+- agent to agent : find, communicate, neogtiate, authenticate, debate
+    - A2A
+    - A connect P : by cisco, also like a2a, how to host and launch agent, 
+    - A communication P : by IBM, BeeAI, fork of MCP, more lie a2a
+    - A Network P : a2a but on blockchain
+    - A Interaction Trwansaction P : also on blackchain, focuses on how much will an agent cost, uses bidding
+    - Agora : new take, start with NL then upgrade the protocol for sharing, there by saving tokens
+- domain specific protocols
+    - human interaction protocol
+        - PXP 
+        - LOKA
+    - Robot agent interaction protocol
+        - CrowdES
+        - SPP : spatial populaiton protocol
+    - LMOS : Large model operating system, from IBM again
+    - AP : same as agents.json
 
 # Deep research
 - deerflow : https://github.com/bytedance/deer-flow
