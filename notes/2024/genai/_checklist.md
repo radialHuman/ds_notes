@@ -80,7 +80,9 @@
         - https://github.com/msoedov/agentic_security
     - Techniques to improve
         - multi query retrival
-        - BM25
+        - having context extraction using one llm and another to get structured query 
+            - to act as a filter in case of conditions in user query
+        - BM25 : for retrival as well as reranking
         - BM41
         - Dense passage retriver
         - Haystack retriver
@@ -89,7 +91,8 @@
         - Self-CRAG
         - Autorag
         - hippo rag
-        - Reranking
+        - Reranking : cross encoder, api based like cohere, 
+        - flash rank : in different sizes 
         - Main-RAG
         - Hyde : hypothetical answer using 2nd llm along with actual query
         - Pre retreval
@@ -103,7 +106,7 @@
         - hybrid rag : graph + vector rag
         - knowledge graph rag : networkx, neo4j, grafitti, zap, rdflib
         - Light rag
-=        - LongRAG
+        - LongRAG
         - OP-RAG by NVIDIA for long context
         - Temprature
             - top p and top k
@@ -271,7 +274,9 @@
     - Metadata Filtering
     - Recursive Retrieval
     - Embedded Tables
-    - Small-to-big Retrieval
+    - Small-to-big Retrieval (parent document, small chunks but with links to parent for whole)
+    - Automerge chunking (hierachical searching and expansion)
+    - contextual compression (generation side pruning, using llm or embedding model)
     - Knowledge base
     - React
     - Chain of thougth (CoT)
