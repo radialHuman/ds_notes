@@ -252,6 +252,7 @@
     - OpenEval
     - Anthropic's Circuit tracer : how it said what it said, OS [link](https://github.com/safety-research/circuit-tracer)
     - lilypad : to trace llms resposnes [link](https://github.com/Mirascope/lilypad)
+    - uqlm : hallicination controller
 - metrics
     - f1-over-words
     - Precision@k
