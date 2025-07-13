@@ -69,6 +69,8 @@
         - PurpleLlama
         - Rebuff
         - Garak
+        - pyrit
+        - inspect ai
         - LLMFuzzer
         - LLM Guard
         - Vigil
@@ -297,12 +299,15 @@
 - ollama
 - anything llm
 
-# Parsers
+# Document Parsers
 - langchain aprser 
 - PyMuPDF4LLM (not that good with tables)
 - Unstructured (uses most of these and models from HF)
 - llama parse (paid api)
 - docling (uses HF models, good)
+- spacy-layout (trainable on your own data based on transfer learning, [link](https://youtu.be/ZGceeZfHtPM))
+- docetl
+- sycamore
 - LLMSherpa
 - PageMage
 - pypdf2
@@ -317,6 +322,12 @@
 - marker (not for commercial use, uses HF models)
 - extarctable
 - spire.pdf
+- ocr my pdf 
+- DocETL
+
+# Web parser
+- NLWeb (https://github.com/microsoft/NLWeb)
+- 
 
 
 # Fine tune
@@ -357,7 +368,22 @@
 - Bagel MoT
 
 # resoning API
-- Forge
+- Forge'
+
+# Grpah RAG
+- graphMullet
+- dgraph
+- rdflib-nif
+- FRED
+- Stanfordnlp-rdf
+- Spacy-rdf
+- NLTK-RDF
+- Gensim-RDF
+- Owlready2
+- Json crack
+- networkx
+- rdflib
+- neptune, neo4j
 
 # Agent : authentication, extensive unit test, reAct, loop, observe, action
 - Crewai
@@ -453,7 +479,7 @@ When a Retrieval-Augmented Generation (RAG) system experiences latency issues, s
     * **Use summarization techniques:** Summarize retrieved documents before feeding them to the LLM to reduce the input sequence length. The sources explain that this can be done using an external LLM.
 * **Optimize LLM Inference:**
     * **Compile the LLM:**  Compile the LLM to optimize its execution on the target hardware. This leads to improved efficiency, resource utilization, and cost.
-    * **Use a more efficient inference engine:** Explore optimized inference engines or libraries specifically designed for fast LLM inference. For example, vLLM, Hugging Face's TGI, or OpenLLM are libraries that can be used for easy deployment of LLM inference services.
+    * **Use a more efficient inference engine:** Explore optimized inference engines or libraries specifically designed for fast LLM inference. For example, vLLM, sglang Hugging Face's TGI, or OpenLLM are libraries that can be used for easy deployment of LLM inference services.
     * **Employ caching:** Cache LLM outputs for frequently used prompts or inputs. 
 * **Stream Responses:** Stream LLM-generated text to the user as it's being generated, improving perceived latency and responsiveness. Streaming allows users to see the text as it's being produced, even if the entire generation process takes some time.
 
