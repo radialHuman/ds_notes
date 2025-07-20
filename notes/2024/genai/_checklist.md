@@ -37,6 +37,20 @@
     - serving : k8, databricks, azure, sagemaker
     - evaluation :  grafana, elastic, 
     - vectore db : https://superlinked.com/vector-db-comparison
+
+# Prompt
+- Paper : Breakdown the core concepts in the paper, mentions how it works in detail and how its better than its predecessor and whats the drawback and future plan for this approach
+
+# Architectures
+    - Transformers
+    - Mamba
+    - Jamba
+    - Jepa
+    - MoR mixture of recurssions
+    - LCM
+    - Titans
+
+
 # RAG
 - Which model
     - architecture : rag, knowleegde grahp, crag, self rag, reranking
@@ -403,6 +417,7 @@
 
 # Agent protocol
 - only llm to agent
+    - UTCP : universal tool calling protocl
     - MCP
     - agents.json
 - agent to agent : find, communicate, neogtiate, authenticate, debate
