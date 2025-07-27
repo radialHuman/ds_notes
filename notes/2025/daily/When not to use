@@ -1,0 +1,70 @@
+When not to use
+
+1. LLM
+    - if it come be dont in a simple way do it
+        - it understands language, not numbers
+        - ask it to write a function to do some what complicated arithematic and get the output as a fixed number
+        - pls no : duplciate finding, form filling, timeseries forcasting
+    - Its expansive consider the load on gpus, electricity, water consumption
+    - The more you calls you make the slower it becomes
+    - mental offloading, will make you an addict
+    - use simple code, they are fast, easy to maintian
+2. Frameworks
+    - There is nothing you can do using simple OOPs that these fancy frameworks claim
+        - function calling function (Langchains chains or LCEL)
+        - fancy if else (Langraphs nodes and edges)
+        - fancy datastructure (ConversationBufferWindowMemory)
+        - log monitoring (langsmith)
+    - Eval is just asking one llm to examine another one  
+        - RAGAS : just prompts
+        - Deepeval : the same
+3. RAG
+    - it a search that has gone to gym
+    - where the searching is the most critical peice and LLM is just the cherry on the top
+    - Dont use it if you want verbatim
+    - Dont use it if you want consistency
+    - Has many moving parts, so if you know them then configure it
+    - alternative : if your data is small, use it in context
+    - if its not able to fit in the window
+        - alter it so that the search is easy
+            - faq : similarity match
+            - metadata based searching
+    - Vector database are for similairty which doesn mean realtion
+        - use graphs if required
+            - but be casreful, its difficult to build
+    - concentrate on having a proper ground truth
+        - and retrival metrics
+4. Agents
+    - i dont care what the user is asking, these are all the functions you can call
+        - figure it out yourself
+    - needs extensive testing, even after deployment
+    - What if the user entry is such that it misunderstands and does something incorrect?
+    - Does it have a memory? to understand the right context?
+        - what if the memory is conflicting?
+    - Can it plan well? whats the guarantee?
+    - How many times does it use the tool?
+        - do you see its logic?
+    - How much latency does it add?
+    - How many tokens it will generate?
+    - How much will it cost, moetarily and environment wise
+    solution : Agentic workflow
+    - If there are bunch of well known steps which depends on "intelligence"
+    - Its a fancy if else statement
+    - if the user is asking this, use this function/tool
+5. MCP
+    - Its just a protocol or a way to call your tools from the server
+    - its nothing fancy, or doesn have intelligence
+    - is your smartphone smart becase it uses usb c vs usb b?
+6. A2A
+    - One agent is difficult to control let alone a bunch of them talking to each other
+
+takeaway
+    - dont use llm everywhere, the cost is huge.
+    - find a simple way like we used to, you are engineers not api callers
+    - dont go with the hype, understand the internal mechanism and then choose the right tool
+    - dont outsoure your thinking capability
+    - if you have been asked to use agent or llms, find out if it actually fits or you are just shoving it
+    - trust me I have been in the scenario where because of the hype and pressure
+        I have used some fancy new shiny toy and then when it broke spent anxiety filled nights, fixing it unsuccessfully
+    - its new, its hyped, its black box-ish so ask
+    - building is easy, testing will take the months. 

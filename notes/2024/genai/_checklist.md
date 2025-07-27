@@ -227,6 +227,8 @@
     - AWS Open search
     - qdrant
     - lancedb (on the fly)
+    - s3 vector
+    - Helix DB
 - Caching required?
     - prompt chaching
 - Feedback mechanism
