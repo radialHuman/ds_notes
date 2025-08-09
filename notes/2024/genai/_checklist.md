@@ -149,13 +149,15 @@
     - siglip : adds sigmoid so that two batches are not processed
     - EVA
     - MetaClip
-    - CLIPA
+    - metaclip 2 : fb
+    - CLIPA, Dinov2,vit patch, efficientnet, vgg16
     - DFN
     - lit : pre-trained image encoder is froozen and only text is trained
     - Siglit
     - imagebind :  multimodal
     - FuDD
-    - 
+    - LW-DETR
+    - RF-DETR
 - Which framework
     - llamaindex
     - langchain
@@ -375,6 +377,10 @@
 - Test time
 - sleep time 
 
+# Prompt Optimization
+- MIPROv2
+- GEPA
+
 # Multimodal LLM
 - QwenVL
 - Pixtral
@@ -382,6 +388,9 @@
 - Gemini 1.5
 - MedGemma 3 for medical
 - Bagel MoT
+
+# Difffusion LLM
+- Mercury
 
 # resoning API
 - Forge'
@@ -438,6 +447,8 @@
         - SPP : spatial populaiton protocol
     - LMOS : Large model operating system, from IBM again
     - AP : same as agents.json
+- other
+    - composio
 
 # Deep research
 - deerflow : https://github.com/bytedance/deer-flow
