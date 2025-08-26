@@ -150,7 +150,7 @@
     - EVA
     - MetaClip
     - metaclip 2 : fb
-    - CLIPA, Dinov2,vit patch, efficientnet, vgg16
+    - CLIPA, Dinov3,vit patch, efficientnet, vgg16
     - DFN
     - lit : pre-trained image encoder is froozen and only text is trained
     - Siglit
@@ -161,13 +161,16 @@
 - Which framework
     - llamaindex
     - langchain
-    - dspy (ml for better prompt)
     - Verba
     - semantic kernel
     - autogen
     - taskWeive
     - Haystack
     - embedAnything
+- Prompt optimization
+    - Dspy
+    - baml
+    - Poml
 - Embedding using which model
     - OpenAl
     - bge-large
@@ -180,6 +183,7 @@
     - Qwen embeeding
     - Gemini embedding
     - Reranker 
+    - Reranker with late interation (COlbert)
     - matryoshka embedding support
 - Chunking style
     - raptor
@@ -347,6 +351,9 @@
 - NLWeb (https://github.com/microsoft/NLWeb)
 - 
 
+# Data Library
+- Fenic
+- Marimo
 
 # Fine tune
 - Which fine tuning
@@ -371,6 +378,8 @@
     - auto round
     - bitsandbytes
     - auto awq
+- https://arxiv.org/pdf/2303.17564 bloomberggpt (https://www.youtube.com/watch?v=q-bdtzcKE5k)
+
 # Back up llm
 
 # Inferencing
