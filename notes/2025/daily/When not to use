@@ -68,3 +68,602 @@ takeaway
         I have used some fancy new shiny toy and then when it broke spent anxiety filled nights, fixing it unsuccessfully
     - its new, its hyped, its black box-ish so ask
     - building is easy, testing will take the months. 
+
+
+
+
+---
+Let us build GPT-OSS from Scratch
+Vizuara
+
+Building Decision Agents with LLMs & Machine Learning Models
+IBM Technology
+
+Data Science as a Service | Kumo AI Full Walkthrough
+James Briggs
+
+Agentic Document Processing with LlamaCloud: Exploring the Future of Context Aware RAG & AI Agents
+LlamaIndex
+
+Taste is your Moat (Dylan Field of Figma)
+Latent Space
+
+Ex Google Recruiter Reveals 6 Secrets Hiring Managers Won't Tell You
+Farah Sharghi
+
+The antidote to AI fatigue
+Latent Space
+
+Building the future of agents with Claude
+Anthropic
+
+Hierarchical Reasoning Model Sidecar: Good Models That Won't Replace Transformers
+Richard Aragon
+
+The Case Against Generative AI (Part 3) | Better Offline
+Better Offline
+
+Excel AI Will Replace Finance Teams by 2026—Here's Why (And What to Do)
+AI News & Strategy Daily | Nate B Jones
+
+The Missing Piece in the AI for BI Puzzle
+Gradient Flow
+
+LLMOPS 02: Build Multi-Doc Chat with Advanced RAG | RAG in Modular Manner(Logger, Config, Exception)
+Sunny Savita
+
+Breaking Down AI's Impact on Cybersecurity
+AI Security Podcast
+
+KaniTTS: Fast and Expressive Speech Generation Model for English, Arabic, German
+Fahd Mirza
+
+Agent to Agent Interactions with NLIP
+The AI Alliance
+
+Build a small language model from scratch: Data pre-processing
+Vizuara
+
+The ultimate guide to AEO: How to get ChatGPT to recommend your product | Ethan Smith (Graphite)
+Lenny's Podcast
+
+LLM Eval Tools Compared: Braintrust
+Hamel Husain
+
+How to Build an Army of AI Agents in n8n (Step-by-Step)
+Let's Automate It
+
+The Case Against Generative AI (Part 2) | Better Offline
+Better Offline
+
+Agent Development Kit (ADK) Masterclass: Build AI Agents & Automate Workflows (Beginner to Pro)
+aiwithbrandon
+
+Google ADK for Beginners: Developing AI Agents with Google
+DataCamp
+
+The Truth About MCP: Pros, Cons & Real-World Use Cases
+Julien Simon
+
+Stanford CS230 | Autumn 2025 | Lecture 1: Introduction to Deep Learning
+Stanford Online
+
+Yann LeCun | Self-Supervised Learning, JEPA, World Models, and the future of AI
+Harvard CMSA
+
+Archival Memory: Tips for making AI that remembers everything
+Letta
+
+OpenAI Just Launched 200 Prompts for Pros—They Will Destroy Your Career (Here's Why)
+AI News & Strategy Daily | Nate B Jones
+
+Google Gemini’s Real-Time AI Update Is Absolutely INSANE ! 🤯
+The AI Thing
+
+Google AI Labs Just Dropped Free Tools to Automate Everything!
+The AI Thing
+
+Rich Sutton, The OaK Architecture: A Vision of SuperIntelligence from Experience - RLC 2025
+Amii
+
+Nassim Taleb: Why You Should Start a Business |NassimNicholas Taleb LATEST Life Changing Lesson 2025
+Antifragile Mindset
+
+Hallucinations in LLMs Using Semantic Entropy | Jannik Kossen, University of Oxford | BLISS e.V.
+BLISS e.V. Berlin
+
+How Your Brain Predicts Reality - Top Neuroscientist
+Machine Learning Street Talk
+
+The Art of Making AI Wrapper: Context Engineering Explained
+bycloud
+
+Why AI Augmentation Beats Automation — Harvard Study Shows 42.5% Quality Gains
+Brainqub3
+
+How to build your own AI coding agent (in 218 lines)
+Dave Ebbelaar
+
+Unitree G1 Security Disaster
+sentdex
+
+Who AI Tools and Agents Boost Real-World Output For | Sully Omar
+SVIC Podcast
+
+Walking Though The Creation Of A Zoom Based AI Agent From Concept To Production
+Richard Aragon
+
+POINTS-Reader from TenCent: Accurate OCR of Images: Run Locally
+Fahd Mirza
+
+exploring emergent hierarchical reasoning in LLMs with RL (2025) | Deep Learning Study Session
+Deep Learning with Yacine
+
+Data Structures in Python - Full Crash Course
+NeuralNine
+
+Langchain v1 Agents 2 - Custom Model Configuration & Parameters Explained
+KGP Talkie
+
+SONNET 4.5: REASONING Exposes Major Flaw
+Discover AI
+
+The Illusion of Intelligence in AI (Harvard, MIT)
+Discover AI
+
+MQTT for MCP and Federation of Agents (MAS)
+Discover AI
+
+How to Build Multi AI Agents with Langgraph
+Kenny Liao
+
+New Series Launch | Transformers for Vision and Multimodal LLMs | Lecture 1
+Vizuara
+
+How transformer took over computer vision? CNN's struggle with long range dependency
+Vizuara
+
+How I Built Enterprise AI Agents 90× Cheaper with Automated Prompt Optimization
+MG
+
+Langchain v1 Agents 1 - Basic Agent Creation with Web Search Tools using Langchain and Langgraph
+KGP Talkie
+
+⚡️Claude Sonnet 4.5 and Anthropic's roadmap for Agents and Developers — Mike Krieger, Anthropic
+Latent Space
+
+What are LLM Distillation Attacks ?
+New Machina
+
+The Big LLM Architecture Comparison
+Sebastian Raschka
+
+What goes into an idea?
+Udara
+
+Mental Models for AI Coding: How to Think Like a 10x Developer
+TwoSetAI
+
+How to Optimize AI Agents in Production
+MLOps.community
+
+What It Takes to Run Multi-Agent Systems
+MLOps.community
+
+Evaluating AI Agents: Why It Matters and How We Do It
+MLOps.community
+
+The Eigenvector of Multi Agent Systems w/ RAG
+Discover AI
+
+The Best AI Interview Question Ever (And the Only Right Answer)
+Fahd Mirza
+
+ChromaDB Crash Course - Intro to Vector Databases
+Alejandro AO - Software & Ai
+
+Quantized LLM Training at Scale with ZeRO++ // Guanhua Wang // AI in Production 2025
+MLOps.community
+
+Beyond Chatbots: How to build Agentic AI systems with Google Gemini // Philipp Schmid
+MLOps.community
+
+Underwriting Assist - A Multi Agent System // Somya Rai | Maria Zhang // Agents in Production 2025
+MLOps.community
+
+The 5 AI Shifts That Will Reshape 2026: On-Device Agents + 4 More Critical AI Trends
+AI News & Strategy Daily | Nate B Jones
+
+Why Your AI Agent Will Fail
+Gradient Flow
+
+I Tested ChatGPT's New Overnight Mode—It Changed How I Work
+AI News & Strategy Daily | Nate B Jones
+
+Zero-Shot Learners
+hu-po
+
+Context Engineering for Agents & Multi-Agent Systems
+AI Makerspace
+
+Flask VS Django VS FastAPI - Which One To Choose?
+NeuralNine
+
+Github Copilot CLI: NEW AI Coding Agent is Quite Powerful, Fast, & Free! (Beats ClaudeCode)
+WorldofAI
+
+How to avoid going OOM?
+Trelis Research
+
+I Found the Easiest Way to Build Self-Optimizing AI Prompts (Beginner to Pro Path)
+AI News & Strategy Daily | Nate B Jones
+
+AI Nano Bio Agents (ETH)
+Discover AI
+
+This NEW LLM is ridiculously fast!
+1littlecoder
+
+Neon buys phone calls to train AI, then leaks them all
+Pivot to AI
+
+Richard Sutton – Father of RL thinks LLMs are a dead end
+Dwarkesh Patel
+
+7 AI Terms You Need To Know – Clearly Explained
+Dave Ebbelaar
+
+Amp: The Emperor Has No Clothes
+Latent Space
+
+Stripe's Payments Foundation Model: How Data & Infra Create Compounding Advantage, w/ Emily Sands
+Cognitive Revolution "How AI Changes Everything"
+
+Building tools for agents — with agents
+Prompt Engineering
+
+Production-Grade AI Project Tutorial – Build & Deploy
+freeCodeCamp.org
+
+How to Build and Optimize AI Research Agents
+Gradient Flow
+
+What 5000 Devs Can Teach Us About AI Adoption
+The AI Daily Brief: Artificial Intelligence News
+
+⚡️Snowglobe: Simulations for your AI
+Latent Space
+
+Mixture-of-Experts Universal Transformers
+Knut Jägersberg
+
+Is Generative AI a Cybersecurity Disaster Waiting to Happen? — With Yinon Costica
+Alex Kantrowitz
+
+3 Algorithms That Could Potentially Replace Backpropagation Fully Tested
+Richard Aragon
+
+Building Reliable LLM Apps with DSPy | DSPy Tutorial!
+YourTechBud Codes
+
+Stanford CS229 I Machine Learning I Building Agents That Do the Work of Human Software Engineers
+Stanford Online
+
+DINOv3 Paper Explained: The Computer Vision Foundation Model
+AI Papers Academy
+
+5000 Citigroupers Are Getting Agent Employees
+The AI Daily Brief: Artificial Intelligence News
+
+LLMs from Scratch – Practical Engineering from Base Model to PPO RLHF
+freeCodeCamp.org
+
+Knowledge Graphs in n8n are FINALLY Here!
+Cole Medin
+
+Great AI Gets Cheaper Again
+The AI Daily Brief: Artificial Intelligence News
+
+Qwen 3 Omni — The Open AI Model That Does It ALL
+Prompt Engineering
+
+Workslop: bad ‘study’, but an excellent word
+Pivot to AI
+
+I've Built Over 100 AI Agents: Only 1% of Builders Know These 6 Principles
+AI News & Strategy Daily | Nate B Jones
+
+Knowledge Agent
+Microsoft 365
+
+"__new__" is awesome in Python
+Indently
+
+925: AI, Automation and the Future of Work — with Oxford’s Prof. Carl Benedikt Frey
+Super Data Science: ML & AI Podcast with Jon Krohn
+
+SLED: The Answer To LLM Hallucination?
+Mosleh
+
+The Death of Classical Computer Science 
+Build AI Agents That Work While You Sleep | Deep Agents
+Adam Lucek
+
+How to Build Advanced AI Agents – Course for Beginners (LiveKit, Exa, LangChain)
+freeCodeCamp.org
+
+Hyperparameter Tuning Explained in 14 Minutes
+NeuralNine
+
+AI Interviews are Crap: Here's How to Use AI to get Hired (and Hire) in 2025
+AI News & Strategy Daily | Nate B Jones
+
+Internalizing Self Consistency In LLM Models
+Richard Aragon
+
+Fine-Tuning LLM on Custom Dataset with Single GPU (Complete Tutorial) | Sentiment Analysis
+Venelin Valkov
+
+Langchain v1 Projects 1 - Semantic Search for Foundational RAG with code files
+KGP Talkie
+
+Energy-Based Transformers explained | How EBTs and EBMs work
+AI Coffee Break with Letitia
+
+NEW RL Method: FlowRL (GFlowNets)
+Discover AI
+
+Agentic AI use case: Text to SQL for Enterprise Data Analytics
+YanAITalk
+
+What the npm package attacks mean for us developers
+Maximilian Schwarzmüller
+
+adagrad, adadelta, adam, adamax, adamw, aaaahhhhhh | Deep Learning Study Session
+Deep Learning with Yacine
+
+Tongyi DeepResearch : Best Deep Research LLM, beats OpenAI
+Data Science in your pocket
+
+TinyLettuce: Efficient Hallucination Detection with 17M Model - Run Locally
+Fahd Mirza
+
+Is It EVEN Possible To Reverse Engineer AI’s Training Data?
+bycloud
+
+Business Insider will publish AI stories — undisclosed
+Pivot to AI
+
+Building Agents for Healthcare // Lars Maaløe // Agents in Production 2025
+MLOps.community
+
+The Real Reason Huge AI Models Actually Work
+Machine Learning Street Talk
+
+After MCP and A2A, Meet AP2
+The AI Daily Brief: Artificial Intelligence News
+
+NVIDIA's Peter Belcak Explains Why SLMs are the Future of Agentic AI
+Arize AI
+
+Ronan @TrelisResearch - Arc Prize, Getting Started with AI, Agentic Coding | The AI Builders #00
+Venelin Valkov
+
+How to prompt your AI agent
+Relay (relay.app)
+
+99% of Developers Don't Get TPUs
+The Coding Gopher
+
+IBM Granite-Docling KILLS OCR? One Model to Parse It All
+Fahd Mirza
+
+LangChain Academy New Course: Deep Agents with LangGraph
+LangChain
+
+Upwork's Radical Bet on Reinforcement Learning: Building RLEF from Scratch | Andrew Rabinovich (CTO)
+Gradient Flow
+
+Machine Learning vs Human Learning: They’re Not the Same
+Future AI Society
+
+113. Vector Databases and RAG for Grounding AI in Reliable Data - with Christian Peeters
+Betabit
+
+How People Actually Use ChatGPT
+The AI Daily Brief: Artificial Intelligence News
+
+Kevin Wei - Policy-Oriented AI Evaluations [Technical AI Policy]
+FAR․AI
+
+The Future Belongs To People Who Do Things: The 9 month recap on AI in industry
+Geoffrey Huntley
+
+I finally figured out a long-standing visualization problem
+Simplistics (QuantPsych)
+
+Optimizers, ARC-AGI and Evolutionary Algorithm | Deep Learning Study Session
+Deep Learning with Yacine
+
+Beyond Prompting: The Emerging Discipline of Context Engineering Reading Group
+MLOps.community
+
+Forget Codex vs. Claude: This is What Build Teams REALLY Need to Ask
+AI News & Strategy Daily | Nate B Jones
+
+GPT-5-Codex and the Year of Agentic Coding
+The AI Daily Brief: Artificial Intelligence News
+
+SFT in 30 min
+Zachary Huang
+
+AI Agents 101: Workshop Session at PyCon India 2025
+AI Anytime
+
+STOP AI Hallucinations: Predict When LLM Is Guessing and Block It
+MG
+
+Google's NEW Agent Money Protocol
+Sam Witteveen
+
+ChatGPT 101: The No BS Guide to How to Actually Make AI Work for You
+AI News & Strategy Daily | Nate B Jones
+
+Ex-OpenAI CTO Reveals Plan to Fix LLMs Biggest Problem
+Matthew Berman
+
+Transformer Lab: Easiest way to train models on your local machine with no code
+Data Science in your pocket
+
+923: Graph Algorithms, GraphRAG and Causal Graphs — with Graph Guru Amy Hodler
+Super Data Science: ML & AI Podcast with Jon Krohn
+
+Python 3.14: The NEW T-strings are Awesome
+Indently
+
+PP-OCRv5 Paddle OCR Latest Multilingual 70M Free OCR
+AI WITH Rithesh
+
+Exploring "How large language models encode theory-of-mind" (2025) | Deep Learning Study Session
+Deep Learning with Yacine
+
+29:02
+Now playing
+AI Needs Memory - Here's How It Works
+MLOps.community
+
+I lead a Google DeepMind team at 26. If you want to work at an AI company... | Neel Nanda (Part 2)
+80,000 Hours
+
+The AI Slopocalypse
+The AI Daily Brief: Artificial Intelligence News
+
+OpenAI Just Dropped A New Coding Model for Developers
+Prompt Engineering
+
+Your Boss says 'Use AI!'—Here's When to Actually Use AI & AI Agents For Real
+AI News & Strategy Daily | Nate B Jones
+
+Building a simple multi-agent RAG system using Google ADK
+Underfitted
+
+Why "Context Engineering" Matters | AI & ML Monthly
+Daniel Bourke
+
+TARS Agent: Powerful AI Operating System Can Automate ALL Computer Tasks! (Opensource)
+WorldofAI
+
+Agent Client Protocol : The “New MCP” for IDEs and Coding Agents
+Prompt Engineering
+
+⚡️Traversal: Causal ML and Reinforcement Learning
+Latent Space
+
+Open-Source AgentGym-RL: GROK 4 vs Gemini Pro (Fudan Univ)
+Discover AI
+
+User-Owned AI: On-Chain Training, Inference, and Agents, with NEAR's Illia Polosukhin
+Cognitive Revolution "How AI Changes Everything"
+
+From Limited Data to Rare event Prediction: Why Some People Succeed With AI And Others Don't
+Richard Aragon
+
+The Universal AI Skill: Good Taste
+AI News & Strategy Daily | Nate B Jones
+
+LAVA: LLM-Assisted Verbal Autopsy for COD
+AI Research Roundup
+
+How memory makes AI agents more effective
+Google Cloud Tech
+
+AI Agents Workshop - Day 1
+SupportVectors
+
+AI Scientist: Real World Results (CMU)
+Discover AI
+
+Is Open Source Software Actually Secure?
+MLOps.community
+
+AI Skepticism is CANCELLED
+The AI Daily Brief: Artificial Intelligence News
+
+Qwen3-Next FUTURE of efficient LLMs is here! First Impressions
+AI WITH Rithesh
+
+Prompting Playbook 2025: 4 Beginner Moves, 12 Pro Patterns
+AI News & Strategy Daily | Nate B Jones
+
+The System That Could Replace Binary And Change Computers FOREVER
+Codeolences
+
+Ethics in AI: Biases & Responsibilities 
+The Future of AI Security is Scaffolding, Agents & The Browser
+AI Security Podcast
+
+What are World Models ?
+New Machina
+
+R-CNN - Explained!
+CodeEmporium
+
+How to Build an Agentic RAG system from Scratch in n8n | Customer Support Agent | Short Course
+Elvis Saravia
+
+5 Debates Shaping AI
+The AI Daily Brief: Artificial Intelligence News
+
+StatQuest: Career Advice from Tech Industry Leaders
+StatQuest with Josh Starmer
+
+Hierarchical Reasoning Model: Substance or Hype?
+Julia Turc
+
+Andrew Ng: From Code to Product in Hours - The New Reality of AI Development
+AI Fund
+
+How To Find Best Optimizer For Your AI Model & LLM - Lion, Muon, Shampoo, SOAP, AdamW
+Vuk Rosić
+
+ChatGPT Gets Awesome New Branching Convos Feature
+The AI Daily Brief: Artificial Intelligence News
+
+Introduction to World Models: V-JEPA 2
+YanAITalk
+
+MCP Security | Malicious MCP Servers (Protect Yourself)
+Alejandro AO - Software & Ai
+
+Best Reranker AI Model for 2025 - Reranker v2 - Install Locally - Multilingual
+Fahd Mirza
+
+PyTorch in 1 Hour
+Zachary Huang
+
+Did OpenAI Just FIX Hallucinations?
+Prompt Engineering
+
+Emotions Supercharge Your LLM's Performance
+Discover AI
+
+New TRICK Trains Reasoning LLMs BETTER - Judge ALSO Reasons - StepWiser by Meta
+Vuk Rosić
+
+CORE of AI is EXPLODING - 10 New Papers
+Discover AI
+
+For the Agent Era, Work Charts Beat Org Charts
+The AI Daily Brief: Artificial Intelligence News
+
+Senior Dev AI Secrets
+mccormix
+
+Ask the Experts: Gen AI, Cybersecurity, & AI Agent Questions Answered
+IBM Technology
+
+Range Partition Entropy: The Most Important Data Science Discovery You Have Never Heard Of
+Richard Aragon
+
+Embedding Gemma: On-Device RAG Made Easy
+Prompt Engineering

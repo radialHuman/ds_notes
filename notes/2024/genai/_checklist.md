@@ -320,6 +320,7 @@
 - llama cpp
 - ollama
 - anything llm
+- ramalama
 
 # Document Parsers
 - langchain aprser 
@@ -373,6 +374,7 @@
     - llama factory
     - swift
     - DeepSpeed
+    - tunix
 - which library
     - auto GPTQ
     - auto round
@@ -397,6 +399,10 @@
 - Gemini 1.5
 - MedGemma 3 for medical
 - Bagel MoT
+- Apple's fastvl
+
+# voice models
+- gpt realtime
 
 # Difffusion LLM
 - Mercury
@@ -433,7 +439,9 @@
 - Stack
 - PhiData (OS)
 - Camel AI
-- smolagent
+- elysia agentic rag 
+- agent lightening
+- Strands SDK
 
 # Agent protocol
 - only llm to agent
@@ -479,6 +487,8 @@
 # Memory
 - memgpt
 - LangMem
+- mem0
+- memori
 
 # SQL
 - Lida
