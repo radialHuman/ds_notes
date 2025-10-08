@@ -158,6 +158,7 @@
     - FuDD
     - LW-DETR
     - RF-DETR
+    - modernvbert
 - Which framework
     - llamaindex
     - langchain
@@ -277,6 +278,7 @@
     - Anthropic's Circuit tracer : how it said what it said, OS [link](https://github.com/safety-research/circuit-tracer)
     - lilypad : to trace llms resposnes [link](https://github.com/Mirascope/lilypad)
     - uqlm : hallicination controller
+    - semantic entropy
 - metrics
     - f1-over-words
     - Precision@k
@@ -375,6 +377,7 @@
     - swift
     - DeepSpeed
     - tunix
+    - tinker
 - which library
     - auto GPTQ
     - auto round
@@ -442,7 +445,7 @@
 - elysia agentic rag 
 - agent lightening
 - Strands SDK
-
+- Google ADK
 # Agent protocol
 - only llm to agent
     - UTCP : universal tool calling protocl
