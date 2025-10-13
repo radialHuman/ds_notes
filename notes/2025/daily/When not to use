@@ -73,1520 +73,310 @@ takeaway
 
 
 
+
+System Design for Beginners Course
+freeCodeCamp.org
+
+Stanford CS149 I Parallel Computing I 2023 I Lecture 7 - GPU architecture and CUDA Programming
+Stanford Online
+
+Most AI Career Advice is WRONG (Here's What Actually Works in 2025)
+AI News & Strategy Daily | Nate B Jones
+
+STOP Agent: STOP! CaRT = Perfect Knowledge?
+Discover AI
+
+3 Ways to Prevent Context Rot in AI Agents
+Prompt Engineering
+
+Fine tuning LLMs is so much harder than you think...
+youniss
+
+ComoRAG – Next-Gen RAG for Long-Document Reasoning - Demo
+Fahd Mirza
+
 Is Responsible AI Possible? with Dr. Sarah Bird
 Syntax
-
-
 
 Stanford Seminar - Responsible AI (h)as a Learning and Design Problem
 Stanford Online
 
-
-
 What is Responsible AI? A Guide to AI Governance
 IBM Technology
-
-
 
 Social engineering, malware, and the future of cybersecurity in AI (pt.1)
 Google DeepMind
 
-
-
-Base LLM can Reason: Activation Switch found
-Discover AI
-
-
-
 KV Cache Crash Course
 AI Anytime
-
-
 
 Asyncio in Python - Full Tutorial
 Tech With Tim
 
-
-
-1:04:48
-Vision
+Introduction to self attention | Implementing a simplified self-attention | Transformers for Vision
 Vizuara
-
-
 
 Give Me 30 min, I'll Make Kubernetes Click Forever
 Zachary Huang
 
-
-
 Text Classification: Handling 1000+ Classes with Generative AI | Amazon Web Services
 Amazon Web Services
 
-
-
-40:46
-Retrieval
+Haystack EU 2025: Smart Recall: Enhance Local LLM Conversations w/ Embedding-Aware Context Retrieval
 OpenSource Connections
-
-
 
 Effective Context Engineering for AI Agents
 YanAITalk
 
-
-
 7B Agent Outsmarts a 200B LLM: AgentFlow by Stanford
 Discover AI
-
-
 
 India’s Bio-AI Breakthrough: Axis Beats Google DeepMind’s AlphaGenome
 AIM Network
 
-
-
 Building with MCP and the Claude API
 Anthropic
 
-
-
-15:58
-The shrinking window of AI opportunity | D'vorah Graeser | TEDxMontclair
-
-
-
-24:59
-Asyncio in Python - Full Tutorial
-
-
-
-1:04:48
-Introduction to self attention | Implementing a simplified self-attention | Transformers for Vision
-
-
-
-30:11
-Give Me 30 min, I'll Make Kubernetes Click Forever
-
-
-
-7:02
-Text Classification: Handling 1000+ Classes with Generative AI | Amazon Web Services
-
-
-
-23:11
-Chapter 5.3 - Red Teaming Agentic AI - Part 3
-
-
-
-40:46
-Haystack EU 2025: Smart Recall: Enhance Local LLM Conversations w/ Embedding-Aware Context Retrieval
-
-
-
-42:21
-Effective Context Engineering for AI Agents
-
-
-
-19:11
-7B Agent Outsmarts a 200B LLM: AgentFlow by Stanford
-
-
-
-7:09
-India’s Bio-AI Breakthrough: Axis Beats Google DeepMind’s AlphaGenome
-
-
-
-25:59
-Building with MCP and the Claude API
-
 Understanding TRM and HRM
+Trelis Research
 
 Evals Aren't Useful? Really?
+MLOps.community
 
 Python 3.14 key features
-
+Data Science in your pocket
 
 Self-Improving Evaluations for Agentic RAG
 Qdrant Vector Search
 •
 •
 Scheduled for 11/12/25, 9:30 PM
+
+
+20:40
+Now playing
 Designing AI Decision Agents with DMN, Machine Learning & Analytics
+IBM Technology
 
 Why Your Cloud Isn't Ready for Production AI
+Gradient Flow
 
 Less is More: Tiny Recursive Models
+The Times of AI
 
 Measuring Agents With Interactive Evaluations
+OpenAI
 
 Education in the AI Age: a Teacher Rethinks Learning & Purpose, w/ Johan Falk of Graspable AI
+Cognitive Revolution "How AI Changes Everything"
 
 Solving Context Loss: The $20M Problem Every Startup Has
+TwoSetAI
 
 How They Built It: Hackathon Winner Deep Dives
+Qdrant Vector Search
 
 AWS GenAI LIVE: Transforming Agentic AI with AgentCore & Migration Success Stories
+AWS Events
 
 Has This Report EXPOSED THE TRUTH About AI Assisted Software Development?
+Modern Software Engineering
 
 Less is More : Recursive Reasoning with Tiny Networks paper summary
+Data Science in your pocket
 
 REFRAG Explained!
+Weaviate vector database
 
 CEOs Think AI ROI Is Coming Faster
+The AI Daily Brief: Artificial Intelligence News
 
 Evals in Action: From Frontier Research to Production Applications
+OpenAI
 
 AI isn’t digital transformation, and leaders need to understand why
+IBM
 
 Mathematics: The rise of the machines
+The Royal Institution
 
 Is Sonnet 4.5 the BEST coding model and more | Episode 1
+Rate Limited
 
 The 800 Million User Trap: Why OpenAI's Dev Day Changes Everything (and Nothing)
+AI News & Strategy Daily | Nate B Jones
 
 First Level Complexity of an AI AGENT Explained
+Discover AI
 
 AI & Cybersecurity: Neil Daswani Interviews Heather Adkins
+Stanford Online
 
 Oxford Professor: "AIs are strange new minds"
+Machine Learning Street Talk
 
 From RNNs to Transformers - Introduction to attention mechanism | Transformers for Vision
+Vizuara
 
 2 years later its still happening
+ThePrimeTime
 
 Why OpenAI's AMD Deal Could Be Bigger News than DevDay
+The AI Daily Brief: Artificial Intelligence News
 
 I Got AutoGen's #1 Contributor To Reveal AI Agent Secrets
+Zachary Huang
 
 5 easy mistakes you’ve made in Python
+Indently
 
 The GAN Sidecar: Steroids For Your AI Agents
+Richard Aragon
 
 ✅Reinforcement Learning | Prof. Rahul Pandya (IIT Dharwad)
+Prof. Rahul Pandya - IIT Dharwad
 
 Amazon Bedrock AgentCore Deep dive series: Memory | AWS Show and Tell
+AWS Events
 
 Intro to ChatGPT Apps - The NEW App Store??
+Alejandro AO - Software & Ai
 
-
-
-1:39:48
 Stanford CS230 | Autumn 2025 | Lecture 2: Supervised, Self-Supervised, & Weakly Supervised Learning
+Stanford Online
 
-
-
-1:22:23
 How BAML Makes AI AGENTS 10x More RELIABLE? (We grilled the CEO)
+YourTechBud Codes and Boundary
 
-
-
-25:47
 Advanced Document Parsing for AI Workflows - Legare Kerrison & Cedric Clyburn
+Dallas Software Developers
 
-
-
-11:17
 Rotary Positional Embeddings: Combining Absolute and Relative
+Efficient NLP
 
-
-
-5:07:28
 Deep Learning Vision Architectures Explained – Python Course on CNNs and Vision Transformers
+freeCodeCamp.org
 
-
-
-44:52
 DevDay 2025: Apps SDK, Agent Kit, MCP, Codex and why Prompting is More Important than Ever
+Latent Space
 
-
-
-2:35
 Learn to build effective Agentic AI systems with Andrew Ng
+DeepLearningAI
 
-
-
-1:12:45
 929: Dragon Hatchling: The Missing Link Between Transformers and the Brain — with Adrian Kosowski
+Super Data Science: ML & AI Podcast with Jon Krohn and Pathway (pathway.com)
 
-
-
-39:00
 Making a Deep Agent Competitive Analyst - How & Why
+Adam Lucek
 
 From managing people to managing AI: The leadership skills everyone needs now | Julie Zhuo
+Lenny's Podcast
 
 Bsides Seattle 2025: Securing RAG: A Pentester's Approach - Rallapalli Nagarjun
+Bsides Seattle
 
 Microsoft: forget the IT dept, use Copilot anyway!
+Pivot to AI
 
 Explaining Philosophically Why Your AI Can Never Be Conscious Like You Want It To Be
+Richard Aragon
 
 The Memory Tool: Letta Agents That Redesign Their Own Architecture
+Letta
 
 mem0: Memory layer for LLMs
+Peter Jausovec
 
 Build AI Agents with REAL MEMORY (OpenAI + Mem0)
+Luuk Alleman
 
 Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory // May 2025 Reading Group
+MLOps.community
 
 Qdrant: Open Source Vector Search Engine and Vector Database (Andrey Vasnetsov)
+CMU Database Group
 
 How do vector (search) databases work? ft: turbopuffer
+The Geek Narrator
 
 State of the Art of AI Tools in Micro-Frontend Architectures • Luca Mezzalira • GOTO 2025
+GOTO Conferences
 
 After Diffusion & FLOW Models: Equilibrium Matching (MIT, Oxford, Harvard)
+Discover AI
 
 CWM: Code Generation with World Models: New Agentic Coding: Test and Run Locally
+Fahd Mirza
 
 Hyperbolic Computing vs Standard Computing: Why Curved Space Changes Everything
+Richard Aragon
 
 Give Me 50 min, I'll Make Integral Calculus Click Forever
+Zachary Huang
 
 Inside WIBEY: Walmart's AI Super-Agent Tool | Startup Street | CNBC TV18
+CNBC-TV18
 
 Walmart's WIBEY: Revolutionizing Developer Workflows
+The AI Opus
 
 Walmart Blasts Past Agent Experimentation
+The AI Daily Brief: Artificial Intelligence News
 
 Fortune 100 AI Agent Secrets: The 6 Principles Your Competitors Don't Want You to Know
+AI News & Strategy Daily | Nate B Jones
 
 Beyond FOMO — Keeping Up-to-Date in AI
+PyData
 
 Enhancing RAG with Fast GraphRAG and InstructLab: A Scalable, Interpretable, and Efficient Framework
+PyData
 
 AI Agents of Change: Creating, Reflecting, and Monetizing
+PyData
 
 AI in Reality Fireside Chat: Enterprise AI & Open‑Source Innovation
+PyData
 
 The Forecast Whisperer: Secrets of Model Tuning Revealed
+PyData
 
-
-
-25:10
 From Idea to Integration: An Intro to the Model Context Protocol (MCP)
+PyData
 
-
-
-27:41
 Are LLMs the answer to all our problems?
+PyData
 
-
-
-28:56
 How Narwhals is silently bringing pandas, Polars, DuckDB, PyArrow, and more together
+PyData
 
-
-
-30:10
 What we talk about when we talk about AI skills.
+PyData
 
-
-
-33:12
 Securing RAG Pipelines with Fine Grained Authorization
+PyData
 
-
-
-25:57
 Modern NLP for Proactive Harmful Content Moderation
+PyData
 
-
-
-30:08
 Autonomous Browsing using Large Action Models
+PyData
 
-
-
-30:31
 Conquering PDFs: document understanding beyond plain text
+PyData
 
 Build a personalized Commute agent in Python with Hopsworks, LangGraph and LLM Function Calling
+PyData
 
 Dataframely — A declarative, 🐻‍❄️-native data frame validation library
+PyData
 
 Machine Learning Models in a Dynamic Environment
+PyData
 
 Composable AI: Building Next-Gen AI Agents with MCP
+PyData
 
 Building a HybridRAG Document Question-Answering System
+PyData
 
-How to Build Your (Custom) AI Agent with MCP
-
-The Agent Factory - Episode 1: Agents, their frameworks and when to use them
-
-
-
-2:48
-Excel Agent Mode Just Made This Full Financial Model in 96s
-
-
-
-32:46
-TS2025 - TAAF: A Knowledge Graph and LLM-Driven Framework for Trace Abstraction and Analysis
-
-
-
-19:00
-Build Your First Voice AI Agent in 20 Minutes with LiveKit (Open Source)
-
-
-
-7:26
-6: Broadcasting explained in NumPy
-
-
-
-1:15:34
-The journey of a single token - Introduction to LLMs | Transformers for Vision Series
-
-
-
-18:06
-Build Agents on AWS - Step By Step with Demo
-
-
-
-21:50
-AI Requires A New Social Contract
-
-
-
-1:36:11
-FastAPI Tutorial #12: Background Jobs From Base to Production with Celery, Redis & Docker
-
-
-
-39:44
-How To Build With Algorithms: An AI Guide For Everyone
-
-
-
-32:47
-Roland Fryer Says the Educational Tragedy Is 'We Already Know What Works'
-
-
-
-1:01:08
-AI Agents can write 10,000 lines of hacking code in seconds
-
-
-
-45:44
-Small Language Models are the Future of Agentic AI
-
-
-
-45:51
-RLHF Visualizer | Hands-on Reinforcement Learning
-
-
-
-21:16
-Anatomy of a Scalable Python Project (FastAPI)
-
-
-
-49:23
-All about LoRA
-
-
-
-3:05:35
-Let us build GPT-OSS from Scratch
-
-
-
-53:28
-Agentic Document Processing with LlamaCloud: Exploring the Future of Context Aware RAG & AI Agents
-
-Taste is your Moat (Dylan Field of Figma)
-
-Building the future of agents with Claude
-
-The Missing Piece in the AI for BI Puzzle
-
-LLMOPS 02: Build Multi-Doc Chat with Advanced RAG Part-1| RAG in a Modular Manner (Logger, Config)
-
-Breaking Down AI's Impact on Cybersecurity
-
-KaniTTS: Fast and Expressive Speech Generation Model for English, Arabic, German
-
-Agent to Agent Interactions with NLIP
-
-Build a small language model from scratch: Data pre-processing
-
-The ultimate guide to AEO: How to get ChatGPT to recommend your product | Ethan Smith (Graphite)
-
-LLM Eval Tools Compared: Braintrust
-
-How to Build an Army of AI Agents in n8n (Step-by-Step)
-
-Agent Development Kit (ADK) Masterclass: Build AI Agents & Automate Workflows (Beginner to Pro)
-
-Google ADK for Beginners: Developing AI Agents with Google
-
-Stanford CS230 | Autumn 2025 | Lecture 1: Introduction to Deep Learning
-
-Yann LeCun | Self-Supervised Learning, JEPA, World Models, and the future of AI
-
-OpenAI Just Launched 200 Prompts for Pros—They Will Destroy Your Career (Here's Why)
-
-Rich Sutton, The OaK Architecture: A Vision of SuperIntelligence from Experience - RLC 2025
-
-Nassim Taleb: Why You Should Start a Business |NassimNicholas Taleb LATEST Life Changing Lesson 2025
-
-Hallucinations in LLMs Using Semantic Entropy | Jannik Kossen, University of Oxford | BLISS e.V.
-
-Why Making AI Wrappers Is Harder Than You Think
-
-
-
-6:03
-Why AI Augmentation Beats Automation — Harvard Study Shows 42.5% Quality Gains
-
-
-
-31:41
-Build an AI Agent From Scratch in Python (Beginner Tutorial)
-
-
-
-44:11
-Unitree G1 Security Disaster
-
-
-
-30:17
-Who AI Tools and Agents Boost Real-World Output For | Sully Omar
-
-
-
-17:21
-Walking Though The Creation Of A Zoom Based AI Agent From Concept To Production
-
-
-
-8:42
-POINTS-Reader from TenCent: Accurate OCR of Images: Run Locally
-
-
-
-1:12:32
-exploring emergent hierarchical reasoning in LLMs with RL (2025) | Deep Learning Study Session
-
-
-
-4:29:01
-Data Structures in Python - Full Crash Course
-
-
-
-31:56
-Langchain v1 Agents 2 - Custom Model Configuration & Parameters Explained
-
-SONNET 4.5: REASONING Exposes Major Flaw
-
-MQTT for MCP and Federation of Agents (MAS)
-
-How to Build Multi AI Agents with Langgraph
-
-New Series Launch | Transformers for Vision and Multimodal LLMs | Lecture 1
-
-How transformer took over computer vision? CNN's struggle with long range dependency
-
-How I Built Enterprise AI Agents 90× Cheaper with Automated Prompt Optimization
-
-Langchain v1 Agents 1 - Basic Agent Creation with Web Search Tools using Langchain and Langgraph
-
-⚡️Claude Sonnet 4.5 and Anthropic's roadmap for Agents and Developers — Mike Krieger, Anthropic
-
-What are LLM Distillation Attacks ?
-
-The Big LLM Architecture Comparison
-
-What goes into an idea?
-
-Mental Models for AI Coding: How to Think Like a 10x Developer
-
-How to Optimize AI Agents in Production
-
-What It Takes to Run Multi-Agent Systems
-
-Evaluating AI Agents: Why It Matters and How We Do It
-
-The Eigenvector of Multi Agent Systems w/ RAG
-
-The Best AI Interview Question Ever (And the Only Right Answer)
-
-ChromaDB Crash Course - Intro to Vector Databases
-
-Quantized LLM Training at Scale with ZeRO++ // Guanhua Wang // AI in Production 2025
-
-Beyond Chatbots: How to build Agentic AI systems with Google Gemini // Philipp Schmid
-
-Underwriting Assist - A Multi Agent System // Somya Rai | Maria Zhang // Agents in Production 2025
-
-The 5 AI Shifts That Will Reshape 2026: On-Device Agents + 4 More Critical AI Trends
-
-Why Your AI Agent Will Fail
-
-I Tested ChatGPT's New Overnight Mode—It Changed How I Work
-
-Zero-Shot Learners
-
-Context Engineering for Agents & Multi-Agent Systems
-
-Flask VS Django VS FastAPI - Which One To Choose?
-
-Github Copilot CLI: NEW AI Coding Agent is Quite Powerful, Fast, & Free! (Beats ClaudeCode)
-
-How to avoid going OOM?
-
-I Found the Easiest Way to Build Self-Optimizing AI Prompts (Beginner to Pro Path)
-
-AI Nano Bio Agents (ETH)
-
-Google launches its FASTEST LLM!
-
-Neon buys phone calls to train AI, then leaks them all
-
-Richard Sutton – Father of RL thinks LLMs are a dead end
-
-Understand AI in 2025 – 7 Terms You Need To Know
-
-Amp: The Emperor Has No Clothes
-
-Stripe's Payments Foundation Model: How Data & Infra Create Compounding Advantage, w/ Emily Sands
-
-Building tools for agents — with agents
-
-Production-Grade AI Project Tutorial – Build & Deploy
-
-How to Build and Optimize AI Research Agents
-
-AI Adoption Lessons from 5000 Devs
-
-⚡️Snowglobe: Simulations for your AI
-
-
-
-7:38
-Mixture-of-Experts Universal Transformers
-
-
-
-1:01:00
-Is Generative AI a Cybersecurity Disaster Waiting to Happen? — With Yinon Costica
-
-
-
-12:13
-3 Algorithms That Could Potentially Replace Backpropagation Fully Tested
-
-
-
-35:57
-Why DSPy Beats Prompt Engineering?!
-
-
-
-1:22:18
-Stanford CS229 I Machine Learning I Building Agents That Do the Work of Human Software Engineers
-
-
-
-13:40
-DINOv3 Paper Explained: The Computer Vision Foundation Model
-
-
-
-9:16
-5000 Agent Teams at Citi
-
-
-
-6:06:21
-LLMs from Scratch – Practical Engineering from Base Model to PPO RLHF
-
-
-
-18:56
-Knowledge Graphs in n8n are FINALLY Here!
-
-Great AI Gets Cheaper Again
-
-Qwen 3 Omni — The Open AI Model That Does It ALL
-
-Workslop: bad ‘study’, but an excellent word
-
-
-
-11:37
-I've Built Over 100 AI Agents: Only 1% of Builders Know These 6 Principles
-
-
-
-3:27
-Knowledge Agent
-
-
-
-18:22
-"__new__" is awesome in Python
-
-
-
-1:09:18
-925: AI, Automation and the Future of Work — with Oxford’s Prof. Carl Benedikt Frey
-
-
-
-6:16
-SLED: The Answer To LLM Hallucination?
-
-
-
-45:22
-The Death of Classical Computer Science • Matt Welsh & Julian Wood • GOTO 2025
-
-
-
-39:01
-Build AI Agents That Work While You Sleep | Deep Agents
-
-
-
-49:55
-How to Build Advanced AI Agents – Course for Beginners (LiveKit, Exa, LangChain)
-
-
-
-14:55
-Hyperparameter Tuning Explained in 14 Minutes
-
-
-
-18:11
-AI Interviews are Crap: Here's How to Use AI to get Hired (and Hire) in 2025
-
-
-
-19:04
-Internalizing Self Consistency In LLM Models
-
-
-
-32:40
-Fine-Tuning LLM on Custom Dataset with Single GPU (Complete Tutorial) | Sentiment Analysis
-
-
-
-28:48
-Langchain v1 Projects 1 - Semantic Search for Foundational RAG with code files
-
-
-
-14:35
-Energy-Based Transformers explained | How EBTs and EBMs work
-
-
-
-32:24
-NEW RL Method: FlowRL (GFlowNets)
-
-
-
-41:06
-Agentic AI use case: Text to SQL for Enterprise Data Analytics
-
-
-
-22:03
-What the npm package attacks mean for us developers
-
-adagrad, adadelta, adam, adamax, adamw, aaaahhhhhh | Deep Learning Study Session
-
-Tongyi DeepResearch : Best Deep Research LLM, beats OpenAI
-
-TinyLettuce: Efficient Hallucination Detection with 17M Model - Run Locally
-
-Is It EVEN Possible To Reverse Engineer AI’s Training Data?
-
-Business Insider will publish AI stories — undisclosed
-
-Building Agents for Healthcare // Lars Maaløe // Agents in Production 2025
-
-The Real Reason Huge AI Models Actually Work
-
-After MCP and A2A, Meet AP2
-
-NVIDIA's Peter Belcak Explains Why SLMs are the Future of Agentic AI
-
-Ronan @TrelisResearch - Arc Prize, Getting Started with AI, Agentic Coding | The AI Builders #00
-
-How to prompt your AI agent
-
-99% of Developers Don't Get TPUs
-
-IBM Granite-Docling KILLS OCR? One Model to Parse It All
-
-LangChain Academy New Course: Deep Agents with LangGraph
-
-Upwork's Radical Bet on Reinforcement Learning: Building RLEF from Scratch | Andrew Rabinovich (CTO)
-
-Machine Learning vs Human Learning: They’re Not the Same
-
-113. Vector Databases and RAG for Grounding AI in Reliable Data - with Christian Peeters
-
-How People Actually Use ChatGPT
-
-
-
-7:46
-Kevin Wei - Policy-Oriented AI Evaluations [Technical AI Policy]
-
-
-
-38:03
-The Future Belongs To People Who Do Things: The 9 month recap on AI in industry
-
-
-
-25:15
-I finally figured out a long-standing visualization problem
-
-
-
-2:23:12
-Optimizers, ARC-AGI and Evolutionary Algorithm | Deep Learning Study Session
-
-
-
-1:00:00
-Beyond Prompting: The Emerging Discipline of Context Engineering Reading Group
-
-
-
-18:59
-Forget Codex vs. Claude: This is What Build Teams REALLY Need to Ask
-
-
-
-17:30
-GPT-5-Codex and the Year of Agentic Coding
-
-
-
-29:05
-SFT in 30 min
-
-
-
-56:12
-AI Agents 101: Workshop Session at PyCon India 2025
-
-STOP AI Hallucinations: Predict When LLM Is Guessing and Block It
-
-Google's NEW Agent Money Protocol
-
-ChatGPT 101: The No BS Guide to How to Actually Make AI Work for You
-
-Ex-OpenAI CTO Reveals Plan to Fix LLMs Biggest Problem
-
-Transformer Lab: Easiest way to train models on your local machine with no code
-
-923: Graph Algorithms, GraphRAG and Causal Graphs — with Graph Guru Amy Hodler
-
-Python 3.14: The NEW T-strings are Awesome
-
-PP-OCRv5 Paddle OCR Latest Multilingual 70M Free OCR
-
-
-Exploring "How large language models encode theory-of-mind" (2025) | Deep Learning Study Session
-Deep Learning with Yacine
-•
-Streamed 3 weeks ago
-Members only
-AI Needs Memory - Here's How It Works
-
-I lead a Google DeepMind team at 26. If you want to work at an AI company... | Neel Nanda (Part 2)
-
-The AI Slopocalypse
-
-OpenAI Just Dropped A New Coding Model for Developers
-
-Your Boss says 'Use AI!'—Here's When to Actually Use AI & AI Agents For Real
-
-Building a simple multi-agent RAG system using Google ADK
-
-Why "Context Engineering" Matters | AI & ML Monthly
-
-TARS Agent: Powerful AI Operating System Can Automate ALL Computer Tasks! (Opensource)
-
-Agent Client Protocol : The “New MCP” for IDEs and Coding Agents
-
-⚡️Traversal: Causal ML and Reinforcement Learning
-
-Open-Source AgentGym-RL: GROK 4 vs Gemini Pro (Fudan Univ)
-
-User-Owned AI: On-Chain Training, Inference, and Agents, with NEAR's Illia Polosukhin
-
-From Limited Data to Rare event Prediction: Why Some People Succeed With AI And Others Don't
-
-The Universal AI Skill: Good Taste
-
-LAVA: LLM-Assisted Verbal Autopsy for COD
-
-How memory makes AI agents more effective
-
-AI Agents Workshop - Day 1
-
-AI Scientist: Real World Results (CMU)
-
-Is Open Source Software Actually Secure?
-
-
-
-1:03:18
-Context Engineering for Agents - Lance Martin, LangChain
-
-
-
-10:48
-AI Skepticism is CANCELLED
-
-
-
-11:18
-Qwen3-Next FUTURE of efficient LLMs is here! First Impressions
-
-
-
-30:14
-Prompting Playbook 2025: 4 Beginner Moves, 12 Pro Patterns
-
-
-
-9:22
-The System That Could Replace Binary And Change Computers FOREVER
-
-
-
-40:07
-Ethics in AI: Biases & Responsibilities • Michelle Frost & Hannes Lowette
-
-
-
-1:24:47
-The Future of AI Security is Scaffolding, Agents & The Browser
-
-
-
-5:22
-What are World Models ?
-
-
-
-18:18
-R-CNN - Explained!
-
-How to Build an Agentic RAG system from Scratch in n8n | Customer Support Agent | Short Course
-
-5 Debates Shaping AI
-
-StatQuest: Career Advice from Tech Industry Leaders
-
-Hierarchical Reasoning Model: Substance or Hype?
-
-Andrew Ng: From Code to Product in Hours - The New Reality of AI Development
-
-How To Find Best Optimizer For Your AI Model & LLM - Lion, Muon, Shampoo, SOAP, AdamW
-
-ChatGPT Gets Awesome New Branching Convos Feature
-
-Introduction to World Models: V-JEPA 2
-
-MCP Security | Malicious MCP Servers (Protect Yourself)
-
-Best Reranker AI Model for 2025 - Reranker v2 - Install Locally - Multilingual
-
-PyTorch in 1 Hour
-
-Did OpenAI Just FIX Hallucinations?
-
-Emotions Supercharge Your LLM's Performance
-
-New TRICK Trains Reasoning LLMs BETTER - Judge ALSO Reasons - StepWiser by Meta
-
-CORE of AI is EXPLODING - 10 New Papers
-
-
-
-12:30
-For the Agent Era, Work Charts Beat Org Charts
-
-
-
-15:49
-Senior Dev AI Secrets
-
-
-
-18:14
-Ask the Experts: Gen AI, Cybersecurity, & AI Agent Questions Answered
-
-
-
-22:08
-Range Partition Entropy: The Most Important Data Science Discovery You Have Never Heard Of
-
-
-
-11:10
-Embedding Gemma: On-Device RAG Made Easy
-
-
-
-52:46
-Why China’s Engineering Culture Gives Them an AI Advantage
-
-
-
-21:48
-Why GPT-5 Writes Like a Robot (And How to Jailbreak It)
-
-
-
-1:45:16
-Trusted AI Agents: Architecting Identity and Granular Access for the Agentic Web
-
-
-
-16:48
-Context engineering for AI agents
-
-
-
-27:33
-How Generative AI Video Works - Computerphile
-
-
-
-1:26:36
-LLMs for Devs: Model Selection, Hallucinations, Agents, AGI – Jodie Burchell | The Marco Show
-
-
-
-9:43
-New AI Paradigm?! Energy-Based Transformers Explained
-
-
-
-12:56
-Kimi K2 0905 for Agents
-
-
-
-4:13
-Introducing EmbeddingGemma: The Best-in-Class Open Model for On-Device Embeddings
-
-
-
-1:41:52
-The Lore of 20yo ML Researcher at Prime Intellect | RL, Agents and Intelligence
-
-
-
-4:12:12
-ASI Risks: Similar premises, opposite conclusions | Eliezer Yudkowsky vs Mark Miller
-
-
-
-15:39
-Python Has the Best Standard Library Ever: 10 Modules You Need to Know
-
-
-
-7:28
-PosterGen: Multi-Agent AI Generates Research Paper Graphics - Explained AI Paper
-
-
-
-1:19:53
-Now playing
-Exploring Muon-Clip in kimi k2 (2025) | Deep Learning Study Session
-Deep Learning with Yacine
-•
-Streamed 1 month ago
-Members only
-
-
-11:17
-Doc2Structure: Turns any uploaded .docx file into structured, trainable data
-
-
-
-8:19
-EmbeddingGemma 380M Parameter Best-in-Class Open Model for On-Device Embeddings
-
-
-
-7:17
-No BS advice for deep learning beginners
-
-
-
-1:52:08
-Why DSPy Beats Prompt Engineering?
-
-
-
-55:02
-How to Systematically Improve LLM Applications
-
-
-
-25:08
-ChatGPT-5 Prompting is Too Hard: This Video Makes it Easy for You
-
-
-
-8:12
-Memori - Memory Engine for LLMs, AI Agents & Multi-Agent Systems
-
-
-
-13:35
-#272 Vision Transformer models with Registers
-
-
-
-52:34
-Predictability Beats Accuracy in Enterprise AI
-
-
-
-3:26
-PyTorch vs TensorFlow (with Aurélien Géron)
-
-
-
-18:00
-From Dogs to Consciousness: Why Everything is in a Graph
-
-
-
-29:31
-My Philosophy of AI (Higher Audio Reupload)
-
-
-
-21:16
-Zero Trust for Multi-Agent Systems // Surendra Narang | Venkata Gopi Kolla
-
-
-
-25:21
-Catastrophic agent failure and how to avoid it // Edward Upton // Agents in Production 2025
-
-
-
-17:43
-Why Most AI Startups Are Bad Businesses
-
-
-
-19:56
-The AI Future NO ONE Is Ready For
-
-
-
-8:19
-FalkorDB - GraphRAG for GenAI Apps - Install and Test Locally
-
-
-
-1:06:31
-Stanford CS231N | Spring 2025 | Lecture 8: Attention and Transformers
-
-
-
-4:01
-LlamaCloud Classify Demo - Rules Based Document Tagging
-
-
-
-55:14
-Build Hour: Agentic Tool Calling
-
-
-
-59:48
-Build Hour: Reinforcement Fine-Tuning
-
-
-
-29:29
-LLM Pre-Training in 30 MIN
-
-
-
-2:14:23
-Guide to Agentic AI – Build a Python Coding Agent with Gemini
-
-
-
-9:31
-0.1% AI Researchers INVENT New LLM Pretraining - Predict Order of All Future Tokens
-
-
-
-40:26
-Vector Embeddings: NEW Geometric Limit Discovered
-
-
-
-16:15
-7 Fatal Mistakes with MCP That Kill AI Projects
-
-
-
-1:04:41
-Nick Bostrom - The Intelligence Explosion, What Happens to Humans and New Economic Systems
-
-
-
-16:22
-Grist: The Open Source Self-Hosted Spreadsheet with Database Superpowers
-
-
-
-29:09
-5 Multi-Agent Orchestration Patterns You MUST Know in 2025!
-
-
-
-Upcoming
-Now playing
-How Pinterest built Text-to-SQL Agent | Case Study Projects
-AI With Tarun
-•
-•
-Scheduled for 10/19/25, 7:30 PM
-
-
-9:22
-Matei Zaharia - Reflective Optimization of Agents with GEPA and DSPy
-
-
-
-38:34
-The Future of Compute: How AI Agents Are Reshaping Infrastructure
-
-
-
-53:32
-$2.4M of Prompt Engineering Hacks in 53 Mins (GPT, Claude)
-
-
-
-25:23
-DSPy GEPA Example: Listwise Reranker
-
-
-
-58:13
-Small Language Models are the Future of Agentic AI Reading Group
-
-
-
-11:47
-What if we train LLMs with "Pathfinding"?
-
-
-
-1:58:57
-RAG to Riches Workshop - Day 2
-
-
-
-1:16:14
-🔴 AI Native Infrastructure Automation is HERE
-
-
-
-1:00:29
-A Deep Discussion with the Author of "Context Rot"
-
-
-
-1:03:04
-LLM from Scratch Tutorial – Code & Train Qwen 3
-
-
-
-29:06
-Architecting Multi-Agent Systems With Andrew Ng
-
-
-
-1:02:52
-Neo4j Live: Generating Graph Data from Unstructured Data with BAML
-
-
-
-17:49
-LLM Evaluation on a Custom Dataset with MLflow and Ollama | Financial News Sentiment Analysis
-
-
-
-23:43
-Query Decomposition + Fusion RAG Explained | Balanced Context and Better Retrieval
-
-
-
-1:18:17
-The BMAD Framework: Advanced AI Agents for Software Development and Beyond | AI Roundtable #19
-
-
-
-25:01
-Smart Agents Start with Smart LLM Choices // Shai Rubin // Agents in Production 2025
-
-Claude Code Hacks: Automate Bash Tool Installs (Game-Changer)
-
-
-
-1:36:06
-AI CEOs Keep Talking… But Should We Believe Them? | Cal Newport
-
-
-
-10:21
-Never Use Langchain in Production - Agentic AI Best Practices
-
-
-
-14:11
-Workers Don't Trust Their Companies on AI
-
-
-
-54:25
-How to use AI as an accelerator, not a crutch, with freelance engineer Ankur Tyagi [Podcast #186]
-
-
-
-14:27
-This is my AI setup to write software as a professional engineer.
-
-
-
-42:42
-Building Agentic Workflows in 8 Levels of Complexity
-
-
-
-6:37
-Llama Stack: Kubernetes for RAG & AI Agents in Generative AI
-
-
-
-15:50
-PydanticAI: the AI Agent Framework Winner
-
-
-
-57:13
-Building Real-Time, Reliable Voice AI: From Simulation to Production //Brooke Hopkins | Peter Bakkum
-
-
-
-1:18:43
-Better Data is All You Need — Ari Morcos, Datology
-
-
-
-27:33
-The Future of User Interfaces: AI is Changing Everything
-
-
-
-20:59
-Massively Speed Up Python Code with C Extensions
-
-
-
-1:49:21
-Autoscaling Inference
-
-
-
-22:04
-Topos, Coalgebras & Quantum Groups for AI
-
-
-
-4:27
-GPT-5 System Prompt Leaked
-
-
-
-4:55
-Microsoft Agent Lightning
-
-
-
-4:40
-Voice to Voice GPT RealTime in 4 mins! 💥NEW OpenAI Voice Agents API💥
-
-
-
-13:41
-Agentic RAG: An End-to-End Open Source Framework
-
-
-
-1:15:49
-Building GPT-2 in a Spreadsheet — Everything You Wanted to Know About LLMs (But Were Afraid to Ask)
-
-
-
-32:02
-To Succeed in Platform Engineering, Build Infrastructure Knowledge Graphs - Safeer C M, MoEngage
-
-
-
-12:50
-Build Dataset For Fine-Tuning and Evaluation with LLM | Sentiment Analysis for Financial News
-
-
-
-1:04:27
-Scale Expert on AI Pricing Tactics, Reactions to GPT-5 & Why Voice is Underrated
-
-
-
-44:34
-AI in Healthcare Series: Empowering Patients with Kimberly Powell, NVIDIA
-
-
-
-1:04:28
-RLVR: Reinforcement Learning with Verifiable Rewards
-
-
-
-2:17:26
-RAG to Riches Workshop - Day 1
-
-
-
-35:37
-Too much lock-in for too little gain: agent frameworks are a dead-end // Valliappa Lakshmanan
-
-
-
-16:16
-The Hidden Infrastructure Behind Every AI Agent
-
-
-
-24:33
-How Agent Memory Will Change Your Organization
-
-
-
-19:54
-Can This FIX Context Loss in RAG?
-
-
-
-26:24
-Streaming Speech to Text Models - Kyutai vs Whisper
-
-
-
-1:14:50
-#01 - Relational Model & Algebra (CMU Intro to Database Systems)
-
-
-
-59:40
-How to Build ChatGPT - Part 2: RAG & Connectors
-
-
-
-1:02:07
-How to Build ChatGPT - Part 1: Prompting & Responses API
-
-
-
-5:55
-NVIDIA Jet Nemotron : 50 times Faster LLMs than Transformers
-
-
-
-11:49
-OpenAI’s $200/Month Research Agent: Is It Worth It?
-
-
-
-2:20:50
-I pre-trained Gemma3 270M from scratch
-
-
-
-19:01
-LLM Quantization (Ollama, LM Studio): Any Performance Drop? TEST
-
-
-
-38:56
-LLM Knowledge Distillation Crash Course
-
-
-
-13:01
-I Visualised Attention in Transformers
-
-
-
-11:15
-Kimi K2 Technical Breakdown: How It Challenged AI’s 7-Year Status Quo
-
-
-
-16:32
-Voice model performance optimization // Madison Kanna // Agents in Production 2025
-
-
-
-1:38:42
-Reasoning without Language - Deep Dive into 27 mil parameter Hierarchical Reasoning Model
-
-
-
-14:44
-AI traces are worth a thousand logs
-
-
-
-13:38
-Understanding RERANKERS in detail with CODE !!!
-
-
-
-5:15
-How Retrieval and Reranking works in RAG | Bi Encoder vs Cross Encoder
-
-Trelis Research LIVE: vLLM v0 vs v1. Data vs Tensor Parallel Inference & Fine-tuning.
-
-
-    
