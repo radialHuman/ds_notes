@@ -64,6 +64,8 @@
     - Cost
     - Quantization
         - gptq, gguf, awq, exl2, hqq
+    - tokenizer
+        - Skeletoken : to find how tokenizer works
     - alignment
         - dpo, ppo, orpo, kto, ipo, nac, apo
         - dno
@@ -142,6 +144,7 @@
         - llama index citation query engine
         - from langchain.chains import create_citation_fuzzy_match_chain
     - Metadata details : hierarchical details
+    - pageindex
 - vision rag
     - colpali
     - clip :  two encoders are trained, openai
@@ -349,6 +352,8 @@
 - spire.pdf
 - ocr my pdf 
 - DocETL
+- paddleocr vl
+- mineru
 
 # Web parser
 - NLWeb (https://github.com/microsoft/NLWeb)
@@ -360,6 +365,7 @@
 
 # Fine tune
 - Which fine tuning
+    - QeRL
     - peft
     - lora
     - MORA
@@ -446,6 +452,9 @@
 - agent lightening
 - Strands SDK
 - Google ADK
+- Claude code : skills
+- langcode
+- Openpipe : rl small lm for agents
 # Agent protocol
 - only llm to agent
     - UTCP : universal tool calling protocl

@@ -71,10 +71,817 @@ takeaway
 
 
 
+Introduction to self attention with trainable weights | K, Q, V intuition
+Vizuara
 
-21 lessons
-MIT 16.842 Fundamentals of Systems Engineering, Fall 2015
-MIT OpenCourseWare
+
+Will LLMs Get Us To AGI?
+a16z
+
+
+Chinese AI – They're Just Like Us? With Beijing-Based Concordia AI CEO Brian Tse
+Cognitive Revolution "H
+
+
+Jason Mayes - Client-side Agents with WebAI
+CascadiaJS
+
+
+The State of Open Models
+Interconnects AI
+
+
+Why RL Won — Kyle Corbitt, OpenPipe (acq. CoreWeave)
+Latent Space
+
+
+Stop Writing If-Elif Chains and Start Doing This Instead
+ArjanCodes
+
+
+Use Strategic Thinking to Create the Life You Want
+Harvard Business Review
+
+
+AI Safety (CS 2881) Lecture 5: Experiment on Policy compliance
+Boaz Barak
+
+
+Train 32B LLM Reasoning On 1 GPU - 80GB H100 - QeRL
+Vuk Rosić
+
+
+Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 3 - Tranformers & Large Language Models
+Stanford Online
+
+
+Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 2 - Transformer-Based Models & Tricks
+Stanford Online
+
+
+Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 1 - Transformer
+Stanford Online
+
+
+exploring TRM "Less is More: Recursive Reasoning with Tiny Networks" | Deep Learning Study Session
+Deep Learning with Yacine
+
+
+Neurosymbolic 80M AI from Princeton beats GPT
+Discover AI
+
+
+NEW: Claude's 'Super Prompts' Will Save You DAYS of Work (Full Tutorial + Demo)
+AI News & Strategy Da
+
+
+AI Engineering For Beginners in 14 Minutes - Every Major Concept Clearly Explained!
+Marina Wyss - AI & Mach
+
+
+10 Papers Every Future AI Engineer Must Read
+Marina Wyss - AI & Mac
+
+
+Stanford CS230 | Autumn 2025 | Lecture 3: Full Cycle of a DL project
+Stanford Online
+
+
+I Asked AI to Build Me a SaaS (Here's What Happened)
+TwoSetAI
+
+
+Agent Builder #openai
+AI Makerspace
+
+
+A2A:The Agent-to-Agent Protocol
+Gradient Flow
+
+
+Agentic AI in Practice: From Prototype to Production
+Tech Thursday
+
+
+Context Engineering for AI Agents with LangChain and Manus
+LangChain
+
+
+Humanoid Artificial Consciousness Designed with LLM Based on Psychoanalysis and Personality Theory
+Richard Aragon
+
+
+HiRAG - Deep Semantic Understanding in RAG Workflows: Hands-on Tutorial
+Fahd Mirza
+
+
+148b - Handling Imbalanced Data in python: A Business-Focused Approach
+DigitalSreeni
+
+
+Andrej Karpathy NanoChat : Build ChatGPT in $100
+Data Science in your po
+
+
+Bedrock AgentCore now in GA: Moving AI Agents from Prototype Purgatory to Production
+AWS Events
+
+
+Neurosymbolic AI: the Path to Superintelligence?
+Discover AI
+
+
+Intro to MCP Servers – Model Context Protocol with Python Course
+freeCodeCamp.org
+
+
+The AI Expertise Bottleneck: How Top 1% Pros Are Scaling Faster Than Ever
+AI News & Strategy Dai
+
+
+AI Discovered Antibiotics: How Small Data & Small GNNs Led to Big Results, w/ MIT Prof. Jim Collins
+Cognitive Revolution "H
+
+
+Classifier-Free Guidance (CFG) - Enhancing the performance of Conditional Diffusion Models.
+AI Podcast Series. By
+
+
+Microservice Architecture and System Design with Python & Kubernetes – Full Course
+freeCodeCamp.org
+
+
+How to Design APIs Like a Senior Engineer (REST, GraphQL, Auth, Security)
+Hayk Simonyan
+
+
+How to Learn ML System Design and Land $300k+ Tech Offers
+Marina Wyss - AI & Machi
+
+
+System Design Concepts Course and Interview Prep
+freeCodeCamp.org
+
+
+Orchestrating Complex AI Workflows with AI Agents & LLMs
+IBM Technology
+
+
+Guardrails for LLM Applications | Complete Tutorial for AI Developers WIth Guardrails AI
+Sunny Savita
+
+
+29:11
+Now playing
+RAG Breaks AI Security Guardrails
+Discover AI
+•
+4 days ago
+Members only
+
+
+Gemini vs. the clock: 5 hours to build a FinTech agent
+Google Cloud Tech
+
+
+Tiny Recursive Model Actually Works | Theory + Implementation from Scratch
+Vizuara
+
+
+What Big Tech Still Gets WRONG about Great Programmers | Casey Muratori
+A Life Engineered
+
+
+The Jobs People Actually WANT AI to Automate
+The AI Daily Brief: Art
+
+
+Context Engineering: Building Context-Aware AI Agents with Amazon Bedrock AgentCore Memory
+AWS Events
+
+
+Python 3.14: t-Strings, Multiple Interpreters, Deferred Annotations
+NeuralNine
+
+
+GraphBit: Enterprise-Grade Agentic AI Framework - Install and Test
+Fahd Mirza
+
+
+#279 FastGen: Adaptive KV Cache Compression for LLMs
+Data Science Gems
+
+
+Give Me 30 min, I will make Linear Algebra Click Forever
+Zachary Huang
+
+
+Stop Asking for AI Agents When You're Not Ready for Them—Here's What You Really Need
+AI News & Strategy Dail
+
+
+System Design for Beginners Course
+freeCodeCamp.org
+
+
+Stanford CS149 I Parallel Computing I 2023 I Lecture 7 - GPU architecture and CUDA Programming
+Stanford Online
+
+
+I Analyzed 170 Million AI Jobs with ChatGPT—Grab Insights for 17 AI Careers + a Prompt Demo
+AI News & Strategy Dail
+
+
+STOP Agent: STOP! CaRT = Perfect Knowledge?
+Discover AI
+
+
+3 New Context Engineering Skills for Agents
+Prompt Engineering
+
+
+Fine tuning LLMs is so much harder than you think...
+youniss
+
+
+ComoRAG – Next-Gen RAG for Long-Document Reasoning - Demo
+Fahd Mirza
+
+
+Is Responsible AI Possible? with Dr. Sarah Bird
+Syntax
+
+
+Stanford Seminar - Responsible AI (h)as a Learning and Design Problem
+Stanford Online
+
+
+What is Responsible AI? A Guide to AI Governance
+IBM Technology
+
+
+Part 1: Social engineering, malware, and the future of cybersecurity in AI
+Google DeepMind
+
+
+KV Cache Crash Course
+AI Anytime
+
+
+Asyncio in Python - Full Tutorial
+Tech With Tim
+
+
+Introduction to self attention | Implementing a simplified self-attention | Transformers for Vision
+Vizuara
+
+
+Give Me 30 min, I'll Make Kubernetes Click Forever
+Zachary Huang
+
+
+Text Classification: Handling 1000+ Classes with Generative AI | Amazon Web Services
+Amazon Web Services
+
+
+Haystack EU 2025: Smart Recall: Enhance Local LLM Conversations w/ Embedding-Aware Context Retrieval
+OpenSource Connections
+
+
+Effective Context Engineering for AI Agents
+YanAITalk
+
+
+7B Agent Outsmarts a 200B LLM: AgentFlow by Stanford
+Discover AI
+
+
+India’s Bio-AI Breakthrough: Axis Beats Google DeepMind’s AlphaGenome
+AIM Network
+
+
+Building with MCP and the Claude API
+Anthropic
+
+
+Understanding TRM and HRM
+Trelis Research
+
+
+Evals Aren't Useful? Really?
+MLOps.community
+
+
+Python 3.14 key features
+Data Science in your p
+
+
+Upcoming
+Now playing
+Self-Improving Evaluations for Agentic RAG
+Qdrant Vector Search
+•
+•
+Scheduled for 11/12/25, 9:30 PM
+
+
+Designing AI Decision Agents with DMN, Machine Learning & Analytics
+IBM Technology
+
+
+Why Your Cloud Isn't Ready for Production AI
+Gradient Flow
+
+
+Less is More: Tiny Recursive Models
+The Times of AI
+
+
+Measuring Agents With Interactive Evaluations
+OpenAI
+
+
+Education in the AI Age: a Teacher Rethinks Learning & Purpose, w/ Johan Falk of Graspable AI
+Cognitive Revolution "H
+
+
+Solving Context Loss: The $20M Problem Every Startup Has
+TwoSetAI
+
+
+How They Built It: Hackathon Winner Deep Dives
+Qdrant Vector Search
+
+
+AWS GenAI LIVE: Transforming Agentic AI with AgentCore & Migration Success Stories
+AWS Events
+
+
+Has This Report EXPOSED THE TRUTH About AI Assisted Software Development?
+Modern Software Engine
+
+
+Less is More : Recursive Reasoning with Tiny Networks paper summary
+Data Science in your po
+
+
+REFRAG Explained!
+Weaviate vector databa
+
+
+CEOs Think AI ROI Is Coming Faster
+The AI Daily Brief: Art
+
+
+Evals in Action: From Frontier Research to Production Applications
+OpenAI
+
+
+AI isn’t digital transformation, and leaders need to understand why
+IBM
+
+
+Mathematics: The rise of the machines
+The Royal Institution
+
+
+Is Sonnet 4.5 the BEST coding model and more | Episode 1
+Rate Limited
+
+
+The 800 Million User Trap: Why OpenAI's Dev Day Changes Everything (and Nothing)
+AI News & Strategy Daily
+
+
+First Level Complexity of an AI AGENT Explained
+Discover AI
+
+
+AI & Cybersecurity: Neil Daswani Interviews Heather Adkins
+Stanford Online
+
+
+Oxford Professor: "AIs are strange new minds"
+Machine Learning Street 
+
+
+From RNNs to Transformers - Introduction to attention mechanism | Transformers for Vision
+Vizuara
+
+
+2 years later its still happening
+ThePrimeTime
+
+
+Why OpenAI's AMD Deal Could Be Bigger News than DevDay
+The AI Daily Brief: Arti
+
+
+I Got AutoGen's #1 Contributor To Reveal AI Agent Secrets
+Zachary Huang
+
+
+5 easy mistakes you’ve made in Python
+Indently
+
+
+The GAN Sidecar: Steroids For Your AI Agents
+Richard Aragon
+
+
+✅Reinforcement Learning | Prof. Rahul Pandya (IIT Dharwad)
+Prof. Rahul Pandya - I
+
+
+Amazon Bedrock AgentCore Deep dive series: Memory | AWS Show and Tell
+AWS Events
+
+
+Intro to ChatGPT Apps - The NEW App Store??
+Alejandro AO - Softwar
+
+
+Stanford CS230 | Autumn 2025 | Lecture 2: Supervised, Self-Supervised, & Weakly Supervised Learning
+Stanford Online
+
+
+How BAML Makes AI AGENTS 10x More RELIABLE? (We grilled the CEO)
+YourTechBud Codes and B
+
+
+Advanced Document Parsing for AI Workflows - Legare Kerrison & Cedric Clyburn
+Dallas Software Develo
+
+
+Rotary Positional Embeddings: Combining Absolute and Relative
+Efficient NLP
+
+
+Deep Learning Vision Architectures Explained – Python Course on CNNs and Vision Transformers
+freeCodeCamp.org and Pr
+
+
+DevDay 2025: Apps SDK, Agent Kit, MCP, Codex and why Prompting is More Important than Ever
+Latent Space
+
+
+Learn to build effective Agentic AI systems with Andrew Ng
+DeepLearningAI
+
+
+929: Dragon Hatchling: The Missing Link Between Transformers and the Brain — with Adrian Kosowski
+Super Data Science: ML 
+
+
+Making a Deep Agent Competitive Analyst - How & Why
+Adam Lucek
+
+
+From managing people to managing AI: The leadership skills everyone needs now | Julie Zhuo
+Lenny's Podcast
+
+
+Bsides Seattle 2025: Securing RAG: A Pentester's Approach - Rallapalli Nagarjun
+Bsides Seattle
+
+
+Microsoft: forget the IT dept, use Copilot anyway!
+Pivot to AI
+
+
+Explaining Philosophically Why Your AI Can Never Be Conscious Like You Want It To Be
+Richard Aragon
+
+
+The Memory Tool: Letta Agents That Redesign Their Own Architecture
+Letta
+
+
+mem0: Memory layer for LLMs
+Peter Jausovec
+
+
+Build AI Agents with REAL MEMORY (OpenAI + Mem0)
+Luuk Alleman
+
+
+Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory // May 2025 Reading Group
+MLOps.community
+
+
+Qdrant: Open Source Vector Search Engine and Vector Database (Andrey Vasnetsov)
+CMU Database Group
+
+
+How do vector (search) databases work? ft: turbopuffer
+The Geek Narrator
+
+
+State of the Art of AI Tools in Micro-Frontend Architectures • Luca Mezzalira • GOTO 2025
+GOTO Conferences
+
+
+After Diffusion & FLOW Models: Equilibrium Matching (MIT, Oxford, Harvard)
+Discover AI
+
+
+CWM: Code Generation with World Models: New Agentic Coding: Test and Run Locally
+Fahd Mirza
+
+
+Hyperbolic Computing vs Standard Computing: Why Curved Space Changes Everything
+Richard Aragon
+
+
+Give Me 50 min, I'll Make Integral Calculus Click Forever
+Zachary Huang
+
+
+Inside WIBEY: Walmart's AI Super-Agent Tool | Startup Street | CNBC TV18
+CNBC-TV18
+
+
+Walmart's WIBEY: Revolutionizing Developer Workflows
+The AI Opus
+
+
+Walmart Blasts Past Agent Experimentation
+The AI Daily Brief: Arti
+
+
+Fortune 100 AI Agent Secrets: The 6 Principles Your Competitors Don't Want You to Know
+AI News & Strategy Daily
+
+
+Beyond FOMO — Keeping Up-to-Date in AI
+PyData
+
+
+Enhancing RAG with Fast GraphRAG and InstructLab: A Scalable, Interpretable, and Efficient Framework
+PyData
+
+
+AI Agents of Change: Creating, Reflecting, and Monetizing
+PyData
+
+
+AI in Reality Fireside Chat: Enterprise AI & Open‑Source Innovation
+PyData
+
+
+The Forecast Whisperer: Secrets of Model Tuning Revealed
+PyData
+
+
+From Idea to Integration: An Intro to the Model Context Protocol (MCP)
+PyData
+
+
+Are LLMs the answer to all our problems?
+PyData
+
+
+How Narwhals is silently bringing pandas, Polars, DuckDB, PyArrow, and more together
+PyData
+
+
+What we talk about when we talk about AI skills.
+PyData
+
+
+Securing RAG Pipelines with Fine Grained Authorization
+PyData
+
+
+Modern NLP for Proactive Harmful Content Moderation
+PyData
+
+
+Autonomous Browsing using Large Action Models
+PyData
+
+
+Conquering PDFs: document understanding beyond plain text
+PyData
+
+
+Build a personalized Commute agent in Python with Hopsworks, LangGraph and LLM Function Calling
+PyData
+
+
+Dataframely — A declarative, 🐻‍❄️-native data frame validation library
+PyData
+
+
+Machine Learning Models in a Dynamic Environment
+PyData
+
+
+Composable AI: Building Next-Gen AI Agents with MCP
+PyData
+
+
+Building a HybridRAG Document Question-Answering System
+PyData
+
+
+How to Build Your (Custom) AI Agent with MCP
+Shaw Talebi
+
+
+The Agent Factory - Episode 1: Agents, their frameworks and when to use them
+Google Cloud Tech
+
+
+Excel Agent Mode Just Replaced Accountants (and It's Scary Good)
+Piggy Bank Accountant
+
+
+TS2025 - TAAF: A Knowledge Graph and LLM-Driven Framework for Trace Abstraction and Analysis
+DiaMon Workgroup
+
+
+Build Your First Voice AI Agent in 20 Minutes with LiveKit (Open Source)
+Cole Medin
+
+
+6: Broadcasting explained in NumPy
+Indently
+
+
+The journey of a single token - Introduction to LLMs | Transformers for Vision Series
+Vizuara
+
+
+Build Agents on AWS - Step By Step with Demo
+Cloud With Raj
+
+
+AI Requires A New Social Contract
+Richard Aragon
+
+
+FastAPI Tutorial #12: Background Jobs From Base to Production with Celery, Redis & Docker
+Code Goat
+
+
+How To Build With Algorithms: An AI Guide For Everyone
+Richard Aragon
+
+
+Roland Fryer Says the Educational Tragedy Is 'We Already Know What Works'
+Wall Street Journal Opi
+
+
+AI Agents can write 10,000 lines of hacking code in seconds
+Machine Learning Street
+
+
+Small Language Models are the Future of Agentic AI
+YanAITalk
+
+
+RLHF Visualizer | Hands-on Reinforcement Learning
+Vizuara
+
+
+Anatomy of a Scalable Python Project (FastAPI)
+ArjanCodes
+
+
+All about LoRA
+Trelis Research
+
+
+Let us build GPT-OSS from Scratch
+Vizuara
+
+
+Agentic Document Processing with LlamaCloud: Exploring the Future of Context Aware RAG & AI Agents
+LlamaIndex
+
+
+Taste is your Moat (Dylan Field of Figma)
+Latent Space
+
+
+Building the future of agents with Claude
+Anthropic
+
+
+The Missing Piece in the AI for BI Puzzle
+Gradient Flow
+
+
+LLMOPS 02: Build Multi-Doc Chat with Advanced RAG Part-1| RAG in a Modular Manner (Logger, Config)
+Sunny Savita
+
+
+Breaking Down AI's Impact on Cybersecurity
+AI Security Podcast
+
+
+KaniTTS: Fast and Expressive Speech Generation Model for English, Arabic, German
+Fahd Mirza
+
+
+Agent to Agent Interactions with NLIP
+The AI Alliance
+
+
+Build a small language model from scratch: Data pre-processing
+Vizuara
+
+
+The ultimate guide to AEO: How to get ChatGPT to recommend your product | Ethan Smith (Graphite)
+Lenny's Podcast
+
+
+LLM Eval Tools Compared: Braintrust
+Hamel Husain
+
+
+How to Build an Army of AI Agents in n8n (Step-by-Step)
+Let's Automate It
+
+
+Agent Development Kit (ADK) Masterclass: Build AI Agents & Automate Workflows (Beginner to Pro)
+aiwithbrandon
+
+
+Google ADK for Beginners: Developing AI Agents with Google
+DataCamp
+
+
+Stanford CS230 | Autumn 2025 | Lecture 1: Introduction to Deep Learning
+Stanford Online
+
+
+Yann LeCun | Self-Supervised Learning, JEPA, World Models, and the future of AI
+Harvard CMSA
+
+
+OpenAI Just Launched 200 Prompts for Pros—They Will Destroy Your Career (Here's Why)
+AI News & Strategy Dail
+
+
+Rich Sutton, The OaK Architecture: A Vision of SuperIntelligence from Experience - RLC 2025
+Amii
+
+
+Nassim Taleb: Why You Should Start a Business |NassimNicholas Taleb LATEST Life Changing Lesson 2025
+Antifragile Mindset
+
+
+Hallucinations in LLMs Using Semantic Entropy | Jannik Kossen, University of Oxford | BLISS e.V.
+BLISS e.V. Berlin
+
+
+Context Engineering: The Art of Serving LLMs Efficiently
+bycloud
+
+
+Why AI Augmentation Beats Automation — Harvard Study Shows 42.5% Quality Gains
+Brainqub3
+
+
+Build an AI Agent From Scratch in Python (Beginner Tutorial)
+Dave Ebbelaar
+
+
+Unitree G1 Security Disaster
+sentdex
+
+
+Directing AI Agents Like Junior Devs to Boost Productivity | Sully Omar
+SVIC Podcast
+
+
+The Difference Between Concept And Production: A Walkthrough Of A Zoom Based AI Agent
+Richard Aragon
+
+
+POINTS-Reader from TenCent: Accurate OCR of Images: Run Locally
+Fahd Mirza
+
+
+exploring emergent hierarchical reasoning in LLMs with RL (2025) | Deep Learning Study Session
+Deep Learning with Yacine
+
+
+Data Structures in Python - Full Crash Course
+NeuralNine
+
+
+Langchain v1 Agents 2 - Custom Model Configuration & Parameters Explained
+KGP Talkie
+
+
+SONNET 4.5: REASONING Exposes Major Flaw
+Discover AI
+
+
+
 
 MIT 6.824 Distributed Systems (Spring 2020)
 MIT 6.824: Distributed Systems
@@ -89,33 +896,6 @@ Efficient NLP
 LLM Agents MOOC
 Berkeley RDI Center on Decentralization & AI
 
-Remember
-Private
-
-Vision
-Private
-
-Getting Started with Dask
-Dask
-
-Intro to Dask Tutorial
-Coiled
-
-J_EL
-Private
-
-Sec
-Private
-
-4
-Private
-
-Advanced
-Private
-
-1 video
-AWS
-Private
 
 Building LLMs from scratch
 Vizuara
