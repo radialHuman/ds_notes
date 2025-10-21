@@ -49,6 +49,8 @@
     - MoR mixture of recurssions
     - LCM
     - Titans
+    - next-omni
+    - Diffusion
 
 
 # RAG
