@@ -52,6 +52,31 @@
     - next-omni
     - Diffusion
 
+# Innovation
+- Bert : 
+- Roberta :
+- albert :
+- distill bert :
+- T5 :
+- Bart :
+- Deepseek :
+- granite :
+- Hermes :
+- gpt :
+- llama :
+- gemini :
+- kimi :
+- qwen :
+- qwen embedding :
+- gemma :
+- Mistral :
+- Mixtral :
+- Falcon :
+- Claude :
+
+
+
+- https://arxiv.org/pdf/2501.04040, https://arxiv.org/pdf/2412.03220, https://arxiv.org/pdf/2402.06196
 
 # RAG
 - Which model
