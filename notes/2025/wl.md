@@ -4,6 +4,29 @@ Self-Improving Evaluations for Agentic RAG
 LLM Building Blocks & Transformer Alternatives
 The Big LLM Architecture Comparison
 
+
+35:20 | Data Structures and Algorithms Mastery - Introduction | Caleb Curry
+
+1:02:05 | hack::soho | October 2025 | Agentic AI in the Wild: Risks, Reality & Framework | Max Corbridge | IOActive, Inc.
+
+1:08:35 | Alison Gopnik, The Evolution of Human Intelligences | Natural Philosophy Forum Lecture 2025 | Hopkins Natural Philos
+
+19:56 | KIMI Linear: an expressive, efficient attention architecture | Xiaol.x
+
+1:26:37 | The Big LLM Architecture Comparison | Sebastian Raschka
+
+13:50 | #285 FRAMES: Benchmark Dataset for RAG systems | Data Science Gems
+
+18:53 | #286 Attention Sinks for Language modeling with 4M+ tokens | Data Science Gems
+
+39:07 | Energy-Based Transformers are Scalable Learners and Thinkers | Gabriel Mongaras
+
+55:37 | Dehumanizing Agents: Why Explainability is Crucial in the LLM Era - Lucía Conde-Moreno | NDC Conferences
+
+48:44 | Why do LLMs struggle with Long Context? | Federico Barbero, Google DeepMind | BLISS e.V. | BLISS e.V. Berlin
+
+20:06 | Geometric GROKKING Unlocked & Explained | Discover AI
+
 32:55|Let us hand-calculate how GPT-3 has a total of 175B parameters | Transformers for Vision| Vizuara|275 views|5 hours ago
 
 
