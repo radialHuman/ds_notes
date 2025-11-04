@@ -5,6 +5,40 @@ LLM Building Blocks & Transformer Alternatives
 The Big LLM Architecture Comparison
 
 
+
+
+16:05 | Introduction to Healthcare NLP/LLMs | John Snow Labs – Hea
+
+1:30:35 | The Case Against Superintelligence | Cal Newport | Cal Newport
+
+10:57 | THIS is The Next Big Thing for Backend Engineers | Eric Roby
+
+19:42 | LangChain Middleware Explained: AI Agent Context Control | AI Anytime
+
+37:09 | RIP Vibe Coding. Feb 2025-Oct 2025. | The AI Daily Brief: Artif
+
+58:51 | 937: How to Design AI-First Products — with Marc Dupuis | Super Data Science: ML
+
+20:14 | Wharton & MIT Can't Agree on AI: Here's What Both are Missing on Building Real AI Projects | AI News & Strategy D
+
+27:50 | What if SOFTWARE is the Key to Overcoming the Agent Problem? | Richard Aragon
+
+3:11 | Neural network learns to play the piano with Hebbian rule, no BACKPROPOGATION | echohive
+
+10:35 | What Makes Qwen 3 Max Thinking So Weird? | Prompt Engineering
+
+9:46 | I replaced RAG with FREE Hybrid Search (BM25+Semantic) | 1littlecoder
+
+12:51 | Every RAG Strategy Explained in 13 Minutes (No Fluff) | Cole Medin
+
+36:48 | Do I Really Need To Fine-Tune | MLOps.community
+
+18:03 | 8 Ways to Use AI When Someone Is Trying to Screw You (Adversarial Prompting) | AI News & Strategy Dai
+
+23:40 | How IP Addresses Relate to Physical Locations - Computerphile | Computerphile
+
+56:50 | hack::soho | AI Agents Blast Radius and the MCP Horror Story | Dinis Cruz, The Cyber Boardroom | IOActive, Inc
+
 35:20 | Data Structures and Algorithms Mastery - Introduction | Caleb Curry
 
 1:02:05 | hack::soho | October 2025 | Agentic AI in the Wild: Risks, Reality & Framework | Max Corbridge | IOActive, Inc.
