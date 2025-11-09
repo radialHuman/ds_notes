@@ -5,7 +5,62 @@ LLM Building Blocks & Transformer Alternatives
 The Big LLM Architecture Comparison
 
 
+28:45  | MIT Economist on AI, Trade-Offs & Healthcare | MIT OpenCourseWare
 
+23:44  | Adam Optimizer in 20 min | Zachary Huang
+
+49:05 | ⚡️ The State of AI Engineer Hiring: Cheating, AI Adoption,Junior Devs — Vivek Ravisankar, | HackerRank | Latent Space
+
+1:32:04 | From Swift to Mojo and high-performance AI Engineering with Chris Lattner | The Pragmatic Engineer
+
+
+6:31 | How Experts Think Differently | Benjamin Keep, PhD, J
+
+
+57:03 | Stanford CS547 HCI Seminar | Autumn 2025 | Building Control and Trust in Human-AI Systems | Stanford Online
+
+
+6:43 | Continuous Autoregressive Language Models (CALM) : Bye LLMs | Data Science in your p
+
+5:29 | MiniMax M2 - Interleaved Reasoning, CISPO | Caleb Writes Code
+
+
+55:48 | I Built YouTube's Algorithm - here's What I Got Wrong | TwoSetAI
+
+
+1:04:37 | Postgres for AI Agents | Gradient Flow
+
+2:54:53 | What do models learn during finetuning? A model diffing paper walkthrough w/ Clement & Julian | Neel Nanda
+
+
+29:31 | Big updates to mlflow 3.0 | MLOps.community
+
+
+1:48:33 | I lead a Google DeepMind team at 26. If you want to work at an AI company... | Neel Nanda (Part | 2) | 80,000 Hours
+
+
+13:20 | RISC-V Explained - RISC-V Extensions for AI | SiFiveInc
+
+
+10:19 | Learn GPU Programming with Mojo 🔥 GPU Puzzles Tutorial - Introduction | Modular
+
+
+1:00:43 | REFRAG with Xiaoqiang Lin - Weaviate Podcast #130! | Weaviate vector databa
+
+
+38:24 | The Architecture of the YouTube Algorithm, Exposed | Gal Lahat
+
+
+53:42 | GenAI Grows Up: Building Production-Ready Agents on the JVM • Rod Johnson • GOTO 2025 | GOTO Conferences
+
+
+3:39:31 | Vision Transformer paper dissection | Vizuara
+
+
+13:21 | The Mental Models of Master Prompters: 10 Techniques for Advanced Prompting | AI News & Strategy Dai
+
+
+18:12 | TokenCake Beats vLLM: Up to 2× Faster AI Agents on GPU | MG
 
 16:05 | Introduction to Healthcare NLP/LLMs | John Snow Labs – Hea
 
@@ -245,7 +300,7 @@ The Big LLM Architecture Comparison
 43:17|Breaking AI to Fix It: Ian Webster's Journey from Discord's Clyde to Promptfoo's $18M Series A| Latent Space|1.1K views|7 days ago
 
 
-1:16:40|Build, Adapt, or Get Eaten by AI: Modern Software Engineering in 2025 (w/ Stephen Barr)| Brian H. Hough  |  Tech Stack Playbook|89 views|7 days ago
+1:16:40|Build, Adapt, or Get Eaten by AI: Modern Software Engineering in 2025 (w/ Stephen Barr)| Brian H. Hough  Tech Stack Playbook|89 views|7 days ago
 
 
 18:29|Cython is awesome in Python| Indently|44K views|9 days ago
