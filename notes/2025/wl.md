@@ -5,7 +5,51 @@ LLM Building Blocks & Transformer Alternatives
 The Big LLM Architecture Comparison
 
 
-28:45  | MIT Economist on AI, Trade-Offs & Healthcare | MIT OpenCourseWare
+| Gupta | Super Data Science: ML & AI Podcast with Jon Krohn
+
+19:38 | Amazing RAG: Generative Semantic Workspaces w/ Memory | Discover AI
+
+14:15 | Why people don't understand you even if you're smart | Matt Huang
+
+11:37 | The Software Supply Chain Problem NO ONE Talks About | Modern Software Engineering
+
+22:13 | The Principles of Diffusion Models - New Course Launch | Vizuara
+
+58:28 | The AI Data Engineer is Here | Gradient Flow
+
+3:19 | Leann : Smallest RAG Vector DB | Data Science in your pocket
+
+32:45 | Dataset Creation to Evaluate RAG | LLM as a Judge Explained | AI With Tarun
+
+57:04 | Stanford CS547 HCI Seminar | Autumn 2025 | Going Beyond Linear Conversation | Stanford Online
+
+11:16 | Python F-Strings: Advanced Tips and Tricks | Indently
+
+1:01:46 | Self-Improving Evaluations for Agentic RAG | Qdrant Vector Search
+
+1:05:30 | State of AI Engineering 2025 | AI Makerspace
+
+22:42 | What does it actually take to train a high-performance LLM today? | Xiaol.x
+
+13:00 | The Open Source AI Model Beating GPT-5 on Agentic Performance | The AI Daily Brief: Artificial Intelligence News
+
+14:55 | AI Security Simplified: Turning Complexity into Cohesion by Christos Koukoumialos | Devoxx
+
+5:15 | Why Your Token Storage Could Be Your Biggest Security Risk - XSS and CSRF Attack in Action | LearnThatStack
+
+53:20 | LangChain Full Crash Course - AI Agents in Python | NeuralNine
+
+25:52 | Scaling Latent Reasoning via Looped Language Models | Xiaol.x
+
+3:19 | Microsoft Kosmos : AI Scientist for Autonomous Discovery | Data Science in your pocket
+
+47:38 | AI's 70% problem w/ Addy Osmani | Zed Industries
+
+2:05:44 | Learn Fast API With This ONE Project | Tech With Tim
+
+52:39 | Stanford CS547 HCI Seminar | Autumn 2025 | Reframing Responsible AI | Stanford Online
+
+
 
 23:44  | Adam Optimizer in 20 min | Zachary Huang
 
