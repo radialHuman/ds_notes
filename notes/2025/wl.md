@@ -5,6 +5,47 @@ LLM Building Blocks & Transformer Alternatives
 The Big LLM Architecture Comparison
 
 
+10:35 | The biggest Mystery of LLMs have just been solved | bycloud
+
+56:50 | Generative Models and Physics | Yi Zhuang You (UCSD) | Kavli Institute for The
+
+2:49:16 | What Happened With Sparse Autoencoders? | Neel Nanda
+
+12:11 | How I Got Into Google (And How You Can Too) | Kevin Naughton Jr.
+
+40:15 | Practical AI Safety (ft Kyle Clark) - Ep 65 | Tool Use - AI Convers
+
+59:35 | Netflix’s Engineering Culture | The Pragmatic Engineer
+
+3:03:46 | Dissecting BERT paper | Vizuara
+
+1:27:46 | Regain Your Ability to Think (in 60 Minutes a Week) | Cal Newport | Cal Newport
+
+30:29 | Wages - From Chaos to Confidence: Solving Python's Environment Reprodu... | PyData Vermont 2025 | PyData
+
+48:03 | Dody - Cleaning Messy Data at Scale: APIs, LLMs, and Custom NLP Pipelines | PyData Vermont 2025 | PyData
+
+1:00:17 | Zhao - Complex Data Ingestion with Open Source AI | PyData Vermont 2025 | PyData
+
+
+23:02 | HaluMem Benchmark — Why AI Agents Hallucinate Memories | AI Anytime
+
+18:19 | Conversational Agentic RAG: LangGraph, Memory, and Multi-Turn Logic | AI Anytime
+
+39:03 | Real-Time AI Voice Chatbot in Python | NeuralNine
+
+1:47:10 | Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 6 - LLM Reasoning | Stanford Online
+
+25:51 | Learning Python Feels Easy. Until It Isn’t. | ArjanCodes
+
+1:11:10 | OpenAI Codex truncating context, Kimi K2 Thinking, Minimax M2 and more | Episode 4 Rate Limited | Rate Limit
+
+1:26:59 | Anthropic, Glean & OpenRouter: How AI Moats Are Built with Deedy Das of Menlo Ventures | Latent Space
+
+31:16 | SANL: A Framework For Teaching AI To See And Control Numbers Properly | Richard Aragon
+
+20:38 | Building Voice Agents Just Got Easier | MLOps.community
+
 | Gupta | Super Data Science: ML & AI Podcast with Jon Krohn
 
 19:38 | Amazing RAG: Generative Semantic Workspaces w/ Memory | Discover AI

@@ -242,6 +242,7 @@
     - lancedb (on the fly)
     - s3 vector
     - Helix DB
+    - leann
 - Caching required?
     - prompt chaching
 - Feedback mechanism
