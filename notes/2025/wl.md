@@ -5,6 +5,124 @@ LLM Building Blocks & Transformer Alternatives
 The Big LLM Architecture Comparison
 
 
+1:12:40 | "I Invented the Transformer. Now I'm Replacing It." | Machine Learning Street Talk
+
+11:36 | Meta Just Cracked Vision with SAM 3: Robotics, Moderation, and Video Editing Will Transform | AI News & Strategy Daily | Nate B Jones
+
+18:32 | Teaching RAG Theory | Chunking | AI Training Session | AI Anytime
+
+19:12 | AI Hype vs Reality: What Companies Won’t Tell You | Richard Aragon
+
+26:31 | Nano Banana PRO: Pixels with a PhD | Discover AI
+
+10:59 | Meta is Back! Segment Anything 3 is Here (Open Weight) | Prompt Engineering
+
+29:47 | Most AI Agents Are Useless. Let’s Fix That | PyData
+
+29:55 | Edge of Intelligence: The State of AI in Browsers | PyData
+
+29:35 | Beyond the Black Box: Interpreting ML models with SHAP | PyData
+
+44:09 | From Manual to LLMs: Scaling Product Categorization | PyData
+
+1:04:34 | Maintainers of the Future: Code, Culture, and Everything After | PyData
+
+30:48 | Data science in containers: the good, the bad, and the ugly | PyData
+
+1:31:08 | A Beginner's Guide to State Space Modeling | PyData
+
+37:29 | How We Automate Chaos: Agentic AI and Community Ops at PyCon DE & PyData | PyData
+
+32:22 | Docling: Get your documents ready for gen AI | PyData
+
+1:28:45 | See only what you are allowed to see: Fine-Grained Authorization | PyData
+
+22:38 | Jakub Zikl - Right-Sized Scaling: Python APIs at Billions of Requests Without the Complexity | PyData
+
+16:39 | AI changes *Nothing* — Dax Raad, OpenCode | AI Engineer
+
+15:47 | Here's the 90 Slide 'AI Eats the World' Talk in 15 Minutes—Plus My Top Takeaways | AI News & Strategy Daily | Nate B Jones
+
+30:52 | The Truth About Vibe Coding Nobody Talks About | Richard Aragon
+
+35:01 | NVIDIA: NEW Elastic AI Models (5080 up) | Discover AI
+
+13:28 | Turn Your Job AI-Native Before Agents Do It For You | AI News & Strategy Daily | Nate B Jones
+
+32:10 | I Finally Figured Out How LLM Models Actually Work: It Breaks Physics | Richard Aragon
+
+9:06 | There Is No Wall: What Gemini 3 Really Means For Your Job | AI News & Strategy Daily | Nate B Jones
+
+29:41 | 371 - Advanced Dimensionality Reduction: t-SNE vs UMAP vs PCA Deep Dive | DigitalSreeni
+
+12:23 | From Idea to Deployed Full Stack WebApps | Prompt Engineering
+
+1:01:31 | Agent Engineering with LangChain 1.0 | AI Makerspace
+
+31:54 | Inside the AI Black Box | Gradient Flow
+
+10:21 | Run Rose Locally: Remove Anything from Any Video | Fahd Mirza
+
+27:47 | Beyond the Weights: Hidden Patterns of AI | Discover AI
+
+14:35 | TOON vs JSON: The Format That Saves 60% Tokens! | AI Anytime
+
+13:20 | Production Ready AI Agents | MLOps.community
+
+27:48 | Lucas Colley - A Hitchhiker's Guide to the Array API Standard Ecosystem | PyData
+
+0:51 | Gemini 3: Turn a research paper into an interactive website | Google DeepMind
+
+10:06 | Definitions of AI and How Companies Use Them to Lie | Internet of Bugs
+
+8:54 | How AWS S3 Hit 1PB/s Using Hard Drives… This Is WILD! | Better Stack
+
+2:10 | Machine Learning Specialization by DeepLearning.AI | DeepLearningAI
+
+5:38 | Native app development is in big trouble... | Awesome
+
+19:39 | Give me 20 min, I will make Attention click forever | Zachary Huang
+
+35:43 | Modern Robot Learning From Scratch | New Course Launch | Vizuara
+
+3:08:59 | Become AI Researcher From Scratch - Full Course - LLM, Math, Pytorch, Neural Networks, Transformers | Vuk Rosić
+
+9:19 | Why AI Agents Need Their Own TCP/IP (with Vijoy Pandey) | Super Data Science: ML & AI Podcast with Jon Krohn
+
+17:49 | Nano Banana Pro is Jaw Dropping: 18 Use-Cases That Were Impossible Before | AI News & Strategy Daily | Nate B Jones
+
+11:59 | More New AI Models! OpenAI Drops 5.1 Pro and Codex Pro | The AI Daily Brief: Artificial Intelligence News
+
+1:05:40 | 941: Multi-Agent Human Societies — with Dr. Vijoy Pandey | Super Data Science: ML & AI Podcast with Jon Krohn
+
+24:02 | YOLO - Explained! | CodeEmporium
+
+39:33 | Dr. Jim Dowling - Real-TIme Context Engineering for Agents | PyData Seattle 2025 | PyData
+
+40:03 | Saurabh Garg - Optimizing AI/ML Workloads | PyData Seattle 2025 | PyData
+
+44:15 | Roman Lutz - Red Teaming AI: Getting Started with PyRIT | PyData Seattle 2025 | PyData
+
+38:59 | Bernardo Dionisi - Know Your Data(Frame) with Paguro | PyData Seattle 2025 | PyData
+
+40:31 | Pedro Albuquerque - Generalized Additive Models: Explainability Strikes Back | PyData Seattle 2025 | PyData
+
+36:24 | Carl Kadie - How to Optimize your Python Program for Slowness | PyData Seattle 2025 | PyData
+
+41:54 | Jack Ye - Supercharging Multimodal Feature Engineering | PyData Seattle 2025 | PyData
+
+39:58 | Denny Lee - Building Agents with Agent Bricks and MCP | PyData Seattle 2025 | PyData
+
+43:28 | Sebastian Duerr - Evaluation is all you need | PyData Seattle 2025 | PyData
+
+32:32 | Rajesh - Securing Retrieval-Augmented Generation | PyData Seattle 2025 | PyData
+
+9:43 | Anthropic's Monster Projections: Profitable by 2028? | The AI Daily Brief: Artificial Intelligence News
+
+8:21 | I Summarized Google's 50 Page AI Agent Paper + Vercel's AI Agent Doc in 8 Minutes: Here's the TLDR | AI News & Strategy Daily | Nate B Jones
+
+
+
 10:35 | The biggest Mystery of LLMs have just been solved | bycloud
 
 56:50 | Generative Models and Physics | Yi Zhuang You (UCSD) | Kavli Institute for The
