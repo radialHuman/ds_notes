@@ -5,6 +5,22 @@ LLM Building Blocks & Transformer Alternatives
 The Big LLM Architecture Comparison
 
 
+Upcoming | Trinity: A Family of Foundation Models | AI Makerspace
+
+Upcoming | Multimodal RAG: An Introduction with olmOCR 2 | AI Makerspace
+
+58:11 |Lecture 1 - Deep Generative Modeling | Principles of Diffusion Models | Vizuara
+
+18:09 |Why are prompt optimizers still so underrated? | Chris Potts
+
+15:42 |Claude Opus 4.5 Changes What's Possible with Vibe Coding | The AI Daily Brief: Artificial Intelligence News
+
+1:36:04 |Ilya Sutskever – We're moving from the age of scaling to the age of research | Dwarkesh Patel
+
+19:07 |UNPATCHED "Design Flaw" leaks EVERYTHING, besides your messages | Daniel Boctor
+
+6:37 |Fine-tune a 30B Model for $0.62 (Prompt Distillation with Tinker) | LLM Implementation
+
 1:12:40 | "I Invented the Transformer. Now I'm Replacing It." | Machine Learning Street Talk
 
 11:36 | Meta Just Cracked Vision with SAM 3: Robotics, Moderation, and Video Editing Will Transform | AI News & Strategy Daily | Nate B Jones
