@@ -165,6 +165,7 @@
     - LW-DETR
     - RF-DETR
     - modernvbert
+    - sam 3
 - Which framework
     - llamaindex
     - langchain
@@ -626,3 +627,87 @@ Dev Tools Prompt, Playground, Evaluation (human & algorithmic evaluation; batch 
 
 
 - Understand what users can do, expect the unexpected
+
+
+## GEO
+
+A company looking to achieve proper search optimization for AI (AI SEO or Generative Engine Optimization, GEO) must expand its scope beyond traditional website optimization to comprehensive brand optimization.
+
+Here are the primary actions a company needs to take, based on the sources:
+
+### Strategy and Mindset Shift
+
+*   **Evolve into a Comprehensive Brand Optimizer:** Shift the focus from solely optimizing the website to managing and optimizing the entire brand presence.
+*   **Acknowledge Foundational SEO:** Recognize that AI search optimization builds upon solid, classic SEO fundamentals.
+*   **Prioritize Off-Site Visibility:** Understand the critical importance of off-site brand visibility and reputation, as LLMs prioritize diverse information sources and cross-reference multiple perspectives.
+*   **Treat GEO as an Ongoing Process:** Do not view optimization as a one-time fix, but rather as an ongoing process of brand management, as brand positioning and AI capabilities constantly evolve.
+
+### Auditing and Monitoring
+
+*   **Conduct a Manual AI Audit:** Engage with AI assistants (e.g., ChatGPT, Claude, Gemini, Perplexity) exactly how customers would.
+*   **Test Prompts Systematically:** Develop and test both **unbranded prompts** (addressing pain points without naming solutions) and **branded prompts** (assessing AI's current knowledge and sentiment about the brand).
+*   **Analyze AI Sources:** Meticulously record results across multiple LLMs to reveal which sources AI assistants pull from most frequently and where competitors appear.
+*   **Monitor Brand Sentiment:** Track your brand's share of voice and sentiment score to understand how often you are mentioned and how positively the AI tools portray your brand.
+*   **Identify Question Gaps:** Use tools and sales team insights to identify specific questions and topics where your brand is currently missing, but competitors appear.
+
+### Content and Website Optimization
+
+*   **Optimize Core Revenue Pages:** Start by optimizing your "money pages" (primary sources for product features, pricing, and differentiators) for AI comprehension.
+*   **Use Hierarchical Content Structure:** Implement a clear hierarchical heading structure (one H1, logical H2s for major sections, H3s for subsections).
+*   **Ensure AI Comprehension:** Use context-rich descriptive language, include executive summaries (key takeaways/TLDDR sections) for complex topics, and avoid hiding crucial information behind JavaScript or dynamic loading.
+*   **Leverage Structured Data:** Use structured data markup to explicitly define product features, reviews, and specifications for easy AI parsing.
+*   **Create Strategic FAQ Content:** Develop detailed, updated FAQ content that addresses common concerns and answers specific user questions found through prompt analysis.
+*   **Incorporate Trust Signals:** Include trust factors and unique selling points on your website and product pages to cater to user needs and influence AI narratives.
+
+### Off-Site Visibility and Partnerships
+
+*   **Implement Strategic Brand Seeding:** Identify high-value platforms and authentically participate on user-generated content platforms, such as industry-specific subreddits, forums, Quora, LinkedIn groups, or Product Hunt.
+*   **Cultivate Strategic Partnerships:** Form collaborations with adjacent brands that speak to the same audience (not competitors).
+*   **Create Citable Sources:** Engage in activities like guest posts on authoritative blogs, podcast appearances, collaborative webinars, and expert quotes in industry publications. Each effort creates a citable source that expands the brand’s digital footprint and authority for AI systems.
+*   **Encourage Customer Feedback:** Encourage satisfied customers to share their experiences on multiple platforms, as this carries more weight than brand-owned engagement.
+
+### Reputation Management and Misinformation Correction (Branded GEO)
+
+*   **Monitor and Respond Proactively:** Establish a systematic approach to monitoring social media, forums, and review platforms, and respond promptly and professionally to both positive and negative feedback.
+*   **Identify Misinformation Sources:** When AI assistants present inaccurate information (misinformation or hallucinations), look for the root source that the AI is citing (e.g., an outdated article, an old landing page, or an unedited Wikipedia entry).
+*   **Update or Delete Sources:** Correct misinformation by editing or deleting sources you control (e.g., LinkedIn pages, documentation, or de-indexing old landing pages).
+*   **Run Outreach Campaigns:** For incorrect information on sites you do not control, execute a robust outreach campaign to request updates or takedowns.
+*   **Seed New Sources:** If AI is hallucinating or missing information, influence the answer by creating a new source (like a help center article or blog post) that correctly answers the question.
+
+
+### I. Auditing and Tool Utilization
+
+*   **Implement Specialized AI Visibility Tools:** While the manual audit is essential, a company must use **automated AI SEO toolkits** (like the Semrush AI Visibility Toolkit) to track and monitor performance. These tools are necessary because there is currently no "Google Analytics" or "Search Console" for AI channels.
+*   **Track Key AI Metrics:** Focus on specific metrics provided by these tools, including **Share of Voice vs. Sentiment Score** (how often you're mentioned versus how positively).
+*   **Check Visibility with Search Enabled/Disabled:** It is critical to check visibility when the AI assistant has web search capabilities enabled, as visibility can drastically increase compared to results generated solely from older training data (which may have cutoff dates).
+*   **Analyze Brand Trust Factors (Key Business Drivers):** Use auditing tools to compare your brand against competitors on specific **trust factors** (e.g., "selective feeding" or "smart features without subscription") to identify where you are strong or where rivals are beating you.
+
+### II. Cross-Departmental Strategy and Product Improvement
+
+*   **Inform Product and Service Improvements:** Use insights gained from analyzing user prompts, trust factor gaps, and sentiment reports to understand where your **products or services** need improvement, not just your content.
+*   **Align SEO with Product and Marketing Divisions:** The future of marketing requires true **collaboration across departments**. Insights gathered from AI visibility analysis should be used to align content and SEO teams with product and marketing teams to improve the user experience and the product itself.
+
+### III. Deep Data Gathering and Internal Collaboration
+
+*   **Leverage Sales and Support Teams for Prompt Data:** One of the most critical sources for understanding user prompts and objections is your **internal sales and support teams**. Companies should run Q&A sessions with these teams to uncover:
+    *   Common product questions from prospects.
+    *   Misunderstandings prospects have before speaking to a representative.
+    *   Objections they receive about the brand.
+    *   Whether prospects mention finding the company via ChatGPT.
+*   **Use Inbound Leads for Prompt Insights:** Ask inbound leads who find the company via ChatGPT or other LLMs exactly what their **prompts were** and what their user journey was like.
+*   **Broaden Query Scope Beyond Keywords:** Use a combination of six methods to gather the unique, long-tail questions users ask LLMs, including looking at **Google and ChatGPT autocomplete** and filtering keyword research tools by **questions**.
+
+### IV. Misinformation Control (Branded GEO)
+
+*   **Operationalize Misinformation Correction:** When fixing misinformation, brands should collate all sources driving inaccuracy into a spreadsheet, noting whether the source should be **deleted or updated**, and specify the **exact text that needs to be changed or added**.
+*   **Prioritize Fixing Root Sources:** Actively seek out and correct the specific source of misinformation, such as an **outdated LinkedIn page**, an old, un-deindexed landing page, or an **outdated Wikipedia article**. Updating highly trusted sources like Wikipedia can reflect changes in LLMs rapidly.
+*   **Execute Outreach Campaigns:** For incorrect information appearing on third-party sites you do not control, run a **robust outreach campaign** to request updates or takedowns.
+
+### V. Attribution and Monitoring
+
+*   **Implement Attribution Tracking for LLM Leads:** Since attribution is difficult, companies must add a **"where did you hear about it" section** to sales booking forms and conversion points to closely monitor leads that originated in large language models.
+*   **Monitor LLM Output Regularly:** After making changes, companies must continuously monitor LLM output for their list of target questions to confirm the continued accuracy of the answers.
+
+***
+
+Effectively, AI search optimization acts like a brand's digital nervous system, where every mention and piece of content across the internet is a data point the LLM synthesizes. A company must actively map out this nervous system and ensure the information flowing back to the AI's "brain" (the LLM) is accurate, positive, and comprehensive.

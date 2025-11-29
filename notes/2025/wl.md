@@ -5,33 +5,57 @@ LLM Building Blocks & Transformer Alternatives
 The Big LLM Architecture Comparison
 
 
+
+
+3:11:08 |Data Structures - Full Course for Beginners | Tech With Tim
+
+17:41 |Continuous Autoregressive Language Models | Xiaol.x
+
+7:01:43 |Transformers architecture mastery | Full 7 hour compilation | Vizuara
+
+32:37 | Stop Hardcoding Everything: Use Dependency Injection
+
+
+4:25 |YOUR DATABASE IS A TIME BOMB: The Hidden Danger in NuGet Packages | STARTUP HAKK
+
+15:01 |Scaling AI Agents Without Breaking Reliability — Preeti Somal, Temporal | AI Engineer
+
+36:03 |Vision: Zero Bugs — Johann Schleier-Smith, Temporal | AI Engineer
+
+4:54 |Build an AI Agent with Temporal | Temporal
+
+14:40 |Events are the Wrong Abstraction for Your AI Agents - Mason Egger, Temporal.io | AI Engineer
+
+26:32 |Exploring Claude Opus 4.5 new advanced tool use | Letta
+
+2:42:08 |Coding DeiT Data Efficient Image Transformer from scratch | Vizuara
+
+35:12 |AI Certifications Focus on Tools NOT Skills—Here's a Better Way | AI News & Strategy Dail
+
+22:13 |From Stateless Nightmares to Durable Agents — Samuel Colvin, Pydantic | AI Engineer
+
+18:26 |#292 Agentic Organization | Data Science Gems
+
+24:20 |DeepSeek-OCR: Contexts Optical Compression | Xiaol.x
+
+1:07:38 |Code security for software engineers | The Pragmatic Engineer
+
+20:28 |Rotary Positional Embeddings Explained | Transformer | Outlier
+
+39:29 |Concept Learning with Energy-Based Models (Paper Explained) | Yannic Kilcher
+
+29:02 |How Attention Got So Efficient [GQA/MLA/DSA] | Jia-Bin Huang
+
+
 Upcoming | Trinity: A Family of Foundation Models | AI Makerspace
 
 Upcoming | Multimodal RAG: An Introduction with olmOCR 2 | AI Makerspace
 
 58:11 |Lecture 1 - Deep Generative Modeling | Principles of Diffusion Models | Vizuara
 
-18:09 |Why are prompt optimizers still so underrated? | Chris Potts
-
-15:42 |Claude Opus 4.5 Changes What's Possible with Vibe Coding | The AI Daily Brief: Artificial Intelligence News
-
-1:36:04 |Ilya Sutskever – We're moving from the age of scaling to the age of research | Dwarkesh Patel
-
-19:07 |UNPATCHED "Design Flaw" leaks EVERYTHING, besides your messages | Daniel Boctor
-
-6:37 |Fine-tune a 30B Model for $0.62 (Prompt Distillation with Tinker) | LLM Implementation
-
-1:12:40 | "I Invented the Transformer. Now I'm Replacing It." | Machine Learning Street Talk
-
 11:36 | Meta Just Cracked Vision with SAM 3: Robotics, Moderation, and Video Editing Will Transform | AI News & Strategy Daily | Nate B Jones
 
 18:32 | Teaching RAG Theory | Chunking | AI Training Session | AI Anytime
-
-19:12 | AI Hype vs Reality: What Companies Won’t Tell You | Richard Aragon
-
-26:31 | Nano Banana PRO: Pixels with a PhD | Discover AI
-
-10:59 | Meta is Back! Segment Anything 3 is Here (Open Weight) | Prompt Engineering
 
 29:47 | Most AI Agents Are Useless. Let’s Fix That | PyData
 
