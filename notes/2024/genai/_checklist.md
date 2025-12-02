@@ -175,6 +175,7 @@
     - taskWeive
     - Haystack
     - embedAnything
+    - Pixeltable
 - Prompt optimization
     - Dspy
     - baml

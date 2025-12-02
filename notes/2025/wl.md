@@ -6,8 +6,54 @@ The Big LLM Architecture Comparison
 
 
 
+18:58 | Reading papers is a cure for AI FOMO | Vizuara
 
-3:11:08 |Data Structures - Full Course for Beginners | Tech With Tim
+4:25 | 10 Concepts That CHANGED How I Code | Shade of Code
+
+22:09 | A Practical Guide to Scaling AI | The AI Daily Brief: Ar
+
+29:05 | Train an LLM from Scratch with Karpathy's Nanochat | Trelis Research
+
+6:22 | NeurIPS 2025 Best Paper Awards: Gated Attention: Simple AI Fix | Vinh Nguyen
+
+15:58 | CLaRa: Bridging Retrieval and Generation with Continuous Latent Reasoning | Xiaol.x
+
+16:57 | The biggest shift in computer vision | Julia Turc
+
+17:11 | Ilya vs. Google - The ONE Number That Decides Who's Right | AI News & Strategy Da
+
+11:39 | How to run LLMs locally? Beginners Guide | Data Science in your p
+
+
+12:38 | Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models | Xiaol.x
+
+
+10:43 | MaxKB with Ollama: Building Enterprise-Grade AI Agents Locally | Fahd Mirza
+
+
+23:11 | Everything about software abstractions in 23 minutes | Alex Kondov
+
+
+1:05:02 | ActInf GuestStream 115.1 ~ Energy-Based Transformers and the Future of Scaling | Active Inference Institute
+
+
+22:22 | Ex-Google Engineer Reveals How to Pass a Technical Interview ft .@KevinNaughtonJr | Tech With Tim
+
+
+20:23 | Pixeltable Explained: The Easiest Way to Build Multimodal AI RAG in 2026 | AI Anytime
+
+
+13:33 | ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration (Nov 2025) | AI Papers Slop
+
+
+32:26 | Štěpán Procházka - LLMs, the do-it-yourself edition (PyData Prague #27) | PyData
+
+
+23:24 | Chatting with logs: fine-tuning LLMs for LogQL | Hasgeek TV
+
+
+
+    3:11:08 |Data Structures - Full Course for Beginners | Tech With Tim
 
 17:41 |Continuous Autoregressive Language Models | Xiaol.x
 
