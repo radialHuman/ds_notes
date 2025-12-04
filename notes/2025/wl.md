@@ -5,6 +5,33 @@ LLM Building Blocks & Transformer Alternatives
 The Big LLM Architecture Comparison
 
 
+38:22| Reliable Voice Agents | MLOps.community
+
+8:04| Al Agents Don't Fail in the Core. They Fail in Your Blind Spots. | AI News & Strategy Daily | Nate B Jones
+
+20:31| No Vibes Allowed: Solving Hard Problems in Complex Codebases – Dex Horthy, HumanLayer | AI Engineer
+
+10:02| NVIDIA RAPIDS: A Hands-on Tutorial for Everyone | Fahd Mirza
+
+3:06:53| Become an AI Researcher Course – LLM, Math, PyTorch, Neural Networks, Transformers | freeCodeCamp.org and Vuk Rosić
+
+30:34| Miki Tebeka: Faster Pandas: Speed Up Your Code, Shrink Your Cloud Bill (HE) | PyData Tel Aviv 2025 | PyData
+
+25:06| Noa Radin: Engineering Production-Ready Onboarding Agents (HE) | PyData Tel Aviv 2025 | PyData
+
+22:08| Mor Hananovitz, Ortal Ashkenazi: Learning How to Learn in the AI Era (HE) | PyData Tel Aviv 2025 | PyData
+
+6:24| Andrew Ng Agentic Reviewer | Data Science in your pocket
+
+8:16| Apple Surprises with CLaRa-7B: A Useful RAG Model: Install Locally | Fahd Mirza
+
+1:02:10| Abhishek Das (Yutori): Why Horizontal Beats Vertical in AI Agents | focal podcast
+
+26:08| ART vs. Transformers: The Classic Architecture You Didn’t Know Existed | Richard Aragon
+
+14:46| Run Ministral-3 3B Locally: An Efficient Small Model with Vision | Fahd Mirza
+
+22:19| 372 - All about Base64 | DigitalSreeni
 
 18:58 | Reading papers is a cure for AI FOMO | Vizuara
 
