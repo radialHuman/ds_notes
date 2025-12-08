@@ -5,6 +5,102 @@ LLM Building Blocks & Transformer Alternatives
 The Big LLM Architecture Comparison
 
 
+1:06:19 | The Vibe Coding Security Risk Nobody's Talking About | TwoSetAI
+
+Does AgenticRAG Really Work? | MLOps.community
+
+54:18 | Governance for AI Agent Deployment | MLOps.community
+
+
+20:18 | Why Your AI Agents Keep Failing (It's Not the Model) | AI News & Strategy Daily | Nate B Jones
+
+
+9:28 | What 1250 Professionals Said About Working With AI | The AI Daily Brief: Artificial Intelligence News
+
+
+9:33 | TurkColBERT: A Late-Interaction Model for Turkish RAG: Full Local Demo | Fahd Mirza
+
+
+59:27 | AWS re:Invent 2025 - Reimagining Software Development and DevOps with Agentic AI (AIM293) | AWS Events
+
+
+1:32:38 | Kozlowski | Cognitive Revolution "How AI Changes Everything"
+
+
+20:18 | Your AI Can't See 16% of Humanity. Here's the 5-Minute Check That Proves It. | AI News & Strategy Daily | Nate B Jones
+
+
+2:05:44 | Learn Fast API With This ONE Project | Tech With Tim
+
+
+11:41 | 20 System Design Concepts Explained in 10 Minutes | NeetCode
+
+
+3:08 | I'm Open Sourcing The Cutting Edge of Agentic Engineering | Jaymin West
+
+
+6:22 | "literal_eval()" is Awesome in Python | Indently
+
+
+25:21 | Is AI Self-Supervised Labeling the END of Human Annotation? | Richard Aragon
+
+
+56:17 | AWS re:Invent 2025 - Building Enterprise-Ready Agentic Speech AI Pipelines on AWS (AIM280) | AWS Events
+
+
+23:20 | AWS re:Invent 2025 - Building a State of the Art Agentic Infrastructure (AIM297) | AWS Events
+
+
+16:08 | Deep Dive: How to Use cuTile Python | NVIDIA Developer
+
+
+17:34 | Give me 20 min, I will make LoRA click forever | Zachary Huang
+
+
+11:24 | How to jailbreak AI agents? | MLOps World GenAI Summit | Giskard
+
+
+1:04:51 | World Models & General Intuition: Khosla's largest bet since LLMs & OpenAI | Latent Space
+
+
+1:25:05 | How to Build Your Own (DIY) Document Parsing Agent from Scratch | LlamaIndex
+
+
+16:31 | Government Agents: AI Agents Meet Tough Regulations — Mark Myshatyn, Los Alamos National Lab | AI Engineer
+
+
+1:23:52 | VoiceVision RAG - Integrating Visual Document Intelligence with Voice Response — Suman | AWS | AI Engineer
+
+
+57:18 | Building Production-Grade AI Systems | Mistral AI
+
+
+20:16 | You Are Being Told Contradictory Things About AI | AI Explained
+
+
+19:39 | The Lazy Loading Pattern: How to Make Python Programs Feel Instant
+
+
+38:22 | Voice AI's Biggest Weakness Exposed | MLOps.community
+
+
+13:25 | Katelyn Lesse – Evolving Claude APIs for Agents, Anthropic | AI Engineer
+
+
+53:16 | Hallucinate.DELETE = We found the H-Neurons | Discover AI
+
+
+57:44 | Build Hour: Agent Memory Patterns | OpenAI
+
+
+19:04 | Self-Evolving AI Agents: Build AI That Improves Itself Automatically | AI Anytime
+
+
+17:11 | Things You Need to Know Before Learning Go Based Backends | Golang Series | Aditya Patil
+
+
+
+
 38:22| Reliable Voice Agents | MLOps.community
 
 8:04| Al Agents Don't Fail in the Core. They Fail in Your Blind Spots. | AI News & Strategy Daily | Nate B Jones
