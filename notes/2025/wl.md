@@ -4,6 +4,48 @@ Self-Improving Evaluations for Agentic RAG
 LLM Building Blocks & Transformer Alternatives
 The Big LLM Architecture Comparison
 
+7:04 | Attention Is All You Need... But What Comes Next? | Complete Architecture Guide 2025 | Xiaol.x
+
+1:15:44 | Exploring "LLM can invent their own compression" with Rajan Agarwal | Deep Learning Study Session | Deep Learning with Yacine
+
+14:18 | Hard Won Lessons from Building Effective AI Coding Agents – Nik Pash, Cline | AI Engineer
+
+43:20 | Agentic AI Use Case: Advancing Cybersecurity Operations with Agentic AI Systems | YanAITalk
+
+32:42 | The State of Consumer Tech with Lisa Eadicicco | Better Offline | Better Offline
+
+49:08 | How AI Engineers Improve Agentic Products | Adam Lucek
+
+20:19 | Efficient Reinforcement Learning – Rhythm Garg & Linden Li, Applied Compute | AI Engineer
+
+18:30 | RL Environments at Scale – Will Brown, Prime Intellect | AI Engineer
+
+16:55 | Agent Reinforcement Fine Tuning – Will Hang & Cathy Zhou, OpenAI | AI Engineer
+
+1:00:51 | LangSmith Agent Builder | AI Makerspace
+
+20:52 | Give Me 20 min, I will make Linear Regression Click Forever | Zachary Huang
+
+4:09 | NEW Python Newsletter, Zed, and AI Generated Content? | Indently
+
+20:18 | Grab the Inside Scoop on How Google, Anthropic, and Manus Built Long-Running AI Agents | AI News & Strategy Daily | Nate B Jones
+
+19:25 | #294 Artificial Hivemind: The Open-Ended Homogeneity of LLMs | Data Science Gems
+
+14:26 | Continuous Thought Machines by Sakana: AI Actually THINKS Before It Answers | Fahd Mirza
+
+40:28 | Ali Behrouz Nested Learning | Phil Trubey
+
+18:04 | Forget LaTeX: Typst is A Game Changer | NeuralNine
+
+1:08:49 | 947: How to Get Hired at Top Firms like Netflix and Spotify — with Jeff Li | Super Data Science: ML & AI Podcast with Jon Krohn
+
+12:53 | DeepSeek V3.2 Just Broke SoTA Again… But How? | bycloud
+
+16:22 | Don't Build Agents, Build Skills Instead – Barry Zhang & Mahesh Murag, Anthropic | AI Engineer
+
+
+
 
 1:06:19 | The Vibe Coding Security Risk Nobody's Talking About | TwoSetAI
 
