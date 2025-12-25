@@ -6,7 +6,7 @@
 
 ---
 ## 0:01:49 R1 Overview - Overview
-
+- 
 ---
 ## 0:03:52 R1 Overview - DeepSeek R1-zero path
 

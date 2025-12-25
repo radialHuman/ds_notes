@@ -4,11 +4,120 @@ Self-Improving Evaluations for Agentic RAG
 LLM Building Blocks & Transformer Alternatives
 The Big LLM Architecture Comparison
 
-7:04 | Attention Is All You Need... But What Comes Next? | Complete Architecture Guide 2025 | Xiaol.x
+8:22 |  Write code good enough to deploy rockets | Awesome
+
+27:03 |  The Future of Vibe Coding with Anthropic CPO Mike Krieger | The AI Daily Brief: Artificial Intelligence News
+
+22:50 |  Small Bets, Big Impact Building GenBI at a Fortune 100 – Asaf Bord, Northwestern Mutual | AI Engineer
+
+17:18 |  Google's New Kubernetes Agent Sandbox: Run Untrusted LLM Code Safely | MG
+
+9:31 |  If This Can Happen to an Ex-DeepMind Leader, It Can Happen to You | AI News & Strategy Daily | Nate B Jones
+
+59:18 |  951: Context Engineering, Multiplayer AI and Effective Search — with Dropbox’s Josh Clemm | Super Data Science: ML & AI Podcast with Jon Krohn
+
+43:58 |  The "Final Boss" of Deep Learning | Machine Learning Street Talk
+
+12:58 |  Convert Any Document To LLM Knowledge with Docling & Ollama (100% Local) | PDF to Markdown Pipeline | Venelin Valkov
+
+23:32 |  Claude Skills Explained in 23 Minutes | Shaw Talebi
+
+8:23 |  The new OCR king drops - Gemini 3 Flash! | 1littlecoder
+
+9:34 |  Google MedASR: AI Model for Medical Dictation: Run Anywhere | Fahd Mirza
+
+5:47 |  Building a Production-Ready Text-to-SQL System (Case Study) | Pradip Nichite
+
+55:08 |  NeuroSymbolic T5 AI w/ World Model | Discover AI
+
+8:16 |  Codumentation: Making Documentation Executable - No More Outdated Docs | Fahd Mirza
+
+9:15 |  The War on Slop – swyx | AI Engineer
+
+2:30 |  The Most Elegant Way to Compare Probability Distributions | The Synthetic Mind
+
+11:25:29 |  18 Simple System Designs - High Level | Incomplete | Kuluru Vineeth
+
+16:00 |  Agentic AI Meets Shadow AI : Zero Trust Security for AI Automation | IBM Technology
+
+4:56 |  Advanced RAG Techniques Explained #shorts | Devansh: Chocolate Milk Cult Leader
+
+13:14 |  The New Gemini Text to Speech | Prompt Engineering
+
+8:14 |  Context Engineering: Designing LLM Systems That Actually Work | JTA The Data Scientists
+
+18:57 |  The Infinite Software Crisis – Jake Nations, Netflix | AI Engineer
+
+24:05 |  Build backends like a senior engineer - Here's how | Mehul Mohan
+
+5:03 |  Introducing FunctionGemma | Google for Developers
+
+7:16 |  Agentic Patterns 2026: The GoF of AI Agents in 7 Mins (17 Essential Patterns) | Xiaol.x
+
+19:15 |  AI Kernel Generation: What's working, what's not, what's next – Natalie Serrino, Gimlet Labs | AI Engineer
+
+19:34 |  Generative AI Design Patterns, with Lak Lakshmanan (Ep 38) | It's About Data
+
+13:30 |  The Best Machine Learning Model, Lumawarp, Rocks the TabArena Test: Jacob Andra & Dr. Alexandra Pasi | The Applied AI Podcast
+
+14:53 |  Big Updates to Redis: Context Engine, Tools, and Memory | MLOps.community
+
+5:30 |  The Cascading Problem With AI That Nobody's Talking About | TwoSetAI
+
+3:15 |  How to Make AI Agents Actually Work in the Real World (with Jeff Li) | Super Data Science: ML & AI Podcast with Jon Krohn
+
+6:49 |  Stop Asking LLMs for Confidence Scores (Do this instead) | Coding Crash Courses
+
+22:21 | Vision Transformers - Explained!
+
+35:30 |  Siddharth Shankar-LLMOps in Practice- Building Secure, Governed Pipelines 4 LLMs-PyData Boston 2025 | PyData
+
+57:22 |  Susan Shu Chang-✕-Evaluating AI Agents in production with Python-PyData Boston 2025 | PyData
+
+1:25:19 |  Ming Zhao - Learn to Unlock Document Intelligence with Open-Source AI - PyData Boston 2025 | PyData
+
+1:08:22 |  Isaac Godfried - Going multi-modal - PyData Boston 2025 | PyData
+
+1:23:58 |  Nathan Fulton - Generative Programming with Mellea: from Agentic - PyData Boston 2025 | PyData
+
+1:27:50 |  Eric Ma - Building LLM Agents Made Simple a - PyData Boston 2025 | PyData
+
+2:51:04 |  Katrina Riehl - CUDA Python Kernel Authoring - PyData Boston 2025 | PyData
+
+1:15:54 |  Chuxin Liu & Yiwen Liu - Build Your MCP server - PyData Boston 2025 | PyData
+
+1:34:34 |  Ian Stokes-Rees - "Save your API Keys for someone else" - PyData Boston 2025 | PyData
+
+18:21 |  What We Learned Deploying AI within Bloomberg’s Engineering Organization – Lei Zhang, Bloomberg | AI Engineer
+
+1:14:17 |  How to Process Documents at Scale with LLMs | Hamel Husain
+
+1:15:39 |  Do LLMs Understand? AI Pioneer Yann LeCun Spars with DeepMind’s Adam Brown. | Pioneer Works
+
+7:57 |  Multi Agent Systems Explained: How AI Agents & LLMs Work Together | IBM Technology
+
+54:48 |  949: Why AI Keeps Failing Society, with Stanford professor — with Alex “Sandy” Pentland | Super Data Science: ML & AI Podcast with Jon Krohn
+
+23:23 |  Why AI-Native Companies Are Deleting Software You're Still Paying For (The $56K Lesson) | AI News & Strategy Daily | Nate B Jones
+
+32:31 |  Titans: Learning to Memorize at Test Time (Paper Analysis) | Yannic Kilcher
+
+7:58 |  GPT-5.2, Why it matters | Caleb Writes Code
+
+11:14 |  How To DO USEFUL AI Research - Follow These Rules | Vuk Rosić
+
+12:03 |  Trump Just Gutted State Al Laws, OpenAl Panicked, Al Agents Stole $4.6M--Your 10-Minute Breakdown | AI News & Strategy Daily | Nate B Jones
+
+22:55 |  #296 Fara-7B: An Efficient Agentic Model for Computer Use | Data Science Gems
+
+16:51 |  Proactive Agents – Kath Korevec, Google Labs | AI Engineer
+
+23:23 |  How to Refactor Insanely Complicated Business Logic (Step by Step) | ArjanCodes
+
+7:04 |  2025 Wrapped: I Read Every Attention Paper So You Don’t Have To – From MLA to Titans (7-Min Recap) | Xiaol.x
+
 
 1:15:44 | Exploring "LLM can invent their own compression" with Rajan Agarwal | Deep Learning Study Session | Deep Learning with Yacine
-
-14:18 | Hard Won Lessons from Building Effective AI Coding Agents – Nik Pash, Cline | AI Engineer
 
 43:20 | Agentic AI Use Case: Advancing Cybersecurity Operations with Agentic AI Systems | YanAITalk
 
