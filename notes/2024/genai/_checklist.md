@@ -398,6 +398,7 @@
 - https://arxiv.org/pdf/2303.17564 bloomberggpt (https://www.youtube.com/watch?v=q-bdtzcKE5k)
 
 # Back up llm
+- gemma scope
 
 # Inferencing
 - Test time
@@ -461,6 +462,8 @@
 - Claude code : skills
 - langcode
 - Openpipe : rl small lm for agents
+- agent Sandbox
+
 # Agent protocol
 - only llm to agent
     - UTCP : universal tool calling protocl

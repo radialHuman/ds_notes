@@ -4,6 +4,46 @@ Self-Improving Evaluations for Agentic RAG
 LLM Building Blocks & Transformer Alternatives
 The Big LLM Architecture Comparison
 
+
+
+1:21:30 | Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (now Meta Superintelligence) | AI Engineer
+
+20:42 | The Al Trick That Finally Made Me Better at My Job (Not Just Faster) | AI News & Strategy Daily | Nate B Jones
+
+10:12 | How I use Claude Code for real engineering | Matt Pocock
+
+8:59 | Claude Code is Going Spec-Driven (New Anthropic Paper) | JeredBlu
+
+1:13:15 | Building ‍Security into AI – Tutorial | freeCodeCamp.org
+
+20:29 | Cybersecurity Trends in 2026: Shadow AI, Quantum & Deepfakes | IBM Technology
+
+9:00 | No GPU Needed! BEST FREE Text to Speech for CPU! 😻 KittenTTS 😻 | 1littlecoder
+
+1:02:44 | Jack Morris: Stuffing Context is not Memory, Updating Weights is | AI Engineer
+
+13:36 | Al Agents That Actually Work: The Pattern Anthropic Just Revealed | AI News & Strategy Daily | Nate B Jones
+
+44:01 | RepoSwarm - Giving AI Agents Architecture Context Across All Your Repos - Roy Osherove | Roy Osherove
+
+24:40 | Your Code Works. But Is It Production-Ready? | ArjanCodes
+
+7:32 | Tokenization and Byte Pair Encoding | Serrano.Academy
+
+47:02 | TiDAR: Think in Diffusion, Talk in Autoregression (Paper Analysis) | Yannic Kilcher
+
+1:26:16 | Shipping AI That Works: An Evaluation Framework for PMs – Aman Khan, Arize | AI Engineer
+
+37:25 | Steve Yegge's Vibe Coding Manifesto: Why Claude Code Isn't It & What Comes After the IDE | Latent Space
+
+34:24 | Top AI Researcher: We've Been Lied To About LLM Training | Zachary Huang
+
+4:13 | Run AWS Locally with Docker (LocalStack) | Better Stack
+
+27:03 | How AI Starts Doing the Work in 2026 with Anthropic CPO Mike Krieger | The AI Daily Brief: Artificial Intelligence News
+
+
+
 8:22 |  Write code good enough to deploy rockets | Awesome
 
 27:03 |  The Future of Vibe Coding with Anthropic CPO Mike Krieger | The AI Daily Brief: Artificial Intelligence News
