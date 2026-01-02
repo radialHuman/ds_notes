@@ -5,6 +5,33 @@ LLM Building Blocks & Transformer Alternatives
 The Big LLM Architecture Comparison
 
 
+49:08 | How AI Engineers Improve Agentic Products | Adam Lucek
+
+8:15 | Limits of LLMs | Caleb Writes Code
+
+35:35 | How to Build RAG Systems (in the real world) | Shaw Talebi
+
+11:39 | #301 ALiBi (Attention with Linear Biases) | Data Science Gems
+
+12:20 | DeepSeek BROKE LLMs Again - Manifold Constrained Hyper Connections - mHC | Vuk Rosić
+
+1:16:38 | AutoGrad Changed Everything (Not Transformers) [Dr. Jeff Beck] | Machine Learning Street Talk
+
+1:09:52 | The Past, Present and Future of Programming Languages - Kevlin Henney - NDC TechTown 2025 | NDC Conferences
+
+8:23 | 99% of Developers Don't Get gRPC | The Coding Gopher
+
+8:30 | EmbedAnything - Local Embedding Pipeline for RAG - Full Hands-on Demo | Fahd Mirza
+
+29:31 | Agent Skills - Yet Another Tool Standard? | Adam Lucek
+
+11:52 | The Skill Gap That Will Separate AI Winners from Everyone Else | AI News & Strategy Daily | Nate B Jones
+
+50:07 | 953: Beyond “Agent Washing”: AI Systems That Actually Deliver ROI— with Dell’s Global CTO John Roese | Super Data Science: ML & AI Podcast with Jon Krohn
+
+58:04 | The Future of AI Agents are Sandboxes | MLOps.community
+
+
 
 1:21:30 | Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (now Meta Superintelligence) | AI Engineer
 

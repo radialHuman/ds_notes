@@ -51,6 +51,7 @@
     - Titans
     - next-omni
     - Diffusion
+    - Manifold Constrained Hyper Connections
 
 - https://arxiv.org/pdf/2501.04040, https://arxiv.org/pdf/2412.03220, https://arxiv.org/pdf/2402.06196
 
