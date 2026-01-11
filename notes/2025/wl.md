@@ -5,6 +5,99 @@ LLM Building Blocks & Transformer Alternatives
 The Big LLM Architecture Comparison
 
 
+27:36 | Claudio Salvatore Arcidiacono-How to Effectively use text embeddings in tree based models - 2025 | PyData
+
+31:28 | Sourav Saha - Lessons in optimizing a large-scale pandas application using Polars, FireDucks + cuDF: | PyData
+
+28:05 | Kushal Kolar+Caitlin Lewis - fastplotlib: driving scientific discovery through data visualization | PyData
+
+1:29:58 | Hugo Bowne-Anderson - Building LLM-Powered Applications for Data Scientists and Software Engineers | PyData
+
+28:24 | César Soto Valero-From Ideas to APIs_ Delivering Fast with Modern Python | PyData
+
+30:21 | Breno Brito - Future proof your AI product | PyData
+
+28:34 | Jen Wei-I Built a Transformer from Scratch So You Don’t Have To - PyData Global 2025 | PyData
+
+30:09 | César Soto Valero - Realtime Financial Fraud Detection with Modern Python-PyData Global 2025 | PyData
+
+27:18 | Allison Ding - Scaling Data Processing for LLMs with NeMo Curator - PyData Global 2025 | PyData
+
+31:58 | Aniket Abhay Kulkarni - Scaling Fuzzy Product Matching with BM25 - PyData Global 2025 | PyData
+
+26:37 | Cédric Couralet + Meilame Tayebjee - torchTextClassifiers Modernizing Text classification -PyData | PyData
+
+22:37 | Aarti Jha-When AI Makes Things Up_ Understanding and Tackling Hallucinations-PyData Global 2025 | PyData
+
+35:46 | Dawn Wages - The Lifecycle of a Jupyter Environment - PyData Global 2025 | PyData
+
+40:38 | Dr. Rebecca Bilbro-Where Have All the Metrics Gone--PyData Global 2025 | PyData
+
+24:39 | Introducing Internal RAG Tuning | Richard Aragon
+
+1:03:02 | Most enterprise AI agents are Slop - here’s why they fail | VentureBeat
+
+40:47 | Lily Xu-Using Traditional AI & LLMs to Automate Complex + Critical Documents in Healthcare-PyData | PyData
+
+Upcoming | From Notebooks to Production FASTER with Shahd Alghrsi | MLOps.community
+
+Upcoming | Feedback Loops for Agentic Workflows | MLOps.community
+
+38:22 | From Workflows to Multi-Agent Systems: How to Choose | What's AI by Louis-François Bouchard
+
+1:05:24 | The End of the Junior Data Engineer? | Gradient Flow
+
+1:07:43 | Has Technology Made Our Lives Feel Less Meaningful? (Existential Psychologist Explains) | Sinead Bovell
+
+1:16:21 | Automating Large Scale Refactors with Parallel Agents - Robert Brennan, AllHands | AI Engineer
+
+25:47 | Vladimír Dušek - Dealing with today’s web scraping challenges in Python (PyData Prague #32) | PyData
+
+59:49 | End-to-End (small) LLM Fine-tuning Tutorial (from data to model to live demo) | Daniel Bourke
+
+41:28 | Enterprise AI Operations: The Missing Piece | MLOps.community
+
+1:13:13 | DSPy: The End of Prompt Engineering - Kevin Madura, AlixPartners | AI Engineer
+
+1:18:15 | Artificial Analysis: The Independent LLM Analysis House — with George Cameron and Micah Hill-Smith | Latent Space
+
+14:48 | The Frozen Model Problem That's Holding AI Back | Prompt Engineering
+
+26:14 | From Agent Demo to Enterprise Product (with Ease!) feat. Salesforce’s Tyler Carlson | 956 | Super Data Science: ML & AI Podcast with Jon Krohn
+
+1:03:13 | Agent Memory | AI Makerspace
+
+13:56 | mHC, Visually Explained | Jia-Bin Huang
+
+44:29 | Top 10 DevOps & AI Tools You MUST Use in 2026 | DevOps & AI Toolkit
+
+14:14 | MIT Just Broke LLMs: Unlimited Token Context for Any LLM ! | MG
+
+14:17 | Context Graphs: AI's Next Big Idea | The AI Daily Brief: Artificial Intelligence News
+
+19:11 | Are Language Models Just Weights? New AI Research Explained | Richard Aragon
+
+57:12 | 4 servers and 50k tokens later | MLOps.community
+
+15:33 | Agent Readiness: Why You Should Invest in the Verification Feedback Loop – Eno Reyes, Factory AI | AI Engineer
+
+29:33 | HUML (Human-oriented Markup Language) | FOSS United
+
+29:31 | The Next 10 Years: Balaji on Jobs, Countries & Colleges | 100xSchool in Malaysia (Part 1) | 100xSchool
+
+13:08 | What Manus and Groq Acquisitions Tell Us About AI Competition | The AI Daily Brief: Artificial Intelligence News
+
+12:57 | Recursive Language Models | Xiaol.x
+
+18:22 | Your Prompts Aren’t the Problem—Your Context Is | What's AI by Louis-François Bouchard
+
+9:28 | Claude’s Best Hidden Feature | Prompt Engineering
+
+
+
+
+
+
 49:08 | How AI Engineers Improve Agentic Products | Adam Lucek
 
 8:15 | Limits of LLMs | Caleb Writes Code
