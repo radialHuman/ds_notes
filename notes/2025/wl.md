@@ -4,6 +4,206 @@ Self-Improving Evaluations for Agentic RAG
 LLM Building Blocks & Transformer Alternatives
 The Big LLM Architecture Comparison
 
+1:44:36 | Marc Andreessen: The real AI boom hasn’t even started yet | Lenny's Podcast and a16z
+
+30:04 | Let's train Vision Language Models (VLM) from scratch using just Text-Only LLMs! | Neural Breakdown with AVB
+
+11:30| Now playing | MASTER These 7 Pytorch Concepts EVERY AI Researcher MUST Know
+
+10:19 | How to Become a Project Manager | Study Hall 
+
+20:45 | 10 Python Features You’re Not Using (But Really Should) | ArjanCodes
+
+1:03:00 | Ex-OpenAI Researcher On Why He Left, His Honest AGI Timeline, & The Limits of Scaling RL | Unsupervised Learning: Redpoint's AI Podcast
+
+2:50 | From Token Reward to Embedding Reward: GRPO, SCP & the Future of AI Training | Xiaol.x
+
+16:37 | The 12 Questions That Decide Your AI Architecture | What's AI by Louis-François Bouchard
+
+29:36 | Now playing |  This Design Pattern Scares Me To Death
+
+51:03 | Securing AI Agents | Gradient Flow
+
+24:35 | The Ticking Time Bomb in Every Codebase Over 18 Months Old (How to Fix It Before It's Too Late) | AI News & Strategy Daily | Nate B Jones
+
+22:03 | Claude Code Skills & skills.sh - Crash Course | Alejandro AO and HuggingFace
+
+50:17 | A Complete Guide to Claude Code - Here are ALL the Best Strategies | Cole Medin
+
+9:00 | GDPO Explained: NVIDIA Fixes GRPO for LLM Reinforcement Learning | AI Papers Academy
+
+22:51 | Why the Tech Industry Keeps Lying to Itself (and You) | Cloud Computing Insider
+
+10:17 | Stop Using AI Agents Like Chatbots. (Do This Instead) | Prompt Engineering
+
+10:01 | Kimi K2.5 - Its more than an LLM | Prompt Engineering
+
+8:07 | Google UNLOCKs a NEW frontier! | 1littlecoder
+
+5:54:44 | Relational Database Design – Full Course | freeCodeCamp.org
+
+27:55 | Now playing | Swin transformer - Explained!
+
+21:32 | Why Your Best Employees Quit Using AI After 3 Weeks (And the 6 Skills That Would Have Saved Them) | AI News & Strategy Daily | Nate B Jones
+
+1:04:55 | How to Think About Software Architecture (Google & AWS Veteran) | Beyond Coding
+
+33:54 | "Clean Code" a Timeless Truth OR a Myth We Keep Telling Ourselves? | Modern Software Engineering
+
+
+21:20 | Why LLMs Hallucinate: The First Law of Epistemic Systems | Richard Aragon
+
+25:51 | LLMs Ignoring New Context (Tsinghua, Stanford) | Discover AI
+
+15:28 | DeepSeek Engram: We’ve Been Building LLMs Wrong | Prompt Engineering
+
+8:01 | Currying in Python is wack | Indently
+
+1:15:52 | How METR measures Long Tasks and Experienced Open Source Dev Productivity - Joel Becker, METR | AI Engineer
+
+24:48 | How to Build Human-in-the-Loop for AI Agents (Practical Guide) | Dave Ebbelaar
+
+26:06 | They Ignored My Tool Stack and Built Something Better--The 4 Patterns That Work | AI News & Strategy Daily | Nate B Jones
+
+14:46 | AGENTS.md: Finally It Writes The Code I Want! | NeuralNine
+
+1:04:25 | 959: Building Agents 101: Design Patterns, Evals and Optimization (with Sinan Ozdemir) | Super Data Science: ML & AI Podcast with Jon Krohn
+
+15:53 | Open Responses - The NEW Standard API for Open Models | Sam Witteveen
+
+Now playing | Ralph Wiggum: Continuous Agent Loops in Claude Code | AI Makerspace
+
+40:39 | Inside LinkedIn’s AI Engineering Playbook | VentureBeat and Sam Witteveen
+
+
+
+21:22 | I Was Wrong About Ralph Wiggum | Cole Medin
+
+19:39 | #302 DoRA: Weight-Decomposed Low-Rank Adaptation | Data Science Gems
+
+1:02:51 | RLMs: Recursive Language Models | AI Makerspace
+
+
+12:12 | Stop Overengineering: Workflows vs AI Agents Explained | What's AI by Louis-François Bouchard
+
+4:33 | LightOnOCR-2 : Best OCR beats DeepSeek OCR | Data Science in your pocket
+
+
+8:32 | Semantica: Transform Text into Knowledge Graphs with AI: Hands-on Demo | Fahd Mirza
+
+10:21 | Virtual Experts: Injecting Python into MoE Routing - Inside GPT-OSS | Chris Hay
+
+17:28 | AI Has Changed Databases Forever… Here’s How | Tech With Tim
+
+13:23 | AI Trends in 2026: Key Insights for Leaders | MIT Sloan Management Review
+
+53:38 | Abstraction & Idealization: AI's Plato Problem [Mazviita Chirimuuta] | Machine Learning Street Talk
+
+6:12 | What Satya Nadella actually said at Davos about AI | Pivot to AI
+
+19:26 | Agentic AI Playbook Spam: Why “Proven" Agentic AI Frameworks and Strategies Are Not Working | Cloud Computing Insider
+
+6:22 | Cursor Claims AI Built a Browser. Here's the Problem | Brian Jenney
+
+8:52 | Salesforce Admits they were Wrong | The PrimeTime
+
+44:04 | The Enshittifinancial Crisis: Part Two | Better Offline | Better Offline
+
+55:28 | Agent Observability, Explained | Gradient Flow
+
+14:56 | The RL Irony in LLMs (and its insane new meta) | bycloud
+
+23:30 | Good News: Attention Is Exactly Why Scaling Doesn't Work | Richard Aragon
+
+
+8:08 | Why's the everyone buying Mac Mini for Clawdbot? | 1littlecoder
+
+49:01 | Graph Neural Networks Just Solved Enterprise AI? | MLOps.community
+
+24:00 | 958: Without Trusted Context, Agents are Stupid (featuring Salesforce’s Rahul Auradkar) | Super Data Science: ML & AI Podcast with Jon Krohn
+
+7:41 | TranslateGemma in 7 mins! | 1littlecoder
+
+9:46 | The Biggest Battle in AI is for Your Personal Context | The AI Daily Brief: Artificial Intelligence News
+
+1:03:58 | AI, Healthcare & Humanity — A Candid Chat with Dr. Sonali Tamhankar @sonali_tamhankar_genai | AI Anytime
+
+46:28 | SLMs, Enterprise AI & On-Device Intelligence | ft. Namee Oberst (LLMWare) | AI Anytime
+
+30:23 | THIS is Why You're Still Slow Even With AI (The Bottleneck Moved--Here's What to Do About It) | AI News & Strategy Daily | Nate B Jones
+
+17:40 | The Cracks in AI Are Widening (CoT, RAG) | Discover AI
+
+
+1:00:49 | Statistical Rethinking 2026 - Lecture A01 - Introduction to Bayesian Workflow | Richard McElreath
+
+18:18 | AI Consulting in Practice – NLW, Superintelligent, @AIDailyBrief⁩ | AI Engineer
+
+
+41:18 | Ransomware whack-a-mole, AI agents as insider threats and how to hack a humanoid robot | IBM Technology
+
+13:58 | Clean Code Is Right... It’s Just Not ENOUGH | Modern Software Engineering
+
+1:13:47 | What makes a good AI infrastructure engineer? | Kai Hendry
+
+51:09 | Why AI Agents Fail in Production (Real Data) | AI Security Podcast
+
+1:05:46 | The MIT Paper Everyone Building Agents Should Read Right Now | Brainqub3
+
+52:29 | Why Your AI Guardrails Will Fail | Gradient Flow
+
+3:32 | New course! Document AI: From OCR to Agentic Doc Extraction | DeepLearningAI
+
+| AgenticRAG vs Traditional RAG | MLOps.community
+
+| You're Probably Over-Haressing Your AI Agents | MLOps.community
+•
+
+28:19 | What if AI Doesn't Need Structure, It Needs Connection? | MLOps.community
+
+| The Semantic Layer and AI Agents // David Jayatillake // MLOps Podcast #343 | MLOps.community
+
+47:25 | The Shadow AI Problem Nobody's Talking About | MLOps.community
+
+26:57 | Align Audio and Text for Speech Recognition Model Training | Trelis Research
+
+1:03:28 | Tinker: an API for Fine-Tuning & RL | AI Makerspace
+
+24:07 | Why Claude Cowork is a Big Deal | The AI Daily Brief: Artificial Intelligence News
+
+1:18:30 | OpenAI + @Temporalio : Building Durable, Production Ready Agents - Cornelia Davis, Temporal | AI Engineer
+
+13:52 | AI That Designs Its Own Memory Just Dropped !! (Open Source) | MG
+
+13:12 | Sakana AI MOBA Swarm Agents Explained | New Multi-Agent AI Breakthrough | Richard Aragon
+
+9:56 | mcp-cli: Stop Wasting 47K Tokens on MCP Tool Loading | Fahd Mirza
+
+25:31 | OpenAI Agents SDK Crash Course (with Hugging Face Models) | HuggingFace and Alejandro AO
+
+43:50 | Why Data Teams Are Making This Critical Mistake (Halloween Special Edition) | TwoSetAI
+
+54:33 | Your MCP Server is Bad (and you should feel bad) - Jeremiah Lowin, Prefect | AI Engineer
+
+70
+true
+18:03
+Now playing
+DETR - Explained!
+
+18:28 | MoE Models Don't Work Like You Think - Inside GPT-OSS | Chris Hay
+
+23:10 | What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You) | AI News & Strategy Daily | Nate B Jones
+
+8:13 | Why People Keep Switching to Claude Code?! | 1littlecoder
+
+42:16 | Real-Time Voice Agents in Production | MLOps.community
+
+11:07 | Google's New Universal Commerce Protocol | Sam Witteveen
+
+12:42 | OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories | AI News & Strategy Daily | Nate B Jones
+
+
 
 27:36 | Claudio Salvatore Arcidiacono-How to Effectively use text embeddings in tree based models - 2025 | PyData
 
@@ -3700,16 +3900,7 @@ Exploring Log-Linear Attention by Guo, Yang et al. (2025) | Deep Learning Study 
 Deep Learning with Yacine|Streamed 4 months ago
 Members only
 
-Coding a RNN in Python | Mathematics for Machine Learning Study Session
-Deep Learning with Yacine|1K views|Streamed 4 months ago
-
-Coding Adam Optimizer in Python | Mathematics for Machine Learning Study Session
-Deep Learning with Yacine|Streamed 4 months ago
-Members only
-
-RAG from Scratch with Best Practices (PART 2)
-MLOps.community|•
-Scheduled for 6/12/25, 8:30 PM
+Coding Adam Optimizer in Python | Mathematics for Machine Learning Study Session | Deep Learning with Yacine|Streamed 4 months ago | Members onl
 
 Milvus 2.6: Advanced Vector Search with Reduced Costs
 Zilliz|259 views|4 months ago
