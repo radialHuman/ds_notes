@@ -4,6 +4,127 @@ Self-Improving Evaluations for Agentic RAG
 LLM Building Blocks & Transformer Alternatives
 The Big LLM Architecture Comparison
 
+
+24:35 | Context Engineering 2.0: MCP, Agentic RAG & Memory // Simba Khadder | MLOps.community
+
+41:15 | Pydantic AI Crash Course: Agentic Framework That Feels Like FastAPI | NeuralNine
+
+1:05:12 | Measuring Exponential Trends Rising (in AI) — Joel Becker, METR | Latent Space
+
+9:00 | Spec-Driven Development: AI Assisted Coding Explained | IBM Technology
+
+17:20 | Train Voxtral Transcription (ASR) Models | Trelis Research
+
+Now playing | Lamport | Ryan Peterman
+
+27:25 | Learn Docker in a Month of Lunches • Elton Stoneman & Bret Fisher • GOTO 2026 | GOTO Conferences
+
+5:53:25 | Learn Kubernetes in 6 Hours – Full Course with Real-World Project | freeCodeCamp.org
+
+20:06 | Dynamic Contextual Retrieval in Enterprise Analytics // Dirk Petzoldt | MLOps.community
+
+1:58:24 | Mitchell Hashimoto’s new way of writing code | The Pragmatic Engineer
+
+47:40 | Traditional vs LLM Recommender Systems: Are They Worth It? | MLOps.community
+
+16:22 | MIT Made AI That Never Forgets | MG
+
+58:24 | MLflow Leading Open Source | MLOps.community
+
+6:18:43 | Python Essentials for AI Agents – Tutorial | freeCodeCamp.org
+
+17:40 | Multi-agent Systems Explained in 17 Minutes | Shaw Talebi
+
+8:46 | Understanding AI Agent Security: Safeguard LLM Systems Effectively | IBM Technology
+
+26:55 | MCP Security: The Exploit Playbook (And How to Stop Them) | MLOps.community
+
+28:23 | Harvard Thinking: Preserving learning in the age of AI shortcuts | Harvard University
+
+15:28 | Agent memory resolved? | AI Jason
+
+12:18:40 | Computer Networking Fundamentals Course | freeCodeCamp.org
+
+16:48 | I Started A Coding Habit & You Should Too... | NeuralNine
+
+42:15 | The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2) | AI News & Strategy Daily
+
+13:27 | How AI Agents Search Their Memory | Damian Galarza
+
+14:20 | All about Agentic AIs, MCPs, and APIs. | A10 Networks
+
+13:10 | Exploration is All You Need! | Prompt Engineering
+
+15:32 | RAG Was Failing for 3 Weeks — And No One Noticed | Manifold AI Learning
+
+22:25 |  CQRS in Python: Clean Reads, Clean Writes
+
+25:25 | Most Engineers Fail These Agentic AI Interview Questions | Manifold AI Learning
+
+1:23:31 | The AI Frontier: from Gemini 3 Deep Think distilling to Flash — Jeff Dean | Latent Space
+
+10:23 | Skills Developers NEED In 2026 (Because Vibe Coding Changes Everything) | Modern Software Enginee
+
+38:21 | Copilot usage reveals AI adoption patterns | IBM Technology
+
+1:13:42 | How the VLLM inference engine works? | Vizuara
+
+32:30 | PyTorch Crash Course: Deep Learning in Python | NeuralNine
+
+Now playing | Forever. | AI News & Strategy Dail
+
+Now playing | Ollama | Venelin Valkov
+
+51:53 | Inference at Scale:Breaking the Memory Wall | Gradient Flow
+
+31:46 | Mixture of Experts (MoE), Visually Explained | Jia-Bin Huang
+
+20:47 | You're Probably Over-Harnessing Your AI Agents | MLOps.community
+
+50:19 | The problem with pretending quantum mechanics makes sense | Sean Carroll | Big Think and 2 more
+
+4:40 | Customize Gemini CLI: The guide to context & memory | Google Cloud Tech and De
+
+13:27| CLIP - Explained!
+
+11:05 | UV in Python is Awesome | Indently
+
+22:15| How did diffusion LLMs get so fast?
+
+32:52 | From Retrieval to Navigation: The New RAG Paradigm | Adam Lucek
+
+12:14 | 99% of Developers Don't Get Transpilers | The Coding Gopher
+
+27:02 | ⚡️ Reverse Engineering OpenAI's Training Data — Pratyush Maini, Datology | Latent Space
+
+34:59 | The Representational Geometry of Number | Cognitive Science & LLM Research | Richard Aragon
+
+ | Here | AI News & Strategy Dail
+
+17:36 | Stop Building Ugly APIs: Use the Fluent Interface Pattern
+
+32:23 | AI Builder Hands-on tutorial: Build an Agentic RAG for Document Q&As | YanAITalk
+
+1:17:05 | The third golden age of software engineering – thanks to AI, with Grady Booch | The Pragmatic Engineer
+
+22:26 | Fine-Tuning Local LLMs with Axolotl in Python | NeuralNine
+
+59:47 | Upskill | AI Makerspace
+
+18:14 | An image is worth NxN words | Diffusion Transformers (ViT, DiT, MMDiT)
+
+9:20 | Gemini’s Native Web Scraper: 100% "Free" & Multimodal | Prompt Engineering
+
+Now playing | Care. | AI News & Strategy Daily
+
+20:37 | Reinforcement Learning with LLMs: a new era of AI agents | Shaw Talebi
+
+56:38 | The senior engineer's guide to AI coding: Context loading, custom hooks, and automation | How I AI
+
+12:46 | What does '__init__.py' do in Python? | Tech With Tim
+
+
+
 1:44:36 | Marc Andreessen: The real AI boom hasn’t even started yet | Lenny's Podcast and a16z
 
 30:04 | Let's train Vision Language Models (VLM) from scratch using just Text-Only LLMs! | Neural Breakdown with AVB
