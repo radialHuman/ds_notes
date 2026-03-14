@@ -12,6 +12,10 @@
 4. claude plugins : ppts, excels, docs, like copilot
 
 ## not just an llm
+- llm is a text in text out system (images in some and audio and video an others)
+    - it doesn execute your code
+    - it doesn connect to anything
+    - you need connectors (mcp is just one of them)
 - it has connection to a lot of tools
 - decided when to call
 - how many times to call
@@ -73,7 +77,8 @@
 1. you run a session ask to always git things
     - after the work is done you close the terminal
     - what happens next time? it wont follow the instruction
-2. Claude.md 
+2. CLAUDE.md 
+    - rulebook for the project
     - can contain informaiton about the project. like a README but for claude
     - persistant memory
     - /init : to create the file or create it yourself
@@ -86,8 +91,9 @@
 
 ## MCP
 1. /mcp : shows which 3rd party servics you can connect to in order to automate some task
+    1. /plugin : can be found using this too
 1. happens only if 3rd party has provided mcp servers to interact with and we have permissions
-2. ex : jira, snow, drive etc.
+2. ex : jira, snow, drive, ms365 etc.
 
 ## Skills
 1. skills.md
@@ -99,7 +105,13 @@
     - reference them in your prompt to nudge cc to use it
 3. can have it inside .claude/skills/[multiple skills file here]
 
-
+## Checks
+1. After the work is ready
+    - check for vulnerabilities
+    - run it through checkmarxs
+2. If using a non approved skill
+    - dont
+    - clean it up (if you know how to)
 
 ## Issues
 1. time out 500 error after ~18 mins (talk to the middle man)
@@ -128,4 +140,11 @@
     - do you know the entire context?
     - do you understand the ask?
     - do you know what you dont know?
+12. will increase attach surface
+13. social media shows whats easy but not whats right
+    - Openclaw aka Clawdbot aka Moltbot aka Molty is a security nightmare
+    - use critical thinking and dont fall for the hype
+13. adding others text/prompt (like npm libraries) will lead to security issues
 12. ram:hdd::you:llms
+13. given the track record, convinenece will aways win, short term gain, long term loss
+14. this will reduce the workforce eventually
