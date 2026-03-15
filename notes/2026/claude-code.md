@@ -1,6 +1,9 @@
 ## Poll
 1. how many of you, in your work feel you are at global level?
     - your work and your expertise is at the level of experts out there
+1. How many of you think that only if I was able to code faster 
+    - all my problems of delivery would go away
+1. How many of you feel comfortable with working in areas thats not your domain?
 
 ## what problem does it solve
 1. makes coding way faster
@@ -18,6 +21,7 @@
 1. claude.ai : on browser on on your system
     - connectors 
     - skill hub
+    - visualizer
 2. claude desktop : claude.ai on your system, connects to sharepoint and other things as your proxy; can control your system (like manus)
     - might slow your system
     - connectors
@@ -29,6 +33,7 @@
     - connectors
     - skill hub
     - mcp
+    - multi tasking - multi window
 4. claude plugins : ppts, excels, docs, like copilot
 ---
 ## not just an llm, understand the terminology
@@ -160,6 +165,15 @@
     - later merge them
 1. ask claude to build a status bar for context area
 1. drag and drop screenshots or images into terminal
+1. Ask it to use webserach explicitly for some task, if required
+    1. instead of saying : make this ui look nicer
+    1. say : make this ui nicer (use websearch to find the latest style and apply them)
+---
+## Models
+1. haiku, sonnet and opus
+1. 4.6 sonnet and opus has 1M context windows
+    1. 78% 8-needle score
+1. "build me a status line  with % of context window used, always visible"
 ---
 ## claude settings.json
 - permissions : allow and dont allow to control what permissions it needs to ask and what it doesn
@@ -325,6 +339,14 @@ Body of the skills
     - you think wirtting was easy
     - welcome to the age of reviewing
     - or just hit the skip button and blame the llm, when things hit the fan
+5. Skills required
+    - clarity
+    - proper ask, with detailed specs
+    - scearios building for test
+    - and its success criteria
+    - go in a loop : req <-> test <-> code <-> req
+    - managerial approach to the tools
+    - for now (Mar'26) : giving into vibing wil get you 90% there but the last 10% will be brutal if you dont know
 ---
 ## what if
 1. you want to remove last x pages from all the pdfs in a location
@@ -378,6 +400,7 @@ Body of the skills
         - "It's not the car you drive.  It's the driver who's driving the car that's doing the driving." 
 13. given the track record, convinenece will aways win, short term gain, long term loss
 14. this will reduce the workforce eventually
+15. giving access to cameras did not lead to better movies bur cringe reels
 
 
 (cheatsheet)[https://awesomeclaude.ai/code-cheatsheet]
