@@ -1,3 +1,5 @@
+## stop at any point and ask questions
+
 ## Poll
 1. how many of you, in your work feel you are at global level?
     - your work and your expertise is at the level of experts out there
@@ -16,6 +18,28 @@
     - write the word and it will be done (you can now leave :P)
     - it makes making ppts, excel analysis, wriritng emails and other mundane tasks faster and "professional"
 3. not the only one who is solving, we are using because we have a deal
+    - codex, cursor, factory, cognition, amp
+---
+
+## Why now?
+1. coding has a tight feedback loop
+2. easy to test and verify (like maths)
+3. best scenario for llms training
+4. new models are really optimized and trained for tool calling
+5. the same cant be said for other fields
+6. keeping the design simple : prompt/context engineering as the primary driver
+7. just a while loop with tool calling trianing
+---
+
+## Core tools
+1. read file
+2. search files
+3. edit
+4. bash
+5. websearch
+6. task mgmt
+7. task division and delegation
+8. context mgmt
 ---
 ## Different flavours
 1. claude.ai : on browser on on your system
@@ -78,7 +102,7 @@
     - it will keep n doing till the goal is achieved
     - max 3 days in the same session
 ---
-## Rules
+## Playbook
 0. got stuck? ask it
 1. always know what you want, else there is no way to verify what it has done
 2. be in control, else it will take you for a ride
@@ -103,7 +127,7 @@
 ---
 
 ## Cheat sheet
-0. extended thinking is on by default, so turn it off for speed-accuracy tradeoff
+0. alt + t : extended thinking is on by default, so turn it off for speed-accuracy tradeoff
 1. open in code editor to see .claude settings and changes in the folder
 1. /help : has multiple options to toggle and see options
     1. /commands : commands list
@@ -252,7 +276,7 @@ model :
 body of the agent, descript what to do, how to do etc
 ```
 1. complicated stuff, like having multiple interns working on a big codebase
-1. sub-agents (specialized siloed workers)
+1. sub-agents (specialized siloed workers, multiples your context window)
     - separate context window
     - runs parallely
     - own system prompt
@@ -307,6 +331,7 @@ Body of the skills
 [github repo](https://github.com/ChrisWiles/claude-code-showcase/blob/main/.claude)
 
 ## Your role
+- develop "digital taste" and increase your internal db, thats your only moat
 - become a manager but the one who knows the traps and the way to get out of it
     - you need to question
     - it needs to answer 
@@ -401,6 +426,6 @@ Body of the skills
 13. given the track record, convinenece will aways win, short term gain, long term loss
 14. this will reduce the workforce eventually
 15. giving access to cameras did not lead to better movies bur cringe reels
-
+1. imagine you are running with with bash commands and websearch : deadly combination
 
 (cheatsheet)[https://awesomeclaude.ai/code-cheatsheet]
